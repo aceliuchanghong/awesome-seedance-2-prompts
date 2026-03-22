@@ -68,7 +68,7 @@
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **1037** |
+| 📝 提示詞總數 | **1060** |
 | ⭐ 精選提示詞 | **6** |
 | 🔄 最後更新 | **2026-03-22** |
 
@@ -326,6 +326,688 @@
 
 > 📝 按發布日期排序（最新優先）
 
+### 蝦子大戰動畫提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是為 Seedance 2.0 撰寫的提示，描述了一部名為「蝦子大戰」的動畫。這是一場有趣的對決，內容是互相投擲蝦子，旨在營造節奏感和引人入勝的體驗。
+
+#### 📝 提示詞
+
+```
+蝦子大戰 🦐
+
+這是一部關於一場有趣的拋蝦對決的動畫，能立即吸引觀眾，並透過節奏讓他們保持投入。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1824.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/581ea48ea7c9dd23201523a034314446/thumbnails/thumbnail.jpg" width="600" alt="蝦子大戰動畫提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1824)**
+
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **來源:** [Link](https://x.com/aimikoda/status/2035588900270260266) | **發布時間:** Mar 22, 2026
+
+---
+### 武俠國漫風格影片生成：哪吒 vs. 孫悟空
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個為 Seedance 2.0 設計的詳細多鏡頭提示，用於生成一部高能量的武俠影片，風格類似國漫《霧山五行》，描繪哪吒與孫悟空之間一場激烈、勢均力敵的戰鬥。該提示指定了五個不同的鏡頭、詳細的動作、視覺風格以及電影般的攝影運鏡，以呈現專業動畫的感覺。
+
+#### 📝 提示詞
+
+```
+雙持武器戰鬥 + 霧山五行國漫風格 + 拳拳到肉的近身戰鬥 + 動畫級運鏡 + 勢均力敵，各有千秋。
+鏡頭 1：戰鬥即刻打響 · 兵器相接
+純正霧山五行國漫風格，凌厲硬朗的墨線，高對比度的紅黑配色。戰鬥毫無預兆地打響，兩個人物 @【@Image 1】@【@Image 2】 兵器正面相撞，武器激烈碰撞，火星與墨色能量波同時迸發。動作迅猛狠辣，力量感不相上下，勢均力敵，各有千秋。
+運鏡：低角度高速跟拍，鏡頭輕微晃動，特寫衝擊瞬間，運鏡節奏類似霧山五行。
+鏡頭 2：高速攻防 · 招式互換
+極具霧山五行風格的流暢打鬥，兩個人物都帶有重疊的殘影，武器交叉劈砍、格擋、反擊，招招致命。一人兇猛爆裂，一人靈動迅捷，風格迥異卻又勢均力敵。墨色能量流、速度線、動態模糊效果拉滿，爆發力十足。
+運鏡：環繞旋轉運鏡，快速剪輯，焦點平滑切換，強烈光影對比。
+鏡頭 3：兵器連招 · 近身肉搏
+雙方放棄距離，展開近身兵器戰，劈、砍、刺、挑、砸等連招不斷爆發，衝擊產生震盪波，地面開裂，煙塵四起。攻防節奏完美平衡，雙方不分伯仲，將戰鬥的緊張感拉到極致。
+運鏡：衝擊瞬間慢動作特寫，超廣角鏡頭，鏡頭晃動反饋。
+鏡頭 4：大招對轟 · 氣勢均等
+兩個人物同時爆發全力，武器附帶墨色氣勁/火焰光芒，正面全力對轟，能量衝擊波炸裂，震天撼地。畫風狂野，氣勢磅礴，雙方氣勢完美均等，各有千秋，將壓迫感拉到極致。
+運鏡：史詩級低角度全景，逆光剪影，電影級大景深構圖。
+鏡頭 5：僵持定格 · 勢均力敵
+戰鬥戛然而止，武器互相抵住，兩個人物僵持對峙，能量湧動，煙塵繚繞。眼神冰冷銳利，勢均力敵，勝負未分，營造出強烈的懸念感。
+運鏡：中景慢推定格，霧山五行高品質動畫質感。
+全局通用加強詞（每個片段都必須加上）
+霧山五行動畫級美術風格，線條極其凌厲，兵器激烈碰撞，拳拳到肉的近身戰鬥，超強衝擊感，勢均力敵，各有千秋，高燃打鬥，專業電影級運鏡，動態效果拉滿，4K 超清，中式暴力美學，無文字，動畫分鏡。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1815.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eb45e58d4648793f0af0a0ab97175fe2/thumbnails/thumbnail.jpg" width="600" alt="武俠國漫風格影片生成：哪吒 vs. 孫悟空"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1815)**
+
+**作者:** [Adam也叫吉米](https://x.com/Adam38363368936) | **來源:** [Link](https://x.com/Adam38363368936/status/2035582943825912061) | **發布時間:** Mar 22, 2026
+
+---
+### Seedance 2.0 史詩奇幻戰爭電影提示
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個兩部分的 Seedance 2.0 提示，用於生成一部魔法史詩奇幻戰爭電影，並使用一張參考圖像。第一部分著重於一位孤獨的歐洲女戰士站在雪山上，準備衝鋒野蠻人軍隊，強調電影攝影、極端天氣和聲音設計（只有自然聲音，沒有背景音樂）。第二部分則延續了這個場景，一條巨龍突然出現，將焦點轉移到巨龍的攻擊和女戰士重新燃起的決心上。
+
+#### 📝 提示詞
+
+```
+Part 1:
+使用圖片中的女性主角生成一段影片。史詩奇幻戰爭影片，極度嚴寒，雪山暴風雪環境，強烈視覺衝擊，無背景音樂，只保留暴風雪風聲、雪地腳步聲、異族尖叫聲、衝鋒破空聲等音效；一位歐洲女戰士獨自矗立在雪峰上，手持 @Image 1 中的武器。遠處對面的雪山上可見一支龐大的奇幻電影野蠻人軍隊。女主角毅然獨自衝下山迎戰，野蠻人軍隊同時推進。場景 1：女戰士臉部的慢推近景特寫鏡頭。鏡頭從全臉視角緩慢推向眼睛特寫。暴風雪掃過她的臉龐。她的表情堅毅果敢，目光無畏而銳利。冰冷的白色雪山逆光勾勒出她的面部輪廓，凸顯她孤獨的勇氣。場景 2：鏡頭快速切換。首先，中近景展示野蠻人軍隊的壓迫感。然後，從中遠景切換到廣角鏡頭，升格為全景。在雪山峽谷對面，野蠻人軍隊列陣推進，他們的黑色洪流覆蓋了雪地地平線，將壓迫感最大化。場景 3：低角度跟隨鏡頭結合快速拉遠。女戰士毅然獨自從雪峰上俯衝而下，以她銳利的姿態擊碎積雪。遠處的野蠻人軍隊也同時衝鋒。冰雪飛濺。最後，廣角鏡頭展示一邊是野蠻人軍隊，另一邊是女主角渺小的身影。雙方距離仍然很遠。史詩戰爭的緊張感被最大化。要求使用分鏡腳本和不同視角切換，使整個畫面更具節奏感和電影感。只生成環境音效，不包含背景音樂。
+
+Part 2:
+生成 @the previous video 的續集，使用女性主角 @Image 1。史詩奇幻戰爭影片，極度嚴寒，雪山暴風雪環境，強烈視覺衝擊，無背景音樂，只保留暴風雪風聲、雪地腳步聲、異族尖叫聲、衝鋒破空聲等音效；場景 1：正當女戰士衝鋒下山，即將與野蠻人軍隊交戰時，一聲震耳欲聾的龍吼聲突然響起；女戰士和野蠻人軍隊都停了下來。場景 2：一條巨大的歐洲龍從遠處的雪山飛出。切換到廣角鏡頭，從龍的視角俯瞰整個戰場。場景 3：切換回女主角臉部特寫。她微微一笑，戰意重燃，手持武器繼續前進。巨龍俯衝而下，向野蠻人軍隊噴射藍色火焰。野蠻人軍隊損失慘重。要求使用分鏡腳本和不同視角切換，使整個畫面更具節奏感和電影感。只生成環境音效，不包含背景音樂。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1820.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/96cd514764ffa1c6a8c57715a7f54af0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 史詩奇幻戰爭電影提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1820)**
+
+**作者:** [探路AI](https://x.com/TanLuAI) | **來源:** [Link](https://x.com/TanLuAI/status/2035580025538506868) | **發布時間:** Mar 22, 2026
+
+---
+### 冰川峽谷中的白虎獵人
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高度詳細的提示，用於生成一段 15 秒的逼真序列，由 Seedance 2 製作，描繪一隻巨大的冰川虎在蒼白的暮色下，廣闊的冰凍山谷中追蹤獵物。該提示包括特定的攝影機角度（捕食者視角）、動作編排（衝刺、巨大跳躍）和速度漸變效果。
+
+#### 📝 提示詞
+
+```
+蒼白暮光下的廣闊冰封山谷。高聳的冰川峭壁將柔和的藍光反射到雪原上，而風則將細小的雪粒吹拂過地表。冰凍的地面閃爍著晶瑩的霜花。
+
+**動作：**
+
+從第一人稱視角拍攝 15.0 秒的序列，一隻巨大的冰川虎正在追蹤獵物。觀眾可以看到畫面底部白色的毛皮邊緣，以及每次呼吸時淡淡的冰冷水氣。老虎在深雪中無聲地移動，遠處的腳步聲在冰封山谷中迴盪。
+
+在 2 秒標記處，老虎開始衝刺。雪花在牠的爪子下向外爆開，攝影機低空掠過地面。
+
+一群麋鹿出現在前方冰凍的河流附近。
+
+速度坡道編排：老虎躍起，動作放慢——雪晶和霜粒懸浮在空中，然後在老虎落在冰面上時，瞬間恢復到實時速度。
+
+冰凍的河流在撞擊下劇烈龜裂。
+
+**攝影機：**
+
+低視角，以掠食者的眼睛視角，在雪地表面上方快速移動，偶爾的頭部傾斜會揭示環繞著狩獵場的巨大冰川峭壁。
+
+**風格與限制：**
+
+逼真的毛皮邊緣、體積感雪粒、電影級冷色調燈光、逼真的動物運動物理學、8K。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1806.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7987e8cd9435be13dfbe5574c6f55fee/thumbnails/thumbnail.jpg" width="600" alt="冰川峽谷中的白虎獵人"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1806)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2035435045784080689) | **發布時間:** Mar 21, 2026
+
+---
+### 情境喜劇對話場景提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於廣角影片場景的提示，內容是兩個朋友興奮地用「傻氣的聲音」說話，其中包含具體的對話和攝影機指示（特寫鏡頭），以達到喜劇效果。
+
+#### 📝 提示詞
+
+```
+廣角鏡頭拍攝兩位朋友坐在沙發上，用非常興奮、傻氣的聲音說話
+
+朋友 1（睜大眼睛，超級興奮，大聲說）：
+兄弟… 我們不再窮了！！
+
+朋友 2 特寫（困惑但很興奮）：
+有什麼計畫？？？
+
+朋友 1 特寫（非常認真，身體前傾）：
+Vibecoding！
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1816.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/75d40edbe66c7146a7bb5361fd177af9/thumbnails/thumbnail.jpg" width="600" alt="情境喜劇對話場景提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1816)**
+
+**作者:** [Framer 🇱🇹](https://x.com/Framer_X) | **來源:** [Link](https://x.com/Framer_X/status/2035426882657644621) | **發布時間:** Mar 21, 2026
+
+---
+### 零重力旋轉走廊戰鬥
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個高度詳細的提示，用於描述一個 15 秒的科幻動作序列，以一個連續鏡頭呈現。內容為一名 Agent 與安全人員在一艘緩慢旋轉的高科技運輸船走廊內進行零重力打鬥，強調利用環境以及空間方向的不斷變化。
+
+#### 📝 提示詞
+
+```
+科幻動作電影風格，15 秒，一鏡到底。鏡頭進入一艘白色高科技運輸船的走廊。紅色警示燈開始閃爍，重力系統突然失靈，整個走廊緩慢開始旋轉。鏡頭中近距離緊隨一名身穿深灰色戰術服的 Agent，他正在失重狀態下與一名敵方安全警衛進行極近距離的搏鬥。隨著船艙持續旋轉，地板、牆壁和天花板不斷交換位置。兩名戰士在空中翻滾，抓住扶手、管道和門框以取得支撐，動作緊湊而激烈，包括拳擊、肘擊、膝擊和解除武器。鏡頭跟隨角色穿過旋轉的艙門，經過漂浮的碎片、工具箱和閃爍的燈管。空間方向不斷變化，但動作依然清晰。最後，該 Agent 將敵人拋向一個透明的觀察窗，窗外是緩慢旋轉的行星和碎裂的太空殘骸。鏡頭在失重旋轉中角色恢復穩定的那一刻定格，傳達出高成本機械佈景和特技的感覺。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1809.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f00ac6a3528dc6d53ef48a1d7cc7789c/thumbnails/thumbnail.jpg" width="600" alt="零重力旋轉走廊戰鬥"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1809)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2035382360972128275) | **發布時間:** Mar 21, 2026
+
+---
+### 古埃及戰士 vs. 尼羅河泥獸
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 的提示，生成一個殘酷的動作場景：在夜晚被洪水淹沒的寺廟廢墟中，一位古埃及戰士國王與一隻被詛咒的尼羅河泥怪搏鬥，重點是近距離鏡頭、滂沱大雨和彎刀（khopesh）戰鬥。
+
+#### 📝 提示詞
+
+```
+一名古埃及戰士國王在夜晚被洪水淹沒的寺廟廢墟中，對抗一隻被詛咒的尼羅河泥怪。
+
+特寫鏡頭、殘酷的動作、傾盆大雨、漆黑的水、閃電和彎刀戰鬥。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1810.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a087414380e3d1f9b33444a19a5db600/thumbnails/thumbnail.jpg" width="600" alt="古埃及戰士 vs. 尼羅河泥獸"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1810)**
+
+**作者:** [Baseta Tube](https://x.com/BasetaTube) | **來源:** [Link](https://x.com/BasetaTube/status/2035376435737604120) | **發布時間:** Mar 21, 2026
+
+---
+### 緋紅遺物 - 戰爭變革與天使之戰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段超電影感的 15 秒真人實景提示，需要三張參考圖片來設計角色。它描述了一名女子在廢棄的金融區變身為深紅色遺物戰爭形態，並立即與一位光芒四射的天使戰爭聖徒展開一場快速而暴力的戰鬥。
+
+#### 📝 提示詞
+
+```
+請使用提供的圖片作為參考，精確呈現該女性、她轉化後的深紅色聖物戰爭形態，以及光芒四射的天使戰爭聖徒。在白天，一個廢棄金融區的林蔭大道上，拍攝一段 15 秒的超電影感真人實景片段，天空陰沉，路面龜裂，汽車殘骸，碎玻璃，塵土飛揚，高樓受損，呈現出紮實的寫實感。
+
+一名女子獨自走在街道中央，手持一塊黑色水晶聖物碎片。她停下腳步，將碎片捏碎在拳頭中。深紅紫色的光芒從她的指縫間爆發，衝擊波將塵土和碎片向外推開。在快速而流暢的階段中，黑曜石和淺象牙色的盔甲在她身上生長，深紅色的裂縫燃燒起來，她的臉部仍部分可辨識，一柄深紅色刀刃在她手中形成。背部的弧形刀刃與參考圖相符，但保持堅硬且看似固定。塵埃落定。一位光芒四射的天使戰爭聖徒出現在林蔭大道上，身穿白色陶瓷盔甲，金色縫線，淡金色眼睛，堅硬的背鰭，手持一柄長長的處決長矛。天使首先發動攻擊，以快速的長矛衝刺。她格擋，瞬間反擊，以不自然的速度拉近距離，並劃過天使的軀幹。白金色盔甲在刺眼的光芒中碎裂。在撞擊處結束。沒有多餘的肢體，沒有重複的部件，沒有標誌，沒有文字，沒有浮水印。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1807.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a74a9af9b5d2efea75131d06d021e3c0/thumbnails/thumbnail.jpg" width="600" alt="緋紅遺物 - 戰爭變革與天使之戰"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1807)**
+
+**作者:** [Bubio](https://x.com/Bubioai) | **來源:** [Link](https://x.com/Bubioai/status/2035368512966029629) | **發布時間:** Mar 21, 2026
+
+---
+### 沙漠中甦醒的史前巨獸
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 比較影片生成模型（Seedance 1.5 Pro、Kling 3.0、Pollo 2.5、Sora 2、Veo 3.1），使用相同的提示詞生成一個巨型史前巨獸在沙漠中甦醒並咆哮的場景。此推文邀請用戶投票選出他們最喜歡的結果。
+
+#### 📝 提示詞
+
+```
+一頭巨大的史前巨獸在沙漠中甦醒。牠張開大口。然後咆哮。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1825.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9613e29cd16d1a6935339d6cb71f45f/thumbnails/thumbnail.jpg" width="600" alt="沙漠中甦醒的史前巨獸"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1825)**
+
+**作者:** [Pollo AI France](https://x.com/PolloAIFR) | **來源:** [Link](https://x.com/PolloAIFR/status/2035367849091359131) | **發布時間:** Mar 21, 2026
+
+---
+### 連續鏡頭太空人影片提示 (Seedance 2.0 Omni)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 與 Seedance 2.0 和 Seedance 2.0 Omni 搭配使用的提示，指定一個 15 秒、一鏡到底的影片，具有高度緊張的電影寫實感。主題是一位身穿磨損白色艙外活動服的孤獨太空人。
+
+#### 📝 提示詞
+
+```
+格式：15 秒 / 一鏡到底 / 無剪輯 / 高張力電影寫實主義
+
+主體：一名身穿磨損白色 EVA 的孤獨太空人
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1813.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5536647b83a1cb4def87c292c17cf27c/thumbnails/thumbnail.jpg" width="600" alt="連續鏡頭太空人影片提示 (Seedance 2.0 Omni)"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1813)**
+
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **來源:** [Link](https://x.com/aimikoda/status/2035352511641477212) | **發布時間:** Mar 21, 2026
+
+---
+### 動作喜劇：道場中的禮貌大師
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一部 15 秒的東方動作喜劇短片，以一個連續鏡頭呈現，背景設定在木製道館內。一位年邁的師傅嘗試進行「輕柔平衡示範」，卻不小心輕輕一碰就讓學生們飛了出去，營造出荒謬又震驚的氛圍。
+
+#### 📝 提示詞
+
+```
+東方動作喜劇風格，15 秒，一鏡到底。在一個木製道場裡，一位年邁的傳奇大師受邀進行一場「溫和的平衡示範」。他謙遜而內斂地站在中央。幾位學生一個接一個地走上前協助。他只是用一根手指輕輕點擊學生的肩膀、手腕或額頭，但每個學生都戲劇性地在空中旋轉、在地板上滑行、撞上軟墊，或翻到武器架後面。每一次，大師都略帶尷尬地收回手，彷彿他自己也沒料到會發生這種事。鏡頭在廣角和中景之間快速切換，動作流暢而誇張。整個道場陷入荒謬的寂靜和震驚的難以置信。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1804.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e60ba41566c29ae6c1689b2c66f21a2e/thumbnails/thumbnail.jpg" width="600" alt="動作喜劇：道場中的禮貌大師"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1804)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2035344149793161571) | **發布時間:** Mar 21, 2026
+
+---
+### Seedance 2.0 中國奇幻 CG 提示：書法魔法
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個詳細的 Seedance 2.0 提示，用於生成頂級的中國奇幻 CG 影片。場景中，一位白袍仙人站在巨大的玉石平台上，用玉筆書寫著強大的金色書法，這些書法轉化為一個巨大的「天道」字符陣列，以摧毀目標，強調高飽和度、金墨融合和極致的視覺衝擊。
+
+#### 📝 提示詞
+
+```
+頂級中國奇幻動畫 CG，電影級東方奇幻大片質感，超高飽和度，金墨交融，超現實視覺奇觀，磅礴震撼，神性壓迫感極強。16:9 畫面比例，15 秒時長，畫面流暢順滑，運鏡高級，動作清晰，特效宏大，視覺衝擊力極強。角色：一位白袍、清冷孤傲的仙人，氣質出塵，雙眸淡漠如水，手持一管白玉長筆，立於浩瀚雲海中的巨大白玉石台中央，似在掌控天道法則。
+
+第一鏡：角色腕骨分明、手指修長的微距特寫。白玉筆在其掌心旋轉，發出清越的破空聲。角色眼神清冷。他揮筆凌空虛畫，筆尖沙沙作響。濃稠的墨汁脫筆而出，瞬間燃燒成璀璨金光，不斷書寫出數十個巨大、立體的狂草漢字——「順我者昌」。每個字都筆走龍蛇，鋒芒畢露，傲氣十足。慢動作特寫筆鋒軌跡、墨化金光、草書成形。
+
+第二鏡：鏡頭拉遠全景。角色輕拂廣袖，筆尖輕點虛空。所有金色草書漢字瞬間爆發出光芒，迅速分裂、複製，化作萬千金字沖天而起。無數金字在天地間快速交織穿梭，排列整齊，形成一片震撼的字海奇觀。畫面伴隨著高頻金屬摩擦聲、神聖低語聲、強烈能量咆哮聲，將視覺爆點推向極致。
+
+第三鏡：低角度高速環繞鏡頭。萬千金字快速旋轉，編織成一個遮天蔽日的巨型球狀天道字陣，將目標完全籠罩。字陣緩慢轉動，所有字體筆畫皆化作無數鋒利金劍氣。角色清冷吐出一字：「滅」。剎那間，字陣炸裂，萬道金光貫穿天地，筆畫劍氣如劍雨般絞殺切割。目標在天道法則與萬劍切割下瓦解、毀滅。空間震顫扭曲，發出震耳欲聾的轟鳴。
+
+第四鏡：高角度遠距離仰視鏡頭。金光漸漸平息。天道字陣完成毀滅後，化作金色字流，從天空中倒灌回角色袖中。空中殘留點點金光、墨滴、雲氣。白玉筆化作流光消散。角色背手而立，白袍飄飄，從白玉平台中央俯瞰雲海，清冷孤傲，將神性與壓迫感推向極致。畫面以震撼收尾。
+
+要求：整體結構清晰，開篇神聖，爆發磅礴，毀滅震撼，結尾高貴。突出「寫字成法，萬字成陣，天道毀滅，金光歸袖」的核心劇情。視覺上必須有頂級中國奇幻動畫 CG 的質感，運鏡流暢高級，特效宏大但主體清晰。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1818.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/33d47804ba6b039649bd12d3169e2246/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 中國奇幻 CG 提示：書法魔法"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1818)**
+
+**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2035341530827825477) | **發布時間:** Mar 21, 2026
+
+---
+### 戰時災難電影場景，一鏡到底
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個高度細緻、電影般的 Seedance 2.0 Pro 提示，旨在生成一段戰爭災難電影中連續、一鏡到底的場景。該場景描述一名年輕的傳令兵跑過被砲擊的戰壕，穿過爆炸和逃難的人群，最終在一個被毀壞的鐘樓上發射信號彈，強調真實感、強烈的節奏感且沒有剪輯。
+
+#### 📝 提示詞
+
+```
+戰時災難片的感覺，一鏡到底，在灰藍色的晨光下，一名年輕的傳令兵衝出被砲火撕裂的地下碉堡。鏡頭高速緊隨其後，穿過泥濘的戰壕、燃燒的補給車輛、炸毀的木橋，以及四散奔逃的人群。遠處砲彈不斷落下，鏡頭兩側不斷爆開泥土、木屑、火焰和煙柱。士兵和擔架隊伍穿過前景，營造出極致的臨場感。主角爬過倒塌的沙包牆，滑下積水的斜坡，穿過佈滿鐵絲網和彈坑的開闊地，爆炸的衝擊波在他身後揚起巨大的塵土。最後，他衝上半毀的鐘樓廢墟，將一支發光的信號彈插入高空裝置中。鏡頭迅速拉升，俯瞰整個燃燒的戰場和遠處推進的軍事編隊，實現了電影般的、真實的戰爭規模感、強烈的節奏感，且沒有任何剪輯。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1811.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be88b95ffc1f03a2f13e2767a33cecf6/thumbnails/thumbnail.jpg" width="600" alt="戰時災難電影場景，一鏡到底"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1811)**
+
+**作者:** [Kaan Alper](https://x.com/kaan_alper) | **來源:** [Link](https://x.com/kaan_alper/status/2035304828360884535) | **發布時間:** Mar 21, 2026
+
+---
+### 動作喜劇：飯店大廳裡的老爺子
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一部 15 秒的動作喜劇短片，以一鏡到底的方式呈現，內容為一位年邁的傳奇武術大師，在豪華飯店大廳中，面不改色地輕鬆擊敗十多名襲擊者，營造出荒謬的幽默和混亂。
+
+#### 📝 提示詞
+
+```
+喜劇動作短片風格，15 秒，一鏡到底。在豪華飯店大廳內，一位身穿簡樸深色夾克和牛仔褲的年邁傳奇武術大師，面無表情、神情平靜地緩緩走向一道旋轉門。十多名黑衣襲擊者從四面八方衝向他。他幾乎沒有使用任何力氣，只是隨意地將他們撥開、輕輕一推肩膀，或在完美的時機閃身避開，導致他們互相撞擊、跌入旋轉門，並被移動的玻璃門板旋轉拋出。鏡頭始終緊隨他。動作節奏精準而克制，而他的表情從未改變。在他周圍，混亂爆發，人們四處飛跌，玻璃反光和地面碎片增添了喜劇效果。整個場景感覺像一部高預算的正經動作片，卻充滿荒誕的幽默感。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1805.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f0c92f334041eb67cabad5ca5aa0de7/thumbnails/thumbnail.jpg" width="600" alt="動作喜劇：飯店大廳裡的老爺子"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1805)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2035303978599080362) | **發布時間:** Mar 21, 2026
+
+---
+### Seedance 2.0 中國水墨風格貓狗大戰提示
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個全面的 Seedance 2.0 提示，用於生成一個高能量、中國水墨風格（《霧山五行》）的「刀盾狗」與「香蕉貓」之間的戰鬥影片。此提示詳細說明了角色、其元素屬性（火/金/土 對 水/木/冰）、高對比度的紅/黑/金配色，以及四個獨特、動作豐富的鏡頭序列，最終引向一場巨大的元素衝突高潮。
+
+#### 📝 提示詞
+
+```
+正宗中國水墨風格動畫（《霧山五行》），銳利、硬朗的墨線，高對比度的紅/黑與青/金主色調，電影級燈光，中國奇幻戰鬥美學，強烈的衝擊感，強大的能量碰撞，16:9 畫面比例，15 秒時長，流暢順滑的視覺效果，連貫清晰的動作，最大化的動態張力，整體高端質感，爆炸性特效但畫面不雜亂。
+
+角色設定：
+角色 1：刀盾狗，揮舞著切肉刀和盾牌，近戰極具壓迫感，主要屬性為火、金、土。戰鬥風格兇猛霸道，具有強大的爆發力和衝擊力。戰鬥時喊：「吾之刀盾！」
+角色 2：香蕉貓，動作敏捷靈動，主要屬性為水、木、冰。動作輕盈、迅捷，帶有水墨風格的飄逸感和東方靈氣。戰鬥時喊：「嗶嗶啦噗！」
+
+鏡頭 1（開場爆發）：
+古林懸崖邊，狂風呼嘯，迷霧翻湧。刀盾狗與香蕉貓隔空對峙，瞬間發難。刀盾狗掌心爆發出赤紅火焰氣場，一道火浪席捲而出；香蕉貓周身凝聚深藍水墨漩渦，一條水龍咆哮而出。火浪與水龍在空中正面相撞，瞬間爆發出大片蒸騰的霧氣與墨色衝擊波。樹木折斷，岩石崩裂，碎屑與火花四濺。低角度、高速推鏡，輕微鏡頭晃動，穿插能量碰撞特寫。節奏凌厲。刀盾狗怒吼：「吾之刀盾！」
+
+鏡頭 2（高速纏鬥）：
+雙方瞬間拉近距離，高速移動的殘影交錯，展開極其流暢的近中距離連續格鬥。刀盾狗揮舞盾牌衝撞，切肉刀劈砍。火焰化作火蛇吞噬，金屬屬性刀雨傾瀉壓制，攻勢如洪流般碾壓；香蕉貓則以水墨長鞭抽擊，木藤快速纏繞，身形靈動閃避騰挪，狡黠而迅捷地反擊。兩者元素相生相剋，火對水，金對木，不斷碰撞，火光四射。鏡頭快速環繞，結合快速剪輯與流暢的焦點追蹤。動作清晰不模糊。強光閃爍中，香蕉貓喊：「嗶嗶啦噗！」
+
+鏡頭 3（環境糾纏）：
+戰鬥升級至環境破壞。刀盾狗踏地引發土屬性力量，大塊土石隆起砸落；香蕉貓則以水汽凝結出鋒利冰棱，從側面快速突刺。火焰焚燒古林卻被水墨瀑布強行撲滅；金屬刀刃旋轉突進卻被快速生長的木藤絞殺撕裂。地面不斷龜裂，斷木橫飛，崖壁崩開，被焚燒的森林在水木之力下奇異再生。鏡頭包含慢動作特寫，突出元素對抗的細節，隨後切回超廣角，展現整個戰場，伴隨明顯的震動回饋。刀盾狗再次怒吼：「吾之刀盾！」
+
+鏡頭 4（終極絕招對決，高潮收尾）：
+雙方同時開啟最強領域。刀盾狗釋放赤紅、黑金火焰戰鬥領域。火焰沖天，金色刀刃環繞，土石懸浮空中，形成毀滅性的壓迫場；香蕉貓開啟深藍、青金水墨靈域。水龍盤旋，木藤遮天，冰棱如雨，墨浪翻湧。兩大領域在懸崖古林中央正面碰撞。天地失色。能量劇烈擠壓後轟然炸開，形成火、水、墨三重巨型衝擊波，瞬間掀翻整座山林。最後，刀盾狗在衝擊中逆流而上，盾牌破浪，切肉刀燃燒極致火焰，直斬核心能量；香蕉貓亦衝鋒在前，水墨龍影纏繞。雙方在最強一擊中正面對撞定格。畫面以超大爆炸、霧氣、火花、墨流、碎石同時爆發收尾。視覺衝擊震撼。
+
+影片要求：
+整體節奏應參考《霧山五行》高能國漫戰鬥表現風格。鏡頭運用凌厲，動作清晰流暢，衝擊力強，能量碰撞爆炸，環境破壞明顯，角色辨識度高，四個鏡頭層層遞進，最終高潮收尾，確保在 15 秒內完成一場極具視覺衝擊力、頂級水準的國風元素戰鬥。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1819.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9b91b13c553e2cd5f5e0fa40795920ee/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 中國水墨風格貓狗大戰提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1819)**
+
+**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2035295835840524547) | **發布時間:** Mar 21, 2026
+
+---
+### 史詩級中國奇幻 CG 影片：君子四藝
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 這是一個為 Seedance 2.0 設計的詳細多鏡頭提示，旨在生成一部高飽和度、超現實的 CG 影片，風格為頂級中國奇幻動畫。影片描繪一個角色在雲海上，以宏偉、風格化的序列掌握「琴棋書畫」四藝，最終以一幅巨大的水墨畫作結。
+
+#### 📝 提示詞
+
+```
+頂級中國奇幻動畫 CG。極高飽和度的色彩爆發，超現實主義，宏偉的視覺體驗。場景：浩瀚無垠的雲海之上，天地化為巨大的太極幻象。鏡頭 1（特寫轉中景）：【琴音化蓮】角色凌空盤坐，彈奏著發光的虛幻古琴。琴音化為金色水滴，在雲海上激起層層漣漪，如藍水生蓮，伴隨著古琴清越的鳴響音效。鏡頭 2（超廣角）：【棋陣封天】琴音驟然急促。角色單手食指與中指凝結出一枚炫目的白光棋子，向雲海重重按去。棋子落下的瞬間，天空與雲海同時亮起。一個直徑萬丈的金色立體圍棋棋盤格，瞬間鎖定天地。黑白棋子如流星般墜落，引發空間扭曲，伴隨著棋子落地的沉悶震心迴響。鏡頭 3（環繞運鏡轉特寫）：【草書鎮魔】流星雨中，角色雙指如劍，以天為紙，在空中疾速書寫金色草書。巨大的金色古字燃燒著劇烈的雷火，化為秩序鎖鏈，在棋陣與琴音之間穿梭，伴隨著雷鳴之聲。鏡頭 4（俯視超遠景）：【潑墨吞世】光芒達到頂峰之際，角色大袖一揮，磅礴的黑白墨汁自袖口噴薄而出，化作墨龍吞噬天地。琴、棋、書的能量完全被墨色吸收。翻騰的雲海最終被撫平，化作一幅遮天蔽日的巨幅黑白水墨畫。角色背手立於畫上，衣袍在強風中紋絲不動，盡顯冷峻的算計與絕對的力量。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1817.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a41cf4db3bb944a7a9105862861af67b/thumbnails/thumbnail.jpg" width="600" alt="史詩級中國奇幻 CG 影片：君子四藝"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1817)**
+
+**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2035291923603402755) | **發布時間:** Mar 21, 2026
+
+---
+### 巨型史前鯊魚攻擊影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成戲劇性影片場景的提示：一隻摩天大樓般大小的巨大史前大白鯊，從暴風雨中的海洋中躍出。鏡頭拉開，鯊魚正在粉碎一艘巨大的鋼製貨櫃船，貨櫃四散，船隻裂成兩半。
+
+#### 📝 提示詞
+
+```
+一隻如摩天大樓般巨大的史前大白鯊，從狂暴的驚濤駭浪中躍出，張開血盆大口，用利齒咬碎了一艘巨大的鋼鐵貨櫃船。貨櫃紛紛墜落並碎裂，船身隨之彎曲斷裂。鏡頭拉開
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1812.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c6546cb383151093f15eee8f70cc27d/thumbnails/thumbnail.jpg" width="600" alt="巨型史前鯊魚攻擊影片提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1812)**
+
+**作者:** [Visha Studio I AI Artist](https://x.com/vishastudioai) | **來源:** [Link](https://x.com/vishastudioai/status/2035281691657556262) | **發布時間:** Mar 21, 2026
+
+---
+### 第一人稱視角飛行掃帚影片生成
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個為 Seedance 2.0 設計的詳細多段提示，用於生成一段年輕日本女性以第一人稱視角騎著掃帚飛越東京著名地標（澀谷、淺草寺、鳥居）的影片。該提示指定了電影參數、角色細節（手、腿、服裝）、構圖規則（POV 鎖定、手/掃帚佔下方 30%）、場景進程（起飛、加速、特定地點）、攝影機運動、燈光和氛圍，旨在創造超現實、身臨其境的旅行體驗。
+
+#### 📝 提示詞
+
+```
+影片類型：垂直電影式影片，9:16 長寬比，超寫實，4K，24fps
+
+視角：
+嚴格的第一人稱視角，由一位年輕日本女性騎乘飛天掃帚
+攝影機 = 她的視線高度
+無第三人稱鏡頭，無外部攝影機
+
+---
+
+角色（僅可見元素）：
+雙手清晰可見，牢牢握住木製掃帚柄（左右手自然分開）
+雙手置於攝影機前方，位於畫面下方中央
+雙腿在掃帚後方可見，穿著短版牛仔褲（短褲），大腿裸露
+腳上穿著運動鞋
+髮梢在頂部邊緣略微可見，隨風擺動
+
+騎乘姿勢：
+身體略微前傾（如同經典女巫騎掃帚的姿勢）
+掃帚柄位於雙腿之間
+穩定但充滿動感的姿勢
+
+---
+
+構圖（非常重要）：
+垂直構圖（9:16）
+雙手和掃帚柄始終保持在畫面下方 30%
+前方視野佔據畫面上方 70%
+不切換視角
+
+---
+
+場景設定：
+白天，晴空萬里，色彩鮮明飽和
+日本觀光景點
+
+---
+
+攝影機運動：
+快速向前移動
+自然的上下運動（掃帚漂浮效果）
+輕微的風力搖晃
+轉彎時輕微傾斜
+
+---
+
+[0.0s - 1.2s | 起飛]
+攝影機略微向下傾斜
+雙手握住掃帚清晰可見
+雙腳平穩離地
+微風開始輕拂
+
+---
+
+[1.2s - 3.0s | 加速]
+速度加快
+風力增強
+雙手略微收緊握力
+雙腿對氣流產生微妙反應
+
+---
+
+[3.0s - 6.0s | 澀谷飛行]
+低空飛越澀谷十字路口
+下方人群向上看（動態模糊）
+建築物快速掠過
+保持穩定的向前視角
+
+---
+
+[6.0s - 8.5s | 寺廟掠過]
+轉場至淺草寺區域
+靠近燈籠和寺門飛行
+略微減速以營造電影感
+
+---
+
+[8.5s - 11.0s | 鳥居穿越]
+進入紅色鳥居通道
+高速穿過多個鳥居
+兩側有強烈的動態模糊
+
+---
+
+[11.0s - 13.0s | 最終爬升]
+略微向上傾斜
+提升高度
+天空充滿畫面上方
+雙手仍握住掃帚清晰可見
+
+---
+
+效果：
+風影響雙手、雙腿和髮梢
+邊緣動態模糊
+景深：中心清晰，兩側略微模糊
+
+---
+
+燈光：
+明亮的自然陽光，柔和陰影，高對比度
+
+---
+
+色彩校正：
+鮮豔、電影感，略帶暖色調以增強旅行吸引力
+
+---
+
+氛圍：
+刺激、自由、神奇、身臨其境的旅行體驗
+自由與速度感
+
+---
+
+風格：
+超寫實第一人稱視角，奇幻 + 旅遊融合，沉浸式體驗
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1822.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88804b4e14dd4c53e75370aaf8d1764b/thumbnails/thumbnail.jpg" width="600" alt="第一人稱視角飛行掃帚影片生成"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1822)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2035278942375145707) | **發布時間:** Mar 21, 2026
+
+---
+### 假面騎士反派變身序列影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個為 Seedance 2.0 設計的超詳細 10 秒提示，用於生成電影般的轉變影片。它描述了一位日本女性被黑暗能量附身，從公寓裡的休閒裝扮轉變為時尚、黑暗的反派服裝，其中包含情緒變化的特定時間點、燈光轉換（從柔和的日光到高對比）、粒子效果和音效設計提示，最終以一個邪惡的眼神直視鏡頭。
+
+#### 📝 提示詞
+
+```
+豎屏影片，9:16，10 秒，超寫實，電影級燈光，20 歲日本女性，自然美，中長黑髮，休閒服飾，現代公寓房間，柔和日光，高細節皮膚紋理，淺景深，輕微推軌鏡頭
+
+場景開始，女子隨意地坐在沙發上，拿著智能手機，表情輕鬆，帶著淺淺的微笑，姿態自然，氣氛平靜，柔和的日光透過窗戶灑進來
+
+約 2 秒處，她的手機上出現一條通知，她的表情突然僵住，笑容消失，臉上出現一絲微妙的緊張，環境音輕微扭曲，燈光變得略冷，她的眼神開始失去溫暖
+
+從 3.5 秒開始，黑暗的陰影能量開始從她身後和畫面邊緣湧現，黑色煙霧狀的粒子緩慢地向她的身體蔓延，纏繞著她的手臂，她的呼吸變得沉重，頭部略微向下傾斜，髮絲開始不自然地飄浮
+
+從 5.5 秒開始，黑暗能量像感染一樣迅速蔓延全身，她的休閒服飾轉變為一套流線型的黑暗反派服裝，帶有黑色和深紫色調以及微妙的發光圖案，她的眼睛開始微微發光，表情轉變為平靜卻危險的神情，燈光變成高對比度，帶有戲劇性的陰影，能量粒子增強
+
+從 7.5 秒到結束，她緩緩抬起頭，帶著一絲邪惡的微笑直視鏡頭，完全變身，黑暗光環在她周圍盤旋，她的頭髮彷彿被緩慢的風吹動，鏡頭停止並定格在她的臉上，強烈的最終姿勢，電影般的停頓，輕微的暈影，結尾處有微妙的閃爍效果
+
+聲音設計：開頭柔和的環境音 → 通知時輕微扭曲 → 變身高峰時深沉的低音衝擊 → 結尾處微妙的黑暗嗡鳴聲
+
+面部表演重點：微表情變化，眼神逐漸失去溫暖，從自然微笑轉變為面無表情再到略帶邪惡的表情
+
+高品質粒子模擬，體積光，逼真的陰影互動，流暢的過渡，沒有硬切
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1821.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5bca02fbfd29003b0b8b29bd0c2d6a0a/thumbnails/thumbnail.jpg" width="600" alt="假面騎士反派變身序列影片"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1821)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2035278945508344201) | **發布時間:** Mar 21, 2026
+
+---
+### 空拍機俯衝進入人眼
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個複雜、多階段的 Seedance 2.0（文字轉影片）提示，用於生成一個 10 秒的電影級序列。它以東京一位女性的超現實高空無人機鏡頭開始，加速到特寫鏡頭，然後透過她的眼睛無縫（匹配剪輯）過渡到一個超現實、夢幻般的內心世界，詳細描述了真實和幻想片段的攝影機運動、燈光轉換和視覺效果。
+
+#### 📝 提示詞
+
+```
+超電影感無人機鏡頭，俯視空拍，一名年輕日本女性（20 歲出頭）靜靜地站在東京一條寧靜的城市街道中央，穿著休閒服飾，自然妝容，柔和日光，逼真環境，高度細緻的紋理。
+
+攝影機從高空（約 50 公尺）開始，無人機鏡頭完美穩定，緩慢加速下降朝向主體，平穩向前俯衝，中心構圖鎖定在該女性身上。
+
+在 2 秒處，攝影機速度急劇增加，快速推近，背景動態模糊加劇，強烈的加速感，風力模擬影響頭髮和衣物。
+
+在 4 秒處，女性臉部的特寫鏡頭，她略微抬頭看向攝影機，細微的眼神移動，自然的眨眼，高度逼真的皮膚細節。
+
+在 5 秒處，攝影機直接潛入她的右眼，無縫轉場，沒有硬切，匹配剪輯效果，瞳孔與轉場點完美對齊。
+
+眼睛內部：轉場進入一個超現實的夢幻世界，廣闊的奇幻空間，漂浮的幾何結構，發光的粒子，柔和的體積光，鮮豔而優雅的調色板（藍色、紫色、金色點綴），緩慢的漂移動作。
+
+攝影機繼續在這個內在世界中向前移動，平穩的漂浮運動，輕微旋轉，透過視差效果強調景深。
+
+最後 2 秒：攝影機穿過漂浮的結構，展現出一個廣闊無限的空間，強烈的規模感和沉浸感，電影般的結局。
+
+燈光：逼真日光 → 平穩過渡到柔和發光的超現實燈光
+風格：超現實 + 電影感 + 輕微科幻奇幻
+運動：極其流暢，無抖動，無失真，無偽影
+鏡頭：35mm → 入眼時逐漸轉為微距視角
+景深：動態，特寫時景深淺，空拍時景深深
+
+時長：10 秒
+解析度：4K
+影格率：24fps
+品質：最高
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1823.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f6ace7f9ac049fdd1655f0844b8bb49/thumbnails/thumbnail.jpg" width="600" alt="空拍機俯衝進入人眼"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1823)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2035278939460190292) | **發布時間:** Mar 21, 2026
+
+---
+### 黑暗戰士 vs 熔岩巨龍 電影場景提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個為 Seedance 2.0 準備的結構化 JSON 提示，透過 Yapper 生成，詳細描述了一個黑暗奇幻電影場景：一名女孩在廢墟城市中變身為黑暗戰士，並擊敗了一條熔岩巨龍。
+
+#### 📝 提示詞
+
+```
+{ "scene": "古老的廢墟城市，到處都是火焰和灰燼", "subject": "紅眼發光的女孩，變身為黑暗戰士", "action": "她在燃燒的地面上奔跑，雙手召喚出黑暗能量刀刃", "dragon": "巨大的惡魔龍，擁有熔岩皮膚和發光的裂縫", "interaction": "她躍起，劃破龍的翅膀，落在牠的背上，將能量刀刃刺入牠的頭骨", "destruction": "熔岩爆炸、火焰風暴、崩塌的廢墟", "camera": "低角度英雄視角 → 快速追蹤 → 慢動作擊殺鏡頭", "lighting": "深紅色、黑色、發光的熔岩高光", "style": "黑暗奇幻、電影感、動漫與寫實結合", "mood": "復仇、激烈、殘酷", "quality": "4K HDR、電影景深" }
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1803.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fbce3c1a53714b4abca6361cf74a9e3/thumbnails/thumbnail.jpg" width="600" alt="黑暗戰士 vs 熔岩巨龍 電影場景提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1803)**
+
+**作者:** [Future AI 🧩](https://x.com/FutureVibesAi) | **來源:** [Link](https://x.com/FutureVibesAi/status/2035251854045847947) | **發布時間:** Mar 21, 2026
+
+---
+### Bentley S2 Continental ASMR 影片提示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個 Seedance 2.0 提示，用於生成一個 15 秒、多鏡頭的電影級寫實影片，內容聚焦於豪華車 ASMR。主題是一輛奶油色和銀色的 Bentley S2 Continental，詳細呈現其經典的奢華特色，例如鍍鉻飾件、木質飾板和菱格紋皮革。
+
+#### 📝 提示詞
+
+```
+格式：15 秒 / 68 BPM / 6 剪輯 / 電影寫實主義，奢華創作者風格汽車 ASMR
+
+主題：一輛奶油色和銀色的 Bentley S2 Continental，呈現為永恆的奢華經典，長引擎蓋、鏡面鍍鉻、深色木飾面、菱格紋皮革和氣派的玻璃車廂
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1814.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/81c076ddac6c42509113e18914dfb804/thumbnails/thumbnail.jpg" width="600" alt="Bentley S2 Continental ASMR 影片提示"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1814)**
+
+**作者:** [Aimi Kōda](https://x.com/aimikoda) | **來源:** [Link](https://x.com/aimikoda/status/2035227146445009169) | **發布時間:** Mar 21, 2026
+
+---
+### 蜜蜂採集花蜜的電影級畫面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個為 Seedance 2.0 設計的詳細電影式提示，指示生成一段影片，內容為蜜蜂在一個充滿活力、鬱鬱蔥蔥的花園中，向日葵上採集花蜜，花園中有一道閃閃發光的瀑布，強調超現實主義、柔和的燈光和流暢的攝影機運動。
+
+#### 📝 提示詞
+
+```
+一段電影般的影片，內容是一群蜜蜂在一個充滿盛開花朵和綠色植物的鬱鬱蔥蔥、色彩繽紛的花園裡，於一朵鮮黃色的向日葵上積極採集花蜜。附近有一道小巧美麗的瀑布輕輕流淌，水滴在陽光下閃閃發光。這個場景充滿活力、寧靜而自然，光線柔和，微風輕拂著花朵，蜜蜂的動作栩栩如生。超現實、高細節、淺景深、流暢的鏡頭移動、4K 畫質。
+```
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1808.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51b6280a170aa75a3729dc9cd9422c33/thumbnails/thumbnail.jpg" width="600" alt="蜜蜂採集花蜜的電影級畫面"></a>
+
+📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1808)**
+
+**作者:** [Onsase](https://x.com/MrOnsase) | **來源:** [Link](https://x.com/MrOnsase/status/2035207649990447192) | **發布時間:** Mar 21, 2026
+
+---
 ### Seedance 2.0 影片提示：巨型亞洲男子摧毀戰艦
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -416,7 +1098,7 @@
 重點突出四條主線：「玉筆潑墨」、「重塑洞穴」、「仙境絞殺」、「收畫離去」。畫面必須兼具唯美與危險，前半段夢幻創造，後半段致命反擊，結尾高級收束。整體感受必須是頂級國風玄幻動畫 CG 大片。
 ```
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1791.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c51043f40fa29fc006b913be178f1ce1/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 影片提示：頂級中國奇幻動畫 CG"></a>
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1791.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc606531ea9d8567d8f066437d57c828/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 影片提示：頂級中國奇幻動畫 CG"></a>
 
 📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1791)**
 
@@ -2364,678 +3046,6 @@ Segment 2:
 **作者:** [JingleKitty](https://x.com/Aleph6Zero9) | **來源:** [Link](https://x.com/Aleph6Zero9/status/2033964750540050662) | **發布時間:** Mar 17, 2026
 
 ---
-### 基於參考的影片生成提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個提示，指示 AI 從圖像中提取主體，並從參考影片中提取攝影機運動/運鏡，以創建一個連貫的新影片。
-
-#### 📝 提示詞
-
-```
-以 @Image1 中的主體作為主要焦點。參考 @Video1 的拍攝風格，執行有節奏的推軌、推進、搖攝和傾斜運鏡。主體的動作應重新詮釋 @Video1 中的編舞，創造出一個連貫的
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1547.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54ac8ba5e0afd4c51a4f1e555dfb4fdb/thumbnails/thumbnail.jpg" width="600" alt="基於參考的影片生成提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1547)**
-
-**作者:** [BigMotion.ai](https://x.com/BigMotion_ai) | **來源:** [Link](https://x.com/BigMotion_ai/status/2033957480380641406) | **發布時間:** Mar 17, 2026
-
----
-### Seedance 2.0 的超寫實煎餅藝術影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高度詳細的提示，用於生成超逼真、電影級的商業美食影片，重點呈現草莓形狀的鬆餅，包括特定的攝影機運動、燈光、紋理細節，以及楓糖漿緩慢淋下的畫面。
-
-#### 📝 提示詞
-
-```
-一個草莓形狀鬆餅的超逼真影片，放在乾淨的白盤上，完美金黃酥脆，質地柔軟多孔，帶有微小氣泡，邊緣略微酥脆。攝影機從上往下緩慢平移至 45 度角，露出鬆餅邊緣被咬了一小口，展現出蓬鬆的內部和鬆軟的質地。柔和的漫射光線突顯每個細節，楓糖漿緩緩淋在鬆餅上，一小塊奶油正在融化。輕柔的攝影機移動展現出自然的陰影和紋理。流暢的焦點拉動捕捉到糖漿上閃亮的水珠，蓬鬆內部的特寫鏡頭，以及最後的廣角俯視全景。電影級商業美食風格，超細緻紋理，柔和自然陰影，緩慢、引人食慾的節奏，8K 真實感。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1538.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e50bf62371c66f488a8b83aef9a74c7e/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 的超寫實煎餅藝術影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1538)**
-
-**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **來源:** [Link](https://x.com/Just_sharon7/status/2033942603474079786) | **發布時間:** Mar 17, 2026
-
----
-### 溫馨的森林喜劇影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個給 Seedance 2.0 的提示，用於生成一個 15 秒的溫馨林地喜劇影片，包含六個鏡頭和簡短對話，強調超現實電影動畫和舒適的光線。
-
-#### 📝 提示詞
-
-```
-格式：15 秒 / 6 鏡頭 / 溫馨森林喜劇 / 簡短對白
-
-風格：超寫實電影級森林動畫，溫暖的黃昏陽光穿透樹皮裂縫，中空樹幹內舒適的苔蘚佈景
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1550.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b923ba4098900d1e10c7ff6277623857/thumbnails/thumbnail.jpg" width="600" alt="溫馨的森林喜劇影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1550)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2033934223313174856) | **發布時間:** Mar 17, 2026
-
----
-### Anubis 搔癢場景
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個 Seedance 2.0 提示，用於生成幽默的傳統中式風格 3D 動畫。該提示描述了一個場景：強大的胡狼神阿努比斯（Anubis）坐在寶座上，正被一個反派審問。場景最終以反派搔癢阿努比斯裸露的腋窩，導致這位神祇 uncontrollable 地大笑而告終。
-
-#### 📝 提示詞
-
-```
-傳統中式風格，現代 3D 動畫。0-4 秒：強大的胡狼神阿努比斯（Anubis）坐在寶座上，一個機械機器人高舉著他的手臂，這個姿勢完全暴露了他的腋下。一個反派站在阿努比斯面前，逼問他力量的秘密。阿努比斯顯得無聊且漠不關心，說他什麼都不會透露。5-8 秒：反派咧嘴一笑，伸出手去搔阿努比斯的腋下，手指不停地擺動。阿努比斯的表情立刻亮了起來。他咧嘴笑著，顯然很怕癢，發出了一聲悶笑，接著又是一聲。9-15 秒：反派繼續搔阿努比斯的腋下，阿努比斯笑個不停。阿努比斯試圖扭動上半身以避開搔癢的手指，但反派的手緊隨其後，繼續搔他的腋下。反派強迫阿努比斯說話，但阿努比斯只是笑著拒絕。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1563.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56d9fc40b0af1e80d174de2a8f5c2ae8/thumbnails/thumbnail.jpg" width="600" alt="Anubis 搔癢場景"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1563)**
-
-**作者:** [migrok](https://x.com/migrok293703) | **來源:** [Link](https://x.com/migrok293703/status/2033933641034653832) | **發布時間:** Mar 17, 2026
-
----
-### 古風歌唱表演影片提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 為 Seedance 2.0 提供的綜合提示，用於生成一個女孩以古風演唱的影片。該提示詳細描述了角色的外觀（唐裝、髮飾）、精緻的場景（宮燈、絲帶、屏風）、角色的動作（唱歌、跳舞、特定手勢），以及與歌詞相關的複雜視覺效果，所有這些都採用了敦煌飛天風格的運鏡。
-
-#### 📝 提示詞
-
-```
-@圖像，一位身穿點綴翠鳥羽毛和鯉魚圖案的鎏金唐裝的女孩，髮髻上飾有流蘇步搖，眉心點綴著朱砂花鈿，笑容甜美，神采奕奕；她站在朱紅色雕樑畫棟的長廊前，背景是百盞流光溢彩的琉璃宮燈，半掩的絲綢屏風上繡著金線「春」字，屋簷下銅鈴叮噹作響，紅色絲帶如瀑布般垂落，光影中飄浮著細碎的金粉。女孩伴隨著編鐘的樂聲輕聲歌唱，衣袂飄飄，身姿輕盈，表演動作豐富：抱拳作揖、俏皮地眨眼比心、旋轉踢起金箔，眼中星光流轉；演唱水準達到專業歌手級別，音準無誤。歌詞搭配專屬特效：1.「青龍現，白虎守」：四大神獸幻影破雲而出，龍吟虎嘯間祥雲裂變。2.「八方財氣聚屋簷」：東南西北紫氣升騰，凝結成女孩掌心旋轉的金色漩渦。3.「我要招財來，招財來」、「財從銀河落入懷」：銀河傾瀉而下，化作萬千「財」字，筆筆生輝，泛著珍珠般的光澤。4.「莫道少年不知愁」、「偏向風雨笑白頭」：女孩輕點足尖，地上紅梅綻放，花瓣化作朱雀騰空而起。5.「他日登高去摘星」、「今朝且把金樽守」：九天星辰驟然墜入酒樽，迸發出璀璨光束直衝天際。整體運鏡採用敦煌飛天風格；女孩旋轉時，髮間步搖在空中定格，金箔與花瓣慢動作形成螺旋星軌；最終畫面定格：女孩背對鏡頭，輕抬水袖，漫天星辰與金箔化為「招財進寶」四個立體篆書大字，餘音中，銅錢狀的雪花輕輕飄落。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1555.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b583e237b383011ff6ce2ada73ea7e9c/thumbnails/thumbnail.jpg" width="600" alt="古風歌唱表演影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1555)**
-
-**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2033921840540778606) | **發布時間:** Mar 17, 2026
-
----
-### 武俠風格的電影機甲戰士影片提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 這是一個高度詳細、多段式的提示，旨在生成一段機甲戰士在長滿青苔的瀑布場景中表演武俠風格武術的電影式影片，強調 1980 年代 VHS 畫質、特定的攝影機運動和音效，總長 15 秒。此提示對角色外觀、場景、風格和動作都極為具體。
-
-#### 📝 提示詞
-
-```
-機甲武士在瀑布仙境中獨舞 · 1980 年代武俠電影 VHS 錄影帶 · 電影顆粒 · 長滿青苔的瀑布場景。角色鎖定：圖 1 機甲武士，圖 2 — 短髮，深灰色合金機械臂，粉色光澤戰鬥褲，白色運動鞋，武士刀，清晰赤裸上身的腹肌。外罩青綠色寬袖長袍，玉帶，髮髻配髮簪，冷峻帥氣的臉龐。外觀全程保持不變。場景鎖定：圖 1：圖 2 長滿青苔的瀑布仙境，多層瀑布從長滿青苔的巨石上傾瀉而下，空氣中瀰漫著薄霧，深綠色的青苔濕潤，周圍環繞著蕨類植物，以冷藍綠色調為基底。場景全程保持不變。1980 年代香港武俠電影質感，VHS 掃描線疊加，重度電影顆粒高噪點，色彩褪色至黃綠色，四角重度漸暈，鏡頭邊緣輕微變形和扭曲，昏暗詭異的側光，電影中景。風格全程保持不變。禁止角色臉部變化或替換，禁止服裝突然變化，禁止文字字幕、標誌或浮水印。0-1 秒：超廣角低空俯衝推進。超廣角低空俯衝推進，強烈透視感，高速向前推進並帶有輕微旋轉，最大程度的運動模糊，VHS 運動區域雪花噪點爆發。機甲武士從瀑布薄霧深處躍入前景，青綠色寬袖劇烈飄動，玉帶隨動作甩出弧線，武士刀刀刃反射出冷冽白光。氣勢磅礴，鏡頭不停歇地持續運動，瀑布薄霧因高速運動形成放射狀殘影。音效：薄霧低頻咆哮聲，布料破空聲，武士刀出鞘清脆金屬碰撞聲，VHS 電子底噪。1-4 秒：低角度仰拍 · 垂直躍起連續斬擊。低角度仰拍，從長滿青苔的地面視角。機甲武士躍起，腳踏濕潤石塊，青綠色寬袖如翅膀般展開，武士刀連續橫豎斬擊，招招乾淨俐落不帶停頓，刀刃拖曳出淡淡藍色光芒殘影。瀑布水幕形成白色背景，最大化剪影張力。水滴被劍氣從長滿青苔的岩石上震落，在仰拍中形成密集的水滴雨幕從上方落下。環繞追蹤鏡頭啟動，以機甲武士為軸心環繞 180 度，粉色戰鬥褲在冷藍綠色薄霧中形成極致冷暖色彩對比，白色運動鞋在濕潤青苔上留下水痕。音效：武士刀破風聲，水滴震落聲，薄霧咆哮聲，長袍布料飄動聲。4-8 秒：側向追蹤鏡頭 · 慢動作高潮。攝影機高速側向追蹤。機甲武士在長滿青苔的巨石間跳躍閃避，腳步疾如風，精準落在岩石邊緣，落點水花四濺，劍法連綿不絕。[慢動作 · 0.3 秒高潮] 機甲武士執行武士刀最大幅度橫掃——速度驟然降至慢動作。青綠色寬袖的每一絲布料紋理都清晰可見，從袖口飛出的水滴在空中形成完整的弧線軌跡，武士刀刀刃反射瀑布光線形成細膩光譜，淡淡藍色光芒殘影凝固懸浮，長滿青苔石面水膜的震動紋路清晰可見。0.3 秒後立即恢復高速，VHS 螢幕在速度切換瞬間出現幀率跳動噪點。大幅度甩鏡切換至高角度俯拍，長滿青苔的濕潤地面留下連續跳躍的水印軌跡，光芒殘影從俯視角度形成螺旋流動圖案。音效：慢動作高潮時水滴飛濺的極慢水聲，恢復高速時衝擊聲驟然爆發，瀑布咆哮聲隨速度切換而驟變。8-12 秒：高能推拉鏡頭 · 多角度切換。高能攝影機推拉，先是快速拉遠——機甲武士的粉色戰鬥褲成為綠白瀑布背景下唯一的暖色視覺錨點——隨後快速推近至武士刀刀尖特寫，刀尖處淡淡藍色粒子持續流動，薄霧在刀光中折射出冷藍色光芒。連續三次快速視角切換：① 低角度仰拍——武士刀從頭頂上方劈下，刀刃與瀑布水幕在同一垂直畫面中形成雙重白光碰撞 ② 側向追蹤鏡頭——寬袖與瀑布水流方向形成橫豎交錯的力線 ③ 高角度俯拍——人影在長滿青苔的水面反射中同時出現雙重殘影。每次切換都伴隨著 VHS 水平掃描線撕裂的短暫失真，高速運動區域密集雪花噪點。武士刀的光芒殘影疊加三次，最終形成覆蓋瀑布場景的淡淡藍色光網。音效：多角度切換幀跳動噪點，武士刀連續打擊的密集金屬碰撞聲，瀑布咆哮聲隨視角切換快速推拉。12-15 秒：空中終結姿態 · 劍氣擴散 · 宏大全景。機甲武士踏上最高處的長滿青苔巨石，躍起至空中最高點，青綠色寬袖完全展開，玉帶甩出最大弧線，粉色戰鬥褲在逆光下飽和度最高，白色運動鞋懸浮於瀑布薄霧之上。雙手持武士刀，向下做出終結技——[終章三重爆發] ① 武士刀接觸水面瞬間：淡淡藍色劍氣呈同心圓光波向外擴散，光波將整個瀑布水幕向外推開形成弧形水牆 ② 光波觸及長滿青苔的岩壁：整個青苔表面的水滴同時騰空而起，密集水滴幕向外飛濺，在昏暗光線中折射出冷藍色光譜 ③ 劍氣向上爆發：一道淡淡藍色光柱從武士刀刀尖衝向天際，穿透瀑布薄霧層形成藍白光柱，薄霧劇烈翻騰飛散，蕨類植物被氣浪壓彎 [終章慢動作 · 全程 3 秒] 長滿青苔水面光波漣漪的擴散紋路，水滴幕在刀光中的折射光譜，寬袖在氣浪中的布料紋理流動，白色運動鞋踏水飛濺的最終定格，每一個細節都清晰震撼。攝影機緩慢拉遠，以宏大全景結束——多層瀑布全貌再次呈現，機甲武士佇立於最高處的長滿青苔巨石上，淡淡藍色光芒餘暉在薄霧中緩慢消散，粉色戰鬥褲最終定格在綠白瀑布背景下。VHS 四角完全壓黑，光柱高光區域電影顆粒爆發出銀白色噪點，鏡頭邊緣輕微變形和扭曲結束場景，畫面張力達到最大化。音效：劍氣擴散的低頻共鳴爆發聲，光波觸及水幕的沉重水聲，水滴幕騰空的密集細碎聲，光柱衝天的高頻能量聲，所有聲音在慢動作時頻率降低呈現空靈質感，攝影機拉遠後僅剩瀑布咆哮聲和薄霧中的風聲。技術規格：全程疊加 VHS 掃描線，重度電影顆粒，色彩褪色至黃綠色，四角重度漸暈，慢動作 0.3 秒動作高潮 + 終章全程 3 秒，高能推拉鏡頭，快速多角度切換，全程淡淡藍色光粒子流動，長滿青苔薄霧的自然真實物理粒子運動軌跡。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1552.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/348a40e260d5694222a980ddd9573218/thumbnails/thumbnail.jpg" width="600" alt="武俠風格的電影機甲戰士影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1552)**
-
-**作者:** [John](https://x.com/john87445528) | **來源:** [Link](https://x.com/john87445528/status/2033911356785659925) | **發布時間:** Mar 17, 2026
-
----
-### Seedance 2.0 的電影級夜間賽車場景
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> 以下是一個針對 Seedance 2.0 的高度結構化、基於時間碼的場景指示提示範例，旨在生成一個 15 秒的電影級賽車短片（利曼風格）。該提示指定了整體基調，然後將這 15 秒分為三個不同的 5 秒鏡頭，詳細說明了每個片段的攝影運作、天氣、燈光、角色心理和物理效果。這種詳細程度顯著提升了生成影片的品質。
-
-#### 📝 提示詞
-
-```
-電影之夜、雨、高風險運動
-
-[00:00-00:05] 資深車手駕駛艙的特寫鏡頭 — 雨水拍打著擋風玻璃，儀表板燈光映照在遮陽板上。
-
-[00:05-00:10] 挑戰者的特寫鏡頭 — 雙手緊握方向盤，呼吸急促。
-
-[00:10-00:15] 廣角動作鏡頭 — 交通燈變綠，兩輛車同時加速，水花濺滿鏡頭，動態模糊將燈光變成彩色條紋。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1565.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a58315bde5df5494505ce7dbd3b33c0d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 的電影級夜間賽車場景"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1565)**
-
-**作者:** [DeepDive](https://x.com/DeepDive_KR) | **來源:** [Link](https://x.com/DeepDive_KR/status/2033909747573993640) | **發布時間:** Mar 17, 2026
-
----
-### 零重力戰士格鬥影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個提示，描述了兩名精英戰士在環繞地球的破碎太空站內，於零重力環境中戰鬥的場景，周圍漂浮著碎片，藍色的地球清晰可見。
-
-#### 📝 提示詞
-
-```
-兩名菁英戰士在環繞地球的破碎太空站內，於零重力環境中搏鬥。損壞的金屬板和漂浮的碎片緩慢地在他們周圍飄動，而藍色的地球則透過被摧毀的牆壁散發著光芒。
-
-戰士們推開漂浮的碎片，朝著彼此衝去
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1549.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc59579cb396465636107ded81390939/thumbnails/thumbnail.jpg" width="600" alt="零重力戰士格鬥影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1549)**
-
-**作者:** [Weinberg](https://x.com/weiinberg) | **來源:** [Link](https://x.com/weiinberg/status/2033904647988015105) | **發布時間:** Mar 17, 2026
-
----
-### 埼玉 vs. 餓狼 大戰場景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 的詳細提示，描述了埼玉和餓狼之間一場激烈的戰鬥場景，重點是埼玉拳擊的衝擊以及隨後的對峙。
-
-#### 📝 提示詞
-
-```
-這描繪了埼玉和餓狼之間的戰鬥。
-埼玉僅僅一拳，就爆發出巨大的氣流，震碎了他們腳下的地面。餓狼利用他驚人的速度和敏捷，擋下了這一擊並發動了反擊。當兩人交換著一連串的拳打腳踢時，天空和大地都因他們震耳欲聾的對抗而顫抖。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1544.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b9623ede317c2dff2cd1d7bad67dc3e/thumbnails/thumbnail.jpg" width="600" alt="埼玉 vs. 餓狼 大戰場景"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1544)**
-
-**作者:** [Riya_Cute 🇺🇸](https://x.com/Riya333S) | **來源:** [Link](https://x.com/Riya333S/status/2033891641245999492) | **發布時間:** Mar 17, 2026
-
----
-### 鬼祟貓咪寵物影片動作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個為 Seedance 2.0 設計的詳細多步驟敘事提示，用於拍攝電影般的垂直寵物 Vlog，內容聚焦於一隻名叫 Grayson 的貓，牠試圖從桌上偷食物，並包含特定的動作序列、攝影角度和燈光。
-
-#### 📝 提示詞
-
-```
-電影感豎版影片 (9:16)，寫實寵物 Vlog 風格，
-溫馨室內日間場景，餐飲區或廚房檯面。
-
-情節延續：在 EP3 的背叛之後，Grayson 帶著尊嚴離開了。現在他有了新計畫。他發現桌上有食物。
-
-動作序列：
-① Grayson 的眼睛和額頭從桌子下方緩緩升起，只露出眼睛，左右掃視。
-② 整個頭部出現，鎖定桌上的一塊食物。
-   表情：平靜、專注、毫無愧疚。
-③ 一隻爪子緩慢地伸向食物，動作謹慎而穩定。
-   他中途停頓——頭部直接轉向鏡頭。眼神接觸持續 2 秒。表情：完全不為所動。
-④ 爪子繼續動作，將食物從桌邊推下。
-   Grayson 消失在畫面下方去取回食物。
-   尾巴在桌邊上方可見，擺動一次，然後消失。
-
-鏡頭：桌面水平角度，前景食物清晰，
-Grayson 的臉部升入畫面。淺景深，後景溫暖散景。
-
-燈光：溫暖的日間室內光線，比 EP1-3 稍亮。
-音訊：Lo-fi 音樂俏皮地恢復，眼神接觸時短暫的喜劇式停頓。
-情緒：鬼祟、自信、毫無悔意。100% 寫實。
-無特效，無奇幻。
-
-時長：11 秒。比例：9:16。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1542.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4f4f06dea83f066861e10a5ff4cb31/thumbnails/thumbnail.jpg" width="600" alt="鬼祟貓咪寵物影片動作序列"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1542)**
-
-**作者:** [里奥](https://x.com/Leoin2019) | **來源:** [Link](https://x.com/Leoin2019/status/2033881240068362315) | **發布時間:** Mar 17, 2026
-
----
-### 古裝短劇提示詞：落跑新娘
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 為 Seedance 2.0 提供的詳細分鏡提示，用於生成一部名為「逃跑新娘」的短篇歷史劇影片。此提示指定了時間、攝影機角度（高角度、特寫、跟蹤、低角度）、場景設定（將軍府、梅花）、角色服裝（女主角的粉色齊胸襦裙、男主角的暗金色龍袍）、動作（爬牆、滑倒、被抓住）、表情、對話和音效，結構如同專業劇本。
-
-#### 📝 提示詞
-
-```
-00:00–00:02 (2秒) [開場鉤子 - 著名的落跑新娘場景]
-- 鏡頭類型：高角度空拍轉為特寫推近
-- 場景：將軍府朱紅色高牆，牆角種植一株盛開的紅梅
-- 服裝：
-- 女主角 [@Image 1]：粉色交領齊胸襦裙，外罩一層薄紗杏色大袖衫，裙襬繡有連枝蓮紋。幾縷碎髮垂落，顯得既端莊又凌亂。
-- 男主角 [@Image 2]：玄色暗金龍紋錦袍，腰繫玉帶，髮高束，面容冷峻。
-- 女主角雙腿跨坐在牆頭，身體微向前傾，鼻尖緊張地冒著汗，雙手死命抓著牆緣。
-- 鏡頭微微推近，特寫她輕咬下唇，眼神中既有不捨又有決絕，偷偷瞥向後院牆。
-- 音效：急促的呼吸聲
-
-00:02–00:06 (4秒)
-- 鏡頭類型：中景跟拍 + 低角度仰拍
-- 動作：
-1. 女主角腳下一滑，身體瞬間失去平衡。
-2. 她驚呼一聲：「啊——！」，雙手胡亂揮舞，裙襬隨風飛揚。
-- 表情：女主角瞳孔放大，由驚慌轉為恐懼。
-- 音效：風聲 + 重物落地悶響（被接住的聲音）
-
-00:06–00:15 (9秒)
-- 鏡頭類型：特寫環繞 + 近景
-- 動作：
-1. 牆下的攝政王伸出長臂，精準有力地扣住女主角纖細的腰肢，阻止她墜地。
-2. 他順勢將她橫抱入懷。
-3. 女主角撞入他結實的胸膛，鼻尖擦過他衣襟上清冷而凜冽的龍涎香氣。
-- 表情：
-- 女主角：瞬間僵住，雙手抵在他胸前，耳尖紅得滴血，臉頰熱得能煎蛋，眼神慌亂閃爍，不敢看他。女主角語氣慌亂地說：「你、你是誰？快、快放我下來！」
-- 男主角：他原本冷峻的眉眼在觸碰到她溫熱的身體時，瞬間柔和下來，嘴角勾起一抹不易察覺的淺笑。
-- 對白（男主角聲音低沉富有磁性，帶著一絲寵溺的無奈）：「我是誰？我就是你翻牆也要逃婚的攝政王。」
-
-- 鏡頭類型：兩人超特寫（CP 感最大化）
-- 動作：
-1. 男主角拇指輕輕摩挲著掌中女主角的手腕。
-2. 他微微俯身，額頭抵著她的額頭，鼻尖相觸，呼吸交織。
-3. 女主角睫毛劇烈顫抖，在眼下投下長長的陰影。
-- 表情：
-- 女主角眼眶濕潤迷濛，又氣又羞，眼眶微紅。眼神躲閃，雙手抵在男主角胸前。
-- 男主角深情凝視著她，眼神中充滿了佔有慾和毫不掩飾的溫柔。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1556.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/398159d72b610336746c500fde83a93d/thumbnails/thumbnail.jpg" width="600" alt="古裝短劇提示詞：落跑新娘"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1556)**
-
-**作者:** [李岳](https://x.com/liyue_ai) | **來源:** [Link](https://x.com/liyue_ai/status/2033878818029474256) | **發布時間:** Mar 17, 2026
-
----
-### 女將軍戰場影片提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個複雜的多部分提示，用於 Seedance 2.0，描述如何生成一段女性將軍在戰場上戰鬥的影片，其中包含參考圖像以及關於鏡頭運動、構圖和聲音設計（僅音效，無背景音樂）的詳細說明。
-
-#### 📝 提示詞
-
-```
-Seedance 2.0 提示詞方法：一張參考圖片 + 2 個提示詞區塊，重現女將軍在戰場上戰鬥的場景。
-
-區塊 1：
-場景 1：女將軍騎馬奔騰，帶領千軍萬馬向前衝鋒。使用拉遠、升降、環繞等運鏡方式，展現千軍萬馬的壯闊場面。場景 2：中景、特寫等視角來回切換。女將軍衝入敵陣。使用第一人稱視角、第三人稱視角、鏡頭切換、高速環繞跟拍等拍攝手法，展現女將軍與敵人的戰鬥。只生成打鬥音效和環境音效，不帶背景音樂。
-
-區塊 2：
-中景 + 特寫 + 遠景 + 特寫來回切換。女將軍衝入敵陣。使用第一人稱視角、第三人稱視角、鏡頭切換、升降拉遠 + 高速環繞跟拍等拍攝手法，展現女將軍與敵人的戰鬥。只生成打鬥音效和環境音效，不帶背景音樂。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1551.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/64f858949c561cd353d4b0eb98f367c1/thumbnails/thumbnail.jpg" width="600" alt="女將軍戰場影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1551)**
-
-**作者:** [探路AI](https://x.com/TanLuAI) | **來源:** [Link](https://x.com/TanLuAI/status/2033876073663115331) | **發布時間:** Mar 17, 2026
-
----
-### 中國漢服角色影片提示，適用於 Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個詳細的提示，用於生成一段 8 秒的電影式影片：一位身穿傳統紅色漢服、頭戴金色鳳冠的美麗女子，在宮廷花園中緩緩轉身，桃花紛飛，影片著重於流暢的動作和超寫實的細節。
-
-#### 📝 提示詞
-
-```
-參考圖片 1。一段電影般的 8 秒影片，一位身穿華麗紅色傳統中式漢服、頭戴精緻金色鳳冠的美麗女子。她最初背對鏡頭，身處一個桃花紛飛的宮廷花園中。她緩緩地慢動作轉身，長長的絲綢衣袖隨風飄揚。她望向鏡頭，露出燦爛優雅的笑容。柔和的陽光，4k，超現實，精緻的珠寶細節，流暢的動作。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1539.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38b46a9f77399d0a41558882df82d3aa/thumbnails/thumbnail.jpg" width="600" alt="中國漢服角色影片提示，適用於 Seedance 2.0"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1539)**
-
-**作者:** [HuangYi](https://x.com/hpssskkk) | **來源:** [Link](https://x.com/hpssskkk/status/2033855930694308354) | **發布時間:** Mar 17, 2026
-
----
-### Seedance 2.0 超級跑車展示影片提示
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個詳細的 10 秒提示，用於 Seedance 2.0 生成一段影片，展示五款不同的超級跑車，重點放在它們的個性和性能。該提示指定了車型、五個獨特的場景、漸進的鏡頭序列（從靜態特寫到動態科幻）、詳細的時間安排（0-2 秒、2-4 秒、4-10 秒）、特定的攝影機運動（跟蹤、環繞、跟隨）、視覺效果（運動模糊、扭曲）和聲音設計（巴西放克音樂）。
-
-#### 📝 提示詞
-
-```
-以「超級跑車的個性和性能」為核心，在 10 秒內串聯 5 款獨特的超級跑車（紅黑碳纖維超跑、藍綠光澤超跑、黃色經典林寶堅尼、黃黑賽車風格超跑、銀色未來概念車），涵蓋 5 大場景：室內車庫、明亮展廳、戶外展示區、賽道、未來感內裝。
-
-全面呈現超級跑車的外觀質感與性能屬性，從靜態設計到動態駕駛。
-
-運用漸進式鏡頭序列：「靜態特寫 → 靜態光影強調 → 動態駕駛 → 動態特效強化 → 科幻動態」。
-
-0-2 秒聚焦超級跑車的靜態細節（材質、線條）。
-
-2-4 秒運用場景 + 光影效果突出視覺焦點。
-
-4-10 秒逐步強化動態感。
-
-靜態部分採用「局部推近（如：碳纖維紋理、車頭燈）+ 整體定格」鏡頭；動態部分則切換為「跟蹤拍攝（黃黑超跑賽道行駛）+ 環繞拍攝（螢光綠超跑移動）+ 動態跟隨（概念車穿越）」鏡頭。
-
-每 2 秒為一個節奏單元；0-2 秒（快速剪輯靜態）採用 0.5 秒/幀的快速剪輯；2-4 秒（穩定光影）1 秒/幀聚焦黃色林寶堅尼與光影效果的融合；4-10 秒（強動態）再次加速，並透過特效強化視覺衝擊力。
-
-燈光效果與超級跑車的定位相符；動態模糊運用「漸進式模糊程度」讓觀眾感知「速度遞增」；螢幕扭曲效果專為概念車設計，以增強「未來穿越」的科幻感。
-
-靜態拍攝時，鏡頭聚焦「進氣口邊緣、輪圈輻條數量」等細節；動態時，則捕捉「車身輕微顛簸、尾翼隨速度調整、車輪與車身同步運動」。
-
-色彩方面，動態部分的燈光色彩呼應超級跑車顏色，靜態部分則採用「暗色 + 亮色」組合，突出多款超級跑車的「性能細節」，場景保持「清晰地面紋理」。配樂為巴西放克音樂。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1558.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6824a4d32312bb1255f882dc85ecfa20/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 超級跑車展示影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1558)**
-
-**作者:** [李岳](https://x.com/liyue_ai) | **來源:** [Link](https://x.com/liyue_ai/status/2033849058855444766) | **發布時間:** Mar 17, 2026
-
----
-### iPhone 宣傳影片提示 (Seedance 2.0)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個給 Seedance 2.0 的提示，用於生成一支 iPhone 的短版宣傳影片。該提示詳細說明了序列：從手機正面顯示 9:41 開始，接著是三個不連續的特寫鏡頭，聚焦於動態島（Dynamic Island），然後視角進入動態島，接著是黑屏，一台新的 iPhone 從底部升起，帶有金屬邊框和三個鏡頭，隨後它在煙霧中消失，最後文字「Titanium」變為「iPhone 15 Pro」。
-
-#### 📝 提示詞
-
-```
-一部 iPhone，配備動態島，最初從正面顯示，時間為 9:41。
-
-三個鏡頭是三個不連續的畫面，攝影機逐漸拉近手機機身，每次拉近的中心點都是螢幕頂部藥丸狀的黑色動態島。在第三個鏡頭結束時，視角進入這個藥丸狀的黑色動態島，隨後整個螢幕變黑。
-
-在這個黑色空間中，一部擁有金屬邊框和三個鏡頭的精緻 iPhone 從底部緩緩升起。隨後，這部 iPhone 突然消失，留下一縷煙霧和一串白色發光的文字：Titanium，然後變成：iPhone 15 Pro。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1562.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/933c93374408cff927cf9d1c410d610c/thumbnails/thumbnail.jpg" width="600" alt="iPhone 宣傳影片提示 (Seedance 2.0)"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1562)**
-
-**作者:** [李岳](https://x.com/liyue_ai) | **來源:** [Link](https://x.com/liyue_ai/status/2033849055202443450) | **發布時間:** Mar 17, 2026
-
----
-### 黑暗騎士變身：FPV 電影風格
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個高度詳細、分段計時的 Seedance 2.0 提示，用於生成一段 15 秒的寫實科幻/特攝影片，描繪「黑暗騎士」的變身過程。該提示明確了角色的外觀（韓國男性，飽經戰火）、氛圍（重工業 CG，深橙色/黑色/紫色調）、攝影運鏡（FPV 極致手持，劇烈晃動，快速焦點呼吸），以及從擊碎黑暗寶珠到黑色鐵製尖刺盔甲完全組裝的逐步變身序列。
-
-#### 📝 提示詞
-
-```
-【核心主題】
-
-寫實科幻特攝，戰場覺醒，暗煙魔球破碎，黑鐵機甲黑暗騎士，電影級黑暗神性。
-
-【角色基本設定】
-
-100% 寫實韓國男性臉孔，臉上有刀傷和瘀青，嘴角滲血，雙眼在極度疲憊與絕望後，仍帶著燃燒的意志。黑色破損戰鬥服，布料邊緣被戰火燒焦，沾染泥土與暗紅色血跡。肌肉發達，單膝跪地，喘息著，右手緊握一顆散發著洶湧暗紫色與黑色煙霧的「黑暗領域魔球」——球體內是旋轉的深紅與暗紫色能量漩渦，如同被封印的黑洞。
-
-【氛圍與質感】
-
-視覺基調：電影質感，IMAX 電影攝影機，Panavision DXL2 鏡頭，焦距 28mm，光圈 f2.8。
-
-色彩調性：暗橘色、焦黑色、暗紫色為主色調。火焰逆光勾勒輪廓，壓縮陰影保留細節。
-
-風格核心：重工業 CG 美學，強調金屬質感與黑暗魔法的融合，如同現實被撕裂。
-
-特效核心：暗煙粒子實體化與匯聚，機甲關節微動動畫，黑焰擴散，空間震顫。
-
-【運鏡·FPV 極限手持】
-
-全程 FPV 第一人稱跟隨感，高速鏡頭切換，手持無穩定器。
-
-鏡頭呼吸：模擬戰地攝影師的極限跟隨，劇烈震顫 + 快速焦點呼吸。
-
-動態軌跡：極近距離衝擊 → 高速環繞 → 低角度暴力拉出 → 全戰場全景俯衝。
-
-【時間軸·鏡頭分解】
-
-0–3 秒 | 戰場殘骸
-
-動作：戰場廢墟，燃燒的中世紀堡壘殘骸，屍體遍布，濃煙滾滾，血色天空被烏雲撕裂。男主角單膝跪地，身後是倒下的戰友。他低著頭，頭髮沾染血跡，右手緊握黑暗領域魔球。球體顫抖，暗紫色煙霧從指縫滲出。他緩緩抬頭，眼神從絕望轉為燃燒的決心。
-
-鏡頭：FPV 極低角度衝向角色，掠過倒下的士兵，震顫推至面部特寫，捕捉眼神轉變的瞬間。鏡頭劇烈晃動，如同在炮火衝擊波中手持拍攝。
-
-3–6 秒 | 魔球破碎·覺醒爆發
-
-動作與特效：男主角咬緊牙關，發出低吼，右手握拳，暴力捏碎魔球。
-
-破碎瞬間——低沉的能量轟鳴，如同深淵開啟。以角色為中心，黑紫色衝擊波向外爆發。地面石塊被氣浪掀起，周圍火焰被壓平後又劇烈反彈。暗煙粒子如活物般從碎片中湧出，迅速纏繞右臂並蔓延至全身。
-
-男主角瞳孔被暗紅色火焰取代。嘴角微不可察地上揚，黑暗的平靜覆蓋了疲憊。
-
-鏡頭：魔球破碎瞬間，鏡頭劇烈晃動並失焦。衝擊波掃過鏡頭，產生色差。快速修正後，高速環繞右側一圈。
-
-6–9 秒 | 撕裂與重構·肉體劇痛
-
-動作：男主角仰頭，眉頭緊鎖，承受體內黑暗能量的強制改寫。
-
-核心特效：
-
-黑暗金屬碎片從皮膚表面爆裂，如同從體內向外刺出。
-
-黑色液態金屬從脊椎處開始滲出，沿著身體蔓延，如同熔融的暗鐵。
-
-衣物被撕裂剝落，布料碎片被黑色能量場吸收，化為灰燼。
-
-骨骼重構的悶響，暗紫色電弧從關節處迸發。
-
-黑紅色光芒從胸腔內部透出，能量紋路如同裂紋般在皮膚上浮現。
-
-鏡頭：手持特寫跟隨，因能量衝擊頻繁失焦與對焦，模擬攝影師被氣浪推開的效果。
-
-9–12 秒 | 黑鐵機甲·組裝與降臨
-
-裝甲生長特效（超細節）：
-
-軀幹裝甲：黑鐵流線型裝甲片從暗煙中實體化，帶有血紅色能量紋路浮雕，表面質感如同冷卻熔岩的裂紋，縫隙中滲出暗紫色能量流光。
-
-肩部裝甲：巨型尖刺肩甲碰撞嚙合，迸發黑色電光，留下永久的咬合痕跡。肩甲頂部的骨刺緩緩生長，如同活物。
-
-頭盔覆蓋：黑色裝甲碎片從頸部向上蔓延，包裹面部，形成參考圖中尖刺鬼王頭盔造型——頭頂伸出銳利三叉戟冠冕，面甲縫隙透出暗紅色光芒，無透明顯示屏，純粹的暗鋼壓迫感。
-
-戰鬥披風：黑色殘破披風從肩甲處自動展開，形似燃燒著暗焰的翅膀輪廓。
-
-微動畫細節：裝甲關節處的尖刺輕微顫動調整，如同呼吸；每塊裝甲邊緣的腐蝕紋路實時蔓延。
-
-氛圍特效：變身完成瞬間，周圍十米範圍內的地面血跡與塵土被黑色壓迫氣場壓縮成圓形漣漪。周圍所有火焰變色為紫黑色火焰。
-
-鏡頭：高速 360° 低角度環繞。鏡頭與每塊裝甲片嚙合同步震顫，如同實體衝擊波直接擊中鏡頭。
-
-12–15 秒 | 完成·戰場屠戮
-
-最終形態：全套黑鐵尖刺機甲，參考索倫式鬼王設計——三叉戟尖刺頭盔，巨刃肩甲，全身黑暗重甲，血紅色能量紋路。
-
-武器實體化：雙手展開，暗煙在掌心凝聚旋轉，瞬間形成一把巨型黑焰大劍——劍刃寬厚，刻有古老詛咒紋路。黑焰沿著劍刃燃燒，偶爾迸發暗紫色閃電。
-
-戰場屠戮序列（快速剪輯）：
-
-第一斬：大劍橫掃，氣浪同時擊退三名敵兵。鏡頭 FPV 跟隨劍的軌跡。
-
-第二斬：上挑突刺。鏡頭從地面低角度拍攝，劍刃下劈，衝擊波撕裂地面。
-
-第三斬：旋轉斬擊。鏡頭被氣浪帶動旋轉，畫面同步旋轉失穩。
-
-黑暗騎士停下，站在火焰與倒下的敵人之間。黑焰披風鼓動。頭盔縫隙透出暗紅色光芒，直視鏡頭。
-
-最終鏡頭：極低角度仰拍。鏡頭緩緩拉遠。黑暗騎士巍然屹立於燃燒的戰場廢墟之上。黑焰大劍插入地面。火焰倒映在黑鐵裝甲上。畫面定格。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1566.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ccf8a8dac7db45b9c68e2f21a3f1ac0/thumbnails/thumbnail.jpg" width="600" alt="黑暗騎士變身：FPV 電影風格"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1566)**
-
-**作者:** [cyborg.digitalart](https://x.com/Vampirosapien15) | **來源:** [Link](https://x.com/Vampirosapien15/status/2033848472156426393) | **發布時間:** Mar 17, 2026
-
----
-### 巨型海洋利維坦襲擊大都會港口
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個為 Seedance 2.0 設計的詳細多鏡頭敘事提示，內容聚焦於一隻巨大的深海生物從海洋中升起，並在一個特大城市的港口引發水力災難，其中包含電影級的水體物理效果和結構破壞。
-
-#### 📝 提示詞
-
-```
-一頭龐大的海洋巨獸，身長 300 公尺，全身覆蓋著鯨魚般的裝甲板，半透明的魚鰭中流動著發光的生物螢光，從一座特大城市港口外的深海中浮現——在第二秒時，這隻生物垂直衝出水面，一次噴發就排開了數百萬噸海水。
-
-港口瞬間變成一場水力災難。
-
-一道水牆從衝擊點向外湧出。
-
-破壞是潮汐性和結構性的：貨櫃船在巨浪中像玩具一樣被抬起，港口起重機的基座被淹沒後斷裂，海堤在突然湧入的巨大海水壓力下崩塌。
-
-巨獸的每一次移動都會產生二次海嘯。
-
-整個碼頭從地基上被撕裂。
-
-這場浩劫向內陸蔓延，吞噬了濱水區：港口基礎設施被撕裂 → 貨船在城市街道上滑行 → 洪水侵蝕地基導致中層建築倒塌。
-
-儲油罐破裂。
-
-渡輪撞上辦公大樓。
-
-追蹤攝影機掠過洪水上方，巨獸在半淹沒的街道中游動。
-
-當巨獸的尾巴擊中水面，產生一道二次巨浪，淹沒了整個港口屏障時，速度驟增。
-
-切換到空拍：一半的沿海地區現在已淹沒在水下。
-
-巨獸在新形成的內陸海中盤旋。
-
-深海生物螢光透過洪水和碎玻璃反射，電影級的水體置換物理效果，大規模的體積噴濺和碎片模擬，4K。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1540.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/312f12f1e91267f24ab52e04d7cc66b7/thumbnails/thumbnail.jpg" width="600" alt="巨型海洋利維坦襲擊大都會港口"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1540)**
-
-**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2033838269515944274) | **發布時間:** Mar 17, 2026
-
----
-### 電影級長鏡頭動作場面
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 為 Seedance 2.0 設計的複雜多部分提示，要求製作一段電影般的長鏡頭動作序列，內容是一名中國青年在城市街道上放風箏、進行跑酷，並以戲劇性的鼓點落地。該提示包含流暢動作、特定風格轉換（新海誠到水墨畫）、攝影運鏡，甚至矛盾元素（校園裡的美國軍樂隊）的詳細說明，以測試模型的遵循程度。
-
-#### 📝 提示詞
-
-```
-生成一段電影級、大規模動作長鏡頭動畫。主題：一位中國青年在擁擠的街道上放風箏，躍上台階，翻身落地，衝向高台，並完成一個高難度跳躍。他落地的那一刻，鼓聲驟然響起。全程單一連續鏡頭，無剪輯，動作流暢，重量感、慣性、落地緩衝清晰可見。風格轉換：0-5 秒：清晰、高飽和度但受控的新海誠風格，帶有濕潤的反光。6-10 秒：水墨爆發；背景建築以水墨筆觸簡化，速度線呈乾筆飛濺風格，鼓點視覺化為水墨衝擊波。主角和風箏必須保持清晰。4K 影片，一支超過 50 人的美國軍樂隊在校園遊行，天氣晴朗。樂隊身穿正式深藍色軍裝，配金色肩章，隊形整齊。銅管樂手演奏經典軍樂，鼓手敲擊穩定節奏，指揮用指揮棒引導。背景：歡呼的學生、美國國旗、古老的紅磚校園建築。鏡頭：動態追蹤，廣角和中景交替，運鏡流暢。音訊：立體聲銅管樂旋律、鼓點、人群歡呼聲。氛圍：明亮、充滿活力、愛國、溫暖的陽光色調。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1545.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae80a18b8fab0f5cfeb99dff04b1569d/thumbnails/thumbnail.jpg" width="600" alt="電影級長鏡頭動作場面"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1545)**
-
-**作者:** [Sammm](https://x.com/SammmXBT) | **來源:** [Link](https://x.com/SammmXBT/status/2033775765108756938) | **發布時間:** Mar 17, 2026
-
----
-### 機甲裝甲變形動作序列提示摘要
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這則推文描述了單一提示所產生的視覺特效豐富動作場景，內容是一名女性在城市混亂中進行全身機甲變形。推文強調了該提示引導複雜編排和時間一致性的能力，但實際的提示文字僅為摘要，並未完整提供。
-
-#### 📝 提示詞
-
-```
-一名赤腳女子。城市混亂。接著是中途進行的機甲變形。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1554.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3eb07d411e8c1d2fcff90ef9733bd44e/thumbnails/thumbnail.jpg" width="600" alt="機甲裝甲變形動作序列提示摘要"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1554)**
-
-**作者:** [Shreya♡](https://x.com/Shreyayadav) | **來源:** [Link](https://x.com/Shreyayadav/status/2033772829058158768) | **發布時間:** Mar 17, 2026
-
----
-### 奢華護膚品廣告，360 度環繞視角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個為 Seedance 2.0 設計的詳細商業提示，指定生成一個高階奢華護膚品廣告。它要求精確匹配參考瓶身、360 度環繞攝影機軌道、特定燈光和精緻美學。
-
-#### 📝 提示詞
-
-```
-一支視覺風格極致奢華的高端護膚品廣告。產品瓶身形狀、標籤細節、液體顏色、反光和整體設計必須精確符合提供的參考圖像。瓶身垂直置於畫面正中央，放置在光滑的液體表面上，液面泛著柔和優雅的漣漪。精緻的液體飛濺在瓶身底部周圍升起，形成一個精美的冠狀，如水晶般反射光線。
-
-背景呈現柔和夢幻的漸變色，從柔和的水藍色過渡到淡雅的薰衣草色，營造出絲滑奶油般的氛圍，並帶有淡淡的漂浮霧氣顆粒。攝影機以緩慢、流暢的 360 度電影運鏡環繞產品，保持恆定速度，沒有晃動、變焦或任何動作變化。瓶身始終保持完美居中、垂直且完全穩定，以中景特寫的唯美構圖捕捉，作為主要焦點。
-
-燈光採用高端攝影棚風格精心打造，提供柔和的漫射照明、細微的亮點、光澤反射和柔和的輪廓光，以勾勒出瓶身的邊緣。玻璃和液體呈現出光澤、水潤和光滑的質感。整體氛圍優雅、感性且精緻——忠實呈現奢華美妝廣告的風格——具有電影般的景深、精緻的紋理、柔和的反光和 4K 超寫實品質的慢動作美學。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1543.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0fa9089a973c6cd69ae6e6fce3d7a580/thumbnails/thumbnail.jpg" width="600" alt="奢華護膚品廣告，360 度環繞視角"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1543)**
-
-**作者:** [Zyro](https://x.com/Itswsm105f) | **來源:** [Link](https://x.com/Itswsm105f/status/2033772283354092030) | **發布時間:** Mar 17, 2026
-
----
-### 蒸氣龐克空中大戰影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個 Seedance 2.0 的提示，描述了一場電影般的蒸汽龐克空中戰鬥場景。重點是一位身穿飛行裝備的年輕女性天空機械師，站在受損的飛艇機翼上，用帶電工具與一隻巨大的雷電大鵬鳥搏鬥。
-
-#### 📝 提示詞
-
-```
-一場電影般的蒸汽龐克空中戰役。一位身穿皮革飛行裝備的年輕空中機械師女孩，站在一艘受損飛艇的機翼上，飛艇位於暴風雲之上。她揮舞著帶電的鏈條工具和一支發光的扳手杖。她的敵人是一隻由
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1546.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84bfa4ba2f077daddc1464e25d1a3841/thumbnails/thumbnail.jpg" width="600" alt="蒸氣龐克空中大戰影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1546)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2033769015215067341) | **發布時間:** Mar 17, 2026
-
----
-### Seedance 2.0 電影懸疑提示，附詳細時間軸
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一個高度詳細的 Seedance 2.0 提示，用於生成一個 15 秒、一鏡到底、電影感十足且高度逼真的懸疑影片，場景設定在戰場後。該提示詳細說明了場景、氛圍、角色狀態，並將攝影機運動、聲音設計和敘事進程分解為三個精確的時間段（0:00-0:04、0:04-0:10、0:10-0:15）。
-
-#### 📝 提示詞
-
-```
-格式：15 秒 / 一鏡到底 / 電影級寫實 / 無剪輯，壓抑沉重的懸念，戰後殘留環境音效設計。
-
-場景描述：戰火剛熄的戰場，能見度低，空氣中瀰漫著嗆人的煙霧和焦糊味。地面浸透著血污和戰損痕跡，遍布著殘破的旗幟、折斷的武器和層層疊疊的陣亡士兵遺骸。一名身著殘破盔甲的士兵獨自跪在殘骸中，長矛插在血污的泥土中支撐著他的身體。他的盔甲沾滿血跡和煙塵，身體因寒冷和疲憊似乎隨時會倒下。觀眾應感受到強烈的荒涼、窒息和被黑暗籠罩般的緊張感，彷彿戰爭雖已結束，但更為恐怖的威脅仍在暗處潛伏。整個片段必須以不間斷、潛行般的攝影機運動呈現。
-
-時間軸：
-0:00-0:04 | 鋪陳：低角度潛行視角追蹤鏡頭，穿梭於濃煙和零星火星之間。鏡頭不斷被飛揚的炭粒和塵埃擊中，造成間歇性視覺阻礙。攝影機滑過一面沾滿血污泥濘的殘破戰旗，上面印著殘缺的部隊番號，隨後揭示出灰燼下堆疊的輪廓：一片被箭矢洞穿的盔甲，一頂半埋在泥土中的頭盔。整體構圖呈現大衛·芬奇（David Fincher）式的精準控制和資訊隱匿。音效：殘餘的火勢聲、爐灰刮擦金屬的刺耳聲、遠處爆炸聲的殘留迴響。
-
-0:04-0:10 | 升級：攝影機向右旋轉，聚焦於跪地的盔甲士兵。他以插入地面的長矛為支撐點，起初一動不動，只有沉重的呼吸在冷空氣中呼出白霧。他殘破的戰袍在寒風中劇烈拍打，盔甲上的血跡和煙塵隨著身體的顫抖而龜裂剝落。攝影機以幾乎難以察覺的精準度緩慢靠近並繞到他身後，不斷收緊畫面，拒絕提供任何安全感。音效：沉重的呼吸聲、盔甲的吱嘎聲、戰袍劇烈拍打的聲音、風中泥土下埋藏碎屑的微小碰撞聲。
-
-0:10-0:15 | 高潮：越過士兵的肩膀，煙霧短暫稀薄，一個攜帶著難以置信的沉重力量的巨大剪影穿過黑色帷幕，其全貌從未完全展現。士兵察覺到威脅，恐懼地抬起頭，呼吸急促，緊握矛柄，隨後猛地拔出長矛。拔矛的動作揚起泥土和火星，朝攝影機飛濺而來，此時巨獸的剪影瞬間變得更加清晰。音效：沉重的腳步聲、煙霧和風聲的驟然減弱、急促的喘息聲、鋼鐵從血污泥土中掙脫的尖銳聲、泥土和灰燼爆裂飛濺的聲音。
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1561.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eee3cb1cfdaf2785ccfa6149684c6e85/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 電影懸疑提示，附詳細時間軸"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1561)**
-
-**作者:** [赛博杰尼](https://x.com/Merak1990) | **來源:** [Link](https://x.com/Merak1990/status/2033739319031308302) | **發布時間:** Mar 17, 2026
-
----
-### 哥德吸血鬼領主影片提示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 的詳細提示，重點在於拍攝一位蒼白、英俊的哥德式吸血鬼領主，他擁有銀色頭髮，使用強烈的視覺衝擊、置中構圖和低角度仰拍的電影鏡頭。
-
-#### 📝 提示詞
-
-```
-電影般的鏡頭，具有強烈的視覺衝擊力，置中構圖 + 低角度仰拍；男主角 A 是一位蒼白的哥德式吸血鬼領主，英俊得令人心碎，銀色及肩長髮向後梳理，只留下幾縷被風吹亂的髮絲，五官輪廓分明
-```
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1548.mp4"><img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19e4ef684575d4aa70fb943495d420cb/thumbnails/thumbnail.jpg" width="600" alt="哥德吸血鬼領主影片提示"></a>
-
-📥 *點擊圖片下載視頻* | **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=1548)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2033721209259499619) | **發布時間:** Mar 17, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -3097,6 +3107,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-03-22T05:19:19.969Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-03-22T08:38:02.912Z</sub>
 
 </div>
