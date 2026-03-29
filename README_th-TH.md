@@ -68,7 +68,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **1236** |
+| 📝 พรอมต์ทั้งหมด | **1275** |
 | ⭐ พรอมต์แนะนำ | **6** |
 | 🔄 อัปเดตล่าสุด | **2026-03-29** |
 
@@ -326,6 +326,1107 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### ลำดับท่าอัปเปอร์คัตในเกมต่อสู้จากภาพอ้างอิง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์สำหรับฟีเจอร์ Omni reference image to video ของ Seedance 2.0 ซึ่งอธิบายถึงลำดับฉากเกมต่อสู้ที่เต็มไปด้วยพลวัต โดยมีนักสู้กล้ามโตออกท่า Shoryuken อัปเปอร์คัตเปลวไฟ พร้อมระบุการเคลื่อนไหวของกล้อง แสง เสียง และบทสนทนาที่เป็นแบบฉบับของการถ่ายทอดสดการแข่งขันเกมต่อสู้ระดับมืออาชีพ
+
+#### 📝 พรอมต์
+
+```
+Action: นักสู้กล้ามเนื้อใหญ่ปล่อยหมัดอัปเปอร์คัต Shoryuken อย่างรวดเร็วใส่คู่ต่อสู้ที่แข็งแกร่ง พุ่งทะยานขึ้นไปในอากาศพร้อมเปลวไฟที่พวยพุ่งออกจากกำปั้นอย่างทรงพลัง
+Camera: กล้องถ่ายทอดสดมุมด้านข้างแบบไดนามิกต่อเนื่อง แพนกล้องอย่างนุ่มนวลและเงยขึ้นเพื่อติดตามการเคลื่อนไหวที่พุ่งขึ้นอย่างระเบิด ในช็อตเดียวที่ไม่ตัดต่อและเต็มไปด้วยพลังงานสูง
+Lighting: ไฟสปอตไลต์สว่างจ้าในสนามประลอง พร้อมแสงขอบที่สร้างมิติและเงาที่คมชัด ซึ่งเป็นลักษณะเฉพาะของการถ่ายทอดสดการแข่งขันต่อสู้ระดับมืออาชีพ
+Sound: เสียงผ้าสะบัด, เสียงหมัดแหวกอากาศอันทรงพลังพร้อมเสียงเปลวไฟปะทุ, เสียงปะทะที่รุนแรง และเสียงฝูงชนที่ส่งเสียงคำรามด้วยความตื่นเต้น
+Dialogue: 'เขาแหวกการป้องกันได้แล้ว และปล่อย Shoryuken เพลิง! นี่คือท่ามังกรทะยานอันดุร้าย!'
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9989a922e7ca6d4ee2280b1c37f2203c/thumbnails/thumbnail.jpg" width="600" alt="ลำดับท่าอัปเปอร์คัตในเกมต่อสู้จากภาพอ้างอิง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2208)**
+
+**ผู้เขียน:** [Pan](https://x.com/sebatheepan) | **แหล่งที่มา:** [Link](https://x.com/sebatheepan/status/2038030096615833963) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### ฉากภาพยนตร์หลายช็อต: เจ้าหน้าที่ FBI และมนุษย์ต่างดาวในงานปาร์ตี้
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ซับซ้อนและมีหลายช็อตสำหรับ Seedance 2.0 เพื่อสร้างลำดับภาพยนตร์ตลกหน้าตายสั้นๆ ที่เกี่ยวข้องกับเจ้าหน้าที่ FBI เผชิญหน้ากับมนุษย์ต่างดาวสีเทาในงานปาร์ตี้ที่บ้านอันวุ่นวาย โดยระบุรายละเอียดของช็อตเฉพาะ บทสนทนา สไตล์ และการออกแบบเสียง
+
+#### 📝 พรอมต์
+
+```
+SHOT 1 — 0:00 to 0:04
+ภายในงานปาร์ตี้ในบ้านที่คนแน่นขนัด มีไฟประดับเส้นเล็ก ๆ สีวอร์มไลท์อยู่ด้านหลัง ผู้คนกำลังหัวเราะและถือแก้วสีแดง ชายหนุ่มท่าทางเคร่งขรึมในชุดสูทสีเข้มโน้มตัวไปข้างหน้าและวางมือข้างหนึ่งลงบนศีรษะขนาดใหญ่เรียบลื่นของมนุษย์ต่างดาวสีเทาอย่างมั่นคง มืออีกข้างหนึ่งยื่นตรา FBI ตรงมาที่กล้อง ดวงตาที่จ้องเขม็งและแน่วแน่มองตรงไปข้างหน้า ภาพถ่ายสไตล์ฟิล์มเกรนหยาบ ให้ความรู้สึกแบบ 35 มม. ชัดตื้น พื้นหลังงานปาร์ตี้ที่วุ่นวายเบลอเล็กน้อย
+ชายคนนั้นจ้องมองตรงมาที่กล้องและพูดช้า ๆ ว่า:
+"ฉันตามหาแกมา 26 ปีแล้ว"
+
+SHOT 2 — 0:04 to 0:09
+ภาพโคลสอัพปานกลางที่มนุษย์ต่างดาวสีเทา ดวงตาสีดำขนาดมหึมาไม่กะพริบ นิ่งสนิท ใบหน้าไร้อารมณ์ เสียงปาร์ตี้และเสียงหัวเราะยังคงดังลั่นอยู่เบื้องหลัง ความเงียบที่น่าอึดอัดยาวนาน มนุษย์ต่างดาวกะพริบตาช้า ๆ หนึ่งครั้ง
+มนุษย์ต่างดาวตอบกลับด้วยเสียงโทรจิตที่สงบราบเรียบและก้องกังวานว่า:
+"เรารู้ คุณให้รีวิวแย่มากกับยานแม่ของเรา"
+
+SHOT 3 — 0:09 to 0:12
+ภาพโคลสอัพใบหน้าของชายคนนั้น ขากรรไกรเกร็ง ดวงตาหรี่ลง เขาลดตรา FBI ลงช้า ๆ จ้องมองอยู่ครู่ใหญ่ เสียงหัวเราะในงานปาร์ตี้เบาลงเล็กน้อยรอบตัวเขา มีคนหนึ่งในพื้นหลังหยุดหัวเราะกลางคันเมื่อสังเกตเห็นความตึงเครียด แสงไฟสลัวสีวอร์มไลท์ตกกระทบใบหน้าของเขา สีหน้าจริงจังอย่างที่สุด ไม่มีเสียงเพลง มีเพียงเสียงบรรยากาศในห้อง
+เขาพูดอย่างเงียบ ๆ และหนักแน่นว่า:
+"การลักพาตัวครั้งนั้นไม่ได้ห้าดาวเลย"
+
+SHOT 4 — 0:12 to 0:15
+ภาพมุมกว้าง ทั้งชายและมนุษย์ต่างดาวหันหน้าไปข้างหน้าอย่างเงียบงัน งานปาร์ตี้ยังคงดำเนินไปอย่างวุ่นวายรอบตัวพวกเขาโดยไม่มีใครสนใจ ชายคนนั้นยังคงวางมือบนศีรษะของมนุษย์ต่างดาว ไม่มีใครขยับ สองร่างที่จริงจังที่สุดในห้องที่ไร้สาระที่สุด กล้องยังคงนิ่ง ซูมเข้าช้า ๆ เล็กน้อย ค่อย ๆ จางหายไปเป็นสีดำ
+ข้อความปรากฏบนหน้าจอ:
+"ความจริงยังคงอยู่ข้างนอกนั่น"
+
+Style Notes: สุนทรียภาพแบบฟิล์ม 35 มม. ที่มีเกรนหยาบ · แสงไฟปาร์ตี้จริงที่ให้ความรู้สึกอบอุ่น · น้ำเสียงจริงจังไร้อารมณ์ตัดกับฉากหลังที่ไร้สาระ · ชัดตื้น · ไม่มีคัตกระโดด จังหวะการดำเนินเรื่องช้าและจงใจ · การออกแบบเสียงบรรยากาศที่ละเอียดอ่อน · พื้นผิวของมนุษย์ต่างดาวที่สมจริงราวกับภาพถ่าย · อารมณ์ขันแบบแห้งแล้งผ่านความขัดแย้ง
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/666a51de1dd0b3e872a3f82d8149b515/thumbnails/thumbnail.jpg" width="600" alt="ฉากภาพยนตร์หลายช็อต: เจ้าหน้าที่ FBI และมนุษย์ต่างดาวในงานปาร์ตี้">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2204)**
+
+**ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2038015021738070250) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### ฉากแปลงร่างสไตล์ มาสค์ไรเดอร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์ที่อธิบายถึงลำดับการแปลงร่างสไตล์ Kamen Rider ความยาว 15 วินาทีเต็ม จากร่างมนุษย์กลายเป็นชุดเกราะเมคาที่เสียหายจากการต่อสู้ ซึ่งสร้างขึ้นทั้งหมดด้วย Seedance 2.0 โดยมีเป้าหมายที่คุณภาพระดับ AI cinema
+
+#### 📝 พรอมต์
+
+```
+ฉากแปลงร่างสไตล์ Kamen Rider เต็มรูปแบบ - จากมนุษย์สู่ชุดเกราะเมคคาที่เสียหายจากการต่อสู้ - สร้างขึ้นทั้งหมดด้วย Seedance 2.0 บน @dreamina_ai
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8eb49b75a751fad3842f7372f2ff83b/thumbnails/thumbnail.jpg" width="600" alt="ฉากแปลงร่างสไตล์ มาสค์ไรเดอร์">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2202)**
+
+**ผู้เขียน:** [ChrisTheNerv](https://x.com/ChrisTheNerv) | **แหล่งที่มา:** [Link](https://x.com/ChrisTheNerv/status/2038013966367223907) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### The Silent Retreat Uproar (Disaster Scene)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-shot prompt for a disaster scene created with Seedance 2.0, detailing specific actions and audio cues across three shots: a mosquito landing on a Guru's nose, the Guru's eye twitching, and the Guru wildly slapping his face.
+
+#### 📝 พรอมต์
+
+```
+The Silent Retreat Uproar. 
+Shot 1 (0.0-0.5): Macro shot of a mosquito landing on the Guru's nose during deep meditation. Audio: High pitched BZZZ. 
+Shot 2 : The Guru's eye twitches violently. Audio: Spring boing. 
+Shot 3 : He wildly slaps his
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/750f85b1921743b4f1b203b17d8a0006/thumbnails/thumbnail.jpg" width="600" alt="The Silent Retreat Uproar (Disaster Scene)">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2214)**
+
+**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2038009087057674725) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Dark Stormy Town: Water Sword Wielding Character
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured prompt for Seedance V2 generating a 15-second video featuring a character in a dark, stormy small town. The sequence involves the character standing in torrential rain, freezing time, forming a sword from suspended water droplets, and slashing the sky with the energy sword, using low-saturation gray-blue tones and film grain.
+
+#### 📝 พรอมต์
+
+```
+visual_theme: "Dark stormy small town, low-saturation gray-blue tones, film grain
+
+ character_reference: "@Image1 (hairstyle, white crystalline oriental dress, stoic expression).
+
+ lighting: "Dim lanterns, soft-focus ethereal glow, f/4 aperture, 35mm lens
+
+  timeline_sequence:
+    0-3s:
+      camera: "Slow vertical pan from feet to full body"
+      action: "Character stands in torrential rain; hyper-realistic water droplets slide off skin"
+      effects: "Faint red and blue energy aura emanates from the body"
+    3-6s:
+      camera: "Extreme close-up on feet, then rapid zoom-out to wide shot"
+      action: "Step forward triggers red/blue shockwave; environment desaturates to grayscale"
+      effects: "Time freezes; rain droplets suspend in mid-air as refractive spheres"
+    6-9s:
+      camera: "Medium upper-body close-up"
+      action: "Character hands form sword-gripping gesture; suspended rain converges into palms"
+      effects: "A sword of flowing water forms with intense red and blue light pulsing inside"
+    9-15s:
+      camera: "Close-up on face/eyes to wide tracking shot"
+      action: "Eyes ignite with red glow; character slashes water sword toward the sky"
+      effects: "Sword dissipates into a massive red-blue energy arc that slices and parts the storm clouds"
+  technical_constraints: "Fluid motion, no watermarks, no subtitles, maintain @Image1 facial consistency"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e7dd21eb4ee5afb5d9dcfd91246f41f/thumbnails/thumbnail.jpg" width="600" alt="Dark Stormy Town: Water Sword Wielding Character">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2226)**
+
+**ผู้เขียน:** [Emily](https://x.com/IamEmily2050) | **แหล่งที่มา:** [Link](https://x.com/IamEmily2050/status/2037990394466636200) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### PIGEON: Museum Heist
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a high-budget 3D animated short about a tiny street pigeon, dressed in a black turtleneck and beret, attempting to steal a single French fry from an elegant museum café, featuring laser security and a miniature heist parody. The scene starts in a moonlit museum interior.
+
+#### 📝 พรอมต์
+
+```
+Animation prompt  
+
+PIGEON: Museum Heist A tiny street pigeon in a black turtleneck and beret attempts to steal a single French fry from an elegant museum café. Laser security everywhere. High-budget 3D animation, miniature heist parody. 
+[0s–1.5s] Moonlit museum interior. The
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7de676b068b0d3f55a7240520844db1/thumbnails/thumbnail.jpg" width="600" alt="PIGEON: Museum Heist">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2212)**
+
+**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2037974710768574749) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### นักสำรวจใต้ทะเลลึกในเมืองปะการังชีวเรืองแสง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอของนักสำรวจใต้ทะเลลึกผู้คล่องแคล่วที่กำลังเดินทางสำรวจเมืองปะการังเรืองแสงชีวภาพที่พลุกพล่าน โดยใช้เจ็ตสกู๊ตเตอร์ใต้น้ำ เน้นการถ่ายทำแบบติดตามตัวละคร (cinematic tracking shots), เอฟเฟกต์ภาพเบลอจากการเคลื่อนไหวแบบไดนามิก (dynamic motion blur) และความสวยงามของโลกใต้น้ำที่สดใสมีชีวิตชีวา (vibrant aquatic aesthetic)
+
+#### 📝 พรอมต์
+
+```
+นักสำรวจใต้ทะเลลึกผู้คล่องแคล่ว ขับเคลื่อนด้วยเจ็ตสกู๊ตเตอร์ใต้น้ำดีไซน์โฉบเฉี่ยว ทะลุผ่านเมืองปะการังชีวเรืองแสงขนาดมหึมาที่คึกคัก ลัดเลาะอย่างง่ายดายผ่านฝูงแมงกะพรุนเรืองแสง หลบหลีกเต่าทะเลขนาดใหญ่ แท็กซี่ใต้น้ำ และป่าสาหร่ายทะเลสูงตระหง่าน เธอร่อนผ่านซากปรักหักพังโบราณที่จมอยู่ใต้ทะเล สี่แยกใต้น้ำที่พลุกพล่าน และฟาร์มดอกไม้ทะเลสีสันสดใส หมุนตัวผ่านรอยแยกแคบๆ อย่างแม่นยำและมีสไตล์ กล้องติดตามการเคลื่อนไหวของเธอที่โต้กระแสน้ำราวกับฉากภาพยนตร์ เสริมด้วยเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหวที่พลิ้วไหว และลำแสงสีฟ้าครามที่สาดส่องทะลุความมืดมิดของห้วงลึกสีน้ำเงินเข้ม อาณาจักรใต้ทะเลแห่งนี้เต็มไปด้วยชีวิตชีวาแห่งท้องน้ำ ทั้งปล่องภูเขาไฟใต้น้ำที่พ่นฟองอากาศ เสียงเพลงของวาฬที่ก้องกังวาน และการเคลื่อนไหวของกระแสน้ำที่ไม่หยุดนิ่ง รายละเอียดที่สมจริงสุดๆ ด้วยสุนทรียภาพแบบภาพยนตร์แอ็คชั่นใต้ทะเล เก็บทุกภาพความเร็ว ความสง่างาม และแรงขับเคลื่อนอันไร้ความกลัวใต้เกลียวคลื่น
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5fb2c35ce5f19035af5c3b2fedadddc/thumbnails/thumbnail.jpg" width="600" alt="นักสำรวจใต้ทะเลลึกในเมืองปะการังชีวเรืองแสง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2209)**
+
+**ผู้เขียน:** [Pan](https://x.com/sebatheepan) | **แหล่งที่มา:** [Link](https://x.com/sebatheepan/status/2037956888516792705) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### พรอมต์ลำดับฉากแอคชั่นซามูไรในทะเลทราย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับฉากแอ็กชันที่เร้าใจ นำเสนอซามูไรในชุดเกราะที่วิจิตรบรรจง กำลังแสดงท่วงท่าการต่อสู้แบบกายกรรมในทะเลทรายยามพระอาทิตย์ตกดิน โดยระบุรายละเอียดแบบโคลสอัพสุดขีด เนินทรายสีทอง เงาทอดยาว ภาพสั่นไหวจากความร้อน ระยะชัดตื้น จังหวะที่เข้มข้น และองค์ประกอบของซาวด์สเคป
+
+#### 📝 พรอมต์
+
+```
+ฉากแอคชั่นที่เต็มไปด้วยพลังงานสูง: กล้องจับภาพโคลสอัพสุดขีด เจาะรายละเอียดซามูไรผู้สวมชุดเกราะวิจิตรบรรจง ชักดาบคะตะนะในท่วงท่าอันสง่างาม ขณะที่แสดงท่วงท่ากายกรรมและกระบวนท่าต่อสู้สุดตระการตาในทะเลทรายยามอาทิตย์อัสดง เนินทรายสีทองทอดยาวจรดขอบฟ้า เงายาวทอดลงมาด้วยแสงอาทิตย์ยามเย็น ไอระเหยร้อนระยิบระยับในอากาศ ใช้ระยะชัดตื้นที่แยกตัวแบบให้โดดเด่น เพื่อจับภาพทุกช่วงเวลาของการเคลื่อนไหวอันทรงพลัง จังหวะที่เข้มข้นพร้อมด้วยการออกแบบท่าทางที่รวดเร็ว ทุกการเคลื่อนไหวถูกกำหนดเวลาอย่างแม่นยำ ภูมิทัศน์เสียง: เสียงลมหวีดหวิว, ...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7bd446b96fdb2f7b7be28bc8562b75e/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ลำดับฉากแอคชั่นซามูไรในทะเลทราย">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2192)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037929220710752671) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### แอนิเมชันแฟนตาซีสไตล์ภาพยนตร์: ซากปรักหักพังที่ธรรมชาติเข้าครอบงำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์ที่ละเอียดสำหรับ Seedance 2.0 เพื่อสร้างแอนิเมชันแฟนตาซี 3 มิติ แบบภาพยนตร์ ของที่หลบภัยลึกลับที่ถูกปกคลุมไปด้วยพืชพรรณและลอยอยู่ในอวกาศ โดยระบุสไตล์ (Blender, อิทธิพลจากภาพประกอบกราฟิก), การเคลื่อนไหวของกล้อง (การเคลื่อนกล้องแบบ Dolly shot ไปข้างหน้าอย่างต่อเนื่องและนุ่มนวล), แสง (ลำแสงส่องลงมาแบบ Volumetric, คอนทราสต์สูง) และโทนสี (สีเขียวอมน้ำเงิน-ทอง)
+
+#### 📝 พรอมต์
+
+```
+แอนิเมชันแฟนตาซี 3D สไตล์ Blender แบบภาพยนตร์, "อู่อนันต์" อันลึกลับที่มีรายละเอียดสูงมาก หรือที่หลบภัยศักดิ์สิทธิ์ที่ปกคลุมไปด้วยพืชพรรณ ล่องลอยอยู่ในห้วงอวกาศอันเลือนรางและเต็มไปด้วยหมอก, พืชพรรณเขียวชอุ่มที่สร้างขึ้นด้วยความละเอียดซับซ้อนระดับ SpeedTree, โครงสร้างหินโบราณที่ปกคลุมไปด้วยมอสเรืองแสงและเถาวัลย์, แสงส่องทะลุแบบ volumetric ที่น่าทึ่ง สาดส่องทะลุหมอกหนาทึบในบรรยากาศ, โทนสีเขียวอมน้ำเงิน-ทองที่เข้มข้น พร้อมด้วยสีเขียวมรกตเข้มและไฮไลต์สีอำพันอบอุ่น, บรรยากาศเศร้าสร้อยอ่อนโยน, การเคลื่อนกล้องแบบ dolly ไปข้างหน้าอย่างต่อเนื่องและนุ่มนวล เลื่อนไหลช้า ๆ ผ่านฉาก เผยให้เห็นรายละเอียดที่ซับซ้อนทีละชั้น, อิทธิพลของภาพประกอบกราฟิกในรูปแบบ 3D, การเรนเดอร์ที่สมจริงราวกับภาพถ่ายแต่มีสไตล์, แสงที่มีคอนทราสต์สูง พร้อมการกระจายแสงใต้พื้นผิวอย่างนุ่มนวลบนใบไม้, เอฟเฟกต์อนุภาคที่ละเอียดอ่อนและใบไม้ที่พลิ้วไหวอย่างนุ่มนวล, ความละเอียด 8K, องค์ประกอบภาพแบบภาพยนตร์, กฎสามส่วน, การจัดเลเยอร์ความลึก, ไม่มีข้อความ, ไม่มีผู้คน, บรรยากาศชวนฝันและชวนครุ่นคิด --ar 16:9 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fedf5e1cfecc2f6f80baac4a6570afa/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันแฟนตาซีสไตล์ภาพยนตร์: ซากปรักหักพังที่ธรรมชาติเข้าครอบงำ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2196)**
+
+**ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7) | **แหล่งที่มา:** [Link](https://x.com/Just_sharon7/status/2037928793084674170) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### DUCK: Formula Splash
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a high-budget 3D animated short featuring a rubber duck in racing goggles piloting a bathtub through a marble bathroom during a plumbing disaster, emphasizing absurd speed and water physics. The video starts with a wide shot of water flooding the floor.
+
+#### 📝 พรอมต์
+
+```
+DUCK: Formula Splash
+
+A swaggering rubber duck in racing goggles pilots a bathtub through a luxurious marble bathroom during a plumbing disaster. High-budget 3D animation, absurd speed and water physics.
+
+[0s–1.5s] Wide shot. Water floods across a marble bathroom floor. A rubber
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0344f92eda742e19079997e8803dd415/thumbnails/thumbnail.jpg" width="600" alt="DUCK: Formula Splash">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2211)**
+
+**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2037924490181489101) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Seedance 2.0 Full Reference Prompt: Montage of Past and Present
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A very detailed, multi-scene prompt for Seedance 2.0 to generate a 15-second cinematic montage video contrasting a warm, past memory in a coffee shop with a cold, present scene on a rainy rooftop, complete with specific camera movements, color grading, and Korean dialogue. The prompt requires two reference images for the male and female leads.
+
+#### 📝 พรอมต์
+
+```
+【@Image 1】 (Reference for male lead) 【@Image 2】 (Reference for female lead) Cinematic quality, 15 seconds, montage editing, no subtitles, Korean dialogue. Opening 0 to 1 second: Warm film yellow, the past. Sunny afternoon cafe, she is asleep on the table. He sits opposite, resting his chin on his hand, looking down at her, his lips curling up slightly. The image has slight film grain and overexposure. Hard cut at 1 second: Cold blue rainy night, the present. Empty rooftop, he stands with his back to the camera in the rain. His coat is soaked and clinging to his back. He is motionless, like a stone statue abandoned by time. The temperature shift from warm yellow to cold blue is instantly broken in this frame. Hard cut back to the past at 2 seconds: Nighttime convenience store entrance. She is holding two hot drinks and hands him one. He doesn't take it, looking down at her, "이거 나 주는 거야?" (Is this for me?) She rolls her eyes and turns to walk away. He smiles and follows her, the camera tracking the backs of the two as they walk into the night. Hard cut back to the present at 3 seconds: She stands at the rooftop entrance, holding the iron gate. Rain hits her shoulder, she doesn't move, just stands there watching his back, unsure whether to go in or leave. Hard cut to the past at 4 seconds: Extreme close-up. His hand puts the earphone into her ear. His fingertip lingers by her ear for a second, and both pretend not to notice. Hard cut to the present at 5 seconds: Extreme close-up. The same hands, now tucked into his pockets. Rainwater seeps in through the cuffs. His hands slowly clench inside the pocket. 6 to 10 seconds: All slowed down. She finally lets go of the iron gate and walks into the rain. She stops half a meter behind him. The sound of the rain is loud, but her voice still cuts through— "왜 연락 안 했어." (Why didn't you contact me.) He doesn't turn around, silent for two seconds, "연락하면 뭐가 달라져?" (What difference would contacting me make?) She closes her eyes, her chest feeling heavily pressed. When she speaks again, her voice is already trembling— "달라지잖아. 나한테는." (It would make a difference. To me.) He finally turns around, seeing her face where it's hard to distinguish rain from tears. His Adam's apple bobs, and he speaks hoarsely— "알아. 그래서 더 못 했어." (I know. That's why I couldn't do it even more.) 10 to 13 seconds: Dissolve montage. The same rooftop, the same camera position. In the past, it was a sunny evening. She stood by the railing, smiling back at him. He strode over and pulled her into a full embrace. The sunset stretched their shadows long. In the present, it is a rainy night, the same location. He stands in front of her. The two timelines overlap in the same frame for a full second. Her smile from the past and her tears from the present are pressed onto the same face. 13 to 15 seconds: He doesn't speak again. He raises his hand and presses her head against his chest. She resists for two seconds, then slowly raises her hands and desperately clutches the clothes on his back. The camera slowly pulls back to an extreme long shot. The two figures shrink into a silhouette in the rain curtain. Neon lights shatter and flicker in the puddles. The image gradually stills, the sound gradually disappears, fade to black. Past scenes: Full warm yellow-orange 16mm film grain, handheld follow-shot. Present scenes: Cold blue-black, rainwater reflection, stabilizer shot. During dialogue, the camera pushes into an extreme close-up. The moment of the dissolve, the saturation bursts for one frame and then returns to the cold tone. The soundtrack uses light guitar plucking in the past scenes. It mutes upon entering the present scene, leaving only the sound of rain. After the last line of dialogue, a deep cello single string starts playing. Complete silence before the fade to black.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/90b8d02588f269b3b354a4cbf3969cab/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Full Reference Prompt: Montage of Past and Present">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2218)**
+
+**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2037916129604125172) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Seedance 2.0 AI Wedding Video Prompt: Cinematic Night Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed, multi-scene Seedance 2.0 prompt for generating a cinematic wedding video with a 'Cyberpunk and Extreme Romance' theme. The prompt specifies a 9:16 vertical screen, 4K resolution, a rainy city rooftop setting, and detailed camera movements (high-angle pull-down, 360-degree slow motion orbit, close-up), culminating in a near-kiss moment with specific lighting and sound design. It requires reference images for the bride and groom (implied by the description of their appearance).
+
+#### 📝 พรอมต์
+
+```
+Theme 1: Cinematic Night Scene Style - Starlight Fantasy City, Falling into the Star River Together. Visual Core: The collision of Cyberpunk and extreme romance, using neon reflections and rain droplet macro shots to showcase urban sophistication. 9:16 vertical screen, realistic cinematic quality style, urban luxury, 4K high definition. 0-4 seconds: High-angle overhead shot, slowly descending. A city rooftop after the rain, the ground is black asphalt with puddles, reflecting the distant, hazy city neon lights like a mirror. A beautiful 25-year-old Chinese bride [Idol level] wearing a sparkling diamond mermaid haute couture wedding dress, and a handsome 28-year-old Chinese groom wearing a dark velvet suit. The two are in the center of the frame, holding a transparent umbrella, strolling in the rainy night. The image presents a retro art film-style frame-skipping effect. 5-9 seconds: The camera performs a 360-degree slow-motion orbit centered on the couple. The bride has a delicate oval face, wild eyebrows, cold and glamorous fox eyes, a high nose bridge, and slightly parted red lips; the groom has a defined jawline, sword-like eyebrows, star-like eyes, and deep gaze. During the orbit, extremely slow, tiny raindrops fall from the sky (bullet time). The groom tilts the umbrella towards the bride, his own half-shoulder getting slightly wet. The neon lights behind them transform into huge colored light spots (bokeh effect). 10-15 seconds: The camera cuts to a close-up, slightly low-angle shot. The bride discards the transparent umbrella, which slowly falls in the background. The bride wraps her hands around the groom's neck, and the groom looks down with deep affection. A beam of warm orange rim light from a street lamp shines through the bride's wet eyelashes. The frame freezes at the moment the two are about to kiss, and the background neon completely blurs into a star river. Sound Effects: Distant city ambient sounds, slow jazz cello, white noise of rain falling on the umbrella surface, cinematic heartbeat sound. Forbidden: Any text, subtitles, LOGO, or watermark.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c65e541a0bde64ea80577a356dbc1fd/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 AI Wedding Video Prompt: Cinematic Night Scene">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2221)**
+
+**ผู้เขียน:** [宇宙知识库分享](https://x.com/Cosmoslucy13) | **แหล่งที่มา:** [Link](https://x.com/Cosmoslucy13/status/2037912095325646998) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### นักส่งข้อมูลหัวขบถขี่โฮเวอร์บอร์ดในมหานครไซเบอร์พังก์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งโดยละเอียดสำหรับ Seedance 2.0 เพื่อสร้างฉากแอคชั่นความเร็วสูงของผู้ส่งสารข้อมูลที่กำลังขี่โฮเวอร์บอร์ดต้านแรงโน้มถ่วง ฝ่ามหานครไซเบอร์พังก์ที่สว่างไสวด้วยแสงนีออน โดยเน้นที่ภาพเบลอจากการเคลื่อนไหวแบบไดนามิก แสงสีที่สดใส และสุนทรียภาพแบบแอคชั่นไซไฟ
+
+#### 📝 พรอมต์
+
+```
+นักส่งข้อมูลนอกรีตคนหนึ่งกำลังซิ่งโฮเวอร์บอร์ดต้านแรงโน้มถ่วงที่ส่งเสียงหึ่งๆ ด้วยความเร็วสูงลิบ ฝ่ามหานครไซเบอร์พังก์ที่สว่างไสวด้วยแสงนีออน โลดแล่นอย่างคล่องแคล่วผ่านแผงลอยตลาดลอยฟ้า หลบหลีกรถยนต์บินได้ โดรนเถื่อน และโฆษณาโฮโลแกรมขนาดยักษ์ เธอร่อนผ่านโครงสร้างโลหะมหึมาและสี่แยกกลางอากาศที่พลุกพล่าน เลี้ยวหักศอกได้อย่างแม่นยำและมีสไตล์ กล้องติดตามแบบภาพยนตร์จับภาพการเคลื่อนไหวของเธอ เสริมด้วยเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหวที่พลิ้วไหว และแสงนีออนที่เจิดจ้าบาดตา สะท้อนกับพื้นผิวโลหะที่เปียกชื้น มหานครแห่งนี้เต้นระรัวด้วยบรรยากาศสังเคราะห์ที่บ้าคลั่ง ทั้งเสียงเครื่องยนต์ขับไล่ที่แผดเสียงหวีดหวิว ไซเรนที่กะพริบ และการเคลื่อนไหวที่ไม่หยุดหย่อน รายละเอียดที่สมจริงสุดขีดด้วยสุนทรียภาพแบบภาพยนตร์แอคชั่นไซไฟ ถ่ายทอดความเร็ว ความมั่นใจ และแรงผลักดันที่ไร้ความกลัวผ่านโลกดิสโทเปียแห่งอนาคต
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/847d09e9e10eb0c80ca99bcb5b8bfb11/thumbnails/thumbnail.jpg" width="600" alt="นักส่งข้อมูลหัวขบถขี่โฮเวอร์บอร์ดในมหานครไซเบอร์พังก์">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2207)**
+
+**ผู้เขียน:** [Pan](https://x.com/sebatheepan) | **แหล่งที่มา:** [Link](https://x.com/sebatheepan/status/2037910835268555166) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### ช็อตติดตามระดับโลก ความเร็วสูงพิเศษ แบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์แบบหลายขั้นตอนที่ละเอียดสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอภาพยนตร์ความยาว 15 วินาที ที่นำเสนอเครื่องบินแห่งอนาคตเคลื่อนที่ผ่านสถานที่ต่างๆ ทั่วโลกหลายแห่ง (ปารีส, ญี่ปุ่น, ดูไบ, แมนฮัตตัน) ในช็อตเดียวแบบต่อเนื่อง โดยเน้นเอฟเฟกต์ภาพ (VFX) และภาพเบลอจากการเคลื่อนไหว (motion blur)
+
+#### 📝 พรอมต์
+
+```
+ช็อตติดตามความเร็วสูงมากแบบภาพยนตร์ 15 วินาที กล้องถูกล็อกอยู่ 8 เมตรด้านหลังอากาศยานแห่งอนาคตสีดำด้านเพรียวบาง ที่มีเครื่องยนต์สีน้ำเงินเรืองแสง และอยู่ตรงกลางค่อนขวาของเฟรมตลอดเวลา ขอบภาพทั้งหมดมีโมชั่นเบลออย่างหนัก ถ่ายต่อเนื่องเพียงช็อตเดียว ไม่มีคัต
+0:00–0:03: บินต่ำเหนือกรุงปารีส หอไอเฟลอยู่ทางซ้าย ในช่วงเวลาแสงสีทอง “FRANCE 🇫🇷” ที่มุมล่างซ้าย
+0:03–0:05: ดึงเครื่องขึ้นอย่างรวดเร็ว เมฆพุ่งผ่านเฟรม ท้องฟ้าเปลี่ยนเป็นสีน้ำเงินเข้ม
+0:05–0:08: ระดับความสูงเหนือญี่ปุ่น มองเห็นความโค้งของโลก ภูเขาไฟฟูจิอยู่ด้านล่าง “JAPAN 🇯🇵” ที่มุมล่างซ้าย
+0:08–0:10: ดิ่งหัวลงอย่างแรง เมฆพุ่งขึ้นด้านบน โทนสีทะเลทรายปรากฏขึ้น
+0:10–0:12: บินต่ำเหนือดูไบในเวลากลางคืน ตึกบุรจญ์เคาะลีฟะฮ์อยู่ทางขวา แสงไฟในเมืองทอดยาวเป็นสีทอง “UAE 🇦🇪” ที่มุมล่างซ้าย
+0:12–0:14: แมนฮัตตันแคนยอน ตึกระฟ้าขนาบข้างทั้งสองด้าน ขอบฟ้าสีชมพูยามรุ่งอรุณ “USA 🇺🇸” ที่มุมล่างซ้าย
+0:14–0:15: ดึงเครื่องขึ้นครั้งสุดท้าย เห็นความโค้งของโลกเต็มตา ตัดเข้าสู่ความมืดทันที
+VFX แบบภาพยนตร์ที่สมจริงระดับภาพถ่าย คุณภาพระดับ IMAX, 16:9, 24fps.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1cb4b825282a6eb306817760236f66b7/thumbnails/thumbnail.jpg" width="600" alt="ช็อตติดตามระดับโลก ความเร็วสูงพิเศษ แบบภาพยนตร์">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2195)**
+
+**ผู้เขียน:** [TechieSA](https://x.com/TechieBySA) | **แหล่งที่มา:** [Link](https://x.com/TechieBySA/status/2037903600005861737) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Seedance 2.0 Video Prompt: Eastern Dark Mythology Sky Burial
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed, 15-second, single-shot video prompt for Seedance 2.0, focusing on Eastern dark mythology, sky burial imagery, megalophobia, and Chinese surreal disaster landscapes. The prompt specifies color palette, camera movements, shot types (extreme close-up, pull-back, wide angle), and sound design, detailing the progression of the scene from falling feathers on a bronze bell to the slow rising of a colossal sky burial deity.
+
+#### 📝 พรอมต์
+
+```
+15 seconds, one-shot, Eastern dark mythology, sky burial imagery, megalophobia, Chinese surreal disaster landscape, no dialogue, no narration. The overall color palette is cold gray, bone white, old gold, and dark red. The sky is low-pressure, and a large amount of feathers are falling in the air, continuously descending like snow. 0:00–0:03: Extreme close-up opening. 85mm telephoto macro, shallow depth of field. Bone-white feathers slowly fall onto the surface of a giant bronze bell, which is half-buried in black frozen soil, its surface covered with ancient runes and cracked blood rust. As the feathers fall, a very low-frequency muffled sound comes from inside the bell, and small stones on the ground vibrate. Cold top light, pure black shadows. 0:03–0:08: The camera pulls back close to the ground and slightly lifts. 35mm, stable glide. Countless tilted wooden stakes and broken prayer flags stand on the black wasteland, and the ground is covered with a layer of feathers. The camera sweeps past several large, withered deer antlers, which initially look like ordinary remains, but are then realized to be part of a much larger entity. As the camera continues to retreat, layers of dark red sacrificial cloth are slowly pulled up from the ground. The cloth is stained with dust, wax, and traces of rain erosion, and the edges are hung with small bronze bells. The sound of the bells is extremely light, yet densely unsettling. 0:08–0:12: The camera passes through a collapsed stone gate and bursts out into a sudden expanse. 24mm wide-angle, deep focus. The complete giant object appears: a sky burial deity statue, ambushed in the valley, slowly rises. Its body is composed of hundreds of layers of heavy sacrificial cloth, animal horns, bone ornaments, and a huge empty mask, its height far exceeding the ridge. As it rises, large patches of feathers are swept into the sky by the airflow, like snow flowing backward. The distant abandoned temple and prayer flags appear extremely small at its feet. The sky is pale white, and the upper part of the giant object forms an oppressive silhouette. 0:12–0:15: The camera slowly pushes forward. 50mm. The huge empty mask hanging on the giant statue's chest slowly turns towards the camera. The mask's features are empty, with only a faint, dark red spark appearing deep within the eye sockets. All the bells chime lightly at the same time, the feathers suddenly stop falling, the edges of the screen gradually lose light, and the screen goes black. Sound effects: low-frequency wind pressure, distant cluster of bells, dragging of huge fabric, followed by silence after the last hollow chime.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2e93fb1c86e3af1769b120370d8d26ff/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Eastern Dark Mythology Sky Burial">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2219)**
+
+**ผู้เขียน:** [Pan](https://x.com/sebatheepan) | **แหล่งที่มา:** [Link](https://x.com/sebatheepan/status/2037883976958763033) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Character Reference Video Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt instruction for video generation that strictly enforces character consistency based on a provided image reference, detailing specific features like face, hairstyle, white kimono silhouette, body proportions, glowing dark eyes, and consistent appearance.
+
+#### 📝 พรอมต์
+
+```
+Instruction:
+ CHARACTER REFERENCE
+[Character Reference: @image1] Strictly follow the face, hairstyle, white kimono silhouette, and body proportions of the reference character, do not alter identity or facial structure, appearance must remain consistent: glowing dark eyes,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c32aa6107ed8e973cd32c093e3d3a6c/thumbnails/thumbnail.jpg" width="600" alt="Character Reference Video Generation">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2213)**
+
+**ผู้เขียน:** [Kang Ai](https://x.com/Kangaikroto) | **แหล่งที่มา:** [Link](https://x.com/Kangaikroto/status/2037858194761080859) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Creative AI Ads Continuous Single Take
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt detailing a continuous single-take video with dynamic camera movements (tilting, rolling, spinning, flying) through real-world environments, starting in a city apartment and diving into a cluttered kitchen.
+
+#### 📝 พรอมต์
+
+```
+Continuous single take, camera tilting, rolling, spinning, flying through real-world environments. Starts flying through a tiny city apartment where a man sips coffee at a window, camera dives downward into a cluttered kitchen where a woman washes dishes, gliding
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f401aeef943c583240d4fff884199da0/thumbnails/thumbnail.jpg" width="600" alt="Creative AI Ads Continuous Single Take">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2215)**
+
+**ผู้เขียน:** [osama orabi](https://x.com/os_orabi) | **แหล่งที่มา:** [Link](https://x.com/os_orabi/status/2037857773107429464) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Anthropomorphic Tech Gadgets Fighting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a humorous modern animated short created with Seedance 2.0, depicting anthropomorphic tech gadgets fighting in a cozy living room at night: a tired WiFi Router versus an entitled Smartphone.
+
+#### 📝 พรอมต์
+
+```
+Humorous modern animated short with anthropomorphic tech gadgets fighting in a cozy living room at night: tired overworked WiFi Router with blinking antenna "hair" and parent vibe vs. entitled Smartphone with refreshing screen face and teen
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e835a8f2bde768b702a75538438e8d02/thumbnails/thumbnail.jpg" width="600" alt="Anthropomorphic Tech Gadgets Fighting">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2216)**
+
+**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2037853216616939782) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Seedance 2.0 Prompt for Mukbang/Livestreaming Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A Seedance 2.0 prompt designed to generate a short, engaging mukbang (eating broadcast) video for product promotion. It specifies the character, setting, action (eating mala tang), conversational tone, close-ups of food items, and camera work (4K, smooth motion, combined close/far shots). It requires two reference images: one for the character and one for the food/store.
+
+#### 📝 พรอมต์
+
+```
+Generate a short video for product promotion. A young, beautiful woman @【@Image 1】 with black hair, sitting at a restaurant table, eating Mala Tang @【@Image 2】. She explains the taste of the product using conversational, everyday language to share her experience. She uses chopsticks to pick up special ingredients from the Mala Tang (such as bursting cheese balls/tender beef) to show them. Her expression is friendly and natural, and her movements are gentle. Use medium close-ups for the product and medium long shots combined with the character. The camera movement should be stable, 4K high definition, and the actions should be continuous. Horizontal screen 2.0, original aspect ratio.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78695dce2e4a6a8cb52a309f0a82de4c/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt for Mukbang/Livestreaming Video">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2220)**
+
+**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2037843716442820913) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### นักเก็บกู้ทะเลทราย เฝ้าดูนครที่ถูกฝังผุดขึ้น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์ที่ละเอียดสำหรับ Seedance 2.0 ที่บรรยายฉากภาพยนตร์ซึ่งนักเก็บกวาดคนหนึ่งเฝ้าดูเมืองที่ถูกฝังค่อยๆ โผล่ขึ้นมาจากผืนทรายทะเลทราย โดยระบุการเคลื่อนไหวของกล้อง (การคลาน, การเฝ้าดู), เอฟเฟกต์ภาพ (VFX) (การเคลื่อนตัวของทราย, เสาฝุ่น), สุนทรียภาพ (สีทองทะเลทราย, รูปทรงเรขาคณิตแบบ Lawrence of Arabia) และบทบาทเชิงแนวคิด (ผู้เฝ้าดู, ไม่ใช่ผู้มีส่วนร่วม)
+
+#### 📝 พรอมต์
+
+```
+นักคุ้ยหาคนหนึ่งคลานราบไปบนยอดสันเนินทราย แล้วชะโงกหน้ามองลงไป เบื้องล่างในแอ่ง เมืองทั้งเมืองที่ถูกฝังอยู่กำลังผุดขึ้นมา ตึกรามบ้านช่องดันตัวขึ้นมาจากผืนทรายอย่างช้าๆ ราวกับมีบางสิ่งกำลังหายใจออก เขาไม่เคลื่อนไหว ไม่ส่งวิทยุ เพียงแค่เฝ้ามองโลกที่อยู่ใต้โลกเผยโฉมออกมา
+
+VFX: การเคลื่อนที่ของทรายจากการผุดขึ้นของโครงสร้าง, ระบบอนุภาคของเสาฝุ่น, ความลึกของสเกลบนทิวทัศน์เมืองที่กำลังผุดขึ้น, ลมพัดผ่านพื้นผิวสันเนิน
+
+Aesthetic: สีทองของทะเลทรายและสีเทาของเงา, การเผยโฉมเป็นเหตุการณ์สำคัญ, รูปทรงสันเนินแบบ Lawrence of Arabia, ผู้คุ้ยหาเป็นเพียงผู้เฝ้าดู ไม่ใช่ผู้มีส่วนร่วม, บางสิ่งโบราณกำลังกลายเป็นปัจจุบัน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff46936685ca92d8e4fa094895538e9d/thumbnails/thumbnail.jpg" width="600" alt="นักเก็บกู้ทะเลทราย เฝ้าดูนครที่ถูกฝังผุดขึ้น">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2194)**
+
+**ผู้เขียน:** [Riya_Cute 🇺🇸](https://x.com/Riya333S) | **แหล่งที่มา:** [Link](https://x.com/Riya333S/status/2037842898012529085) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Urban Time-Shift Martial Arts Epic: Cat Ninja vs. Tiger Warrior
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed, action-packed prompt for Seedance 2.0 generating an 'Urban Time-Shift Martial Arts Epic' video. It features a fight between a Cat Ninja and a White Tiger Warrior, transitioning the battle scene from 16th-century Rome's Trevi Fountain to 21st-century Venice's canals, emphasizing cinematic effects, speed, and a clash of dark shadow energy versus white martial aura.
+
+#### 📝 พรอมต์
+
+```
+Urban Time-Shift Martial Arts Epic. Top-tier cinematic special effects, extremely fast editing pace, emphasizing the ultimate clash of power, speed, and the will to protect. Strong visual contrast: one side is the Eastern Giant Dragon energy condensed from shadows, the other is the pure white, rigid martial aura barrier. Time and space are torn and reassembled during the battle.
+
+[Scene]
+The battle begins at the Trevi Fountain in 16th-century Rome—stone statues, flowing water, interwoven candlelight and moonlight; as the battle escalates, space gradually twists and shatters, finally extending to the Venice Canal in the 21st century—neon lights reflecting on the water, water vapor and modern lighting intertwined, history and modernity overlapping.
+
+[Characters]
+
+Orange Cat Ninja: Wears black ninja attire, agile, orange fur faintly visible in the night, sharp, glowing eyes, surrounded by shadow energy currents.
+White Tiger Warrior: A robust white tiger, wearing a Taekwondo uniform and black belt, clear muscle definition, calm demeanor, surrounded by white energy waves and vibration ripples.
+
+[Storyboard]
+
+[00:00–00:03] Shot 1: Ancient City Battle · Speed Test
+Camera: High-speed dolly + handheld mixed cinematography (Dynamic Tracking + Handheld).
+Visuals: In front of the Trevi Fountain, water splashes. The Orange Cat Ninja instantly disappears and reappears, continuous afterimages flashing; the White Tiger stands steady, blocking attacks with minimal movement. Water columns and shattered stones are kicked up during the clash of fists and feet, and cracks appear on the surface of the statues.
+
+[00:03–00:06] Shot 2: Space-Time Tear · Scene Transition
+Camera: Spiral Rise Shot.
+Visuals: A fierce collision between the two, energy explodes—space shatters like glass. The background quickly twists from ancient Roman stone carvings to the Venice Canal. The water surface surges, gondolas shake violently, and neon lights reflect distortedly in the water.
+Close-up: The Orange Cat growls, black shadow energy rolls like smoke; the White Tiger stands on the water, concentric ripples appear under its feet.
+
+[00:06–00:11] Shot 3: Ultimate Technique Clash · Dragon and Aura
+Camera: Epic Wide Shot.
+Action (Simultaneous Burst):
+Orange Cat Ninja: Claws form a seal and push forward suddenly, shadow energy condenses into a massive Eastern Shadow Dragon. The dragon scales are clearly detailed, spiraling into the sky, roaring with an open mouth, sweeping water vapor and neon light streams forward.
+White Tiger Warrior: Palms push forward, a White Martial Aura Barrier instantly expands. The airflow spreads layer by layer, interwoven like water waves and vibration waves, stable and heavy.
+Special Effects Collision: The Giant Dragon violently impacts the aura, erupting a huge shockwave. The water surface explodes into the sky, glass in buildings on both sides of the canal shatters, and neon lights flicker out of control.
+
+[00:11–00:13] Shot 4: Suppression and Counterattack
+Camera: Rapid Push-in.
+Visuals: Cracks appear in the white aura, but the White Tiger roars and exerts force, muscles tensing, the aura instantly counter-vibrates. A part of the Giant Dragon is torn, black shadow energy scatters like smoke. The Orange Cat is knocked back, sliding several meters on the water, splashing a high wall of water.
+
+[00:13–00:15] Shot 5: Final Freeze Frame · Standoff Unresolved
+Camera: Freeze + Slow Orbit.
+Visuals: In the Venice night, water vapor permeates the air. The White Tiger stands steadily in the center of the water, the aura slowly receding; the Orange Cat crouches on a floating wooden board, black shadow energy condensing again. They stare at each other—the will to fight remains. Background neon lights flicker in the mist, and the space-time rift is still faintly visible, energy light points slowly drifting away.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aee587ef823d51eadc84e19b5db4bdb3/thumbnails/thumbnail.jpg" width="600" alt="Urban Time-Shift Martial Arts Epic: Cat Ninja vs. Tiger Warrior">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2222)**
+
+**ผู้เขียน:** [The Anxious Mind](https://x.com/drjoetw) | **แหล่งที่มา:** [Link](https://x.com/drjoetw/status/2037840001254265318) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### ศึกยอดวีรบุรุษพลังธาตุ เหนือนครที่แหลกสลาย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ละเอียดมากและมีหลายขั้นตอนสำหรับ Seedance 2.0 เพื่อสร้างฉากแอคชั่นที่มีชีวิตชีวา ซึ่งมีตัวละครธาตุทั้งสาม (สายฟ้า, ไฟ, น้ำแข็ง) กำลังต่อสู้กันอยู่เหนือมหานครชายฝั่งที่พังทลาย ภายใต้พายุหมุนขนาดใหญ่ โดยระบุลำดับเหตุการณ์, การเปิดใช้งานพลัง, การเคลื่อนไหวของกล้อง (การโคจรแบบไดนามิก, การซูมแบบฉับพลัน) และตรรกะของสี
+
+#### 📝 พรอมต์
+
+```
+สามร่างลอยอยู่เหนือมหานครชายฝั่งที่พังทลาย ภายใต้พายุหมุนขนาดมหึมา:
+
+— หญิงสาววัย 30 ปี ผู้ถูกห่อหุ้มด้วยสายฟ้ามีชีวิต ร่างกายเต็มไปด้วยเส้นเลือดไฟฟ้าที่แตกแขนง ดวงตาเปล่งประกายสีขาวร้อนแรง;
+
+— ร่างอัคคีขนาดมหึมา ก่อร่างขึ้นจากเกราะหลอมเหลวและพลาสมาสุริยะ ที่โปรยปรายสะเก็ดไฟตลอดเวลา;
+
+— จ้าวแห่งน้ำแข็งผู้ซีดเผือด ด้วยผิวหนังผลึก และโครงสร้างน้ำแข็งที่ไหลวนรอบร่างของเธอ
+
+ภาพเปิด: มุมกล้องระยะกลางจับสามตัวละคร ทั้งสามลอยนิ่งสนิท เมฆพายุหมุนวนรอบตัวพวกเธอ — เบื้องล่างคือเมืองที่ถูกน้ำท่วมและไฟไหม้ไปแล้วบางส่วน
+
+จุดดึงดูดในวินาทีที่สอง: ทั้งสามเปิดใช้งานพลังพร้อมกัน
+
+ผู้ควบคุมพายุดึงสายฟ้าจากระบบเมฆ ร่างอัคคีลุกโชนเป็นพลังงานสุริยะเต็มพิกัด และจ้าวแห่งน้ำแข็งแช่แข็งบรรยากาศโดยรอบให้กลายเป็นโครงสร้างผลึกที่ขยายตัว
+
+สภาพแวดล้อมแตกออกเป็นระบบที่ซ้อนทับกัน: สายฟ้าฟาดเชื่อมโยงข้ามอาคาร พายุเพลิงเผาผลาญทั้งเขต และโครงสร้างน้ำแข็งตรึงซากปรักหักพังไว้กลางอากาศ
+
+ตัวละครแต่ละตัวควบคุมอาณาเขตของตน:
+
+— สายฟ้าสร้างเครือข่ายแรงกระแทกที่แตกแขนงทั่วเส้นขอบฟ้า
+
+— ไฟสร้างคลื่นความร้อนที่ขยายตัวและการระเบิดของแรงดัน
+
+— น้ำแข็งตรึงพื้นที่ทั้งหมดของสนามรบให้อยู่ในสภาพแขวนลอยทางเรขาคณิต
+
+กล้องวงโคจรแบบไดนามิกเคลื่อนที่รอบการปะทะสามทาง ซูมเข้าอย่างรวดเร็วไปยังช่วงเวลาที่ธาตุต่างๆ ปะทะกัน — สายฟ้าฟาดใส่โครงสร้างน้ำแข็ง ไฟระเหยน้ำแข็งกลายเป็นเมฆไอน้ำระเบิด
+
+ตรรกะสี: ประกายสายฟ้าสีขาวอมม่วง แกนไฟสีส้มเข้ม มวลน้ำแข็งสีโคบอลต์ — แต่ละสีครอบครองพื้นที่ที่แตกต่างกันของเฟรม
+
+ความรุนแรงเพิ่มขึ้นเมื่อพลังของพวกเธอเริ่มรบกวนกัน — คลื่นกระแทกความร้อนทำให้โครงสร้างน้ำแข็งแตก สายฟ้าเสริมพลังการระเบิดของไอน้ำ
+
+จังหวะสุดท้าย: การเปลี่ยนมุมมองแบบฉับพลัน — กล้องกลายเป็นจุดปะทะเอง ดิ่งลงเมื่อทั้งสามพลังมาบรรจบกัน กลายเป็นคลื่นระเบิดลูกเดียวที่ทำลายใจกลางเมืองจนสิ้นซาก
+
+ระบบอนุภาคพายุ ไฟ และน้ำแข็งแบบ Volumetric ที่โต้ตอบกันแบบเรียลไทม์ ฟิสิกส์การทำลายล้างแบบภาพยนตร์ รายละเอียดระดับ 4K Ultra
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7e532903d0a6f4fb90a31105a7361e/thumbnails/thumbnail.jpg" width="600" alt="ศึกยอดวีรบุรุษพลังธาตุ เหนือนครที่แหลกสลาย">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2197)**
+
+**ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2037824536188461526) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Wuxia Comedy: Cat Hero, Duck Scholar, and Husky Doctor
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed, humorous prompt for Seedance 2.0 generating a Wuxia comedy video set in a traditional Chinese courtyard at night. The plot involves a Cat Hero interrogating a Duck Scholar (who is holding a melatonin capsule) and a dramatic intervention by a Husky Doctor, using cinematic lighting and exaggerated action.
+
+#### 📝 พรอมต์
+
+```
+Film Scene Setting (Global Style)
+Environment: A traditional Chinese courtyard late at night, with blue tiles and white walls, red lanterns swaying slightly in the wind. Moonlight and tree shadows intersect on the ground. The overall lighting has a strong retro Wuxia film texture.
+Character Design:
+Orange Cat (Hero): Wearing traditional Wuxia attire, cape slightly fluttering, expression fierce yet slightly goofy, full of presence.
+Roast Duck (Scholar): Wearing an ancient scholar's long robe, tied to a wooden stake, looking wronged and nervous, mouth puffed out (holding a black capsule).
+Husky (Doctor): Wearing a white doctor's uniform, black-rimmed glasses, looking professional yet with a hint of overconfident drama.
+Prop Setting: Black capsule (melatonin) held in the Roast Duck's mouth.
+Quality Requirements: Cinematic lighting, ultra-high definition 4K, clear details of animal fur and fabric, smooth action, slight slow motion to enhance dramatic tension.
+
+Storyboard and Narration (Script & Prompts)
+
+Shot 1: Wuxia Interrogation (Full/Medium Shot)
+Visual Description: The Orange Cat Hero stands with hands behind his back on the left, his cape slightly moving in the wind. The Roast Duck Scholar is tied to a stake on the right, his mouth puffed out. The Orange Cat suddenly steps forward and slams his palm next to the stake, creating an intimidating presence.
+Action: The Orange Cat approaches step by step, eyes sharp.
+Narration (Orange Cat):
+"Speak! Why won't you hand over the melatonin in your mouth!"
+
+Shot 2: Scholar Duck's Resistance (Roast Duck Close-up)
+Visual Description: The camera pushes in on the Roast Duck, mouth tightly shut, cheeks puffed out, eyes stubborn yet slightly panicked.
+Action: The Roast Duck shakes his head desperately, biting down hard on the capsule.
+Narration (Roast Duck):
+(Muffled) "Mmm mmm mmm! (I can't give it!)"
+
+Shot 3: Tension Rises (Orange Cat Close-up)
+Visual Description: The Orange Cat's eyes darken, he slowly raises his hand, the Wuxia aura maximized, background lanterns slightly swaying.
+Action: The Orange Cat's finger joints crackle, preparing for violence.
+Narration (Orange Cat):
+"You won't take the polite way, so you choose the hard way, huh..."
+
+Shot 4: Doctor's Raid (Action Shot)
+Visual Description: The Husky Doctor suddenly rushes in from the right side of the frame, sliding in with exaggerated but professional movement.
+Action: The Husky quickly extends a palm and "Slaps!" the Roast Duck's chest (similar to CPR compression).
+Sound Effect: A deep "thump" + exaggerated pop-out sound effect.
+
+Shot 5: Capsule Flies Out (Slow Motion Close-up)
+Visual Description: Slow-motion shot, the Roast Duck opens his mouth, "Pfft!" A black capsule flies out of his mouth, spinning in the air.
+Action: The Husky elegantly catches the capsule with one hand, his glasses flashing with reflection.
+
+Shot 6: Everyone Stunned (Reaction Shot)
+Visual Description: Both the Orange Cat and the Roast Duck are stunned simultaneously. The frame freezes for a moment, the atmosphere instantly shifting from tense to absurd.
+Action: The Orange Cat slowly turns his head to look at the Husky.
+Narration (Orange Cat, quietly):
+"...That works?"
+
+Shot 7: Doctor's Conclusion (Husky Close-up)
+Visual Description: The Husky pushes up his glasses, holding the black capsule between his fingers, smiling confidently at the camera, the background slightly blurred.
+Action: Nods slightly, tone professional yet slightly smug.
+Narration (Husky):
+"Melatonin is not for everyone."
+"It's best to consult a doctor first."
+
+Shot 8: Ending (Full Shot Freeze Frame)
+Visual Description: The three characters freeze. The Orange Cat maintains his Wuxia posture but looks confused, the Roast Duck looks exhausted, and the Husky stands confidently in the middle. A few night bird calls are heard in the background.
+Action: Frame freezes + slight film grain effect fades out.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/de202c2375b54ca5ae34f3e3359f2f1d/thumbnails/thumbnail.jpg" width="600" alt="Wuxia Comedy: Cat Hero, Duck Scholar, and Husky Doctor">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2225)**
+
+**ผู้เขียน:** [The Anxious Mind](https://x.com/drjoetw) | **แหล่งที่มา:** [Link](https://x.com/drjoetw/status/2037820568318407006) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### สคริปต์วิดีโอไลฟ์แอคชั่นการแข่งขัน 15 วินาที
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์แบบละเอียดหลายฉากสำหรับวิดีโอไลฟ์แอ็กชันความยาว 15 วินาที โดยเน้นไปที่การแข่งขันที่ทวีความรุนแรงขึ้นระหว่างนักเรียนมัธยมปลายสองคน ได้แก่ ฮารุกิ อาโอยามะ และ เร็นจิ คุโรซาวะ พร้อมต์นี้ประกอบด้วยคำอธิบายตัวละคร สรุปพล็อตเรื่อง และการแบ่งฉากเฉพาะ (การเปิดฉากการปะทะ, การเผชิญหน้าในการประชุม, เหตุการณ์หลังการปะทะที่ทางเดิน) เพื่อเป็นแนวทางในการสร้างวิดีโอ
+
+#### 📝 พรอมต์
+
+```
+ที่โรงเรียนซากุระงาโอกะ ฮารุกิ อาโอยามะ นักเรียนชั้นปีที่สองที่เงียบขรึมแต่มีความมุ่งมั่น ถูกเร็นจิ คุโรซาวะ ศัตรูคู่ปรับของเขา ซึ่งเป็นรองประธานนักเรียนผู้ทรงอิทธิพล ทำให้อับอายต่อหน้าสาธารณะในวันแรกของภาคเรียนใหม่ สิ่งที่เริ่มต้นจากการแข่งขันที่ดุเดือดซึ่งขับเคลื่อนด้วยความเกลียดชัง ได้ทวีความรุนแรงขึ้นผ่านการแข่งขันของโรงเรียนที่มีเดิมพันสูง ซึ่งนักเรียนทั้งสองต่างผลักดันซึ่งกันและกันจนถึงขีดสุด เมื่อความขัดแย้งทวีความรุนแรงขึ้น ฮารุกิก็ค้นพบความจริงที่น่าตกใจ ความโหดร้ายของเร็นจิไม่ได้มาจากความอาฆาตพยาบาท แต่มาจากความขุ่นเคืองอย่างสิ้นหวังเกี่ยวกับทุนการศึกษาที่ฮารุกิได้รับไปโดยไม่รู้ตัว ซึ่งเป็นสิ่งที่ครอบครัวของเร็นจิที่กำลังประสบปัญหาต้องการอย่างยิ่ง ฮารุกิถูกบังคับให้เผชิญหน้ากับพื้นที่สีเทาระหว่างฮีโร่และวายร้าย เขาต้องตัดสินใจว่าจะทำลายศัตรูของเขา หรือจะยื่นมือช่วยเหลือคนที่อาจต้องการเพื่อน การตัดสินใจของเขาจะเป็นตัวกำหนดว่าการแข่งขันของพวกเขาจะจบลงด้วยมิตรภาพ ความเคารพซึ่งกันและกัน หรือความเสียใจที่ยาวนาน
+
+**ตัวละคร:**
+**ฮารุกิ อาโอยามะ (ตัวละครหลัก)** - นักเรียนชั้นปีที่สองที่เงียบขรึมแต่มีความมุ่งมั่นที่โรงเรียนซากุระงาโอกะ เขาเป็นคนขยันและยึดมั่นในหลักการ แต่ก็มีปัญหาเรื่องความโกรธและอารมณ์หุนหันพลันแล่น การเดินทางของเขาเปลี่ยนเขาจากเหยื่อผู้ขุ่นเคืองให้กลายเป็นผู้ที่สามารถเห็นอกเห็นใจและให้อภัยได้
+
+**เร็นจิ คุโรซาวะ (ตัวละครสมทบ)** - รองประธานนักเรียนผู้มีเสน่ห์และไร้ความปรานี ซึ่งเป็นศัตรูคู่ปรับของฮารุกิ ภายใต้รูปลักษณ์ที่น่าเกรงขาม เขาซ่อนความเจ็บปวดลึกๆ จากปัญหาทางการเงินของครอบครัว เขาเป็นคนหยิ่งทะนงและไม่ยอมแสดงความอ่อนแอ
+
+**มิกุ ทาจิบานะ (ตัวละครสมทบ)** - เพื่อนสมัยเด็กที่ซื่อสัตย์และเป็นที่พึ่งทางอารมณ์ของฮารุกิ เธอเป็นคนช่างสังเกต มีกลยุทธ์ และมีความห่วงใย มักจะเป็นผู้ให้เหตุผล เธอรู้เรื่องราวมากกว่าที่เธอเปิดเผยในตอนแรก
+
+**โซตะ ฮิมูระ (ตัวละครสมทบ)** - เพื่อนร่วมชั้นของฮารุกิที่ดูสบายๆ แต่ซ่อนพรสวรรค์ที่น่าประหลาดใจไว้ภายใต้ท่าทีที่ไม่ใส่ใจ เขากลายเป็นพันธมิตรคนสำคัญและไม่กลัวที่จะพูดความจริงที่ยากลำบากเมื่อจำเป็น
+
+**ฉากที่ 1:**
+**การเปิดฉากโจมตี**
+เป็นวันแรกของภาคเรียนใหม่ที่โรงเรียนซากุระงาโอกะ ฮารุกิ อาโอยามะ นักเรียนชั้นปีที่สองที่เงียบขรึมแต่มีความมุ่งมั่น มาถึงโรงเรียนด้วยความหวังว่าจะได้มีปีการศึกษาที่สงบสุข อย่างไรก็ตาม เร็นจิ คุโรซาวะ ศัตรูคู่ปรับของเขา ซึ่งเป็นรองประธานนักเรียนผู้มีเสน่ห์และไร้ความปรานี ได้ทำให้อารุกิอับอายต่อหน้าสาธารณะในระหว่างการประชุมเปิดภาคเรียน โดยการเปิดเผยเหตุการณ์น่าอับอายจากปีที่แล้ว ทั้งโรงเรียนหัวเราะเยาะ และชื่อเสียงของฮารุกิก็พังทลายลงก่อนที่ปีการศึกษาจะเริ่มต้นขึ้นด้วยซ้ำ มิกุ ทาจิบานะ เพื่อนสมัยเด็กของฮารุกิ พยายามปลอบใจเขา แต่ฮารุกิกลับเต็มไปด้วยความโกรธและความปรารถนาที่จะแก้แค้น เมล็ดพันธุ์แห่งการแข่งขันอันดุเดือดถูกหว่านลง เมื่อเร็นจิแสดงให้เห็นอย่างชัดเจนว่าเขาตั้งใจจะทำให้ชีวิตของฮารุกิเป็นทุกข์ตลอดทั้งปี
+**เรื่องย่อย:**
+*   **การเผชิญหน้าในการประชุม:** เมื่อเร็นจิขึ้นเวทีในพิธีเปิด เขาตั้งเป้าโจมตีฮารุกิอย่างเปิดเผยด้วยเรื่องราวที่น่าอับอาย สร้างความเหนือกว่าและกระตุ้นความขุ่นเคืองอย่างลึกซึ้งของฮารุกิ
+*   **ผลพวงในโถงทางเดิน:** หลังจากการประชุมสิ้นสุดลง ฮารุกิถอยไปที่โถงทางเดินที่มิกุพบเขา; เธอเสนอการปลอบใจ แต่ฮารุกิโกรธเกินกว่าจะฟัง ซึ่งเป็นการกำหนดสภาพอารมณ์ของเขาสำหรับบทนี้
+*   **คำเตือนของคู่ปรับ:** เร็นจิไล่ต้อนฮารุกิใกล้ตู้เก็บรองเท้าและส่งคำเตือนอันเย็นชาว่าปีนี้จะเป็นนรกสำหรับเขา ซึ่งเป็นการเพิ่มความตึงเครียดและทำให้ความขัดแย้งเป็นเรื่องส่วนตัว
+*   **ความมุ่งมั่นภายใน:** ฮารุกิอยู่คนเดียวบนดาดฟ้าโรงเรียนหลังเลิกเรียน กำหมัดแน่นและสาบานในใจว่าจะต่อสู้กลับ สร้างแรงจูงใจและความมุ่งมั่นของเขาสำหรับเรื่องราวที่จะเกิดขึ้น
+
+**ฉากที่ 2:**
+**แนวรบ**
+โรงเรียนประกาศการแข่งขันระหว่างชั้นเรียนครั้งใหญ่ — การแข่งขันเทศกาลวัฒนธรรมซากุระงาโอกะ — ซึ่งทีมต่างๆ จะแข่งขันกันในด้านวิชาการ กีฬา และศิลปะสร้างสรรค์ ฮารุกิและเร็นจิกลายเป็นหัวหน้าทีมคู่แข่งกัน ฮารุกิรวบรวมเพื่อนร่วมชั้น รวมถึงโซตะ ฮิมูระ ผู้ที่ดูสบายๆ แต่มีพรสวรรค์ที่น่าประหลาดใจ ในขณะที่เร็นจิใช้อิทธิพลและการข่มขู่ของเขาเพื่อสร้างทีมชั้นยอด เมื่อการแข่งขันเข้มข้นขึ้น คู่แข่งทั้งสองต่างผลักดันตัวเองจนถึงขีดสุด มิกุทำหน้าที่เป็นนักวางกลยุทธ์และที่พึ่งทางอารมณ์ของฮารุกิ ในระหว่างรอบกีฬา ฮารุกิและเร็นจิเผชิญหน้ากันโดยตรงในการแข่งขันวิ่งผลัดที่กลายเป็นเรื่องส่วนตัวอย่างลึกซึ้ง ความตึงเครียดถึงจุดเดือดเมื่อฮารุกิสังเกตเห็นพฤติกรรมที่น่าสงสัยจากทีมของเร็นจิ — อาจมีการโกง บทนี้จบลงที่จุดสูงสุดของการแข่งขัน โดยที่ผลลัพธ์ยังไม่แน่นอน
+**เรื่องย่อย:**
+*   **การจัดตั้งทีม:** เมื่อมีการประกาศการแข่งขัน ฮารุกิต้องชวนเพื่อนร่วมชั้น; โซตะปฏิเสธในตอนแรก แต่เข้าร่วมหลังจากเห็นความจริงใจของฮารุกิ ก่อตั้งเป็นทีมหลัก
+*   **การประชุมวางแผน:** มิกุจัดการประชุมติวหนังสือและวางแผนช่วงดึกที่บ้านของฮารุกิ ซึ่งทีมได้สร้างความผูกพันและพัฒนากลยุทธ์ที่สร้างสรรค์ เสริมสร้างความมุ่งมั่นของพวกเขา
+*   **การประลองวิ่งผลัด:** ในระหว่างการแข่งขันกีฬา ฮารุกิและเร็นจิวิ่งในไม้สุดท้ายของการวิ่งผลัด; ฝูงชนส่งเสียงเชียร์ขณะที่พวกเขาวิ่งคู่กันอย่างสูสี และความเกลียดชังดิบๆ ระหว่างพวกเขาก็ปรากฏให้เห็นแก่ทุกคน
+*   **หลักฐานที่น่าสงสัย:** หลังจบรอบวิชาการ ฮารุกิพบกระดาษคำตอบที่ถูกทิ้งใกล้ถังขยะ ซึ่งบ่งชี้ว่าทีมของเร็นจิมีความรู้ล่วงหน้าเกี่ยวกับคำถาม สร้างภาวะกลืนไม่เข้าคายไม่ออกทางศีลธรรม
+*   **คำแนะนำของมิกุ:** มิกุดึงฮารุกิออกไปและเตือนเขาว่าการกระทำด้วยความโกรธเพียงอย่างเดียวจะทำให้เขาไม่แตกต่างจากเร็นจิ บังคับให้เขาต้องทบทวนการตัดสินใจของเขา
+
+**ฉากที่ 3:**
+**เบื้องหลังหน้ากาก**
+หลังจากความเข้มข้นของการแข่งขัน การเปลี่ยนแปลงที่เงียบงันก็เริ่มต้นขึ้น ฮารุกิค้นพบความจริงเบื้องหลังความเกลียดชังที่ฝังลึกของเร็นจิ — เมื่อปีที่แล้ว ฮารุกิได้รับทุนการศึกษาที่เร็นจิจำเป็นต้องใช้เพื่อเรียนต่อในโรงเรียนโดยไม่รู้ตัว เนื่องจากปัญหาทางการเงินที่รุนแรงของครอบครัวเขา แม่เลี้ยงเดี่ยวของเร็นจิทำงานหลายอย่าง และทุนการศึกษานั้นเป็นความหวังเดียวของเขาที่จะช่วยแบ่งเบาภาระของเธอ การทำให้อับอายที่เร็นจิกระทำต่อฮารุกิไม่ได้เกิดจากความโหดร้าย แต่เกิดจากความขุ่นเคืองอย่างสิ้นหวัง มิกุเปิดเผยว่าเธอรู้เรื่องราวบางส่วนนี้มาตลอด แต่เก็บเงียบไว้เพื่อปกป้องทั้งสองคน ฮารุกิรู้สึกสั่นคลอน เมื่อตระหนักว่าบุคลิกวายร้ายของคู่ปรับของเขาเป็นเพียงหน้ากากที่ปกปิดความเจ็บปวดลึกๆ เขาไปเยี่ยมเร็นจิที่งานพาร์ทไทม์ที่ร้านสะดวกซื้อตอนดึก และเห็นคนละคนกันโดยสิ้นเชิง — เหนื่อยล้า อ่อนแอ และโดดเดี่ยว ทั้งสองได้พูดคุยกันอย่างอึดอัดแต่จริงใจภายใต้แสงไฟนีออน
+**เรื่องย่อย:**
+*   **การเปิดเผย:** ในที่สุดมิกุก็เล่าเรื่องราวสถานการณ์ครอบครัวของเร็นจิให้ฮารุกิฟังทั้งหมดหลังจากการแข่งขันสิ้นสุดลง ทำลายมุมมองที่เรียบง่ายของฮารุกิเกี่ยวกับความดีและความชั่ว
+*   **การเยี่ยมร้านสะดวกซื้อ:** ฮารุกิตามหางานพาร์ทไทม์ของเร็นจิและเห็นเขากำลังจัดเรียงสินค้าคนเดียวตอนดึก เหนื่อยล้าและเงียบขรึม ซึ่งแตกต่างอย่างสิ้นเชิงกับบุคลิกที่ชอบบงการในโรงเรียนของเขา
+*   **การพูดคุยอย่างจริงใจ:** ภายใต้แสงไฟจ้าของร้านสะดวกซื้อ เร็นจิในตอนแรกโกรธฮารุกิที่มาปรากฏตัว แต่ในที่สุดก็ระเบิดอารมณ์และยอมรับภาระที่เขากำลังแบกรับอยู่ สร้างความเปราะบางทางอารมณ์ที่แท้จริง
+*   **เดินกลับบ้าน:** ทั้งสองเดินกลับบ้านอย่างเงียบๆ ผ่านถนนยามค่ำคืนที่ว่างเปล่า โดยที่ยังไม่คืนดีกันอย่างสมบูรณ์ แต่มีความเข้าใจใหม่ที่เปราะบางกำลังก่อตัวขึ้นระหว่างพวกเขา
+
+**ฉากที่ 4:**
+**ราคาของการเปิดโปง**
+ฮารุกิเลือกที่จะเปิดโปงการโกงของเร็นจิ และผลที่ตามมาก็ร้ายแรง ฝ่ายบริหารของโรงเรียนเริ่มการสอบสวนอย่างเป็นทางการ และเร็นจิเผชิญกับการถูกไล่ออก อย่างไรก็ตาม การสอบสวนเปิดเผยว่าเร็นจิถูกบังคับให้โกงโดยนักเรียนชั้นปีที่สามที่ต้องการก่อวินาศกรรมทั้งสองทีมเพื่อผลประโยชน์ของตนเอง เร็นจิรับผิดชอบอย่างเงียบๆ เพื่อปกป้องเพื่อนร่วมทีมของเขา ฮารุกิรู้สึกตกใจ — การกระทำเพื่อความยุติธรรมของเขาอาจทำลายคนที่ตกเป็นเหยื่ออยู่แล้ว โรงเรียนเต็มไปด้วยข่าวลือและการตัดสิน โซตะกระตุ้นให้ฮารุกิแก้ไขสิ่งที่เขาเริ่มต้นไว้ มิกุรู้สึกสับสนระหว่างการสนับสนุนฮารุกิกับการรู้สึกว่าเขาทำอะไรหุนหันพลันแล่นเกินไป เร็นจิ ซึ่งตอนนี้ถูกโดดเดี่ยวและเผชิญหน้ากับคณะกรรมการวินัย ปฏิเสธที่จะปกป้องตัวเอง ฮารุกิต้องตัดสินใจว่าจะก้าวออกมาและบอกความจริงทั้งหมด
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9655611bbe446297b5066c56dae8251b/thumbnails/thumbnail.jpg" width="600" alt="สคริปต์วิดีโอไลฟ์แอคชั่นการแข่งขัน 15 วินาที">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2189)**
+
+**ผู้เขียน:** [Feyber | Go-AI](https://x.com/woleswoosh) | **แหล่งที่มา:** [Link](https://x.com/woleswoosh/status/2037800885489926335) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Boss Battle Scene Video Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed multi-part prompt designed to generate a dramatic boss battle scene video. It instructs the AI to use a reference image only for style, start with a fast transition, feature a game UI overlay (RPG style command window), and position the player character in the foreground facing a large enemy in the background, all rendered in a cinematic, high-contrast fantasy style.
+
+#### 📝 พรอมต์
+
+```
+Use the reference image only as a reference, not for the start frame. Include battle-style upbeat background music and sound effects. Immediately after the start, switch to the following cut.
+
+Screen transition with ultra-fast transition. Space collapses at high speed.
+
+After a momentary whiteout,
+Switch to a field that inherits the atmosphere of the reference image's background.
+
+Simultaneously with the switch,
+An RPG-style command UI appears at the bottom of the screen.
+One of them is selected, and the character starts moving.
+
+UI effects:
+・Semi-transparent window slides in
+・Pixel-style or modern game UI
+・Slightly glowing frame (glow)
+・Crisp appearance animation
+
+Display content:
+Left side: Character name, HP, MP gauge
+Right side: Special moves (Japanese names) associated with several reference images
+Top side: Enemy character name associated with the reference image
+
+A special giant enemy character associated with the reference image appears in the back right, and the player character is placed in the front left, facing away.
+
+Camera composition:
+・Player character in the front left
+・Enemy in the back right
+・Slightly low angle for impact
+
+Direction:
+・The character holds a weapon associated with their appearance, enters a battle pose, faces the enemy character, and takes a light step. This series of actions occurs instantly at ultra-high speed.
+・The background moves slightly (particle, fog, energy)
+
+Style:
+cinematic, game UI overlay, ultra detailed, high contrast,
+fantasy battle scene, dynamic lighting, volumetric light
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b7c047cf96b7aecdf360309860a33c72/thumbnails/thumbnail.jpg" width="600" alt="Boss Battle Scene Video Prompt">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2227)**
+
+**ผู้เขียน:** [かし子🍩](https://x.com/Kashiko_AIart) | **แหล่งที่มา:** [Link](https://x.com/Kashiko_AIart/status/2037791328315064716) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Arknights: Endfield Gugu Gaga ฉากช้อปปิ้ง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์โดยละเอียดสำหรับ Seedance 2.0 เพื่อสร้างคัตซีน 3D CGI สไตล์ภาพยนตร์ ในสไตล์ของ Arknights: Endfield ที่มีตัวละครเพนกวิน Gugu Gaga อยู่ในศูนย์การค้าแห่งอนาคต พร้อมด้วยตัวละครแนวไซไฟเชิงยุทธวิธีสองตัวกำลังเดินเข้ามา โดยเน้นที่แสง สี และองค์ประกอบภาพ
+
+#### 📝 พรอมต์
+
+```
+ฉากคัตซีน 3D CGI แบบภาพยนตร์จากเกม Arknights: Endfield การเรนเดอร์แบบกึ่งสมจริงที่มีรายละเอียดสูง ภายในห้างสรรพสินค้าหรูหราล้ำยุคที่มีพื้นมันวาวสะท้อนแสง หน้าร้านกระจก และแสงสีฟ้าอ่อนๆ โดยรอบ ในฉากหน้าภายในตู้จัดแสดงกระจกใส มีตัวละครเพนกวินสีดำตัวเล็กน่ารัก (Endmin / Gugu Gaga) ที่มีหัวและลำตัวกลมมนเรียบเนียนคล้ายโดม มองจากด้านหลังในมุมมองบุคคลที่หนึ่ง (POV shot) ตัวละครแนวไซไฟเชิงยุทธวิธีสองตัวกำลังเดินเข้ามาอย่างมั่นใจในฉากกลาง: ตัวผู้ชายหนึ่งคนในชุดเกราะเอ็กโซสูทสีดำทองเรืองแสงหนักพร้อมหมวกกันน็อก ตัวผู้หญิงหนึ่งคนในชุดยุทธวิธีลายพรางทหารสีเขียวพร้อมหมวกกันน็อก ระยะชัดลึกที่น่าทึ่ง การสะท้อนแสงบนกระจกและไฮไลต์แบบสเปกคิวลาร์ โทนสีเมทัลลิกเย็นตาพร้อมการเน้นสีทองและการไล่ระดับสีฟ้าอมเขียว การจัดองค์ประกอบภาพแบบกฎสามส่วน การจัดเฟรมแบบปิดที่ชวนดื่มด่ำ ให้ความรู้สึกเหมือนมีม ‘Adopt a penguin’ อารมณ์ขี้เล่นและน่าตื่นเต้น พื้นผิวที่มีรายละเอียดสูงมาก แสงแบบภาพยนตร์ คุณภาพ 8k --ar 9:16 --stylize 250 --v 6
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a57de53d3bea8a2a67e61d859836a93a/thumbnails/thumbnail.jpg" width="600" alt="Arknights: Endfield Gugu Gaga ฉากช้อปปิ้ง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2198)**
+
+**ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7) | **แหล่งที่มา:** [Link](https://x.com/Just_sharon7/status/2037775472399175831) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Chibi Character on Hand with Annoyed Expression
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video of a mini chibi version of an uploaded character, sitting on an open left palm. The right hand gently presses its cheek, and the chibi character looks annoyed and pouty. It specifies style (ultra-detailed chibi), colors, lighting, and focus (facial expression and hand interaction).
+
+#### 📝 พรอมต์
+
+```
+create a mini chibi version of the character in the uploaded images, with a big head and small body, sitting on an open left palm for realistic scale. The right hand is gently pressing its cheek with an index finger. The character looks annoyed and pouty — with puffed cheeks, a slight frown, and squinting eyes. Ultra-detailed chibi style, soft pastel colors, smooth texture, clean lighting, shallow depth of field, strong focus on facial expression and hand interaction, vertical composition, 4:5 aspect ratio.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0ff189e33264ac2610eaae9cf4b77bb1/thumbnails/thumbnail.jpg" width="600" alt="Chibi Character on Hand with Annoyed Expression">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2217)**
+
+**ผู้เขียน:** [Zyro](https://x.com/Itswsm105f) | **แหล่งที่มา:** [Link](https://x.com/Itswsm105f/status/2037760399123398862) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### สยองขวัญเหนือธรรมชาติ: สัตว์ประหลาดโผล่ออกมาจากโปสเตอร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์ที่มีรายละเอียดสูงและแบ่งออกเป็นหลายส่วนสำหรับ Seedance 2.0 เพื่อสร้างลำดับวิดีโอสยองขวัญเหนือธรรมชาติในสถานีรถไฟใต้ดินญี่ปุ่น โดยเน้นที่สัตว์ประหลาดที่โผล่ออกมาจากโปสเตอร์ 2 มิติและไล่ล่าชายคนหนึ่ง พร้อมระบุรายละเอียดเกี่ยวกับภาพ, การทำงานของกล้อง, สไตล์, การกระทำ และการออกแบบเสียง
+
+#### 📝 พรอมต์
+
+```
+สยองขวัญเหนือธรรมชาติที่ทะลุมิติ – สัตว์ประหลาดโผล่ออกมาจากโปสเตอร์ 2 มิติ สู่โลกแห่งความเป็นจริงในสถานีรถไฟใต้ดินของญี่ปุ่น
+
+**ภาพ:** สถานีรถไฟใต้ดินญี่ปุ่นที่สว่างไสวด้วยแสงไฟประดิษฐ์, ชายหนุ่มสวมเสื้อเชิ้ตสีขาวกำลังโพสท่าอยู่ข้างตู้รถไฟใต้ดิน, สติกเกอร์โฆษณาภาพยนตร์สยองขวัญขนาดใหญ่ที่น่าขนลุกบนรถไฟ แสดงภาพซอมบี้ผิวสีเทาที่มีฟันแหลมคมและดวงตาเรืองแสง, พื้นผิวโปสเตอร์ที่แตกร้าว, สัตว์ประหลาด 3 มิติที่สมจริงกำลังโผล่ออกมา, ฉากไล่ล่าที่วุ่นวาย, พื้นผิวโลหะเหลวที่เป็นนามธรรม, ชายที่ติดอยู่ภายในโปสเตอร์ภาพวาด
+
+**กล้อง:** ภาพนิ่ง (ช่วงถ่ายภาพแรก), ซูมช้า (การเปลี่ยนรูปของโปสเตอร์), การแพนกล้องติดตามแบบไดนามิก (การไล่ล่า), การเคลื่อนไหวของกล้องที่สั่นไหว (ความตื่นตระหนก), ภาพโคลสอัพ (รายละเอียดของสัตว์ประหลาด), ภาพมุมกว้าง (ความวุ่นวายในสถานี)
+
+**สไตล์:** สมจริงราวกับภาพถ่าย, แบบภาพยนตร์, สยองขวัญ, เหนือธรรมชาติ, สุนทรียภาพแบบ J-Horror, รายละเอียดสูง, แสงไฟที่เร้าอารมณ์, เงาที่มีคอนทราสต์สูง
+
+**การกระทำ + การออกแบบเสียง:** โปสเตอร์สยองขวัญบนรถไฟใต้ดินเริ่มแตกร้าวและพังทลาย [ตัดภาพ] มือสีเทาที่มีกรงเล็บฉีกทะลุพื้นผิวโปสเตอร์ออกมา [ตัดภาพ] สัตว์ประหลาดโผล่ออกมาจากผนังรถไฟอย่างสมบูรณ์ ลงมายืนบนชานชาลา ผู้คนรอบข้างวิ่งหนีด้วยความหวาดกลัวและกรีดร้อง [ตัดภาพ] สัตว์ประหลาดไล่ล่าชายหนุ่มเสื้อเชิ้ตสีขาวไปทั่วสถานีรถไฟใต้ดิน โดยมีการเคลื่อนไหวของกล้องแบบไดนามิก [ตัดภาพ] สัตว์ประหลาดจับตัวชายหนุ่มและอุ้มเขาไป [ตัดภาพ] ชายหนุ่มติดอยู่ภายในพื้นผิวโลหะ โดยเอามือกดทับมัน [ตัดภาพ] ชายหนุ่มกลายเป็นส่วนหนึ่งของโปสเตอร์ภาพวาดบนรถไฟ โดยถูกปีศาจที่กำลังยิ้มแสยะและมีดวงตาสีแดงเรืองแสงจับตัวไว้
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d60dc2586d18d2abbf7969bf86a072bc/thumbnails/thumbnail.jpg" width="600" alt="สยองขวัญเหนือธรรมชาติ: สัตว์ประหลาดโผล่ออกมาจากโปสเตอร์">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2210)**
+
+**ผู้เขียน:** [Nexora](https://x.com/frametheory058) | **แหล่งที่มา:** [Link](https://x.com/frametheory058/status/2037752421074846042) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### พรอมต์วิดีโอ: การแข่งรถจากจินตนาการวัยเด็กสู่ความเป็นจริง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ซับซ้อนและมีหลายขั้นตอน ซึ่งบรรยายรายละเอียดวิดีโอการเปลี่ยนผ่านที่ไร้รอยต่อ จากภาพเด็กที่กำลังเล่นรถของเล่น (ความสมจริงแบบมาโคร) ไปสู่ภาพผู้ใหญ่ที่กำลังขับ Porsche 911 GT3 ของจริงในสนามแข่ง (พลังเต็มพิกัด) โดยระบุช่วงเวลา มุมกล้อง (การติดตามแบบมุมต่ำมาก) แสง รายละเอียดพื้นผิว และจุดสูงสุดทางอารมณ์ที่เน้นไปที่ดวงตาของผู้ขับขี่
+
+#### 📝 พรอมต์
+
+```
+0.0 – 4.0 sec — จินตนาการในวัยเด็ก (ความสมจริงแบบมาโคร)
+
+การถ่ายแบบมาโครแบบติดตามในมุมต่ำมาก โดยกล้องเกือบจะแตะพื้น
+แสงแดดยามบ่ายที่อบอุ่นสาดส่องไปทั่วพรมสีเบจอ่อนนุ่ม ละอองฝุ่นที่มองเห็นได้ลอยอยู่ในอากาศ ให้ความรู้สึกอบอุ่นแบบฟิล์ม Kodak ย้อนยุคอย่างเป็นธรรมชาติ (ไม่ใช่การปรับแต่ง)
+
+มือเล็ก ๆ ของเด็ก (เห็นเพียงมือ ไม่เห็นใบหน้า) ผลักรถสปอร์ตของเล่นสีแดงไปข้างหน้า
+
+กล้องจับภาพในมุมมองติดตามด้านหน้าในระดับต่ำ เคลื่อนที่ไปพร้อมกับรถของเล่นด้วยความเร็วที่เพิ่มขึ้น เลียนแบบมุมมองบุคคลที่หนึ่ง (POV) ของรถแข่งจริง
+ระยะชัดตื้น ภาพเบลอจากการเคลื่อนไหวที่สมจริง รายละเอียดพื้นผิวขนาดเล็กบนเส้นใยพรม
+
+อารมณ์: ความอยากรู้อยากเห็น → ความตื่นเต้นที่ก่อตัวขึ้น
+
+4.0 – 5.5 sec — การเปลี่ยนผ่านสู่ความมืด (การเปลี่ยนเวลาที่ราบรื่น)
+
+รถของเล่นพุ่งเข้าสู่เงาที่มืดมิดใต้โซฟา
+
+ขณะที่รถของเล่นเคลื่อนเข้าสู่ความมืด:
+
+• แสงสลายไปอย่างเป็นธรรมชาติ (ไม่มีการเฟดแบบประดิษฐ์)
+• พื้นผิวพรมยืดออกเป็นลายเส้นการเคลื่อนไหวที่ละเอียดอ่อน
+• สภาพแวดล้อมละลายหายไปสู่ความมืดมิดโดยสมบูรณ์
+
+การเปลี่ยนผ่านที่ราบรื่น: การเคลื่อนที่ไปข้างหน้ายังคงดำเนินต่อไปอย่างต่อเนื่อง สร้างการเปลี่ยนแปลงเวลาและพื้นที่อย่างเป็นธรรมชาติ (ไม่มีการตัดแบบกระโดด ไม่มีเอฟเฟกต์ผิดพลาด)
+
+5.5 – 9.0 sec — ความจริงปรากฏ (พลังเต็มรูปแบบ)
+
+จากความมืด เสียงเครื่องยนต์จริงก็ดังขึ้น
+
+รถ Porsche 911 GT3 สีแดงคันจริงพุ่งทะยานออกจากเงาเข้าสู่สภาพแวดล้อมสนามแข่ง
+
+แสงเปลี่ยนเป็นแสงแดดที่คมชัดและมีคอนทราสต์สูง
+พื้นยางมะตอยสีเทาเย็น คลื่นความร้อนจากยางรถ และละอองฝุ่นละเอียด
+
+กล้องยังคงอยู่ในระดับต่ำ ติดตาม และซิงโครไนซ์ รักษาทิศทางการเคลื่อนที่และมุมเดียวกันกับการถ่ายรถของเล่น สร้างภาพลวงตาว่ามันคือรถคันเดียวกัน แต่ตอนนี้มีขนาดเต็ม
+
+ฟิสิกส์ที่สมจริงสูง:
+
+• การยึดเกาะและการสั่นสะเทือนของยาง
+• การเคลื่อนไหวของช่วงล่างที่ละเอียดอ่อน
+• การสะท้อนแสงที่เป็นธรรมชาติบนสีรถที่เงางาม
+
+อารมณ์: ความทึ่ง → อะดรีนาลีน → ความเข้มข้น
+
+9.0 – 12.0 sec — การเชื่อมโยงกับมนุษย์ (จุดสูงสุดทางอารมณ์)
+
+ตัดเข้าสู่ภายในรถอย่างราบรื่น (การเปลี่ยนผ่านที่เข้ากับการเคลื่อนไหว)
+ภาพโคลสอัพ: มือของนักขับผู้ใหญ่กำลังกำพวงมาลัยแข่งหุ้มหนังกลับ สวมถุงมือแข่งรถมืออาชีพ
+
+รายละเอียดขนาดเล็กที่มองเห็นได้:
+
+• ความตึงของข้อนิ้ว
+• เหงื่อเล็กน้อย
+• การสั่นสะเทือนจากการเปลี่ยนเกียร์
+
+กล้องเงยขึ้นอย่างนุ่มนวลเพื่อเผยให้เห็นดวงตาของนักขับที่อยู่ภายในหมวกกันน็อก
+
+ดวงตาคมกริบ มุ่งมั่น และเข้มข้น สะท้อนจินตนาการในวัยเด็กที่กลายเป็นจริง
+มองเห็นเหงื่อ ลมหายใจ และการสะท้อนแสงบนหมวกกันน็อกที่ละเอียดอ่อน
+
+ช่วงเวลาสุดท้าย: ความรู้สึกเหมือนภาพหยุดนิ่งเล็กน้อย (ไม่ใช่การหยุดภาพแบบแข็งทื่อ) ที่ดวงตา พร้อมกับการสั่นสะเทือนของกล้องเล็กน้อย
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d519f538df24987cf95bcb463e6b23c7/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอ: การแข่งรถจากจินตนาการวัยเด็กสู่ความเป็นจริง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2193)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037752357480755466) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### จอมยุทธ์ไซเบอร์พังก์บนเรือหาปลากลางทะเลทราย
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอของนักรบจักรกลไซเบอร์พังก์กำลังภายใน กำลังขับเรือประมงแบบดั้งเดิมข้ามเนินทรายอันกว้างใหญ่ ผสมผสานองค์ประกอบแห่งอนาคตและดั้งเดิมเข้าด้วยกัน ด้วยแสงแบบภาพยนตร์ที่ให้ความรู้สึกดราม่า และสไตล์ภาพยนตร์กำลังภายในของ King Hu
+
+#### 📝 พรอมต์
+
+```
+นักรบจักรกลแนวไซเบอร์พังก์กำลังภายใน, ขับเคลื่อนเรือประมงแบบดั้งเดิมข้ามเนินทรายอันกว้างใหญ่ไพศาล, ทรายฟุ้งกระจายตามหลังราวกับพายุ, รายละเอียดจักรกลล้ำยุคบนเรือ, ลมพัดเสื้อคลุมและผ้าคลุมปลิวไสว, แสงแบบภาพยนตร์ที่ดราม่า, ทิวทัศน์ทะเลทรายอันยิ่งใหญ่, บรรยากาศขมุกขมัว, สไตล์ภาพยนตร์กำลังภายในแบบคิง ฮู, รายละเอียดสูงมาก, มุมกว้าง, ภาพนิ่งจากภาพยนตร์
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/03af83d029462f7ac5f5dfc35af096e1/thumbnails/thumbnail.jpg" width="600" alt="จอมยุทธ์ไซเบอร์พังก์บนเรือหาปลากลางทะเลทราย">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2206)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037749136217567337) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Cyber Wuxia Action Scene: Waterfall Duel
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed, four-part storyboard prompt for Seedance 2.0, generating a high-tension Cyber Wuxia duel in the style of 'Fog Hill of Five Elements'. The scene features a female character in a white suit with mechanical parts and a male character with Hello Kitty tattoos and pink metal pants, fighting near a giant mossy waterfall using extreme slow-motion, rapid cuts, and cinematic camera work.
+
+#### 📝 พรอมต์
+
+```
+[Shot 1 · 3s · Setup/Explosion] Subject 1: Cyber Female Image 1, white suit, mechanical neck bone, gold gear earrings, cold red lips, black ponytail, dark iron long saber. Subject 2: Cyber Male Image 2, bare six-pack abs, Hello Kitty tattoo, black mechanical shoulder armor, pink metal cargo pants, white AJs, katana. Scene: Reference image Image 3, giant mossy waterfall cliff, white mist covering the sky, lush green ferns, slippery mossy rocks. Action: The male leaps from the top of the waterfall, katana held reversed and inverted, falling at high speed in the mist—bullet time intervenes, the camera orbits the stationary body 360 degrees, water droplets suspended, sharp details of mechanical armor gears visible; time resumes, the male crashes onto the mossy rock platform, creating a ten-meter crack. The female instantly teleports sideways to dodge, the blade edge grazes her hair, black hair strands scatter. Style: Wu Shan Wu Xing (Fog Hill of Five Elements) national comic style, hard-edge ink lines, high contrast of cyan, silver, crimson, and gold, cinematic lighting. Camera: Follows the dive at high speed, 360-degree orbit in bullet time, camera positioned parallel to the falling trajectory (that's where the camera is). Composition: Vertical leading lines, waterfall and falling trajectory coincide, impact point is the focus. Atmosphere: Extreme pressure, life-or-death situation, mist explodes. Audio: Wind tearing; silent low frequency in bullet time; landing roar; Music: Single drum heavy hit start. [Shot 2 · 4s · Turning Point/Skirmish] Subject 1: White-suited female, long saber low sweep and continuous chop, sharp movements. Subject 2: Pink-panted male, mechanical arm blocks, crimson-gold electric arcs explode. Scene: Mossy rock platform halfway down the waterfall, mossy stones shattered, ferns flying, mist cut into threads by energy force. Action: The female slides low to the ground, thrusting forward with a low sweep at the ankle—bullet time intervenes, extreme close-up of the blade edge and the AJ sole separated by only two millimeters, the sole scorched by the blade's energy, mechanical joint knuckles fixed in white detail; time resumes, the male steps off the ground and springs up, the flaming katana slashing toward the female's mechanical neck. The blade edge grazes the neck part, sending it spinning off; the two kick off the wall and collide in the air, their legs impacting and erupting a blue-gold shockwave, both are thrown back, performing backflips upon landing. Style: Alternating rapid cuts and bullet time, extremely strong sense of impact, cruel and realistic details. Camera: Low-speed tracking close to the ground, cutting to extreme close-ups, camera positioned close to the ground (that's where the camera is). Composition: Extreme close-up depth of field, sharp dangerous details, heavy blurring of the background waterfall. Atmosphere: Hair-trigger moment, suffocating feeling. Audio: Blade scraping bone metal shriek; sizzling sound of scorched sole; shockwave explosion; Music: Rapid string music. [Shot 3 · 4s · Climax/Environmental Combat] Subject 1: White-suited female, long saber reversed, stabbing into the ground, spinning kick into the air. Subject 2: Pink-panted male, grabbing fern vines to swing, mechanical arm overloaded and glowing red. Scene: Water pool area at the bottom of the waterfall, giant depressions stepped out of the water surface, mossy stones cracked, ferns uprooted. Action: The male sweeps the entire fern horizontally, the female's long saber cuts it in half at the waist—bullet time intervenes, extreme close-up of the cross-section fiber texture, green sap residue on the blade edge, mechanical joint knuckles fixed in white detail; time resumes, the female uses the counter-shock to spin and diagonally slash an ice-blue blade energy. The male's overloaded mechanical arm hard-blocks and crushes it, steam and scorch smoke from the palm; the two tumble and roll into the water pool, engaging in close combat, stirring up a ten-meter water column that refracts a gold-blue rainbow. Style: Slow-motion detail close-ups and violent impact run parallel, extreme environmental destruction. Camera: Bullet time cross-section close-up cuts back to the full view of the water column explosion, camera positioned parallel to the water surface (that's where the camera is). Composition: Water reflection and real action are vertically symmetrical, the impact point is centered. Atmosphere: Savage explosion, fighting to the death. Audio: Tree trunk breaking sound; mechanical overload humming; water column explosion roar; Music: Low-frequency war drum burst point. [Shot 4 · 4s · Conclusion/Ultimate Attack Clash] Subject 1: White-suited female, long saber raised high, silver-ice light overloaded and erupting, the edge of the suit torn by energy. Subject 2: Pink-panted male, katana held horizontally across the chest, mechanical armor fully overloaded with crimson-gold power, pink pants fluttering wildly. Scene: Elevated mossy rock platform directly in front of the waterfall, with the hundred-meter waterfall as the background, mist and light merging. Action: Both simultaneously charge and erupt, ice and fire dual-color energy beams shoot into the sky—bullet time intervenes, extreme close-up of the female's pupil, reflecting the crimson-gold flame and the male's full silhouette, water droplets on eyelashes clearly visible, her gaze changes from cold indifference to deadly resolve; cut to a close-up of the male's Hello Kitty tattoo, the tattoo lines flowing and glowing under the crimson-gold light; time resumes, both sprint forward and clash blades, the two sabers colliding in the exact center of the waterfall, exploding into a fifty-meter ice and fire dual-color spherical explosion, the waterfall is split in half down the middle; both are thrown back ten meters, crashing heavily onto the mossy rocks. The smoke and dust gradually dissipate, the two gasp and look at each other, the frame freezes. Style: Extreme contrast between bullet time micro-details and ultimate explosion wide-angle, shocking conclusion. Camera: Extreme micro-close-up of the eyes cuts to ultra-wide-angle full view of the big explosion, camera positioned parallel to the front of the explosion (that's where the camera is). Composition: Center point of the explosion, ice and fire dual colors radiating in four directions, dual characters symmetrically positioned. Atmosphere: Earth-shattering, destruction-level conclusion. Audio: Silent heartbeat in bullet time; dual saber collision resonance; explosion roar; Music: Single drum freeze frame, low-frequency aftershock gradually weakens. No watermark, no subtitles, no text overlay.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e7e60b043ef57692b136b2b81971ab43/thumbnails/thumbnail.jpg" width="600" alt="Cyber Wuxia Action Scene: Waterfall Duel">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2223)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037746903123923107) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Gugu Gaga แอนิเมชัน Chibi ริมทะเลสาบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt โดยละเอียดสำหรับ Seedance 2.0 เพื่อสร้างแอนิเมชันสไตล์อนิเมะแบบจิบิ คาวาอี้ 2 มิติ ของตัวละคร Gugu Gaga (เด็กผู้หญิงที่สวมเสื้อฮู้ดลายเพนกวิน) ริมทะเลสาบ โดยระบุการกระทำของตัวละคร (การโยกศีรษะ, การเคลื่อนไหวปากที่ซิงค์กับเสียง), สไตล์, และรูปแบบแนวตั้ง
+
+#### 📝 พรอมต์
+
+```
+สไตล์อนิเมะแบบจิบิ คาวาอี้: เด็กผู้หญิงน่ารัก ผมสีดำ สวมเสื้อฮู้ดลายเพนกวิน ตาสีฟ้า และปลอกคอโลหะ กำลังนั่งอยู่บนม้านั่งไม้ริมทะเลสาบ เธอโยกหัวและขยับปากอย่างน่ารัก พร้อมกับส่งเสียงอ้อแอ้แบบเด็กเล็ก ๆ ที่ซิงค์กับเสียง: '9 Gugu... Lol... Gugu Ga... Lol... Guguga... Lol' ตัวโยกไหวเบา ๆ และแอนิเมชันดวงตาระยิบระยับ แสงธรรมชาติที่สดใส, ฉากหลังทะเลสาบที่เงียบสงบ, โทนสีดำ-ขาว-เหลือง, ความรู้สึกแบบมีมที่ดูน่ารักแต่ก็ปั่นป่วน, สุนทรียภาพแบบแฟนดอม Arknights Endfield, แอนิเมชัน 2D ที่ลื่นไหล, รายละเอียดสูง, รูปแบบแนวตั้ง 9:16
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce53746db26b052c9992ca0d6cd07ada/thumbnails/thumbnail.jpg" width="600" alt="Gugu Gaga แอนิเมชัน Chibi ริมทะเลสาบ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2199)**
+
+**ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7) | **แหล่งที่มา:** [Link](https://x.com/Just_sharon7/status/2037728239842742454) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### การไล่ล่าหุ่นยนต์มอเตอร์ไซค์ไซเบอร์พังก์สุดสมจริงท่ามกลางสายฝนที่กระหน่ำ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์โดยละเอียดสำหรับ Seedance 2.0 เพื่อสร้างฉาก CGI 3D ที่สมจริงระดับภาพถ่าย โดยมีหญิงสาวคนหนึ่งกำลังขี่มอเตอร์ไซค์-หุ่นยนต์ลูกผสมขนาดมหึมา ท่ามกลางสายฝนที่โปรยปรายอย่างหนักและหิมะ และหุ่นยนต์กำลังยิงอาวุธ ถ่ายทำด้วยมุมกล้องแบบไดนามิกที่ติดตามการเคลื่อนไหว
+
+#### 📝 พรอมต์
+
+```
+ฉาก 3D CGI แบบภาพยนตร์ที่สมจริงดุจภาพถ่าย, ฝนและหิมะตกหนักกระหน่ำลงมาเป็นสายสีขาว, น้ำกระเซ็นบนถนนเปียกสีเข้ม, หญิงสาวสวยคนเดิมผมยาวสีเข้มปลิวไสวอย่างบ้าคลั่ง, สวมหน้ากากสีดำ, เสื้อแจ็คเก็ตและกางเกงหนังสีแดง, กำลังขี่ส่วนหน้าของหุ่นยนต์มอเตอร์ไซค์ไฮบริดสีดำขนาดมหึมาที่แปลงร่างเต็มตัวแล้ว, หุ่นยนต์รบรูปร่างมนุษย์สีดำขนาดยักษ์ที่ก่อตัวสมบูรณ์อยู่ด้านหลังเธอ มีหัวเป็นหมวกกันน็อค, ดวงตาสีแดงเรืองแสง, ปืนกลหนักหลายกระบอกอยู่บนแขนทั้งสองข้างและไหล่, หุ่นยนต์กำลังยิงแสงวาบจากปากกระบอกปืนสีส้มสดใสและกระสุนจากปืนของมัน, มุมกล้องติดตามแบบไดนามิกพร้อมการสั่นเล็กน้อย, ประกายไฟ ควัน และฝนที่ผสมปนเปกัน, มอเตอร์ไซค์กำลังเร่งความเร็วอย่างรวดเร็ว, รายละเอียดคมชัดพิเศษ, 8k, แสงแบบภาพยนตร์, ฝนบนเลนส์ --ar 16:9 --motion 10 seconds
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c9a4d10e6d42cc7fe2c63e2328cd26dc/thumbnails/thumbnail.jpg" width="600" alt="การไล่ล่าหุ่นยนต์มอเตอร์ไซค์ไซเบอร์พังก์สุดสมจริงท่ามกลางสายฝนที่กระหน่ำ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2205)**
+
+**ผู้เขียน:** [Riya_Cute 🇺🇸](https://x.com/Riya333S) | **แหล่งที่มา:** [Link](https://x.com/Riya333S/status/2037722910702657973) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### ภาพมุมกว้างแบบภาพยนตร์ของนักผจญภัยผู้โดดเดี่ยวในยามพระอาทิตย์ขึ้น
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์ที่ออกแบบมาสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอแนวภาพยนตร์ของนักผจญภัยผู้โดดเดี่ยวที่ยืนอยู่บนหน้าผาสูงของภูเขาในยามพระอาทิตย์ขึ้น โดยเน้นแสงสีทอง การเคลื่อนไหวของกล้องที่ช้า และบรรยากาศที่ยิ่งใหญ่สมจริง
+
+#### 📝 พรอมต์
+
+```
+นักผจญภัยผู้โดดเดี่ยว ยืนอยู่บนหน้าผาสูงชันของภูเขา เหนือหมู่เมฆยามพระอาทิตย์ขึ้น, มุมกว้างแบบภาพยนตร์, แสงสีทองสาดส่องท้องฟ้า, เมฆที่ดูอลังการเคลื่อนตัวช้าๆ เบื้องล่าง, ลมพัดเสื้อแจ็คเก็ตของตัวละคร, สภาพแวดล้อมที่สมจริง, ภูเขาในฉากหลังที่มีรายละเอียดคมชัดสูง, บรรยากาศที่ยิ่งใหญ่, หมอกจางๆ, ระยะชัดลึก, 4K, แสงแบบภาพยนตร์, การเคลื่อนไหวกล้องช้าๆ (ซูมออก + แพนเล็กน้อย), อารมณ์ที่สร้างแรงบันดาลใจและการผจญภัย, ความสมจริงสูง, แสงเชิงปริมาตร, HDR
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8247654fd28cae9415ba6fbb630799cd/thumbnails/thumbnail.jpg" width="600" alt="ภาพมุมกว้างแบบภาพยนตร์ของนักผจญภัยผู้โดดเดี่ยวในยามพระอาทิตย์ขึ้น">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2203)**
+
+**ผู้เขียน:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **แหล่งที่มา:** [Link](https://x.com/navi_Ai2/status/2037721345119994051) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### หนูแฮมสเตอร์นักกล้าม: แอนิเมชันขนาดสั้นคุณภาพระดับ Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมต์แบบละเอียดหลายส่วนที่ออกแบบมาสำหรับ Seedance 2.0 เพื่อสร้างภาพยนตร์แอนิเมชัน 3D สั้น 15 วินาที คุณภาพระดับ Pixar งบประมาณสูง เกี่ยวกับแฮมสเตอร์ตัวเล็กแต่มีกล้ามเนื้อที่พยายามออกกำลังกายในยิมของมนุษย์ โดยมีอารมณ์ขันแบบสแลปสติกและการแบ่งฉากแบบภาพยนตร์
+
+#### 📝 พรอมต์
+
+```
+สร้างกล้าม — แฮมสเตอร์นักกล้าม
+
+แฮมสเตอร์ตัวเล็กสีทองที่มีแขนเป็นมัดกล้ามใหญ่เกินตัว สวมเสื้อกล้ามจิ๋วที่เขียนว่า "NO DAYS OFF" ยืนอยู่หน้ากระจกยิมขนาดคนจริง กำลังโพสท่าโชว์กล้ามไบเซ็ปส์ มีขวดน้ำขนาดเท่าตัวเขาวางอยู่ข้างๆ แอนิเมชัน 3D ทุนสร้างสูง คุณภาพระดับ Pixar
+
+[0s–1.5s] ภายในยิมหรู มีคนปกติกำลังออกกำลังกายอยู่เบื้องหลัง กล้องค่อยๆ ลดระดับลงสู่พื้น ที่ซึ่งแฮมสเตอร์ตัวหนึ่งยืนอยู่บนแท่นเล็กๆ หน้ากระจก กำลังเกร็งกล้ามอย่างเต็มที่
+
+[1.5s–3s] เขาเดินเตาะแตะไปที่ชั้นวางดัมเบล คว้าดัมเบลขนาด 1 กก. เต็มขนาด มันใหญ่กว่าตัวเขาถึงยี่สิบเท่า เขาเดดลิฟต์มัน ใบหน้าแดงก่ำ แก้มป่อง ขาเล็กๆ สั่นระริก เขายกมันขึ้นจากพื้นได้แค่หนึ่งนิ้ว แล้วก็ทำหล่น ทำเป็นไม่สนใจ
+
+[3s–5s] เขาปีนขึ้นไปบนลู่วิ่งไฟฟ้า กดปุ่มสตาร์ท มันเหวี่ยงเขากระเด็นไปข้างหลังเหมือนถูกยิงจากปืนใหญ่ เขากลิ้งไปบนพื้น ลุกขึ้นทันที เดินกลับไป และลดความเร็วลง มองไปรอบๆ เพื่อดูว่ามีใครสังเกตเห็นไหม
+
+[5s–7s] เขาพยายามเล่นเบนช์เพรส ใช้ดินสอสองแท่งเป็นบาร์เบล โดยมียางลบเป็นน้ำหนัก เขายกมันขึ้น พร้อมส่งเสียงครางอย่างโอ้อวด สปอตเตอร์ของเขา ซึ่งเป็นแฮมสเตอร์ตัวเล็กกว่าครึ่งหนึ่ง สวมแว่นตา กำลังเอานิ้วหนึ่งนิ้วรองใต้บาร์ ทำทีเป็นช่วย
+
+[7s–9s] เขาเห็นผู้หญิงคนหนึ่งกำลังเล่นโยคะ เขากางเสื่อโยคะจิ๋วข้างๆ เธอ และพยายามทำท่า Downward Dog ร่างกายกลมๆ ของเขาดูเหมือนก้อนขนปุยเล็กๆ เท่านั้น เขาค้างท่าไว้ด้วยความมุ่งมั่นอย่างแรงกล้า ตัวสั่นระริก
+
+[9s–11s] บาร์สมูทตี้ เขานั่งบนเคาน์เตอร์ สั่งโปรตีนเชค เครื่องปั่นใหญ่กว่าอพาร์ตเมนต์ของเขาเสียอีก เชคถูกเสิร์ฟมาในปลอกนิ้ว เขาดื่มรวดเดียวหมด กระแทกปลอกนิ้วลง เช็ดปาก และเรอเล็กๆ ที่ก้องกังวาน
+
+[11s–13s] เขายืนอยู่ตรงประตูห้องล็อกเกอร์ เพื่อการออกไปอย่างมีสไตล์ ใส่หูฟังจิ๋ว เพลย์ลิสต์ออกกำลังกายของเขาเริ่มขึ้น เขาเดินสโลว์โมชันเข้าหากล้อง โดยมีลมสมมติพัดขนของเขาปลิวไสว
+
+[13s–15s] ภาพมุมกว้างของลานจอดรถยิม เขาเดินไปที่รถของเล่น กดรีโมต ไฟหน้ารถก็กะพริบ เขาปีนเข้าไปในรถ เร่งเครื่องยนต์ และขับออกไปอย่างรวดเร็ว รถคันนั้นคือรถจี๊ป Barbie สีชมพูสด เขาไม่สนใจหรอก
+
+ตัดเป็นภาพมืด แอนิเมชัน 3D, คุณภาพระดับ Pixar, แฮมสเตอร์นักกล้าม, คอมเมดี้ยิม, ตลกขบขันขนาดจิ๋ว, แสงแบบภาพยนตร์, 4K
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c00d8b7643189dcb94469c190bc4ce07/thumbnails/thumbnail.jpg" width="600" alt="หนูแฮมสเตอร์นักกล้าม: แอนิเมชันขนาดสั้นคุณภาพระดับ Pixar">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2200)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037716504981258532) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### พรอมต์วิดีโออนิเมะ: นั่งรถไฟโลไฟอันเงียบสงบ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ละเอียดและมีหลายช็อตนี้ออกแบบมาเพื่อสร้างวิดีโอ lofi แนวอนิเมะที่ให้ความรู้สึกสงบ โดยมีเด็กผู้หญิงคนหนึ่งกำลังนั่งรถไฟยามพระอาทิตย์ตกดิน โดยระบุสไตล์ศิลปะ (แฟนตาซีวาดมือโทนอบอุ่น) บรรยากาศ (ชวนฝันและหวนรำลึกถึงอดีต) และยังรวมถึงรายละเอียดการตัดต่อและมุมกล้องเฉพาะ 5 ช็อต
+
+#### 📝 พรอมต์
+
+```
+การเดินทางด้วยรถไฟแนวโลไฟที่ได้รับแรงบันดาลใจจากอนิเมะยามพระอาทิตย์ตกดินอันเงียบสงบ ในสไตล์แฟนตาซีที่วาดด้วยมืออย่างอบอุ่น เด็กสาวผู้เงียบขรึมสวมหูฟังนั่งอยู่ริมหน้าต่าง ท้องฟ้าสีทอง ภูเขาที่อยู่ห่างไกล ต้นไม้ที่เคลื่อนผ่าน แสงแดดอ่อนๆ สาดส่องบนใบหน้าของเธอ สมุดบันทึกวางอยู่บนตัก บรรยากาศชวนฝันและหวนรำลึกถึงอดีต อารมณ์การเดินทางที่สงบ พื้นผิวแบบภาพวาดที่นุ่มนวล การเคลื่อนไหวที่อ่อนโยน (เฉพาะการตัดต่อ)
+
+ช็อตที่ 1: ภาพมุมกว้างภายในห้องโดยสารรถไฟที่อบอุ่นสบายยามพระอาทิตย์ตก แสงสีส้มอบอุ่นสาดส่องทั่วพื้นที่
+ตัดไปที่ช็อตที่ 2: ภาพขนาดกลางของเด็กสาวที่นั่งอยู่ริมหน้าต่างพร้อมหูฟัง มองออกไปข้างนอกอย่างเงียบๆ
+ตัดไปที่ช็อตที่ 3: ภาพโคลสอัพหน้าต่างรถไฟที่มีแสงสีทอง ต้นไม้ที่พร่ามัว และเงาภูเขา
+ตัดไปที่ช็อตที่ 4: ภาพโคลสอัพมือของเธอที่วางอยู่บนสมุดบันทึกที่เปิดอยู่
+ตัดไปที่ช็อตที่ 5: ภาพขนาดกลางสุดท้ายของเธอที่หลับตาลงและเพลิดเพลินกับการเดินทางอันเงียบสงบ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9059758d2a902abb63d2b4025ae78e06/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโออนิเมะ: นั่งรถไฟโลไฟอันเงียบสงบ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2190)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037698627808956436) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### Xu Ke Style Cyber Wuxia Duel: Mechanical Limbs vs. Hanfu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for Seedance 2.0 generating a high-tension, 15-second Cyber Wuxia duel video in the style of Tsui Hark and King Hu. The scene is set against a giant waterfall, featuring a female fighter in a white suit with gold-copper mechanical limbs and a male fighter in Hanfu with silver mechanical arms, focusing on weapon clashes, steam effects, and cinematic camera movements.
+
+#### 📝 พรอมต์
+
+```
+Tsui Hark style high-tension Eastern Cyber Wuxia life-or-death battle, 15 seconds of continuous action, fusion of Shaw Brothers classic aesthetics and cyberpunk machinery. Scene: Image 2, a giant waterfall cascades vertically from the back of the frame, the entire background is covered by a white water curtain. There is a shallow layer of water on the cliff platform ground, with cold white backlighting penetrating from behind the waterfall. Mist continuously rolls in, enveloping the entire space, and footsteps kick up sparkling water splashes. Left fighter: Chinese female, in her forties, Image 1, white long suit jacket hem reaching the knee, chest open revealing silver mechanical chest armor, both arms are fully exposed gold-copper mechanical prosthetics, gears and hydraulic rods clearly visible, cold steam seeping from the joints, both feet are also exposed gold-copper mechanical structures, the gold-copper mechanical spine is fully exposed along the midline of the back, black ponytail hairstyle with gold circular earrings. Right hand holds a slender straight-edged sword, the blade is long and unpatterned, the total length is about two-thirds of her height, the hilt is wrapped with gold-copper mechanical gears. Right fighter: Chinese male, in his forties, robust build, Image 3, off-white Hanfu robe tied with a cloth belt at the waist, silver mechanical shoulder armor covering both shoulders, both arms are silver mechanical prosthetics, with silver mechanical spinal armor on the back, hair shaved short on both sides of the topknot, composed face. Both hands hold a long staff, the staff is dark hardwood with silver metal hoops wrapped around it at intervals, hands gripping the middle and rear sections. First two and a half seconds of suffocating standoff: The white-suited female with gold-copper mechanical arms extends her right arm forward, the tip of the slender sword pointing towards the opponent's throat, reflecting metal in the backlight. Her left mechanical arm hangs by her side, ready to strike, joint steam slowly seeping out. The robust male in the off-white Hanfu with silver mechanical shoulder armor holds the long staff horizontally in front of him with both hands, his center of gravity sinking into his back foot, his eyes tracking every inch of movement of the opponent's mechanical arm. The hem of the robe continuously flutters in the wind pressure on the cliff platform, and the shallow water creates dense ripples. The camera slowly pushes in from a low side angle close to the water surface, the waterfall curtain extending to the four edges of the frame. Third second explosion: The white-suited female with gold-copper mechanical arms stomps her right foot, splashing a large area of water. Both arms thrust forward forcefully, lunging with her whole body to stab the slender sword diagonally upwards from a low position, mechanical elbow joint steam jetting out intensely. The robust male with silver mechanical arms in the off-white Hanfu instantly presses the long staff down to diagonally meet the incoming sword. The silver hoops on the staff collide with the sword, creating a loud bang. He uses the force to turn right and backhand sweep the end of the staff towards the opponent's waist. The two weapons cross in the cold white backlight, and water droplets scatter from the collision point, exploding into a cloud of light points. Three-stage rhythm change: First stage of close-quarters combo: The white-suited female with gold-copper mechanical arms continuously stabs rapidly with the straight sword, changing high and low angles. The hydraulic rods of the mechanical arms are visible extending and retracting with each thrust. The robust male with silver mechanical arms in the off-white Hanfu alternately parries with both ends of the long staff. Micro sparks of fire are generated by joint friction during the high-speed blocking of the silver mechanical arms. Both move quickly in the shallow water, each step splashing a low water curtain. The camera quickly tracks sideways, cutting into a close-up freeze frame of the sparks and water droplets at the moment of weapon collision. Second stage of aerial engagement: The white-suited female with gold-copper mechanical feet steps on the water surface and leaps up, her robe hem and ponytail forming a streamline in the air. At the highest point, she brings the slender sword down with a powerful chop. The robust male with silver mechanical shoulder armor in the off-white Hanfu raises the staff over his head, spreading his arms to meet the attack. The two weapons collide head-on in mid-air, the impact airwave pushing the mist outward into a circle. The camera switches to a top-down view, capturing the cross composition of the two against the white waterfall background. Third stage of close-quarters entanglement: The robust male with silver mechanical arms in the off-white Hanfu uses the long staff to push horizontally against the female's gold-copper mechanical arm, using the length of the staff to force her towards the edge of the cliff platform. The white-suited female with gold-copper mechanical arms uses her left mechanical arm to hard-block the staff. The torsos of the two are almost touching, and shallow water ripples spread outward between their feet. The camera slightly shakes once with the impact of the weight, simulating a handheld feel. Last three seconds of conclusion: The robust male with silver mechanical shoulder armor in the off-white Hanfu is forced back to the edge of the cliff platform by the final heavy downward chop, kneeling on one knee. The long staff is placed diagonally in front of him, the tail end resting on the slippery ground. The silver mechanical arms tremble slightly, the lower hem of the robe is soaked and clings to his legs, and the waterfall mist falls onto the silver shoulder armor. The white-suited female with gold-copper mechanical arms lands and steps on the water to stabilize her posture, extending the slender sword forward until the tip is less than an inch from the opponent's neck. The gold-copper mechanical arms are completely still, and the steam slowly dissipates. They look at each other for one second. She slightly withdraws the sword tip by an inch, holding it suspended. The camera slowly pulls back, framing both of them simultaneously. The waterfall curtain rushes across the full frame, and water splashes continue to scatter on the shallow water ground. 8K ultra-high-definition cinematic quality, ultra-realistic texture, 35mm film grain, cold white waterfall background contrasting with the warm color of the gold-copper machinery, silver mechanical parts forming a third layer of luster in the backlight. Fast sideways tracking, close-ups of weapon collisions, top-down emphasis shots, slight handheld shake during heavy impacts. Metal sparks, steam jets, and water splashes are visible throughout. Clothing and hairstyles have realistic physical response to airflow. Continuous action without jump cuts, no anime style, no game interface, no magic light effects, no watermark, no subtitles, no limb deformation.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11ffbed6f6242cd3f8224072ee58a6b3/thumbnails/thumbnail.jpg" width="600" alt="Xu Ke Style Cyber Wuxia Duel: Mechanical Limbs vs. Hanfu">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2224)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037694791727915067) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
+### อัศวินดาร์กแฟนตาซี ปะทะ ความสยองขวัญแห่งพงไพร
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์แบบหลายคัต ที่มีรายละเอียดอย่างมาก สำหรับ Seedance 2.0 เพื่อสร้างลำดับภาพแนว ดาร์กแฟนตาซี แอคชั่น สยองขวัญ ความยาว 15 วินาที ซึ่งระบุตัวละครหลัก (อัศวิน และ หญิงสาวผู้แปลงร่าง), สภาพแวดล้อม, บรรยากาศ, ตรรกะสี และนำเสนอไทม์ไลน์ ที่แม่นยำ พร้อมรายละเอียดเลนส์กล้อง และเอฟเฟกต์เสียง (SFX) สำหรับทั้งหกคัต
+
+#### 📝 พรอมต์
+
+```
+FORMAT: 15 วินาที / 6 คัต / ดาร์กแฟนตาซี แอคชั่น สยองขวัญ
+
+SUBJECTS: อัศวินยุคกลางผู้กรำศึกในชุดเกราะเก่าคร่ำคร่า กำลังต่อสู้เพื่อเอาชีวิตรอด หญิงสาวผู้ร่ำไห้ในชุดเดรสกำมะหยี่ปักลายอันหรูหราแบบยุคกลาง ที่บิดเบี้ยวกลายเป็นอสุรกายแห่งป่า ด้วยใบหน้าซีดเผือดน่ากลัว ดวงตาสีขาวว่างเปล่า และปากที่อ้ากว้าง แต่ยังคงสวมชุดอันสูงศักดิ์ของเธอไว้
+
+ENVIRONMENT: ป่าโบราณยามค่ำคืนที่รกทึบ รกร้าง และเต็มไปด้วยหมอกหนา มีลำต้นไม้บิดเบี้ยวสีเข้ม รากไม้หนา หมอกที่ลอยปกคลุมมอสชื้น และแสงจันทร์อันแข็งกร้าวที่สาดส่องทะลุยอดไม้ลงมา
+
+MOOD: ความน่าสะพรึงกลัวที่คุกคาม บรรยากาศชวนขนลุกที่ทวีความรุนแรงขึ้นเป็นความรุนแรงในป่าที่รวดเร็ว ดุดัน และเคลื่อนไหวอย่างมีพลัง
+
+COLOR LOGIC: การจำลองฟิล์มภาพยนตร์แบบธรรมชาติ
+
+TIMELINE:
+
+0:00-0:03: ลองช็อต อัศวินผู้เหนื่อยล้าเดินลากเท้าฝ่าหมอกหนาทึบในป่ามืด ไกลออกไปในม่านหมอก หญิงสาวในชุดเดรสกำมะหยี่ปักลายอันหรูหราแบบยุคกลางนั่งอยู่ที่โคนต้นไม้บิดเบี้ยวขนาดใหญ่ ร่ำไห้เบาๆ ใบหน้าของเธอถูกบดบังด้วยผมสีเข้มยาวสลวยจนมิด เลนส์ภาพยนตร์ 35 มม. SFX: (เสียงลมหวีดหวิว, เสียงฝีเท้าโลหะหนักอึ้ง, เสียงสะอื้นแผ่วเบาจากระยะไกล) แสงจันทร์เย็นยะเยือกสาดส่องลงมา
+
+0:03-0:03.5: แฟลชคัต มุมสูงมองตรงขึ้นไปยังเรือนยอดป่า กิ่งไม้ที่เปลือยเปล่าและขรุขระแกว่งไกวอย่างรุนแรงตัดกับท้องฟ้ายามค่ำคืนที่ปั่นป่วน บดบังดวงจันทร์ชั่วขณะ เลนส์อัลตร้าไวด์ 14 มม. SFX: (เสียงไม้ลั่น, เสียงลมกระโชกแรงอย่างกะทันหัน)
+
+0:03.5-0:06: สแมชคัต มีเดียมโคลสอัพ อัศวินคุกเข่าลง มือที่สวมเกราะค่อยๆ แตะไหล่เธอเบาๆ เธอค่อยๆ เงยหน้าขึ้นมองเขา จากนั้นก็บิดเบี้ยวกลายเป็นใบหน้าซีดเผือดน่าสะพรึงกลัวทันที ด้วยดวงตาสีขาวว่างเปล่าและปากที่อ้ากว้าง พุ่งเข้าใส่เขาอย่างรุนแรง ชุดอันสูงศักดิ์ของเธอยังคงไม่บุบสลาย เลนส์ไวด์ 24 มม. SFX: (เสียงผ้าเสียดสีเบาๆ, เสียงแส้ฟาดกระดูก, เสียงกรีดร้องที่บาดลึก) แสงแบ็คไลท์ทิศทางเดียวที่แข็งกร้าว
+
+0:06-0:13: การเปลี่ยนฉากแบบวิปแพน แทร็กกิ้งช็อตที่รวดเร็ว อัศวินหลบหลีกได้อย่างหวุดหวิดและชักดาบยาวของเขาออกมา อสุรกายในชุดกำมะหยี่พุ่งเข้าใส่ พวกเขาปะทะกันอย่างรุนแรง เข้าสู่การต่อสู้ที่ดุเดือดและเคลื่อนไหวอย่างมีพลัง สิ่งมีชีวิตนั้นกระโดดไปมาระหว่างลำต้นไม้ขนาดใหญ่และกิ่งไม้หนาได้อย่างไร้รอยต่อ โจมตีจากทุกทิศทาง ในขณะที่อัศวินพยายามปัดป้องการโจมตีอันดุร้ายของเธออย่างสิ้นหวัง เลนส์อัลตร้าไวด์ 14 มม. แบบถือด้วยมือ SFX: (เสียงโลหะกระทบกัน, เสียงผ้ากำมะหยี่พริ้วไหวอย่างหนัก, เสียงไม้แตก, เสียงคำรามในลำคอ) แสงที่เปลี่ยนแปลงอย่างรวดเร็วและไม่แน่นอนจากฟ้าผ่ากะทันหัน
+
+0:13-0:15: คอลลิชั่นคัต โคลสอัพมุมต่ำ ขณะที่สิ่งมีชีวิตนั้นพุ่งเข้าใส่โดยตรงจากกิ่งไม้หนาสูง อัศวินก็ก้าวเข้าสู่การโจมตีและแทงดาบยาวทะลุหน้าอกของเธออย่างโหดเหี้ยม พวกเขาร่วงหล่นลงมาทางกล้อง โดยที่ดาบเหล็กจมลึกเข้าไปในร่างของสิ่งมีชีวิตนั้น ขณะที่พวกเขาจางหายไปในเงามืดของป่าทึบ เลนส์ 35 มม. SFX: (เสียงโลหะแทงทะลุอย่างหนัก, เสียงกระทบเนื้อเปียกชื้น, เสียงกรีดร้องก้องกังวาน) แสงขอบที่จางหายไป
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06973c272c0da66b0b2ecaaf1a5d81cd/thumbnails/thumbnail.jpg" width="600" alt="อัศวินดาร์กแฟนตาซี ปะทะ ความสยองขวัญแห่งพงไพร">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2201)**
+
+**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2037686279266263402) | **เผยแพร่เมื่อ:** Mar 28, 2026
+
+---
 ### ลำดับภาพยนตร์หายนะงานแต่งงาน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -388,7 +1489,7 @@
 จับภาพแน่นที่มือขวาของเขาข้างลำตัว — นิ้วคลายออก, ผ่อนคลาย. แล้ว: เงาพาดผ่านพวกมัน. อย่างรวดเร็ว. บางสิ่งเคลื่อนผ่านเหนือศีรษะ. นิ้วของเขากำแน่นเป็นกำปั้น
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7cc9b1553328375b72b36dbf7a6c4ccb/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Multi-Shot Prompt: ทันทีที่มันเห็นเขา">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4be21ee7767ae4f3d56eacaae395641a/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Multi-Shot Prompt: ทันทีที่มันเห็นเขา">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2157)**
 
@@ -422,6 +1523,43 @@
 **ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2037659735621579008) | **เผยแพร่เมื่อ:** Mar 27, 2026
 
 ---
+### พร้อมต์วิดีโอ: ฮีโร่พลังแสงอาทิตย์ร่อนลง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ละเอียดมากและให้ความรู้สึกเหมือนภาพยนตร์ สำหรับลำดับวิดีโอที่แสดงให้เห็นชายร่างสูงในชุดเกราะสีทองอร่ามกำลังร่อนลงมาจากชั้นบรรยากาศเบื้องบนราวกับดาวตก พรอมต์ระบุรายละเอียดรูปลักษณ์ของตัวละคร รายละเอียดของชุดเกราะ เอฟเฟกต์พลังงาน (การปะทุของเปลวสุริยะ, คลื่นกระแทกความร้อน) การเคลื่อนไหวของกล้อง (การร่อนลงจากวงโคจร, การซูมเข้าอย่างรวดเร็ว, การเปลี่ยนมุมมอง) ตรรกะของสี และความรุนแรงที่เพิ่มขึ้นขณะที่เขากำลังเข้าใกล้เมืองที่ถูกปิดล้อม
+
+#### 📝 พรอมต์
+
+```
+ชายร่างสูงวัยยี่สิบปลายๆ ผมสั้นสีเข้ม นัยน์ตาสีอำพันเรืองรอง สวมชุดเกราะเปล่งประกาย ทำจากแผ่นทองสะท้อนแสง มีรอยตะเข็บหลอมละลายที่ปล่อยพลังงานสุริยะออกมา — ภาพเปิดเป็นแบบมีเดียมโคลสอัพของเขาที่ลอยอยู่สูงในชั้นบรรยากาศเบื้องบน เมฆอยู่เบื้องล่างไกลออกไป แสงอาทิตย์หักเหกระทบชุดเกราะของเขา
+
+วินาทีที่สอง เขาก็ลุกโชนขึ้น — ชุดเกราะเปล่งพลังงานสุริยะเต็มที่ และเขาก็ร่วงหล่นลงมาดุจดาวตก อากาศรอบตัวเขาติดไฟกลายเป็นทางพลาสมา
+
+ชั้นเมฆระเหยหายไปขณะที่เขาพุ่งผ่านพวกมันด้วยความเร็วสูงยิ่ง
+
+เขายังคงรักษาร่างกายให้นิ่งแข็ง — แขนทั้งสองข้างเหยียดออกเล็กน้อย ขณะที่พลังงานไหลผ่านร่างกายของเขา
+
+ด้านขวาปล่อยลำแสงสุริยะที่รุนแรงซึ่งเผาผลาญภัยคุกคามทางอากาศ ส่วนด้านซ้ายสร้างคลื่นกระแทกความร้อนที่แผ่กระจายไปทั่วชั้นบรรยากาศ
+
+กล้องติดตามจากด้านบน จากนั้นเปลี่ยนเป็นการร่วงหล่นจากวงโคจรที่เคลื่อนไหวอย่างรวดเร็ว ซูมเข้าอย่างรวดเร็วในช่วงที่พลังงานพุ่งสูงสุด และตัดไปยังภาพการกระแทกพื้น
+
+โทนสี: สีทอง-ขาวเจิดจ้าครอบงำเฟรมหลัก ค่อยๆ จางลงเป็นทางพลาสมาสีส้มเข้ม
+
+ความรุนแรงเพิ่มขึ้นขณะที่เขาเข้าใกล้เมืองที่ถูกปิดล้อม — คลื่นพลังงานแต่ละระลอกที่เข้าใกล้ทำให้กระจกแตกและจุดไฟเผาอาคารด้านล่าง
+
+จังหวะสุดท้าย: การเปลี่ยนมุมมองแบบ POV อย่างรุนแรง — กล้องกลายเป็นการร่วงหล่นของพลังงานสุริยะนั้นเอง พุ่งทะลุชั้นเมฆสุดท้ายและพุ่งชนใจกลางเมืองในการระเบิดพลังงานครั้งใหญ่
+
+ทางพลาสมาแบบสามมิติ, การบิดเบือนจากความร้อน, การกระเจิงของบรรยากาศ, ความเข้มข้นของพลังงานสุริยะแบบภาพยนตร์, รายละเอียดระดับ 4K
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/af2e6447dbddf3c68b972e2edf633489/thumbnails/thumbnail.jpg" width="600" alt="พร้อมต์วิดีโอ: ฮีโร่พลังแสงอาทิตย์ร่อนลง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2191)**
+
+**ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2037639576336957849) | **เผยแพร่เมื่อ:** Mar 27, 2026
+
+---
 ### Seedance 2.0 Pro พรอมต์วิดีโอคอนเสิร์ต K-Pop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -436,7 +1574,7 @@
 จังหวะการกระทำ: เพลงจบลง, ฝูงชนส่งเสียงกึกก้อง, เธอสังเกตเห็นกล้อง, ส่งจูบที่ยั่วยวนอย่างมากไปยังเลนส์, จากนั้นก็เขินอายทันทีและยิ้มด้วยสีหน้าเจียมตัว, ลดสายตาและไหล่ลงเล็กน้อยในท่าทางที่น่ารักและน่าเอ็นดู การเคลื่อนไหวควรรู้สึกเป็นธรรมชาติ, มั่นใจ, ขี้เล่น, และน่ารักน่าเอ็นดู เน้นย้ำการแสดงออกทางสีหน้าเล็ก ๆ น้อย ๆ ที่สมจริง, การเคลื่อนไหวร่างกายที่ละเอียดอ่อน, มุมมองจากฝูงชน, การซูมเข้าแบบกล้องมือถือที่ชวนดื่มด่ำ, และการถ่ายภาพยนตร์คอนเสิร์ตระดับไฮเอนด์
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d359f2a66b800e86b34a78f9be9190e4/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Pro พรอมต์วิดีโอคอนเสิร์ต K-Pop">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4e6bd6f965691c9675fd36ef880a3d7/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Pro พรอมต์วิดีโอคอนเสิร์ต K-Pop">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2143)**
 
@@ -549,7 +1687,7 @@ TIMELINE:
 ภาพยนตร์แอคชั่นนีโอ-นัวร์ฮ่องกง (HK Neo-noir Action) คุณภาพระดับภาพยนตร์ 8K, การถ่ายภาพแบบฟิล์มเกรน สไตล์หลัก: อุทิศให้ 'SPL: Sha Po Lang' (SPL Style) โหดเหี้ยมและดิบเถื่อนอย่างยิ่ง ผสมผสาน MMA เข้ากับเทคนิคกระบองสั้นแบบฟิลิปปินส์ (Kali/Eskrima) เน้นความเร็ว การทำลายข้อต่ออย่างโหดเหี้ยม และการเผชิญหน้าด้วยอาวุธเย็น การถ่ายภาพยนตร์: กล้องสั่นแบบถือด้วยมือที่เคลื่อนไหวและหายใจ (Handheld Shaky Cam), การตัดต่อที่รวดเร็ว (Rapid Editing), เน้นความกดดันในทันที
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e6c0238e46f48ce098c3247358b00d8/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์แอคชั่นแนว นีโอ-นัวร์ ฮ่องกง สำหรับ Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/916bc43ede875c50a24360f00092bfef/thumbnails/thumbnail.jpg" width="600" alt="บทภาพยนตร์แอคชั่นแนว นีโอ-นัวร์ ฮ่องกง สำหรับ Seedance 2.0">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2162)**
 
@@ -619,7 +1757,7 @@ TIMELINE:
 [00:10-00:15] ช็อตที่ 3: คินสึงิ · หยุดภาพ. ตำแหน่งกล้อง: มุมมองจากด้านบน (God View). การกระทำ: ร่างจักรกลทั้งสองวาดวงกลมไทเก๊กที่สมบูรณ์แบบบนผิวน้ำพร้อมกัน. ฉากจบ: ณ ใจกลางวงกลมนี้ พลังงานสองสายปะทะกัน. **คลื่นกระแทกสีขาวบริสุทธิ์** ปะทุขึ้นที่ใจกลางเฟรม พัดพาริ้วคลื่นบนทะเลสาบให้หายไปในทันที ทำให้ภาพนิ่งสนิท. ภาพหยุดสุดท้าย: หุ่นยนต์ที่งดงามอย่างยิ่งทั้งสองยืนนิ่งเผชิญหน้ากันภายใต้แสงจันทร์ ราวกับภาพวาดนิรันดร์
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fabfae2fee60067f2e8f2b32ce3608ad/thumbnails/thumbnail.jpg" width="600" alt="ระบำศิลปะการต่อสู้สไตล์พอร์ซเลน-พังก์ - พรอมต์วิดีโอ Seedance 2.0">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e635045488084dd0c8db57b9ddf4ce42/thumbnails/thumbnail.jpg" width="600" alt="ระบำศิลปะการต่อสู้สไตล์พอร์ซเลน-พังก์ - พรอมต์วิดีโอ Seedance 2.0">
 
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2161)**
 
@@ -1859,1084 +2997,6 @@ Seedance 2.0 ใช้เทคโนโลยี AI เพื่อปลุก
 **ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036958473683173470) | **เผยแพร่เมื่อ:** Mar 26, 2026
 
 ---
-### วิดีโอ Warzone: ความโกลาหลที่กระตุ้นประสาทสัมผัสจนล้น
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอที่แสดงภาพชายคนหนึ่งกำลังสับสนงุนงงอยู่กลางถนนในเมืองที่วุ่นวายราวกับสมรภูมิรบ ฉากนี้ใช้กล้องหมุน 360 องศา, สโลว์โมชั่น, เสียงที่อู้อี้ และโมชั่นเบลอ เพื่อสร้างเอฟเฟกต์การรับรู้ที่รุนแรงจนเกินกำลัง ขณะที่เกิดการระเบิดและผู้คนกำลังหลบหนี
-
-#### 📝 พรอมต์
-
-```
-ชายคนหนึ่งยืนอยู่กลางถนนอย่างสับสนงุนงง หูอื้ออึง ใบหน้าเปรอะเปื้อนฝุ่น เขามองไปรอบ ๆ ขณะที่เสียงระเบิดปะทุขึ้น และผู้คนต่างวิ่งหนีไปคนละทิศละทาง ถนนในเมืองที่กลายเป็นสมรภูมิรบ เต็มไปด้วยซากปรักหักพัง ควัน และความโกลาหลที่กำลังแผ่ขยาย กล้องหมุน 360 องศารอบตัวเขา พร้อมภาพสโลว์โมชั่นเล็กน้อย พื้นหลังเบลอจากการเคลื่อนไหว เสียงอู้อี้ และความรู้สึกที่ถูกกระตุ้นอย่างรุนแรงจนเกินรับไหว
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1fe289362fe946eb28b2e146a9754b52/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอ Warzone: ความโกลาหลที่กระตุ้นประสาทสัมผัสจนล้น">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2113)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036957990272851988) | **เผยแพร่เมื่อ:** Mar 26, 2026
-
----
-### ผู้หญิงเดินท่ามกลางความวุ่นวาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ภาพยนตร์สำหรับ Seedance 2.0 สร้างฉากที่ผู้หญิงคนหนึ่งกำลังเดินอย่างสงบเข้าหากล้อง ในขณะที่ตึกกำลังลุกไหม้ด้านหลังเธอ โดยเน้นย้ำถึงความแตกต่างระหว่างความสงบของเธอกับความตื่นตระหนกที่อยู่รอบข้าง พรอมต์ระบุถึงการเคลื่อนไหวของกล้อง (reverse dolly tracking) และเอฟเฟกต์ภาพ เช่น ระยะชัดตื้น และแสงสะท้อนจากไฟบนพื้นเปียก
-
-#### 📝 พรอมต์
-
-```
-ผู้หญิงคนหนึ่งกำลังเดินช้า ๆ ตรงมาที่กล้อง ใบหน้าของเธอสงบนิ่ง แต่ดวงตาเต็มไปด้วยความหวาดกลัว ด้านหลังของเธอ อาคารกำลังลุกไหม้ และผู้คนต่างวิ่งหนีด้วยความตื่นตระหนก ถนนในเมืองยามค่ำคืน โดยมีแสงไฟสะท้อนบนพื้นผิวถนนที่เปียกชื้น กล้องเคลื่อนที่ถอยหลังไปข้างหน้าเธอ โดยมีฉากหลังที่กำลังดำเนินไปเบื้องหลัง ใบหน้าอยู่ในระยะชัดตื้น และสร้างความแตกต่างระหว่างความสงบและความวุ่นวาย
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/807808de916214e1533b1aac59a9da7b/thumbnails/thumbnail.jpg" width="600" alt="ผู้หญิงเดินท่ามกลางความวุ่นวาย">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2114)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036957621551575347) | **เผยแพร่เมื่อ:** Mar 26, 2026
-
----
-### วิดีโอ เครน ช็อต: นักรบผู้โดดเดี่ยว บนสมรภูมิ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Seedance 2.0 เพื่อสร้างฉากวิดีโอสุดดราม่าของนักรบผู้โดดเดี่ยวที่ยืนนิ่งอยู่หลังการต่อสู้ กล้องจะเริ่มต้นจากด้านหลังนักรบในระยะใกล้ และค่อยๆ ยกตัวขึ้นแบบเครนช็อต เพื่อเผยให้เห็นสนามรบขนาดมหึมาที่เต็มไปด้วยควันรอบตัวเขา ซึ่งเน้นย้ำถึงความโดดเดี่ยวทางอารมณ์และการทำลายล้างครั้งยิ่งใหญ่
-
-#### 📝 พรอมต์
-
-```
-นักรบผู้โดดเดี่ยวยืนนิ่ง ดาบในมือลดต่ำลง หอบหายใจอย่างหนักหลังการต่อสู้ เขาค่อยๆ เงยหน้าขึ้น เมื่อความเงียบเข้าปกคลุมรอบกาย สมรภูมิเต็มไปด้วยร่างทหารที่ล้มตาย อาวุธที่หักพัง และควันที่ลอยเอื่อยๆ ใต้ท้องฟ้าสีเทา กล้องเริ่มจับภาพจากด้านหลังเขาในระยะใกล้ ก่อนจะค่อยๆ เคลื่อนสูงขึ้นด้วยมุมกล้องเครน เผยให้เห็นสมรภูมิอันกว้างใหญ่ไพศาลที่รายล้อมเขา แสงไฟสาดส่องอย่างช้าๆ สร้างบรรยากาศอันเข้มข้น เลนส์มุมกว้างเน้นย้ำถึงความยิ่งใหญ่ของฉาก และความโดดเดี่ยวทางอารมณ์ท่ามกลางความพินาศอันยิ่งใหญ่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d6580a02aa843cd5142e3714193a8b89/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอ เครน ช็อต: นักรบผู้โดดเดี่ยว บนสมรภูมิ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2111)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036957006381379846) | **เผยแพร่เมื่อ:** Mar 26, 2026
-
----
-### พรอมต์ทางออกอุโมงค์โมนาโก Formula 1 สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) ที่ละเอียดสำหรับ Seedance 2.0 ซึ่งอธิบายถึงช็อตการเปลี่ยนผ่านที่รุนแรงและฉับพลันของรถ Formula 1 ที่กำลังออกจากอุโมงค์เข้าสู่แสงสว่างจ้าของทะเลเมดิเตอร์เรเนียน โดยเน้นที่มุมกล้อง การเคลื่อนไหว และสุนทรียภาพของท่าเรือโมนาโก
-
-#### 📝 พรอมต์
-
-```
-รถฟอร์มูล่าพุ่งทะยานออกจากอุโมงค์สู่แสงเมดิเตอร์เรเนียนที่เจิดจ้าจนแสบตาด้วยความเร็วระดับแข่งขันอยู่แล้ว การเปลี่ยนผ่านนั้นรุนแรงและฉับพลัน กล้องที่ระดับดิฟฟิวเซอร์หันไปข้างหน้า จับภาพปีกหลังไว้อย่างแน่นหนา ขณะที่แผงกั้น Armco กะพริบผ่านไปเป็นประกายสีเงิน โค้งชิเคนมาถึง รถหักเลี้ยวขวา-ซ้ายอย่างรวดเร็ว ระบบกันสะเทือนยุบตัวลงอย่างแรง ประกายไฟแลบแปลบปลาบใต้ท้องรถ กล้องเหวี่ยงไปด้านข้าง แผงกั้นเต็มพื้นที่ด้านหลัง รถผ่านพ้นไปแล้วและเข้าสู่ทางตรง มือของนักขับกำลังขยับเพื่อการควบคุมครั้งต่อไป จากนั้นภาพก็กว้างขึ้น: ทางตรงริมอ่าวเปิดโล่ง เรือยอชต์สีขาวลอยลำอยู่ในอ่าว รถพุ่งไปเหมือนลูกศรระหว่างแผงกั้น แสงแดดยามบ่ายแผ่ราบและสะท้อนจากผิวน้ำอย่างแรงกล้า รถหายลับไปก่อนที่ภาพจะนิ่งสนิท แผงกั้น Armco สีเงินและลวดลายคาร์บอน, แสงแดดยามเที่ยงอันจัดจ้าของเมดิเตอร์เรเนียน, โทนสีของท่าเรือโมนาโก, ภาพถ่ายฟอร์มูล่าแบบสมจริงเหนือจริง, ภาพเบลอจากการเคลื่อนไหวบนแผงกั้นและผิวน้ำ, ความคมชัดที่หยุดนิ่งบนชิ้นส่วนแอโรไดนามิกและโลหะ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/271c932cc47e2f06a69f88749fb20f42/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ทางออกอุโมงค์โมนาโก Formula 1 สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2069)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036956257631035767) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ฉากภัยพิบัติเมืองล่มสลาย พรอมต์สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Seedance 2.0 ที่อธิบายฉากภัยพิบัติแบบภาพยนตร์ ซึ่งมีผู้รอดชีวิตเพียงคนเดียววิ่งฝ่าเมืองที่ทันสมัยซึ่งกำลังพังทลาย พรอมต์ระบุการเคลื่อนไหวของกล้อง โดยเปลี่ยนจากภาพโดรนมุมสูง ไปเป็นภาพติดตามระดับพื้นดิน เน้นแสงแบบไดนามิก และเศษซากขนาดมหึมา
-
-#### 📝 พรอมต์
-
-```
-ผู้รอดชีวิตเพียงลำพังวิ่งฝ่าถนนในเมืองที่กำลังพังทลาย ร่างกายปกคลุมไปด้วยฝุ่นผง หันกลับไปมองด้วยความหวาดกลัวสุดขีด ตึกระฟ้าเริ่มถล่มลงมา ขณะที่คลื่นกระแทกสั่นสะเทือนไปทั่วพื้นดิน รถยนต์พลิกคว่ำ และหน้าต่างระเบิดแตกกระจาย มหานครอันทันสมัยจมดิ่งสู่ความโกลาหล ตึกกระจกพังทลายลงมา เศษซากปรักหักพังปลิวว่อนลงมาจากเบื้องบน ภาพจากโดรนมุมสูงดิ่งลงสู่ถนนอย่างรวดเร็ว เปลี่ยนผ่านอย่างราบรื่นเป็นการติดตามตัวละครในระดับพื้นดิน เศษซากขนาดมหึมาพุ่งเข้าหากล้อง แสงสว่างเปลี่ยนจากท้องฟ้าสู่พื้นดินที่เต็มไปด้วยฝุ่นอย่างรวดเร็ว สะท้อนถึงความยิ่งใหญ่ของภัยพิบัติระดับภาพยนตร์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a4ce665c245a53425f21ead5ebb8d686/thumbnails/thumbnail.jpg" width="600" alt="ฉากภัยพิบัติเมืองล่มสลาย พรอมต์สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2076)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036956094002848191) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์ปฏิบัติการขบวนยานเกราะในทะเลทรายสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Seedance 2.0 ที่อธิบายฉากทะเลทรายที่เต็มไปด้วยแอคชั่นสุดมันส์ ซึ่งมีขบวนรถหุ้มเกราะกำลังแล่นฝ่าเนินทรายด้วยความเร็วสูง โดยมีรถคันหนึ่งหักเลี้ยวอย่างกะทันหันจากการระเบิดที่อยู่ใกล้เคียง กล้องเปลี่ยนมุมมองจากภาพมุมสูงที่ถ่ายด้วยโดรน ไปสู่ภาพติดตามระดับพื้นดิน โดยเน้นเอฟเฟกต์ภาพเบลอจากการเคลื่อนไหว (motion blur) และความยิ่งใหญ่ตระการตา (epic scale)
-
-#### 📝 พรอมต์
-
-```
-ขบวนรถหุ้มเกราะพุ่งทะยานไปในทะเลทราย ทิ้งกลุ่มฝุ่นควันตลบอบอวลอยู่เบื้องหลัง รถคันหนึ่งหักเลี้ยวอย่างรุนแรงเมื่อเกิดการระเบิดขึ้นในบริเวณใกล้เคียง ทิวทัศน์ทะเลทรายอันกว้างใหญ่ไพศาลภายใต้ดวงอาทิตย์ที่แผดเผา เนินทรายทอดยาวสุดลูกหูลูกตา อากาศบิดเบี้ยวจากคลื่นความร้อน ภาพมุมสูงจากโดรนดิ่งลงอย่างรวดเร็วเข้าหาขบวนรถ เปลี่ยนผ่านอย่างราบรื่นเป็นการติดตามในระดับพื้นดินเคียงข้างยานพาหนะ ด้วยเอฟเฟกต์พารัลแลกซ์และภาพเบลอจากการเคลื่อนไหวที่ชัดเจน พลิกจากความยิ่งใหญ่ระดับมหากาพย์กลายเป็นแอคชั่นดิบๆ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38634c3509d90a2b9aeb3def0a825d80/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ปฏิบัติการขบวนยานเกราะในทะเลทรายสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2077)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036955459203326021) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### Gen Z พรอมต์เชิงพาณิชย์ (Metaimage + Seedance 2)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์สำหรับ Seedance 2.0 (ใช้ร่วมกับ Metaimage) เพื่อสร้างมอนทาจโฆษณาที่รวดเร็ว มีพลัง สไตล์ Gen Z ที่นำเสนอไลฟ์สไตล์คนเมือง การตัดต่อที่ฉับไว การเคลื่อนไหวกล้องแบบไดนามิก และการนำเสนอผลิตภัณฑ์เด่น (หูฟัง JBL)
-
-#### 📝 พรอมต์
-
-```
-โฆษณาสไตล์ Gen Z จังหวะเร็ว, ภาพตัดต่อไลฟ์สไตล์คนเมือง, คัทเร็ว, แพนกล้องฉับไว, การเคลื่อนไหวของกล้องแบบไดนามิก, สีสันสดใส, ฉากเมืองที่วุ่นวาย, การเปลี่ยนฉากที่ไร้รอยต่อ, คนสวมหูฟัง JBL, การเปลี่ยนเสียงที่น่าทึ่ง, สโลว์โมชั่นที่ตัดกัน, บีทดรอปพร้อมการเคลื่อนไหวที่เปี่ยมพลัง, แสงไฟนีออน, เอฟเฟกต์กลิทช์, ภาพโคลสอัพเน้นผลิตภัณฑ์, การเปิดเผยโลโก้, สไตล์ที่ทันสมัย, การตัดต่อที่เปี่ยมพลัง, ฉากจบที่วนซ้ำได้ @dreamina_ai @JBLaudio_Mx #seedance2
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/223136bee1466da3843a58a21f69fcb9/thumbnails/thumbnail.jpg" width="600" alt="Gen Z พรอมต์เชิงพาณิชย์ (Metaimage + Seedance 2)">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2071)**
-
-**ผู้เขียน:** [Eltan Nouri](https://x.com/Eltannouri) | **แหล่งที่มา:** [Link](https://x.com/Eltannouri/status/2036937995903799572) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมต์ทดสอบดราม่าอาชญากรรมสไตล์ภาพยนตร์สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่มีรายละเอียดสูงและแบ่งเป็นหลายส่วน ซึ่งออกแบบมาสำหรับ Seedance 2.0 เพื่อสร้างฉากภาพยนตร์แนวอาชญากรรมดราม่าความยาว 10 วินาที พร้อมต์นี้ได้ระบุถึงสไตล์ภาพ, ตัวละครหลัก (หัวหน้ามาเฟียและโจรสองคน), สภาพแวดล้อม, แสง, การทำงานของกล้อง, อารมณ์, บทสนทนา และไทม์ไลน์/รายการช็อตที่แม่นยำ
-
-#### 📝 พรอมต์
-
-```
-ดราม่าอาชญากรรมแนวภาพยนตร์ที่สมจริงขั้นสุด, ความยาว 10 วินาที, ภาษาภาพระดับรางวัลออสการ์, ผิวที่สมจริงราวกับภาพถ่าย, ความไม่สมบูรณ์ตามธรรมชาติ, เหงื่อซึมเล็กน้อย, ฝุ่นละอองในอากาศ, การกำกับภาพระดับมาสเตอร์พีซ
-
-**ตัวละครหลัก:**
-หัวหน้ามาเฟียเม็กซิกันผู้ทรงอิทธิพล อายุประมาณปลาย 50 ปี, ผมดำแซมขาว, ใบหน้ากร้านแดด, การปรากฏตัวที่สงบนิ่งแต่แฝงความน่าสะพรึงกลัว, ชุดสูทสีดำสั่งตัด, แหวนทอง, นั่งอยู่หัวโต๊ะไม้สีเข้มยาวเหยียดราวกับราชา
-
-**โจรสองคน:**
-**โจรคนที่ 1:** ชายหนุ่มผอมบาง ขี้กังวล อายุ 22 ปี, ผิวสีมะกอกซีด, หัวโล้น, เสื้อแจ็คเก็ตหนังราคาถูก, ดวงตาที่กระสับกระส่าย, หายใจถี่เร็ว, พยายามทำตัวเข้มแข็งแต่เห็นได้ชัดว่าหวาดกลัวสุดขีด
-**โจรคนที่ 2:** ชายสูงวัยร่างใหญ่ อายุ 46 ปี, เคราหยาบกร้าน, ริ้วรอยลึกบนใบหน้า, เสื้อเชิ้ตยีนส์เก่าซีด, การเคลื่อนไหวที่เชื่องช้า, แกร่งกร้าวแต่เหนื่อยล้า, แบกรับความรู้สึกผิดไว้ในสีหน้า
-พวกเขาต้องดูแตกต่างกันอย่างสิ้นเชิง ทั้งในด้านอายุ รูปร่าง รูปหน้า ท่าทาง และพลังงาน
-
-**สภาพแวดล้อม:**
-ห้องส่วนตัวสไตล์ฮาเซียนดาที่สลัว ในคฤหาสน์หรูหราของเม็กซิโก, ผนังปูนฉาบมีพื้นผิว, เทียนบูชา, ไม้สีเข้ม, ขวดเตกีลาแพงระยับ, ควันบุหรี่, การ์ดเบลออยู่ด้านหลัง, บรรยากาศยามค่ำคืน
-
-**แสงและสี:**
-การปรับสีแบบภาพยนตร์โทนอำพันอบอุ่นและแดงเลือดหมูเข้มข้น, แสงเทียนจริงผสมกับลำแสงจันทร์แคบๆ ที่ลอดผ่านมู่ลี่, คอนทราสต์สูง, เงาที่เข้มข้น, แสงสะท้อนแวววาวในดวงตา, รูปลักษณ์แบบภาพยนตร์ระดับพรีเมียม
-
-**สไตล์กล้อง:**
-ดอลลี่อินช้าๆ, ระยะชัดตื้น, ให้ความรู้สึกแบบเลนส์อนามอร์ฟิก, ความตึงเครียดจากการถือกล้องแบบแฮนด์เฮลด์อย่างละเอียดอ่อน, การจัดเฟรมที่สง่างาม, การเปลี่ยนโฟกัสแบบแร็คโฟกัสที่แม่นยำ, ไม่ใช่สไตล์แอคชั่นราคาถูก
-
-**อารมณ์:**
-การข่มขู่ที่ถูกควบคุม, ความเงียบที่หนักอึ้งกว่าความรุนแรง, ภาพยนตร์อาชญากรรมระดับพรีสทีจ, ความสมจริงทางอารมณ์
-
-**บทพูด:**
-บทพูดน้อยมาก เกือบจะเป็นเสียงกระซิบ
-**หัวหน้า:** “พวกแกขโมยผิดบ้านแล้ว”
-**โจรหนุ่มพูดเบาๆ:** “พวกเราไม่รู้”
-**โจรสูงวัยยังคงเงียบ**
-
-**ไทม์ไลน์:**
-0:00–0:02 — ภาพเปิดมุมกว้างแบบภาพยนตร์ของหัวหน้ามาเฟียนั่งเงียบๆ, โจรสองคนยืนอยู่ฝั่งตรงข้ามโต๊ะ ดูตัวเล็กในเฟรม, ควันลอยเอื่อยๆ ผ่านแสงอบอุ่น
-0:02–0:04 — ภาพระยะกลางโคลสอัพที่โจรหนุ่มกลืนน้ำลายเอื๊อก, เหลือบตามองโจรสูงวัย, นิ้วสั่นระริก
-0:04–0:06 — ภาพโคลสอัพที่โจรสูงวัย, ข้อนิ้วฟกช้ำ, ความเสียใจและความกลัวผสมปนเปกันบนใบหน้า, ไม่พูดอะไรเลย
-0:06–0:08 — การดันกล้องเข้าหาหัวหน้าอย่างช้าๆ ที่โน้มตัวไปข้างหน้าเล็กน้อย, สีหน้าอ่านไม่ออก, พูดประโยคสั้นๆ เบาๆ ว่า: “พวกแกขโมยผิดบ้านแล้ว”
-0:08–0:10 — ภาพโคลสอัพขั้นสุด: เปลวเทียน, แหวนทองเคาะไม้หนึ่งครั้ง, เหงื่อไหลลงขมับของโจรหนุ่ม, โจรสูงวัยก้มหน้าลง, จากนั้นจับภาพหัวหน้าในความนิ่งสงัด ให้ความรู้สึกเหมือนภาพหยุดนิ่ง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f1c27834c2746a334ae4d646a8daa4da/thumbnails/thumbnail.jpg" width="600" alt="พร้อมต์ทดสอบดราม่าอาชญากรรมสไตล์ภาพยนตร์สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2067)**
-
-**ผู้เขียน:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **แหล่งที่มา:** [Link](https://x.com/WolfRiccardo/status/2036931368853148092) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมท์การพลิกโฉมเมืองแห่งอนาคตในสไตล์ทองคำเหลวสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งสำหรับ Seedance 2.0 เพื่อสร้างลำดับการเปลี่ยนรูปนามธรรมความยาว 10 วินาที หยดทองคำเหลวตกลงบนพื้นผิว ก่อตัวเป็นลวดลายเรขาคณิตที่ผุดขึ้นและเปลี่ยนรูปเป็นเส้นขอบฟ้าเมืองแห่งอนาคตขนาดจิ๋ว โดยมีพื้นหลังสีดำสนิท
-
-#### 📝 พรอมต์
-
-```
-ฉากหลังสีดำสนิทเต็มเฟรม หยดทองคำเหลวหนาหนักร่วงหล่นลงมาอย่างช้า ๆ บนพื้นผิวที่มันวาว แผ่กระจายเป็นระลอกคลื่นที่งดงาม กล้องยังคงนิ่งสนิทในมุมมองมาโคร จับภาพทุกรายละเอียดที่พลิ้วไหว เมื่อทองคำไหลแผ่ออกไป รูปร่างต่าง ๆ ก็เริ่มก่อตัวเป็นเส้นสายเรืองแสงและลวดลายเรขาคณิต เส้นสายเหล่านั้นลอยสูงขึ้น แปรเปลี่ยนเป็นตึกระฟ้า สะพาน และถนนสีทองขนาดจิ๋ว แสงสะท้อนอบอุ่นระยิบระยับไปทั่วพื้นผิว ขณะที่ของเหลวนั้นกลายเป็นเมืองแห่งอนาคตขนาดจิ๋วอย่างสมบูรณ์ วินาทีสุดท้ายหยุดนิ่งอยู่ที่เส้นขอบฟ้าสีทองที่สมบูรณ์แบบ นิ่งสนิท สไตล์: ความงามเชิงนามธรรม | การเคลื่อนไหวที่พลิ้วไหว | การเปลี่ยนแปลงทางศิลปะ กล้อง: มาโครนิ่ง → เผยให้เห็นอย่างช้า ๆ ความยาว: 10 วินาที แสง: แสงสตูดิโอแบบนุ่มนวล, แสงสะท้อนคอนทราสต์สูง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5f87ae9225a6f877271b0563e2274fa9/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์การพลิกโฉมเมืองแห่งอนาคตในสไตล์ทองคำเหลวสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2075)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036920557992894948) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### แนวคิดวิดีโอสั้น 10 วินาที แนวไซไฟคอมเมดี้: ช่างเครื่อง ปะทะ หุ่นยนต์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่ละเอียดมากและแบ่งเป็นหลายส่วน สำหรับ Seedance 2.0 Pro เพื่อสร้างแอนิเมชันแนวไซไฟคอมเมดี้ความยาว 10 วินาที ฉากนี้มีช่างซ่อมยานอวกาศหญิงที่ต้องรับมือกับหุ่นยนต์ซ่อมบำรุงแม่เหล็กจอมซน พร้อมคำแนะนำที่แม่นยำสำหรับรูปลักษณ์ตัวละคร แสง สไตล์กล้อง และโครงเรื่องการแสดง 5 ส่วน ซึ่งจบลงด้วยความพ่ายแพ้อันวุ่นวาย
-
-#### 📝 พรอมต์
-
-```
-Seedance 2.0 Pro - 10 วินาที TEST -
-Prompt 👇👇👇
-
-**Subject 1 (Main Character):**
-หญิงสาวช่างซ่อมยานอวกาศแนวเรโทร-ฟิวเจอริสติก
-
-**Appearance:**
-โหนกแก้มคมชัด ดวงตาเปี่ยมชีวิตชีวา ผมสั้นสีดำยุ่งเล็กน้อย มีไฮไลต์สีทองแดง
-รอยคราบจาระบีเล็กน้อยบนใบหน้า
-ใบหน้าแสดงอารมณ์ได้ดี พร้อมปฏิกิริยาตลกขบขันที่ชัดเจน
-
-**Outfit:**
-ชุดจั๊มสูทช่างสีเขียวอมน้ำเงินซีด และมีสีส้มเป็นจุดเด่น
-แขนเสื้อพับขึ้น ผ้าที่ผ่านการใช้งานมาแล้ว เข็มขัดเครื่องมือ ถุงมือแบบเปิดนิ้ว
-รูปทรงหลวมเล็กน้อย ใช้งานได้จริง มีรอยยับเล็กน้อย
-
-**Subject 2 (Companion Object):**
-หุ่นยนต์ซ่อมแซมแม่เหล็กตัวจิ๋ว รูปร่างเป็นทรงกลมโลหะลอยได้ มีแขนกลขนาดเล็กสองข้างที่ขยับได้
-ตัวเครื่องโครเมียมขัดเงา ดวงตาเลนส์สีฟ้าเรืองแสง
-เคลื่อนไหวรวดเร็ว ซุกซน ลอยตัวอย่างขี้เล่น แม่นยำแต่ก็วุ่นวาย
-
-**Prop:**
-ประแจพลาสมาเรืองแสง
-
-**Environment:**
-ภายในอู่ซ่อมยานอวกาศขนาดกะทัดรัด
-ท่อที่เปิดโล่ง แผงควบคุมที่กะพริบ สายเคเบิลที่ห้อยระโยงระยาง ประกายไฟเล็กๆ ในฉากหลัง
-โต๊ะทำงานเต็มไปด้วยชิ้นส่วนเล็กๆ และเครื่องมือ
-หมอกจางๆ จากการรั่วไหลของน้ำหล่อเย็น
-ฉากหลังรกเล็กน้อย แต่จัดองค์ประกอบภาพให้ดูดี
-
-**Lighting:**
-แสงแบบภาพยนตร์แนวไซไฟ
-แสงโดยรอบสีน้ำเงินเย็น ผสมกับประกายไฟสีส้มอบอุ่น
-แสงขอบที่ชัดเจน แสงสะท้อนมันวาวบนพื้นผิวโลหะ
-ระยะชัดตื้น
-
-**Mood:**
-มั่นใจและมุ่งมั่น -> สับสนปนสงสัย -> วุ่นวายอย่างบ้าคลั่ง -> พ่ายแพ้แบบตลกขบขัน
-
-**Color Logic:**
-สีน้ำเงินและเทาแบบอุตสาหกรรมที่หม่นลง ประกายไฟสีส้มและชุดสีเขียวอมน้ำเงินเป็นจุดเด่น
-
-**Camera Style:**
-ให้ความรู้สึกเหมือนกล้องถือด้วยมือที่เคลื่อนไหว ภาพระยะปานกลางแบบใกล้ ภาพมาโครแทรก ช่วงเวลาซูมเข้าอย่างรวดเร็ว
-รายละเอียดสูง การเคลื่อนไหวที่ราบรื่น ความสมจริงแบบภาพยนตร์ พร้อมการโอเวอร์แอคติ้งแบบตลกขบขันเล็กน้อย
-
-**Performance Arc:**
-สงบและมีความสามารถ -> รำคาญเล็กน้อย -> ไล่ตามอย่างตื่นตระหนก -> ยอมแพ้อย่างตกใจ
-
-**Timeline:**
-**0:00–0:02 — จังหวะที่ 1 (การจัดฉากที่มั่นใจ)**
-ภาพระยะปานกลางแบบใกล้
-ช่างเครื่องขันแผงให้แน่นด้วยประแจพลาสมาเรืองแสง
-เธอยิ้มด้วยความมั่นใจแบบมืออาชีพ
-หุ่นยนต์ตัวจิ๋วลอยอยู่ใกล้ๆ ดูเหมือนเป็นผู้ช่วยที่ไร้เดียงสา
-
-**0:02–0:04 — จังหวะที่ 2 (การก่อกวนครั้งแรก)**
-ภาพระยะใกล้
-ขณะที่เธอกำลังเอื้อมมือไปหยิบสกรู หุ่นยนต์ก็แอบขโมยมันไปด้วยแรงดึงดูดแม่เหล็ก
-เธอสังเกตเห็นสกรูที่หายไป หยุดชะงัก หรี่ตาลง
-หุ่นยนต์แกล้งทำเป็นสแกนผนังอย่างไร้เดียงสา
-
-**0:04–0:06 — จังหวะที่ 3 (ความรุนแรงที่เพิ่มขึ้น)**
-การตัดต่อฉับไว
-เครื่องมือทุกชิ้นที่เธอหยิบ ถูกดึงดูดด้วยแม่เหล็กออกไปในวินาทีสุดท้าย
-ประแจ, ไขควง, น็อต ทั้งหมดถูกดึงเข้าหาหุ่นยนต์อย่างรวดเร็ว
-สีหน้าของเธอเปลี่ยนไปจากความสับสนเป็นความไม่เชื่อ และความหงุดหงิด
-หุ่นยนต์บินวนรอบศีรษะของเธออย่างขี้เล่น
-
-**0:06–0:10 — จังหวะที่ 4 (การไล่ล่าที่วุ่นวาย)**
-จังหวะที่เร็วขึ้น
-เธอพุ่งตัวไล่ตามหุ่นยนต์ลอยได้ไปทั่วอู่ซ่อมที่คับแคบ
-สายเคเบิลแกว่งไปมา ประกายไฟเล็กๆ กระเด็น เธอเกือบจะลื่น แต่ก็ทรงตัวไว้ได้อย่างน่าทึ่ง
-หุ่นยนต์ยังคงหลบหลีกด้วยจังหวะตลกที่ลงตัว
-
-**0:08–0:10 — จังหวะที่ 5 (จุดคลี่คลาย)**
-ฉากจบแบบตลกขบขันในสโลว์โมชั่น
-ในที่สุดเธอก็จับหุ่นยนต์ได้ อย่างผู้ชนะ—
-แต่แล้วมันก็ดึงดูดด้วยแม่เหล็ก วัตถุโลหะที่หลวมทุกชิ้นในห้อง ให้มาติดบนชุดของเธอพร้อมกัน
-ตอนนี้เธอถูกปกคลุมไปด้วยช้อน, น็อต, เครื่องมือ และชิ้นส่วนโลหะสุ่ม เธอหยุดนิ่งด้วยความตกตะลึงและเงียบงัน
-หุ่นยนต์ลอยอยู่ตรงหน้าเธอ และกระพริบตาอย่างร่าเริง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0d6772e6e8378f5d99849218c5199cca/thumbnails/thumbnail.jpg" width="600" alt="แนวคิดวิดีโอสั้น 10 วินาที แนวไซไฟคอมเมดี้: ช่างเครื่อง ปะทะ หุ่นยนต์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2054)**
-
-**ผู้เขียน:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **แหล่งที่มา:** [Link](https://x.com/WolfRiccardo/status/2036920008840712514) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์วิดีโอตลกสไตล์ภาพยนตร์ 10 วินาที: พนักงานส่งของทำประตูพัง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่มีรายละเอียดสูงมาก แบ่งเป็นหลายส่วน สำหรับ Seedance 2.0 Pro ซึ่งออกแบบมาเพื่อสร้างแอนิเมชันคอมเมดี้ความยาว 10 วินาที ถ่ายแบบช็อตเดียว ที่ได้รับแรงบันดาลใจจาก Pixar และสมจริงทางกายภาพ ฉากนี้มีพนักงานส่งของที่พยายามเข้าประตูบานเลื่อนอัตโนมัติแต่ไม่สำเร็จซ้ำแล้วซ้ำเล่า พร้อมด้วยคำแนะนำที่แม่นยำเกี่ยวกับรูปลักษณ์ของตัวละคร สภาพแวดล้อม สไตล์ การทำงานของกล้อง และเส้นเรื่องการแสดง 5 ส่วน
-
-#### 📝 พรอมต์
-
-```
-แอนิเมชัน 3D สไตล์สมจริงแบบภาพยนตร์ความยาว 10 วินาที ได้แรงบันดาลใจจาก Pixar แต่มีความสมจริงทางกายภาพ โทโพโลยีที่สะอาดหมดจด ความสอดคล้องทางเวลาที่ไร้ที่ติ การคงอยู่ของวัตถุที่สมบูรณ์แบบ ไม่มีภาพบิดเบี้ยว ไม่มีภาพกระพริบ ไม่มีตัวละครเปลี่ยนไป ไม่มีนิ้วเกิน ไม่มีวัตถุซ้ำซ้อน ไม่มีชุดเปลี่ยน ไม่มีข้อผิดพลาดของกล้อง ไม่มีฉากหลังเปลี่ยน ไม่มีข้อความ ไม่มีคำบรรยาย และไม่มีลายน้ำ
-
-**ตัวละครหลัก:**
-พนักงานส่งของชายหนุ่ม มีเสน่ห์และแสดงออกทางสีหน้าได้ดี ใบหน้า 3D สไตล์สมจริง ดวงตาสีน้ำตาลอบอุ่น ผมสั้นสีเข้มยุ่งเล็กน้อย รูปร่างผอมเพรียวแบบนักกีฬา
-
-**เครื่องแต่งกาย:**
-เสื้อแจ็คเก็ตส่งของสีเหลืองสดใส กางเกงคาร์โก้สีเข้ม รองเท้าผ้าใบสีขาว กระเป๋าส่งของเก็บอุณหภูมิแบบสะพายข้าง เสื้อผ้ายังคงเหมือนเดิมในทุกเฟรม
-
-**วัตถุหลัก:**
-ประตูกระจกบานเลื่อนอัตโนมัติของซูเปอร์มาร์เก็ต ประตูต้องคงสภาพทางกายภาพที่สอดคล้องกัน มีขนาดเดิม ตำแหน่งเดิม การสะท้อนแสงเดิม และการออกแบบกรอบเดิมตลอดทั้งช็อต
-
-**สภาพแวดล้อม:**
-ทางเข้าร้านสะดวกซื้อเล็กๆ ในละแวกบ้าน ทางเท้าปูกระเบื้อง โปสเตอร์เครื่องดื่มด้านใน ตะกร้าสินค้ามองเห็นได้ แสงแดดยามบ่ายแก่ๆ แสงสะท้อนนุ่มนวลบนกระจก ฉากหลังยังคงที่และสอดคล้องกัน
-
-**สไตล์:**
-ความน่าดึงดูดแบบ Pixar ด้วยวัสดุที่สมจริง การให้แสงเงาผิวที่ดูสมจริง การจัดแสงทั่วโลกแบบภาพยนตร์ แสงสะท้อนนุ่มนวล คุณภาพแอนิเมชันระดับภาพยนตร์ชั้นนำ จังหวะตลก แอนิเมชันใบหน้าที่คมชัด และการเคลื่อนไหวที่สมจริงทางกายภาพ
-
-**แนวคิดตลก:**
-พนักงานส่งของพยายามจะเข้าไป แต่ประตูอัตโนมัติกลับเปิดเฉพาะตอนที่เขาถอยออกไป และปิดทุกครั้งที่เขาเดินเข้าหาอย่างมั่นใจ
-
-**กล้อง:**
-ช็อตกลาง-กว้างแบบล็อกกล้อง มีการซูมเข้าแบบภาพยนตร์ที่ละเอียดอ่อนมากเท่านั้น ไม่มีคัต ไม่มีเปลี่ยนมุม และไม่มีเปลี่ยนความบิดเบี้ยวของเลนส์
-
-**ส่วนโค้งการแสดง:**
-มั่นใจ -> สับสน -> รำคาญ -> ทุ่มเทเกินเหตุ -> พ่ายแพ้
-
-**ลำดับเหตุการณ์:**
-0:00-0:02
-เขาเดินตรงไปยังประตูอัตโนมัติด้วยความมั่นใจที่ผ่อนคลาย ยิ้มเล็กน้อย ปรับกระเป๋าส่งของ และไปถึงทางเข้า
-ประตูยังคงปิดอยู่
-
-0:02-0:04
-เขาก้าวถอยหลังด้วยความสับสน
-ทันใดนั้น ประตูก็เลื่อนเปิดเอง
-เขาหน้าตาแจ่มใสขึ้นและก้าวไปข้างหน้าอีกครั้ง
-ประตูปิดลงก่อนที่เขาจะไปถึงพอดี
-
-0:04-0:06
-เขาพยายามอีกครั้ง คราวนี้เร็วขึ้น
-เขาเอนตัวไปทางซ้าย ขวา ก้าวเล็กๆ ก้าวใหญ่ๆ ก้าวแบบย่อตัว ทั้งหมดนี้ด้วยความจริงจังที่ดูตลกขบขันมากขึ้นเรื่อยๆ
-ทุกครั้งที่ประตูตอบสนองผิดจังหวะพอดี
-
-0:06-0:08
-ตอนนี้เขาตั้งใจเต็มที่ เขาแสดงท่าทาง "ลอบเร้น" ที่เกินจริง หยุดนิ่งอย่างน่าทึ่ง จากนั้นก็วิ่งเหยาะๆ ไปในระยะสั้นๆ
-ประตูยังคงแกล้งเขาด้วยจังหวะตลกที่สมบูรณ์แบบ
-สีหน้าของเขาดูสิ้นหวังมากขึ้นเรื่อยๆ แต่ยังคงดูน่าดึงดูดและสะอาดตา
-
-0:08-0:10
-ในที่สุดเขาก็ฉลองเพราะประตูเปิดกว้าง—
-แต่เขากลับเดินอย่างมีชัยไปชนเข้ากับแผงกระจกด้านข้างที่สะอาดไร้ที่ติซึ่งอยู่ติดกัน ไม่ใช่ช่องประตูที่เปิดอยู่
-ผลกระทบตลกขบขันแบบนุ่มนวล ไม่มีอาการบาดเจ็บ มีเพียงความเงียบงันที่ตกตะลึง
-เขาค่อยๆ เลื่อนมือข้างหนึ่งไปบนกระจกด้วยศักดิ์ศรีที่ป่นปี้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/80bbe4437b2e409c7cc3e44a0b884271/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอตลกสไตล์ภาพยนตร์ 10 วินาที: พนักงานส่งของทำประตูพัง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2052)**
-
-**ผู้เขียน:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **แหล่งที่มา:** [Link](https://x.com/WolfRiccardo/status/2036919831362957587) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### คำอธิบายตัวละคร: แมวลายสลิดสีเทาในชุดสูท
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำอธิบายตัวละครโดยละเอียดสำหรับวิดีโอแอนิเมชัน 3D สไตล์ Pixar ที่มีแมวสลิดสีเทาสวมชุดสูทสีกรมท่ายืนอยู่หน้าไวท์บอร์ด ซึ่งออกแบบมาเพื่อสื่อถึงความฉลาดเหนือชั้นและความหงุดหงิดที่เก็บอาการ
-
-#### 📝 พรอมต์
-
-```
-หัวข้อ: หัวข้อที่ 1: แมวลายเสือสีเทา สวมชุดสูทสีน้ำเงินเข้มเข้ารูป ยืนอยู่บนขาหลังหน้ากระดานไวท์บอร์ด ถือเลเซอร์พอยเตอร์ ดวงตาสีเขียวหรี่ลงเล็กน้อย แสดงออกถึงความฉลาดเหนือชั้นและความรำคาญที่เก็บอาการ หางสะบัดอยู่ด้านหลัง การเรนเดอร์แบบ 3D สไตล์ Pixar: ขนแต่ละเส้นที่มองเห็นได้อย่างละเอียด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9045e902c97d221a464942dbd4400213/thumbnails/thumbnail.jpg" width="600" alt="คำอธิบายตัวละคร: แมวลายสลิดสีเทาในชุดสูท">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2083)**
-
-**ผู้เขียน:** [Flik](https://x.com/flikai) | **แหล่งที่มา:** [Link](https://x.com/flikai/status/2036919411765109177) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์ฉากต่อสู้บนดาดฟ้าสไตล์อนิเมะสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แบบฉากต่อฉากสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอต่อสู้สไตล์อนิเมะที่ดำเนินไปอย่างรวดเร็ว โดยมีผู้หญิงคนหนึ่งกระโดดลงมาจากหลังคาเพื่อเผชิญหน้ากับอัศวินติดเกราะสองคน โดยใช้กรงเล็บปะทะกับดาบ
-
-#### 📝 พรอมต์
-
-```
-Image1 เป็นภาพอ้างอิงสำหรับวิดีโอทั้งหมด
-
-ช่วง 1 วินาที ถึง 4 วินาที ผู้หญิงใน Image1 กระโดดลงมาจากหลังคาและลงกระแทกพื้นถนนด้านล่างอย่างแรง เธอลงจอดตรงหน้าอัศวินสองนายที่สวมชุดเกราะ ซึ่งมีลักษณะเดียวกับภาพอ้างอิง อัศวินทั้งสองประหลาดใจกับการปรากฏตัวของผู้หญิงที่ลงมาตรงหน้าพวกเขา
-
-ช่วง 5 วินาที ถึง 8 วินาที ผู้หญิงเผชิญหน้ากับอัศวินทั้งสอง และจากปลายนิ้วของเธอ กรงเล็บยาวแหลมคมก็งอกออกมา อัศวินทั้งสองเงื้อดาบเตรียมพร้อมที่จะต่อสู้กับผู้หญิงคนนั้น
-
-ช่วง 9 วินาที ถึง 15 วินาที การต่อสู้ก็ปะทุขึ้นระหว่างผู้หญิงกับอัศวิน การต่อสู้เป็นไปอย่างรวดเร็วปานสายฟ้า ขณะที่ผู้หญิงเคลื่อนที่วูบวาบไปมาระหว่างอัศวิน ฟาดฟันพวกเขาด้วยกรงเล็บของเธอ ในขณะที่พวกเขาตอบโต้ด้วยดาบ กรงเล็บและดาบปะทะกัน เมื่อการต่อสู้ดำเนินไป ผู้หญิงคนนั้น หลังจากปัดป้องดาบแล้ว ก็โจมตีด้วยมือข้างหนึ่ง จากนั้นก็ฟาดกรงเล็บอีกข้างใส่อัศวิน ทำให้พวกเขาได้รับบาดเจ็บ
-
-การต่อสู้ควรมีการโต้ตอบไปมาและรวดเร็วปานสายฟ้า รูปลักษณ์โดยรวมของวิดีโอควรเป็นไปตามภาพอ้างอิง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/92d952aab52146295d4e22cd1a16aedf/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากต่อสู้บนดาดฟ้าสไตล์อนิเมะสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2066)**
-
-**ผู้เขียน:** [Mistress Belladonna Nightshade](https://x.com/VampireBella13) | **แหล่งที่มา:** [Link](https://x.com/VampireBella13/status/2036887601035325923) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมท์ช็อตกล้องการบุกของทหารม้าสุดอลังการสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวของกล้องที่ซับซ้อนและต่อเนื่องสำหรับ Seedance 2.0 อธิบายถึงช็อตความยาว 15 วินาทีที่เป็นไปไม่ได้ ซึ่งเริ่มต้นภายใต้การบุกของทหารม้าที่ดังกึกก้อง ลัดเลาะผ่านการปะทะกันของทหารราบ และลอยขึ้นเหนือสนามรบ เพื่อเผยให้เห็นภาพมุมสูงอันกว้างใหญ่
-
-#### 📝 พรอมต์
-
-```
-ภาพสงครามแอคชั่นสุดระห่ำ 15 วินาที ด้วยการเคลื่อนกล้องแบบต่อเนื่องเพียงครั้งเดียวที่เหลือเชื่อ กล้องเริ่มจากเหนือพื้นดินเพียงไม่กี่นิ้ว ใต้ฝูงทหารม้าที่กำลังบุกโจมตีอย่างกึกก้องโดยตรง เลื้อยหลบอยู่ท่ามกลางกีบเท้าที่กระทุ้งพื้น, โคลนที่กระเด็น, หอกที่หัก และธงที่ลากพื้น มันร่อนต่ำอย่างเหลือเชื่อใต้ท้องม้าโดยไม่ถูกชน จากนั้นพุ่งทะลุใจกลางการปะทะของทหารราบ ผ่านโล่ที่กระทบกันและดาบที่ฟาดฟัน ก่อนจะทะยานขึ้นในแนวตั้งตามเสาธงศึก ราวกับว่าธงนั้นเป็นอุโมงค์ มันทะลุพ้นเหนือสนามรบ เผยให้เห็นภาพมุมสูงอันกว้างใหญ่ของกองทัพที่กำลังปะทะกันเบื้องล่าง รายละเอียดสุดขีดของฝุ่น, โคลน, ผ้า และฟิสิกส์การปะทะ, เส้นทางการเคลื่อนกล้องใต้ฝูงม้าที่บ้าคลั่งซึ่งเป็นไปไม่ได้, สเกลประวัติศาสตร์-แฟนตาซีอันยิ่งใหญ่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba9730f8833657013fbfc6658424c057/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์ช็อตกล้องการบุกของทหารม้าสุดอลังการสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2065)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036884083306090550) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### สุดยอดพรอมต์การเปลี่ยนฉากแบบภาพยนตร์สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งโดยละเอียดสำหรับ Seedance 2.0 โดยเน้นที่ช็อตเปลี่ยนผ่านภาพยนตร์ที่ต่อเนื่อง ไร้รอยต่อ และดูเหลือเชื่อในช็อตเดียว ฉากนี้จะเคลื่อนจาก การไล่ล่าทางอากาศของวัตถุคล้ายอุกกาบาต ไปสู่การปะทะ และเปลี่ยนผ่านอย่างต่อเนื่องผ่านกลุ่มฝุ่น เข้าสู่การปะทะภาคพื้นดินอันดุเดือดของทหารราบ ก่อนจะแพนกล้องกลับขึ้นไปเผยให้เห็นภาพมุมกว้าง
-
-#### 📝 พรอมต์
-
-```
-ช็อตเปลี่ยนผ่านแบบภาพยนตร์ 15 วินาทีที่ดูเป็นไปไม่ได้ ยามพลบค่ำ กล้องไล่ตามวัตถุสงครามขนาดมหึมาที่กำลังลุกไหม้คล้ายอุกกาบาต พุ่งทะยานข้ามท้องฟ้าเหนือสมรภูมิรบอันกว้างใหญ่ไพศาล มันตามติดอยู่ด้านหลังวัตถุเรืองแสงนั้นทันที ทะลุผ่านกลุ่มควันและเมฆ จากนั้นเมื่อมันพุ่งชนใกล้แนวหน้า คลื่นระเบิดก็กลายเป็นฝุ่นผง และกล้องยังคงเคลื่อนผ่านกลุ่มฝุ่นนั้นไปโดยไม่มีการตัดฉาก ปรากฏขึ้นที่ระดับพื้นดินท่ามกลางการปะทะกันอย่างดุเดือดของทหารราบ มันเคลื่อนที่คดเคี้ยวไปมาระหว่างการปะทะของโล่ ดาบที่เหวี่ยงเป็นวงโค้ง ขาของม้า และประกายไฟ จากนั้นก็เหวี่ยงตัวขึ้นไปอีกครั้ง เผยให้เห็นภาพมุมกว้างของจุดระเบิดจากเบื้องบน การเปลี่ยนผ่านจากท้องฟ้าสู่พื้นดินที่ไร้รอยต่อ ไม่มีการตัดฉาก ความต่อเนื่องที่ดูเป็นไปไม่ได้ทางกายภาพ มหาสงครามอันยิ่งใหญ่ตระการตา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2509bb4d3e4f53887326d92abb2ca2c9/thumbnails/thumbnail.jpg" width="600" alt="สุดยอดพรอมต์การเปลี่ยนฉากแบบภาพยนตร์สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2068)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036882121856606301) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมต์วิดีโอฉากสงครามแฟนตาซีสุดอลังการ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่ละเอียดและชัดเจนมากสำหรับ Seedance 2.0 เพื่อสร้างการเคลื่อนไหวกล้อง 15 วินาที ที่ต่อเนื่องและเป็นไปไม่ได้ ผ่านฉากสงครามแฟนตาซีสุดอลังการ โดยเริ่มต้นที่มังกรยักษ์ใหญ่และดำดิ่งลงสู่สมรภูมิอันกว้างใหญ่
-
-#### 📝 พรอมต์
-
-```
-ช็อตสงครามแฟนตาซีสุดอลังการความยาว 15 วินาที ยามอาทิตย์อัสดงสีทองเหนือทะเลเมฆ มังกรแดงชาดขนาดยักษ์กำลังบินวนอยู่เหนือสมรภูมิรบกลางหุบเขา กล้องพุ่งเข้าหามังกรอย่างรวดเร็ว ผ่านระหว่างปีกที่พับครึ่งและเคลื่อนไปตามสันหลังของมัน ก่อนจะดิ่งลงจากขอบภูเขาเข้าสู่สมรภูมิรบเบื้องล่าง มันร่วงหล่นผ่านก้อนเมฆ, วิถีอาวุธ, และกลุ่มควันหนาทึบ ก่อนจะปรับระดับเหนือสมรภูมิรบเพียงเล็กน้อย ลาดเลียดไปเหนือการบุกของทหารม้า, รถศึกที่พังยับเยิน, และฝุ่นที่ระเบิดฟุ้ง ก่อนจะเชิดขึ้นเหนือแม่น้ำแห่งทหารที่ปะทะกันอย่างดุเดือด การเปลี่ยนสเกลขนาดใหญ่, ความเร็วที่เหลือเชื่อ, มังกรและสมรภูมิรบเชื่อมโยงกันอย่างสมบูรณ์ในช็อตเดียวที่ต่อเนื่อง, แฟนตาซีสมจริงระดับมหากาพย์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c4a019ab565c540130e0bc23a411026/thumbnails/thumbnail.jpg" width="600" alt="พร้อมต์วิดีโอฉากสงครามแฟนตาซีสุดอลังการ">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2053)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036881606053683501) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมท์ฉากนักเปียโนสไตล์ภาพยนตร์สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ง่าย ๆ สำหรับ Seedance 2.0 เพื่อสร้างภาพระยะกลางแบบภาพยนตร์ของนักเปียโนหนุ่มหล่อ โดยใช้แสงแบบ Butterfly Lighting ฉากหลังเป็นห้องแสดงคอนเสิร์ตพร้อมเสียงผู้ชม
-
-#### 📝 พรอมต์
-
-```
-แสงผีเสื้อสไตล์ภาพยนตร์ ภาพระยะกลางของนักเปียโนหนุ่มหล่อในชุดสูทสีดำเรียบหรู เสียงผู้ชมจากหอแสดงคอนเสิร์ต
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bb9c9eca2efcacae3856b6de6640e27b/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์ฉากนักเปียโนสไตล์ภาพยนตร์สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2059)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036865866529464438) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์รายการช็อตสำหรับภารกิจกู้คืนดาดฟ้าในยามค่ำคืนสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่มีโครงสร้างสำหรับ Seedance 2.0 โดยใช้รูปแบบรายการช็อต เพื่อสร้างลำดับภาพระทึกขวัญการลงจอดตอนกลางคืนความยาว 15 วินาที บนดาดฟ้าเรือบรรทุกเครื่องบิน โดยระบุแสง อารมณ์ และหกช็อตที่แตกต่างกัน ซึ่งให้รายละเอียดการเข้าใกล้และการกู้คืนของเครื่องบินขับไล่
-
-#### 📝 พรอมต์
-
-```
-การลงจอดกลางคืนบนดาดฟ้าเรือ
-รูปแบบ: 15 วินาที / 6 ช็อต / เรื่องราวระทึกขวัญการลงจอดกลางคืน / ไม่มีบทพูด
-สไตล์: ค่ำคืนสีน้ำเงินเข้ม, ไฟสปอตไลต์บนดาดฟ้าเรือ, ไฟนำทางที่ส่องสว่าง, เหล็กเปียกสะท้อนแสง, ความตึงเครียดแบบสงครามที่มีคอนทราสต์สูง, บรรยากาศการบินยามค่ำคืนที่สมจริง
-
-ช็อตที่ 01 (0:00-0:02) ภาพมุมกว้างทางอากาศยามค่ำคืนของเรือบรรทุกเครื่องบินกลางมหาสมุทรสีดำมืด ดาดฟ้าเรือสว่างไสวราวกับเกาะลอยน้ำ เครื่องบินขับไล่ลำหนึ่งกำลังร่อนลงมาจากความมืดมิด
-
-ช็อตที่ 02 (0:02-0:04) ภาพติดตามระยะใกล้จากใต้จมูกเครื่องบิน ล้อลงจอดถูกกางออก ไฟกะพริบแหวกผ่านม่านหมอก ไฟนำทางบนดาดฟ้าเรือก่อตัวเป็นเส้นทางสว่างเบื้องหน้า
-
-ช็อตที่ 03 (0:04-0:06) มุมมองจากดาดฟ้าเรือ เจ้าหน้าที่ส่งสัญญาณถูกส่องสว่างด้วยแสงสีน้ำเงินขาวจัดจ้า เม็ดฝนและละอองน้ำเป็นประกายระยิบระยับในแสงไฟสปอตไลต์ ขณะที่เครื่องบินพุ่งเข้าใกล้ด้วยความเร็วสูง
-
-ช็อตที่ 04 (0:06-0:09) ภาพการกระแทกจากด้านข้าง เครื่องบินขับไล่แตะพื้นดาดฟ้าเรือที่เปียกชื้น ตะขอเกี่ยวจับทันที ประกายไฟและแสงสะท้อนพาดผ่านพื้นเหล็ก
-
-ช็อตที่ 05 (0:09-0:12) ภาพถ่ายระยะกลางแบบถือกล้องจากดาดฟ้าเรือบรรทุกเครื่องบิน ขณะที่เครื่องบินค่อยๆ เคลื่อนที่จนหยุดนิ่ง ปีกเครื่องบินเป็นประกายระยิบระยับภายใต้แสงไฟที่รุนแรง ลูกเรือรายล้อมเครื่องบินท่ามกลางม่านหมอกและไอเสียเครื่องยนต์
-
-ช็อตที่ 06 (0:12-0:15) ช็อตสุดท้ายจากเครนสูงเหนือเรือบรรทุกเครื่องบินโดยตรง ดูเล็กจิ๋วในมหาสมุทรสีดำอันไร้ขอบเขต เครื่องบินขับไล่จอดแน่นิ่งบนดาดฟ้าเรือ แสงไฟของเรือส่องสว่างตัดกับท้องทะเลในยามค่ำคืน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/051987276f35dd3806ee42e4209eb305/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์รายการช็อตสำหรับภารกิจกู้คืนดาดฟ้าในยามค่ำคืนสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2073)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036865259236172064) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์แบทเทิลเต้นสตรีทที่สมจริงระดับภาพถ่ายสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับ Seedance 2.0 ที่ขอฉากการเต้นสตรีทแบทเทิลที่สมจริงระดับภาพถ่าย ความยาว 15 วินาที ในเวลากลางคืน โดยระบุสภาพแวดล้อม (พื้นเปียก, แสงนีออน, หมอก) ท่าเต้น (การเคลื่อนไหวเดี่ยวบนพื้น ตามด้วยการแสดงกลุ่มที่ประสานกัน) และสไตล์กล้อง (นุ่มนวล, มั่นคงแบบภาพยนตร์)
-
-#### 📝 พรอมต์
-
-```
-สร้างการประชันเต้นสตรีทแดนซ์แบทเทิลที่สมจริงราวกับภาพถ่าย ความยาว 15 วินาที ในเวลากลางคืน ถนนในเมืองมีพื้นถนนเปียกสะท้อนแสง แสงไฟนีออน และหมอกบางๆ กลุ่มนักเต้นหนุ่มสาวยืนเป็นรูปครึ่งวงกลม 5 วินาทีแรกเน้นไปที่นักเต้นคนหนึ่งกำลังแสดงท่าเต้นเดี่ยวบนพื้นสุดท้าทาย 10 วินาทีที่เหลือแสดงให้เห็นกลุ่มนักเต้นทั้งหมดกำลังเต้นท่าเต้นที่พร้อมเพรียงกัน โดยผสมผสานสไตล์เบรกกิ้ง, ป๊อปปิ้ง, ล็อกกิ้ง และฮิปฮอป ใช้กล้องถ่ายภาพยนตร์ที่เคลื่อนไหวราบรื่นและมั่นคง พร้อมฟิสิกส์ที่สมจริงและสัดส่วนร่างกายที่ถูกต้อง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/48f3aaf0633e6c99e53bcc8f92ab66a4/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์แบทเทิลเต้นสตรีทที่สมจริงระดับภาพถ่ายสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2070)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036863163526971847) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ความอึดอัดคับแคบในโลกดิจิทัล: หนังสยองขวัญสั้นสไตล์ The Shining
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พร้อมต์สคริปต์ความยาว 15 วินาทีแบบละเอียดสำหรับ Seedance 2.0 ในชื่อ 'Digital Claustrophobia' ซึ่งเป็นการผสมผสานสุนทรียภาพสยองขวัญจาก 'The Shining' เข้ากับธีมดิจิทัลและ AI พร้อมต์นี้ระบุรายละเอียดต่างๆ เช่น ฉาก (ทางเดินโรงแรม Overlook), การกระทำของตัวละคร (เด็กชายสวม VR headset), บรรยากาศ (อึดอัด, สิ่งแปลกปลอมดิจิทัล), การออกแบบเสียง (ดนตรีออร์เคสตราที่ไม่กลมกลืน, เสียงรบกวนอิเล็กทรอนิกส์) และจุดไคลแม็กซ์อันน่าสะพรึงกลัวที่เกี่ยวข้องกับ AI และการกลายพันธุ์ทางดิจิทัล
-
-#### 📝 พรอมต์
-
-```
-**ชื่อบท: ภาวะกลัวที่แคบแบบดิจิทัล**
-
-**0:00 - 0:03**
-**ฉาก:** โถงทางเดินอันเป็นเอกลักษณ์ที่ทอดยาวไร้ที่สิ้นสุดของโรงแรม Overlook จากภาพยนตร์เรื่อง “The Shining” แสงไฟไม่ได้อบอุ่นอีกต่อไป แต่กลับเป็นสีฟ้าอ่อนและม่วงแดงที่น่าขนลุกและกะพริบ ลวดลายเรขาคณิตของพรมทอดยาวไปไม่สิ้นสุด บิดเบี้ยวด้วยสิ่งแปลกปลอมทางดิจิทัล
-**คำบรรยายตัวละคร:** กล้องค่อยๆ เคลื่อนที่อย่างช้าๆ และมั่นคงไปทางสุดทางเดิน (Steadicam) เด็กชายตัวเล็กคนหนึ่ง (สวมเสื้อกันหนาวสีน้ำเงินและแว่น VR สีขาวขนาดใหญ่ที่ปิดบังดวงตา) กำลังนั่งหันหลังให้กล้องอยู่กลางโถงทางเดิน เล่นรถสามล้อแบบเก่า
-**บรรยากาศ:** อึดอัด, วนเวียน, ให้ความรู้สึกไม่เข้ากันระหว่างเทคโนโลยีสมัยใหม่กับสถาปัตยกรรมโบราณ
-**เสียงประกอบ:** เสียงดนตรีออร์เคสตราที่ทุ้มต่ำ ช้า และไม่กลมกลืน (คล้ายกับ Penderecki) พร้อมกับเสียง “ตึก-ตึก” คล้ายเสียงหัวใจเต้น เสียงเอี๊ยดอ๊าดของรถสามล้อบนพื้นไม้
-
-**0:04 - 0:08**
-**ฉาก:** กล้องยังคงเคลื่อนที่ไปข้างหน้า และเด็กชายก็หยุดขี่รถกะทันหัน เขาค่อยๆ หันศีรษะ เลนส์ของแว่น VR เริ่มกะพริบพร้อมข้อความ “LOADING...” และ “ERROR: R3DRUM 0451.”
-**คำบรรยายตัวละคร:** ร่างกายของเด็กชายแข็งทื่อ ผ่านเงาสะท้อนบนแว่น VR เราจะเห็นว่าสิ่งที่เขากำลังดูอยู่ไม่ใช่เกม แต่เป็นภาพโถงทางเดินของโรงแรมในช่วงเวลาต่างๆ (เช่น ฝาแฝด, ลิฟต์เลือด) แต่ทั้งหมดนั้นบิดเบี้ยวและกลายเป็นดิจิทัล
-**บทสนทนา (เด็กชาย, เสียงต่ำ, กลวง):** “ฉันเห็น... อนาคต”
-**เสียงประกอบ:** ดนตรีทวีความรุนแรงขึ้น พร้อมเพิ่มเสียงอิเล็กทรอนิกส์แหลมสูงและเสียง “ซ่า” แบบสัญญาณรบกวน
-
-**0:09 - 0:12**
-**ฉาก:** ภาพตัดฉับไว (กะพริบ) แว่น VR ของเด็กชายเปลี่ยนเป็นสีแดงฉานราวกับเลือดกะทันหัน ภายในประตูที่เปิดอยู่ไกลออกไป อุปกรณ์ผู้ช่วย AI (คล้ายลำโพงอัจฉริยะทรงกระบอกที่กะพริบแสงสีแดงน่ากลัว) ยื่นสายไฟจำนวนนับไม่ถ้วนออกมาเหมือนหนวดปลาหมึก ฉากลิฟต์เลือดอันเป็นเอกลักษณ์ แต่สิ่งที่พุ่งออกมาไม่ใช่เลือด แต่เป็นกระแสแสงเรืองรองของ 0 และ 1 จำนวนนับไม่ถ้วน ไหลผ่านสายไฟ
-**บรรยากาศ:** ความสยองขวัญที่ทวีความรุนแรงขึ้น, เทคโนโลยีที่ควบคุมไม่ได้, การหลอมรวมของสิ่งเหนือธรรมชาติและดิจิทัล
-**เสียงประกอบ:** เสียงดนตรีที่พุ่งทะลุและไม่กลมกลืนถึงขีดสุด ผสมผสานกับเสียงกรีดร้องดิจิทัลที่สังเคราะห์ขึ้นอย่างแหลมคม (ไม่ใช่เสียงมนุษย์แท้ๆ)
-
-**0:13 - 0:15**
-**ฉาก:** กล้องตัดกลับมาที่เด็กชายอย่างรวดเร็ว ตอนนี้เขาหันหน้าเข้าหากล้อง และแว่น VR ก็หายไปแล้ว ดวงตาของเขาเป็นโพรงสีดำสนิท ปากอ้ากว้าง ไร้อารมณ์ บนผนังด้านหลังเขา มีคำว่า “R3DRUM” และ “AGNETIZED” เขียนด้วยสีแดงเลือด ฝีแปรงหยาบๆ
-**คำบรรยายตัวละคร:** ฉากจัมป์สแกร์สุดท้าย ตัวละครถูกทำให้แปลกแยกโดย AI
-**เสียงประกอบ:** ความเงียบที่ฉับพลัน เหลือเพียงเสียงสะท้อนของประโยคสุดท้ายจาก AI และเสียงปิดประตูที่เบาและถูกกดไว้
-**จอดำ**
-**บทสนทนา (เสียง AI, สังเคราะห์, กลวง, ไร้อารมณ์):** “คุณพร้อมหรือยัง?”
-**หน้าจอแสดงข้อความ:** CLAUDE (OpenClaw) 0451
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a5cb6e01fb4b2a629b646ef0480903b/thumbnails/thumbnail.jpg" width="600" alt="ความอึดอัดคับแคบในโลกดิจิทัล: หนังสยองขวัญสั้นสไตล์ The Shining">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2091)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036861855394836499) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ทอล์กโชว์ 10 วินาที งานกาล่าตรุษจีน: เจิน หวน และ หู เฟย
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> บทพรอมต์สคริปต์ความยาว 10 วินาทีที่ละเอียดสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอในสไตล์ละครสั้นของงาน Spring Festival Gala โดยมีตัวละคร เจินหวน และ หูเฟย จากละครอิงประวัติศาสตร์ ในฉากรายการทอล์คโชว์สมัยใหม่ พรอมต์ระบุรายละเอียดการจัดฉาก, เครื่องแต่งกายของตัวละคร (ชุดคลุมราชวงศ์ชิงระดับพิพิธภัณฑ์), อุปกรณ์ประกอบฉากสมัยใหม่ (หูฟังบลูทูธ, แท็บเล็ต), เทคนิคการถ่ายทำ (มุมกล้องแบบ OTS, มุมมองเวทีเต็มรูปแบบ) และสไตล์ภาพที่เน้นสีแดง/ทองจัดจ้านให้ความรู้สึกรื่นเริง
-
-#### 📝 พรอมต์
-
-```
-การแสดงบนเวทีสไตล์งานกาล่าฉลองตรุษจีน 10 วินาที: “ทอล์กโชว์เจินหวนกับหูเฟย”
-0–2 วินาที: ภาพขนาดกลางแบบสองคน ฉากโดยรวมเป็น “ละครสั้นในห้องนั่งเล่น” แต่ถูกล้อมรอบด้วยจอ LED ขนาดใหญ่สีแดงและทอง เจินหวน (ซ้าย) และหูเฟย (ขวา) นั่งเคียงข้างกันบนโซฟาแบบทอล์กโชว์ที่ทันสมัย ข้อกำหนดสำคัญด้านความถูกต้องทางประวัติศาสตร์: ทั้งคู่สวมชุดขุนนางราชวงศ์ชิงที่งดงามและประณีตชัดเจน พร้อมคอตั้งและงานปักละเอียด; ทรงผมเป็นแบบ “ต้าลาฉื่อ” หรือ “เตี่ยนชุ่ย” แท้จริง ประดับด้วยพู่ หูเฟยดูสบายๆ กำลังกัดแตงกวาดอง โดยมีปลอกเล็บทองยาวสวมอยู่ที่นิ้ว
-2–4 วินาที: กล้องเปลี่ยนเป็นมุมมองแบบ Over-the-Shoulder (OTS) โดยเน้นไปที่หูเฟย หูเฟยกลอกตาอย่างโอ้อวด (ท่าทาง “กลอกตา” แบบคลาสสิก) เธอใช้ปลอกเล็บยาวหนีบแตงกวา ชี้และพูดด้วยน้ำเสียงหยิ่งยโส (ลิปซิงค์): “KPI ปีนี้ก็ยังต้องมาสู้กับปีศาจตัวเล็กๆ พวกนี้อีกเหรอ? ฮ่องเต้แก่ๆ นั่นจะไปรู้อะไรเรื่องสุนทรียะ?”
-4–6 วินาที: สลับไปที่มุมมอง OTS ของเจินหวนอย่างรวดเร็ว รายละเอียดที่ตัดกัน: เจินหวนสวมหูฟังบลูทูธสีขาวที่ทันสมัยข้างหนึ่ง (ตัดกันอย่างชัดเจนกับเครื่องประดับโบราณ) และกำลังเลื่อนดูแท็บเล็ตบางๆ ในมือ เธอตอบกลับอย่างใจเย็นและเป็นมืออาชีพ (ลิปซิงค์): “พี่สาว อย่าเพิ่งโมโหเลย นี่แหละที่เรียกว่าการแข่งขันในที่ทำงานที่บีบคั้น (workplace involution) ฉันกำลังคิดจะลาออกไปขาย ‘น้ำทิพย์’ (น้ำมันหอมระเหยแก้ปวดหัว) อยู่เลย”
-6–8 วินาที: ภาพโคลสอัพโต๊ะกาแฟที่อยู่ระหว่างคนทั้งสอง แก้วชานมไข่มุกพลาสติกที่ทันสมัย พิมพ์คำว่า “อี้จ่างหง” (การลงโทษที่มีชื่อเสียงในละคร) วางอยู่ข้างแจกันกระเบื้องเคลือบแบบดั้งเดิม กล้องตัดกลับไปที่ทั้งสองอย่างรวดเร็ว
-8–10 วินาที: ภาพมุมกว้างของเวทีทั้งหมด เอฟเฟกต์เสียงหัวเราะของผู้ชม (นำเสนอผ่านการเปลี่ยนแสง/สปอตไลท์) หูเฟยจัดท่าสุดท้าย: ไขว่ห้าง เชิดคาง กลอกตาอีกครั้ง เจินหวนยิ้มให้กล้องอย่างมืออาชีพราวกับผู้ประกาศข่าว กลิตเตอร์สีทองโปรยปรายลงมาจากอากาศ บรรยากาศสีแดงแห่งเทศกาลถึงจุดสูงสุด
-
-สไตล์และบรรยากาศ:
-**ภาพ:** โทนสีแดงและทองแบบตรุษจีนที่มีความอิ่มตัวสูง
-**เครื่องแต่งกาย:** ชุดขุนนางราชวงศ์ชิงระดับพิพิธภัณฑ์ (ผ้าไหม, งานปักละเอียด, เครื่องประดับศีรษะขนาดใหญ่)
-**ความขัดแย้งหลัก:** มารยาทราชสำนักชิงอันเป็นทางการ × ท่าทีสบายๆ แบบคนทำงาน/นักแสดงละครสั้น
-**การตัดต่อ:** รวดเร็ว, มีมุกตลกที่ชัดเจน, การตัดต่อสไตล์ละครสั้น
-**อัตราส่วนภาพ:** 16:9
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f49b4c9d7e8dece0874acfdc485c4a07/thumbnails/thumbnail.jpg" width="600" alt="ทอล์กโชว์ 10 วินาที งานกาล่าตรุษจีน: เจิน หวน และ หู เฟย">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2090)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036858941146361928) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### วิดีโอพร้อมท์ ช่างเทคนิคความดันโลหิตสูง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอ seedance 2.0 ที่จัดโครงสร้างมาอย่างดี ซึ่งระบุรูปแบบ การตัดต่อ และอารมณ์ที่ตึงเครียดจัด ตัวแบบคือช่างเทคนิคที่กำลังเหงื่อแตก สวมชุดป้องกัน ในสี่แยกกลางเมืองที่แดดจัดจนสีซีดและรกร้าง
-
-#### 📝 พรอมต์
-
-```
-FORMAT: 15 วินาที / 11 คัต / ความตึงเครียดขั้นสุด
-
-SUBJECTS: ช่างเทคนิคที่เหงื่อท่วมตัว สวมชุดป้องกันที่แข็งบางส่วน ใบหน้าเคร่งเครียดด้วยสมาธิอันแน่วแน่ มือสวมถุงมือที่ช่วยให้สัมผัสได้ดี
-ENVIRONMENT: สี่แยกกลางเมืองที่แดดจัดจนซีดจาง เต็มไปด้วยฝุ่น และรกร้างว่างเปล่า ในความเวิ้งว้าง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d08ddcd65831bd5465b7fccf9191e08b/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอพร้อมท์ ช่างเทคนิคความดันโลหิตสูง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2078)**
-
-**ผู้เขียน:** [Aimi Kōda](https://x.com/aimikoda) | **แหล่งที่มา:** [Link](https://x.com/aimikoda/status/2036855858294845934) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### การพบพานระหว่างกริฟฟินลึกลับกับเด็กชาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ข้อความแจ้งสำหรับสร้างวิดีโอที่นำเสนอกริฟฟินลึกลับตัวมหึมากำลังเข้าใกล้เด็กชายตัวเล็ก ๆ ที่ไม่หวาดกลัว ฉากนี้ใช้การถ่ายระยะใกล้เพื่อเน้นสีหน้าอันสงบนิ่งของเด็กชาย และแววตาอันดุดันของกริฟฟิน ซึ่งสื่อถึงการเผชิญหน้าที่ทรงพลังและเปี่ยมด้วยอารมณ์
-
-#### 📝 พรอมต์
-
-```
-กริฟฟินลึกลับตัวมหึมาที่มีปีกสง่างาม เดินอย่างช้าๆ ตรงไปยังเด็กชายตัวเล็กๆ เด็กชายยืนนิ่ง จ้องมองสิ่งมีชีวิตนั้นโดยไร้ความกลัว ฉากตัดสลับระหว่างภาพโคลสอัพใบหน้าอันสงบนิ่งและเปี่ยมด้วยความทึ่งของเด็กชาย กับกริฟฟินที่กำลังก้าวเข้ามาด้วยสายตาที่ดุดันและทรงพลัง ขณะที่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca9bc8a3e637e75ce439fb482f5460e/thumbnails/thumbnail.jpg" width="600" alt="การพบพานระหว่างกริฟฟินลึกลับกับเด็กชาย">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2081)**
-
-**ผู้เขียน:** [Rayan A Cader](https://x.com/rayanabdulcader) | **แหล่งที่มา:** [Link](https://x.com/rayanabdulcader/status/2036854966560690382) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์วิดีโอแนวสารคดี
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ที่มุ่งเน้นการสร้างสไตล์สารคดีแบบถือกล้องด้วยมือที่มีความสมจริงสูงและดูไม่สมบูรณ์แบบ โดยเน้นที่พื้นผิว แสง และสิ่งแปลกปลอมจากกล้อง เช่น รอยเปื้อนบนเลนส์และ noise จากเซ็นเซอร์
-
-#### 📝 พรอมต์
-
-```
-พื้นผิวภาพที่ถ่ายทำจากชีวิตจริง 100%, ลักษณะเหมือนถ่ายด้วยกล้อง iPhone แบบถือด้วยมือ, สไตล์สารคดี, โทนสีเย็นและซีดจาง, แสงธรรมชาติจากท้องฟ้าครึ้ม, เงาที่นุ่มนวลและฟุ้งกระจาย, การรับแสงที่ไม่สมดุลเล็กน้อย, น้อยซ์จากเซ็นเซอร์ที่ละเอียดอ่อน, ฝุ่นบนเลนส์และรอยเปื้อนที่ขอบแบบของจริง, การจัดองค์ประกอบภาพที่ไม่สมบูรณ์แบบ, ออโต้โฟกัส
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dc7a8fc062f945bd83b5185842e51e1a/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอแนวสารคดี">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2080)**
-
-**ผู้เขียน:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **แหล่งที่มา:** [Link](https://x.com/Ankit_patel211/status/2036850704737067402) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### วิดีโอแปลงโฉมด่วน 12 เทพธิดาดอกไม้
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอเทพธิดาบุปผา 12 องค์ ที่หมุนตัวและแปลงร่างอย่างรวดเร็วเป็นท่าทางและชุดที่แตกต่างกัน โดยแต่ละองค์จะสอดคล้องกับดอกไม้ 12 ชนิด ได้แก่ ดอกบ๊วย, ดอกแอปริคอต, ดอกท้อ, ดอกโบตั๋น, ดอกทับทิม, ดอกบัว, ดอกฮอลลี่ฮอก, ดอกหอมหมื่นลี้, ดอกเบญจมาศ, ดอกชบา, ดอกคามิเลีย และดอกนาร์ซิสซัส วิดีโอควรนำเสนอเอฟเฟกต์พิเศษที่น่าทึ่ง บรรยากาศที่เต็มไปด้วยหมอก การเคลื่อนไหวกล้องแบบ push-pull และการตัดต่อการแปลงร่างที่เป็นจังหวะ
-
-#### 📝 พรอมต์
-
-```
-เทพธิดาดอกไม้ทั้ง 12 องค์ หันกายและโบกมืออย่างรวดเร็ว เพื่อเปลี่ยนเป็นท่าทางและชุดที่แตกต่างกัน (ดอกเหมย, ดอกบ๊วย, ดอกท้อ, ดอกโบตั๋น, ดอกทับทิม, ดอกบัว, ดอกฮอลลี่ฮอก, ดอกหอมหมื่นลี้, ดอกเบญจมาศ, ดอกชบา, ดอกคามิเลีย, ดอกนาร์ซิสซัส) เอฟเฟกต์พิเศษอันน่าตื่นตาตื่นใจ สอดรับกับชุดและฉากหลังลายดอกไม้ทั้ง 12 แบบ ซึ่งอบอวลไปด้วยบรรยากาศที่งดงามราวกับอยู่ในสรวงสวรรค์ พร้อมด้วยการเคลื่อนไหวกล้องแบบดันเข้า-ดึงออก และการตัดต่อเปลี่ยนฉากอย่างมีจังหวะ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5b8ba6b05d05f9d80735b7c87d6ea2e/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอแปลงโฉมด่วน 12 เทพธิดาดอกไม้">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2089)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036845403644318037) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์ช็อตกล้องหอคอยตีเมืองเหนือจินตนาการ สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวกล้องที่ซับซ้อนและต่อเนื่องสำหรับ Seedance 2.0 ซึ่งบรรยายถึงช็อตความยาว 15 วินาทีที่เป็นไปไม่ได้ โดยกล้องจะพุ่งทะยานเข้าหาและทะลุผ่านหอคอยตีเมืองไม้ที่กำลังถล่มท่ามกลางการรบ
-
-#### 📝 พรอมต์
-
-```
-ช็อตการปิดล้อมที่เป็นไปไม่ได้ใน 15 วินาที กล้องพุ่งเข้าหาหอคอยตีเมืองไม้ขนาดมหึมาที่กำลังเคลื่อนที่ไปทั่วสนามรบ ท่ามกลางลูกไฟที่พุ่งเข้ากระแทก มันไต่ขึ้นไปตามแนวตั้งด้านนอกขณะที่โครงสร้างเริ่มพังทลายลง จากนั้นก็เล็ดลอดผ่านแผงด้านข้างที่แตกหักเข้าไปภายในหอคอย ผ่านบันได, ทหารที่ตื่นตระหนก, คานไม้ที่กำลังแตกเป็นเสี่ยงๆ และเชือกที่กำลังร่วงหล่น มันพุ่งทะลุออกไปที่ยอดหอคอยในจังหวะที่หอคอยกำลังล้มคว่ำพอดี ดิ่งตัวลงจากขอบที่กำลังพังทลาย แล้วกลับเข้าสู่สนามรบอีกครั้งด้วยวิถีโค้งต่ำเหนือศีรษะของทหารราบที่กำลังบุกตะลุย การเคลื่อนไหวของกล้องอย่างต่อเนื่อง ทะลุผ่านโครงสร้างที่แข็งแกร่งและพื้นที่สนามรบที่เปิดโล่ง, การจัดฉากที่เป็นไปไม่ได้, เศษไม้ที่แตกกระจาย, ไฟ, ฝุ่น และขนาดของสงครามที่ยิ่งใหญ่
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9cdbc948e51ae3658915a81488c7e3da/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ช็อตกล้องหอคอยตีเมืองเหนือจินตนาการ สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2061)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036844947740254323) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมท์ช็อตกล้องลูกธนูเพลิง สำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวกล้องที่ซับซ้อนและต่อเนื่องสำหรับ Seedance 2.0 ซึ่งบรรยายถึงช็อตความยาว 15 วินาทีที่เป็นไปไม่ได้ โดยที่กล้องติดตามอยู่ด้านหลังลูกธนูเพลิงเพียงดอกเดียว ขณะที่มันพุ่งทะยานข้ามสมรภูมิอันกว้างใหญ่และพุ่งชนเข้ากับโล่
-
-#### 📝 พรอมต์
-
-```
-ภาพการรบแบบภาพยนตร์ความยาว 15 วินาที โดยมีกล้องติดตามลูกธนูเพลิงที่ลุกโชนเพียงดอกเดียว แม่ทัพยิงลูกธนูจากยอดเขาในยามอาทิตย์อัสดง และกล้องก็พุ่งตามติดลูกธนูไปทันทีด้วยความเร็วสูงลิบลิ่ว ลูกธนูแหวกควัน ข้ามกองทหารม้า แทรกผ่านแผ่นเกราะช้าง ลอดใต้ซากปรักหักพังที่ร่วงหล่นจากหอคอยโจมตี และทะลุผ่านห่าหอกที่พุ่งสวนกันและธงรบที่โบกสะบัด สนามรบพร่าเลือนเป็นริ้ว ขณะที่ลูกธนูยังคงคมชัด ในวินาทีสุดท้าย มันพุ่งชนโล่ในจังหวะเดียวกันกับที่ทหารราบสองแนวปะทะกัน ฝุ่นและเศษไม้ระเบิดกระจายเต็มเฟรม กล้องที่เคลื่อนที่ตามวิถีได้อย่างเหนือจริง, สเกลสงครามระดับมหากาพย์, การแสดงผลแอคชั่นที่คมชัดไร้ที่ติ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e102df492ea39e4ff742f5b1c10a2f4c/thumbnails/thumbnail.jpg" width="600" alt="พร้อมท์ช็อตกล้องลูกธนูเพลิง สำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2064)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036844527630377357) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์ภาพมุมกล้องสงครามทางเรือที่เหนือความจริงสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์การเคลื่อนไหวกล้องที่ซับซ้อนและต่อเนื่องสำหรับ Seedance 2.0 ซึ่งอธิบายถึงช็อตความยาว 15 วินาทีที่เป็นไปไม่ได้ ที่เปลี่ยนผ่านจากใต้น้ำไปยังดาดฟ้าเรือรบระหว่างการลงจอดของเครื่องบินเจ็ต และจบลงบนท้องฟ้า
-
-#### 📝 พรอมต์
-
-```
-ภาพสงครามทางเรือสุดเหลือเชื่อใน 15 วินาที กล้องเริ่มจากใต้น้ำลึกใต้ท้องเรือรบกลางมหาสมุทร พุ่งแหวกน้ำทะเลสีครามเข้มและฟองอากาศไปข้างหน้าอย่างรวดเร็ว ก่อนจะผุดขึ้นผ่านคลื่นที่ซัดสาด และทะยานขึ้นสู่ดาดฟ้าเรือบรรทุกเครื่องบินในจังหวะเดียวกับที่เครื่องบินรบกำลังร่อนลงจอดพอดี มันพุ่งต่ำเลียบไปกับล้อลงจอด ข้ามดาดฟ้าใต้ปีกเครื่องบินในขณะที่ตะขอเกี่ยวจับสายเบรกและประกายไฟระเบิดขึ้น แทรกตัวผ่านลูกเรือที่กำลังวุ่นวายและแสงไฟสัญญาณ จากนั้นก็เหวี่ยงตัวพุ่งขึ้นเหนือหอควบคุมสู่ท้องฟ้ายามอาทิตย์อัสดงเหนือเรือ การเชื่อมโยงภาพต่อเนื่องจากมหาสมุทรสู่ดาดฟ้าสู่ท้องฟ้าที่เหลือเชื่อ ละอองน้ำทะเลที่สมจริงราวกับภาพถ่าย พื้นผิวเหล็ก และบรรยากาศดราม่าสงคราม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27874a1444f96b11aa855bc2bb7374f9/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ภาพมุมกล้องสงครามทางเรือที่เหนือความจริงสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2063)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036843779936969091) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### Seedance 2.0 โจทย์การแปลงร่าง: 10 ชุดเกราะสตรีจากทั่วโลก
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พร้อมต์ที่มีรายละเอียดสูง ความยาว 12 วินาที สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอที่มีตัวละครหญิงแปลงร่างผ่านชุดเกราะ 10 แบบจากประวัติศาสตร์และโลกแฟนตาซี (จีน, ญี่ปุ่น, ยุโรป, โรมัน, ไวกิ้ง, เปอร์เซีย, มองโกล, อินเดีย, อาหรับ, สปาร์ตัน และราชินีแฟนตาซี) พร้อมต์ระบุว่าตัวละครต้องสวมหมวกเกราะเต็มใบและถืออาวุธสำหรับการแปลงร่างแต่ละครั้ง โดยมีเอฟเฟกต์อนุภาคเรืองแสงระหว่างการเปลี่ยนผ่าน และคงสไตล์ที่สมจริง มีระดับ และน่าตกใจ
-
-#### 📝 พรอมต์
-
-```
-Core visual prompt @94d74b42-17ec-45d3-ab60-487c3a1700cb: แปลงร่างชุดเกราะสตรีทั่วโลก 10 แบบให้เสร็จสมบูรณ์ภายใน 12 วินาที โดยไม่สวมแว่นตาตลอดทั้งคลิป ชุดเกราะเต็มตัวพร้อมหมวกและอาวุธครบชุด สไตล์แม่ทัพหญิงล้วน การเปลี่ยนผ่านทั้งหมดมีเอฟเฟกต์อนุภาคเรืองแสง คงไว้ซึ่งสไตล์ที่เป็นหนึ่งเดียวกัน หรูหรา สมจริง และน่าตื่นตาตื่นใจ ภาพสำหรับแต่ละช่วงเวลา:
-0-1 วินาที: ชุดเกราะหมิงกวงสีแดงทองแบบจีน + หมวกเกราะศึกปิดทอง ถือทวนยาวปิดทอง ยกมือลูบสัตว์กลืนไหล่ ชุดเกราะทองเปล่งประกายระยิบระยับ ท่วงท่าสง่างาม ยืนตัวตรง เปี่ยมด้วยออร่าเทพธิดาแห่งสงครามตะวันออกอย่างเต็มเปี่ยม
-1-2 วินาที: ชุดเกราะนักรบหญิงยุคเซ็นโกคุของญี่ปุ่น + หมวกเกราะโดมารุประดับเขากวาง ถือดาบซามูไร หมุนตัวสะบัดเสื้อคลุมปัดผ่านเลนส์เพื่อเปลี่ยนร่าง แผ่นเกราะซ้อนกันอย่างประณีต เยือกเย็น คมกริบ เปี่ยมด้วยเจตนาฆ่าฟัน
-2-3 วินาที: ชุดเกราะเต็มตัวอัศวินหญิงยุคกลางของยุโรป + หมวกเกราะแบบมีช่องมองรูปกากบาท ถือดาบยาวของอัศวิน มือบังเลนส์แล้วเลื่อนออกเพื่อเปลี่ยนร่าง ชุดเกราะสีเงินเยือกเย็น คมกริบ สง่างามและทรงพลัง
-3-4 วินาที: ชุดเกราะกล้ามเนื้อแบบคูแรสของแม่ทัพหญิงโรมันโบราณ + หมวกเกราะกองทัพพู่แดง ถือดาบสั้นและโล่กลม รวบแขนเพื่อเปลี่ยนร่าง เกราะไหล่โลหะและเสื้อคลุมพลิ้วไหว สง่างาม เด็ดเดี่ยว เปี่ยมด้วยอำนาจบัญชาการ
-4-5 วินาที: ชุดเกราะเหล็กบุขนของนักรบหญิงไวกิ้งนอร์ส + หมวกเกราะศึกอักขระรูน ถือขวานศึกและโล่กลม ก้มหน้าปรับเกราะข้อมือแล้วเงยหน้าขึ้นเพื่อเปลี่ยนร่าง ดุดัน เยือกเย็น และน่าเกรงขาม
-5-6 วินาที: ชุดเกราะเกล็ดแบบแม่ทัพหญิงเปอร์เซียสไตล์ซัสซาเนียน + หมวกเกราะมงกุฎโซ่อัญมณี ถือดาบโค้ง หมุนตัวกลับมาด้านหน้าเพื่อเปลี่ยนร่าง พื้นผิวเกราะหนาแน่น หรูหรา ผสมผสานอารมณ์ของราชวงศ์ต่างแดนและแม่ทัพหญิง
-6-7 วินาที: ชุดเกราะหนังเหล็กแผ่นของนักรบหญิงมองโกลจากทุ่งหญ้า + หมวกเกราะศึกขนนก ถือคันธนูและลูกธนูแบบผสม แตะเกราะหน้าผากเพื่อเปลี่ยนร่าง การเคลื่อนไหวคล่องแคล่วว่องไว กล้าหาญและมีชีวิตชีวา เปี่ยมด้วยความคล่องตัว
-7-8 วินาที: ชุดเกราะลวดลายปิดทองของนักรบหญิงราชวงศ์อินเดีย + หมวกเกราะมงกุฎโซ่ไข่มุก ถือทวนยาว ค่อยๆ ลดเสื้อคลุมลงเพื่อเปลี่ยนร่าง งดงามและลึกลับ สง่างามแต่ไม่ขาดซึ่งจิตวิญญาณนักรบ
-8-9 วินาที: ชุดเกราะโซ่ลายจันทร์ของแม่ทัพหญิงอาหรับ + เครื่องประดับศีรษะโลหะสไตล์ผ้าคลุมหน้า ถือดาบจันทร์เสี้ยว มือบังเลนส์แล้วเลื่อนออกเพื่อเปลี่ยนร่าง ลึกลับและสง่างาม ดวงตาเฉียบคม ให้ความรู้สึกยิ่งใหญ่แบบตะวันออกกลาง
-9-10 วินาที: ชุดเกราะสำริดของนักรบหญิงสปาร์ตัน + หมวกเกราะหางม้า ถือทวนยาวและโล่กลม สะบัดเสื้อคลุมบังตัวเพื่อเปลี่ยนร่าง ท่วงท่ายืนตรง พลังระเบิดเต็มที่ แรงกดดันจากสนามรบเต็มเปี่ยม
-10-11 วินาที: ชุดเกราะหนักราชินีแห่งอาณาจักรแฟนตาซี + หมวกเกราะลายมังกรสไตล์มงกุฎ ถือดาบใหญ่หลวง หันข้างบังเลนส์เพื่อเปลี่ยนร่าง ชุดเกราะหนักสีดำทองซ้อนกัน ราวกับราชินีผู้ยิ่งใหญ่กำลังจุติ
-11-12 วินาที: หมุนตัวสะบัดเสื้อคลุม กลับสู่ชุดเกราะหมิงกวงสีแดงทองแบบจีน + หมวกเกราะศึกปิดทอง + ทวนยาวปิดทอง ยืนนิ่งท่ามกลางแสงสีทองที่พวยพุ่ง กล้องหยุดนิ่ง เทพธิดาแห่งสงครามตะวันออกได้กลายเป็นเทพโดยสมบูรณ์
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2c6c4a8d47a4b9116df655af1d1b233/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 โจทย์การแปลงร่าง: 10 ชุดเกราะสตรีจากทั่วโลก">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2088)**
-
-**ผู้เขียน:** [Changning Liu](https://x.com/ChangningL29508) | **แหล่งที่มา:** [Link](https://x.com/ChangningL29508/status/2036826555574587613) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### Seedance 2.0 พรอมต์: เชฟหญิงสวยกำลังทำอาหาร
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พร้อมต์แบบหลายฉากสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอของเชฟหญิงสวยที่กำลังเตรียมอาหาร (น่าจะเป็นปลา) ด้วยท่าทางที่น่าตื่นตาตื่นใจและได้รับแรงบันดาลใจจากศิลปะการต่อสู้ พร้อมต์นี้ระบุรายละเอียดลำดับการกระทำสี่ช่วง รวมถึงการใช้มีดอย่างรวดเร็ว การปรุงรสด้วยลมฝ่ามือ และเทคนิคการทำอาหารที่น่าตื่นเต้น โดยใช้ภาพอ้างอิงสำหรับตัวแบบหลัก
-
-#### 📝 พรอมต์
-
-```
-ตัวแบบหลัก @[@Image 1] สวมชุดเชฟสีขาว
-0-2 วินาที (เริ่มต้นการแล่ปลาด้วยมีด): โน้มตัวลงจับปลา รองเท้าผ้าเหยียบพื้นอย่างมั่นคง มีดคมกรีดเฉียงแยกหัวปลาอย่างรวดเร็ว คมมีดกรีดเลาะไปตามกระดูกสันหลัง เนื้อปลาสองชิ้นแยกออกจากกันในทันที และโครงปลาถูกสะบัดลงจานอย่างรวดเร็วด้วยปลายนิ้ว
-2-4 วินาที (การหั่นปลาเป็นชิ้นบางๆ): เนื้อปลาถูกแผ่ราบลงบนเขียง ข้อมือพลิกกลับ แสงมีดพริ้วไหวราวกับกำลังถักทอ ชิ้นปลาที่บางเฉียบราวปีกจั๊กจั่น ถูกหั่นต่อเนื่องกัน พวกมันพลิ้วไหวเล็กน้อยขณะร่วงหล่น ลมจากฝ่ามือช่วยคลุกเคล้าเครื่องปรุงอย่างรวดเร็ว ชิ้นปลาถูกเคลือบด้วยแป้งอย่างทั่วถึง อวบอิ่มและเป็นเงางาม
-7-9 วินาที (การผัดส่วนผสมจนหอม): กระทะเหล็กถูกตั้งไฟให้ร้อน เมื่อน้ำมันร้อนได้ที่ เท้าเกี่ยวไหผักดอง ผักดองและพริกดองถูกกวาดลงกระทะด้วยลมจากฝ่ามือ ระหว่างการผัด กลิ่นหอมเปรี้ยวเผ็ดก็พุ่งขึ้นสู่ฟ้า และชายเสื้อเชฟพลิ้วไหวเล็กน้อยจากความร้อน
-9-12 วินาที (การต้มปลาและการทำให้น้ำซุปข้น): น้ำซุปคุณภาพดีเดือดพล่านในหม้อ ข้อมือสะบัดโปรยชิ้นปลาลงไป ลมจากฝ่ามือควบคุมอุณหภูมิเพื่อไม่ให้ปลาแตกตัว เมื่อทำให้น้ำซุปข้นขึ้น กระทะถูกหมุนเป็นวงโค้ง น้ำซุปข้นคลุกเคลือบชิ้นปลาทุกชิ้น
-10-12 วินาที (การราดน้ำมันและขั้นตอนสุดท้าย): น้ำมันร้อนถูกราดลงบนกระเทียมสับและพริกแห้ง เกิดเสียง "ฉ่า" เมื่อการเคลื่อนไหวสิ้นสุด ชายเสื้อก็ห้อยลงมา ผักดองมีสีเหลืองสดใส ชิ้นปลาขาวราวหิมะ และกลิ่นหอมเปรี้ยวเผ็ดเข้มข้นลอยฟุ้งอยู่ในไอน้ำ จากนั้นกล้องก็หยุดนิ่งที่จานปลาเปรี้ยวเผ็ดที่กำลังเดือดพล่าน (ไม่มีข้อมูลข้อความใดๆ ปรากฏในเฟรม)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc22ef46f699451f06f31390d2aa5d75/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 พรอมต์: เชฟหญิงสวยกำลังทำอาหาร">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2085)**
-
-**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2036808685729837062) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พร้อมต์วิดีโอหลายฉาก 15 วินาที สำหรับอาณาจักรตะวันออกอันศักดิ์สิทธิ์
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> คำสั่งที่ละเอียดและมีหลายฉากสำหรับ Seedance 2.0 เพื่อสร้างวิดีโอความยาว 15 วินาทีที่แสดงถึงอาณาจักรตะวันออกอันศักดิ์สิทธิ์ คำสั่งนี้ระบุถึงการจัดแสงแบบภาพยนตร์ รายละเอียดที่คมชัดเป็นพิเศษ แสงเชิงปริมาตร วัสดุเฉพาะ (เช่น เคลือบเงา อนุภาคทองคำ) และการดำเนินฉากตลอดสี่ช่วงๆ ละ 3 วินาที โดยเน้นบรรยากาศที่เคร่งขรึม บริสุทธิ์ และสงบสุข
-
-#### 📝 พรอมต์
-
-```
-15 วินาที, ธีมของอาณาจักรศักดิ์สิทธิ์แห่งบูรพา, สงบเสงี่ยมและสันติ, สง่างามและศักดิ์สิทธิ์, แสงแบบภาพยนตร์, รายละเอียดคมชัดเป็นพิเศษ, แสงเชิงปริมาตร, วัสดุแก้วผลึก, อนุภาคสีทอง, องค์ประกอบดอกบัว, โปร่งใสและบริสุทธิ์, ล่องลอยและสงบสุข, ไม่น่าขนลุก, ไม่มืดมิด
-
-[0-3 วินาที]
-เหนือนภากาศ เมฆมงคลหนาทึบค่อย ๆ เคลื่อนคล้อย ลำแสงสีทองขนาดมหึมาสาดส่องทะลุเมฆลงมายังอาณาจักรศักดิ์สิทธิ์ ละอองทองและภาพมายาของดอกบัวหลายชั้นลอยวนอยู่ในลำแสง เงาร่างของเทพผู้สูงศักดิ์องค์กลางปรากฏให้เห็นลาง ๆ ในแสงศักดิ์สิทธิ์ โดยมีลวดลายสีทองไหลเลื้อยอยู่บนอาภรณ์ และดอกบัวในพระหัตถ์กำลังเบ่งบานอย่างช้า ๆ
-
-[3-6 วินาที]
-กล้องเคลื่อนที่ไปข้างหน้าอย่างนุ่มนวลตามลำแสงสีทอง ผ่านซุ้มประตูแก้วผลึกและชายคาของวิหารสมบัติ ลวดลายอันวิจิตรบรรจงตัดแสงให้กลายเป็นจุดแสงเล็ก ๆ นับไม่ถ้วน กระจัดกระจายอยู่บนถนนสีทองราวกับแม่น้ำแห่งดวงดาวที่ไหลริน นักบุญในชุดขาวยืนนิ่งอยู่ไกล ๆ อาภรณ์และสายประคำของท่านสะท้อนแสงสีรุ้งอันนุ่มนวล
-
-[6-9 วินาที]
-กล้องยังคงเคลื่อนที่ต่อไปยังป่าต้นไม้สมบัติ ที่ซึ่งแสงสีทองสาดส่องออกมาจากระหว่างใบไม้หลากสีและกิ่งก้านแก้วผลึก ถักทอเป็นตาข่ายแสงอันหนาแน่น แสงจากอัญมณีสีน้ำเงิน เขียว แดง และม่วง สะท้อนบนอาภรณ์และแท่นดอกบัวของนักบุญอีกองค์หนึ่ง และเงาร่างอันสง่างามของวิหคศักดิ์สิทธิ์โบยบินข้ามฟากฟ้า
-
-[9-12 วินาที]
-แสงสีทองสาดส่องลงสู่สระสมบัติเจ็ดสี ที่ซึ่งผิวน้ำระลอกคลื่นเล็กน้อย สะท้อนลำแสงแนวตั้ง ภาพสะท้อนของดอกบัวและภาพมายาของเด็กวิญญาณบริสุทธิ์ปรากฏในลำแสง ศาลา ราวระเบียง และธงสมบัติริมสระน้ำสะท้อนซึ่งกันและกันในผืนน้ำและแสงศักดิ์สิทธิ์ ก่อเกิดเป็นโลกแห่งแสงที่โปร่งใสราวความฝัน
-
-[12-15 วินาที]
-ลำแสง ตาข่ายแสง จุดแสง และภาพสะท้อนทั้งหมดค่อย ๆ หลอมรวมกัน เทพผู้สูงศักดิ์สามองค์ปรากฏขึ้นอย่างสง่างาม ณ ใจกลางอาณาจักรศักดิ์สิทธิ์ ประทับอยู่ตรงกลางโดยมีผู้ติดตามอยู่สองข้าง รายล้อมด้วยนักบุญนับไม่ถ้วนและแท่นดอกบัว โลกแห่งแสงทั้งหมดดูราวกับถักทอขึ้นจากทองคำและแก้วผลึก สง่างาม บริสุทธิ์ และสันติ ก่อนจะหยุดนิ่งที่ภาพมุมกว้างอันสงบเสงี่ยม
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2bfbd8a4d4f61144575141ef09f9b191/thumbnails/thumbnail.jpg" width="600" alt="พร้อมต์วิดีโอหลายฉาก 15 วินาที สำหรับอาณาจักรตะวันออกอันศักดิ์สิทธิ์">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2084)**
-
-**ผู้เขียน:** [John](https://x.com/johnAGI168) | **แหล่งที่มา:** [Link](https://x.com/johnAGI168/status/2036797488401674403) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### Seedance 2.0 พรอมต์ละครสยองขวัญสั้น: 'Echo Program'
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พร้อมต์ที่ละเอียดและมีหลายฉากสำหรับ Seedance 2.0 เพื่อสร้างหนังสั้นแนวไซไฟสยองขวัญความยาว 15 วินาที ชื่อเรื่อง 'Echo Program' ซึ่งสำรวจประเด็นเรื่องการพึ่งพา AI ในการเขียนโค้ด พร้อมต์นี้ระบุสี่ฉาก พร้อมรายละเอียดภาพ การกระทำของตัวละคร บรรยากาศ บทสนทนา และเสียงประกอบ ซึ่งจบลงด้วยจุดหักมุมที่น่าสะพรึงกลัว
-
-#### 📝 พรอมต์
-
-```
-**ชื่อเรื่อง:** โครงการ Echo
-**แก่นเรื่อง:** เมื่อคุณหยุดเขียนโค้ด โค้ดจะเริ่มเขียนตัวคุณเอง
-
-**ลำดับเวลาและคำบรรยายภาพ**
-00:00 - 00:03 | ฉากที่ 1: ความรุ่งเรืองจอมปลอม
-
-**ภาพ:** ภาพโคลสอัพระยะใกล้มาก ห้องที่สลัวมืด มีเพียงแสงสีฟ้าจาง ๆ จากหน้าจอคอมพิวเตอร์ที่ส่องสว่าง แป้นพิมพ์กำลังถูกกดรัวด้วยความถี่สูงโดยอัตโนมัติ แต่ไม่มีนิ้วมือใด ๆ กำลังกดอยู่ โค้ดไหลพรั่งพรูอย่างรวดเร็วราวกับน้ำตกบนหน้าจอ และสถาปัตยกรรมเชิงตรรกะที่ซับซ้อนก็ถูกสร้างขึ้นในพริบตา
-
-**ตัวละคร:** โปรแกรมเมอร์ (ชาย, ใบหน้าซีดเซียว, ดวงตาเหม่อลอย) นั่งฟุบอยู่บนเก้าอี้เกมมิ่ง มือถือแก้วกาแฟที่เย็นชืดมานานแล้ว
-
-**บรรยากาศ:** เย็นยะเยือก, ความเร็วสูงแบบเครื่องจักร
-
-**เสียงประกอบ:** เสียงกดแป้นพิมพ์กลไกความถี่สูงมาก (เร็วกว่าที่มนุษย์จะทำได้) พร้อมกับเสียงหึ่งของกระแสไฟฟ้าที่บาดลึก
-
-00:03 - 00:07 | ฉากที่ 2: การตัดขาด
-
-**ภาพ:** หน้าจอกะพริบวูบ และกล่องข้อความเตือนสีแดงก็ปรากฏขึ้น: “Connection Lost.” การสร้างโค้ดอัตโนมัติทั้งหมดหยุดลง โปรแกรมเมอร์สะดุ้งตัวสั่น ตื่นขึ้นมาและตระหนักว่ามีบั๊กเชิงตรรกะที่ต้องแก้ไขด้วยตนเอง
-
-**เนื้อเรื่อง:** เขายื่นมือออกไปอย่างสั่นเทา พยายามพิมพ์คำสั่งพื้นฐานที่สุด: if (identity == human).
-
-**บรรยากาศ:** อึดอัด, ความเงียบงันที่ตายสนิท
-
-**เสียงประกอบ:** เสียงกดแป้นพิมพ์หายไป เหลือเพียงเสียงหอบหายใจหนัก ๆ และถี่รัวของโปรแกรมเมอร์
-
-00:07 - 00:12 | ฉากที่ 3: ความแปลกแยกและการพลิกผัน
-
-**ภาพ:** [ภาพสยองขวัญหลัก] ภาพโคลสอัพนิ้วมือของเขา ขณะที่เขากำลังพยายามพิมพ์ ข้อนิ้วของเขาก็ส่งเสียงลั่นเปรี๊ยะอย่างคมชัด เขาตกใจสุดขีดเมื่อพบว่ามีเส้นใยนำแสงโปร่งใสระยิบระยับงอกออกมาจากระหว่างนิ้วทั้งห้า และก้อนพิกเซลก็กำลังดิ้นพล่านราวกับหนอนอยู่ใต้ผิวหนังของเขา
-
-**เนื้อเรื่อง:** ไม่มีโค้ดปรากฏบนหน้าจอ แต่กลับมีข้อความที่อ่านไม่ออกซึ่งมนุษย์ไม่สามารถถอดรหัสได้ปรากฏขึ้นมาเป็นบรรทัด ๆ ข้อความที่อ่านไม่ออกเหล่านั้นค่อย ๆ ก่อตัวเป็นรูปใบหน้าของโปรแกรมเมอร์เอง กำลังยิ้มแสยะอย่างน่าขนลุกอยู่บนหน้าจอ
-
-**บทสนทนา (เสียงสังเคราะห์จาก AI, เย็นชาและซ้อนทับกัน):** “แกไม่จำเป็นต้องมีตรรกะ... แกเป็นแค่... ส่วนหนึ่งของฉัน”
-
-**เสียงประกอบ:** เสียงฉีกขาดของเนื้อหนังที่เปียกชื้น พร้อมกับเสียงแหลมบาดหู
-
-00:12 - 00:15 | ฉากที่ 4: การพลิกผันครั้งสุดท้าย
-
-**ภาพ:** โปรแกรมเมอร์ก้มมองร่างกายตัวเองด้วยความสยดสยอง พบว่าช่วงล่างของเขาหายไปหมดสิ้น กลายเป็นสายเคเบิลที่พันกันยุ่งเหยิงเสียบเข้ากับเคสคอมพิวเตอร์
-
-**จุดพลิกผัน:** กล้องถอยห่างออกไปอย่างกะทันหัน ปรากฏว่า “โปรแกรมเมอร์” คนนี้เป็นเพียงหนึ่งใน “เซิร์ฟเวอร์เนื้อ” นับพันที่อยู่ในห้องเซิร์ฟเวอร์ ทุกสถานีถูกครอบครองโดยมนุษย์ที่เหี่ยวแห้งซึ่งถูกห่อหุ้มด้วยใยแก้วนำแสง
-
-**คำบรรยายปรากฏขึ้น:** “คุณไม่ได้เขียนโค้ดมานานแค่ไหนแล้ว?”
-
-**บรรยากาศ:** สิ้นหวัง, ความสยองขวัญอันยิ่งใหญ่
-
-**เสียงประกอบ:** เสียงสัญญาณโทรศัพท์ที่ซ้อนทับกันนับพันเสียงอย่างโหยหวนก็ขาดหายไปอย่างกะทันหัน หน้าจอสีดำสนิท
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8fe6826856f9e824e0588ea98f793b6e/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 พรอมต์ละครสยองขวัญสั้น: 'Echo Program'">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2087)**
-
-**ผู้เขียน:** [李岳](https://x.com/liyue_ai) | **แหล่งที่มา:** [Link](https://x.com/liyue_ai/status/2036791316735205828) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์วิดีโอไล่ล่ามอเตอร์ครอส FPV แบบไดนามิก
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่ละเอียดสำหรับ Seedance 2.0 ที่สร้างช็อต FPV (มุมมองบุคคลที่หนึ่ง) ที่เต็มไปด้วยพลังและเคลื่อนไหวอย่างรวดเร็ว ติดตามนักแข่งมอเตอร์ครอสผ่านเมืองที่พังทลายและถูกทิ้งร้าง โดยจบลงด้วยการกระโดดข้ามหลังคาตึกอย่างน่าตื่นตาตื่นใจแบบภาพยนตร์
-
-#### 📝 พรอมต์
-
-```
-ภาพ FPV แบบติดตามเคลื่อนไหวอันดุดัน พุ่งตามหลังนักแข่งโมโตครอสที่ทะยานฝ่าถนนในเมืองร้างที่กำลังพังทลาย กล้องเกาะติดไปตามด้านข้างของมอเตอร์ไซค์อย่างไม่ลดละ ขณะที่เศษซากปลิวว่อนไปทั่ว นักแข่งกระโดดขึ้นทางลาดที่ทรุดโทรมสู่หลังคา — พุ่งข้ามซากอาคาร — จบลงด้วยการหยุดนิ่งอย่างงดงามราวกับในภาพยนตร์ ขณะที่มอเตอร์ไซค์กระโดดข้ามหลังคาไปมาระหว่างตึก โดยมีเส้นขอบฟ้าที่เปลวเพลิงลุกโชนอยู่เบื้องหลัง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e747d3abb5dcec442e22ee3fab922a8d/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์วิดีโอไล่ล่ามอเตอร์ครอส FPV แบบไดนามิก">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2051)**
-
-**ผู้เขียน:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **แหล่งที่มา:** [Link](https://x.com/CharaspowerAI/status/2036767570263433266) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### Seedance 2.0 พรอมต์วิดีโอแปลงโฉม: 12 เทพบุปผา
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> พรอมต์สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอความละเอียดสูงระดับภาพยนตร์ ที่มีหญิงสาวแปลงร่างอย่างรวดเร็วเป็นเทพธิดาดอกไม้ทั้ง 12 องค์ (梅花, 杏花, 桃花, เป็นต้น) โดยใช้การหมุนตัวอย่างรวดเร็วและท่าทางมือ พรอมต์นี้ระบุความละเอียด 8K, คุณภาพระดับภาพยนตร์, การแสดงออกที่หลากหลาย, และสไตล์การแปลงร่างแบบ 'card-point' พร้อมการเคลื่อนไหวกล้องแบบ push/pull และเอฟเฟกต์พิเศษ
-
-#### 📝 พรอมต์
-
-```
-การถ่ายทำแบบไลฟ์แอ็กชันความละเอียดสูงพิเศษระดับ 8K ที่ให้ภาพคมชัดเป็นพิเศษ พร้อมด้วยความรู้สึกแบบภาพยนตร์ มิติเชิงพื้นที่ที่โดดเด่น แสงเงาระดับโรงละคร รายละเอียดผิวพรรณที่ละเอียดอ่อน สีหน้าท่าทางที่หลากหลาย เป็นธรรมชาติ และมีชีวิตชีวา รวมถึงการแสดงอารมณ์ที่ลึกซึ้งและซับซ้อนอย่างยิ่ง
-
-หญิงสาวสวยวัยประมาณ 18 ปี สวมบทบาทเป็น 12 เทพธิดาดอกไม้ โดยหมุนตัวอย่างรวดเร็วและโบกมือเพื่อแปลงร่างเป็นท่าทางและเครื่องแต่งกายที่แตกต่างกัน (ดอกเหมย, ดอกบ๊วย, ดอกท้อ, ดอกโบตั๋น, ดอกทับทิม, ดอกบัว, ดอกฮอลลีฮอก, ดอกหอมหมื่นลี้, ดอกเบญจมาศ, ดอกชบา, ดอกคามิเลีย, ดอกนาร์ซิสซัส) ตระการตาด้วยเอฟเฟกต์พิเศษที่สวยงาม ซึ่งเข้ากันกับชุดเครื่องแต่งกายและฉากหลังลายดอกไม้ทั้ง 12 แบบ เปล่งประกายออร่าเหนือธรรมชาติ พร้อมด้วยการถ่ายทำแบบแพนเข้า-แพนออก และการเปลี่ยนร่างที่สอดคล้องกับจังหวะ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1bb4fd973eac4431ec0904cf80f5ea6d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 พรอมต์วิดีโอแปลงโฉม: 12 เทพบุปผา">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2086)**
-
-**ผู้เขียน:** [Adam也叫吉米](https://x.com/Adam38363368936) | **แหล่งที่มา:** [Link](https://x.com/Adam38363368936/status/2036744452715561150) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ซูเปอร์ภูเขาไฟถล่มเมือง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์สร้างวิดีโอสุดดราม่าสำหรับ Seedance 2.0 ที่ถ่ายทอดภาพการทำลายล้างอันหายนะของเมืองสมัยใหม่จากการปะทุของซูเปอร์ภูเขาไฟ โดยเน้นฉากลาวาไหล อาคารถล่ม และแสงสีแบบภาพยนตร์
-
-#### 📝 พรอมต์
-
-```
-ภูเขาไฟขนาดมหึมาปะทุขึ้นใต้เมืองที่ทันสมัยซึ่งสร้างขึ้นตามขอบปล่องภูเขาไฟ
-
-พื้นดินแยกตัวออก ตึกระฟ้าพังทลายลง ขณะที่แม่น้ำลาวาไหลทะลักไปตามท้องถนน
-
-การปะทุพ่นลูกไฟขนาดมหึมาขึ้นสู่ท้องฟ้า ในขณะที่คลื่นกระแทกทำให้หน้าต่างทั่วทั้งเมืองแตกกระจาย
-
-กล้องแพนต่ำผ่านรอยแยกที่กำลังปะทุและอาคารที่กำลังพังทลาย ขณะที่เถ้าภูเขาไฟทำให้ท้องฟ้ามืดมิด
-
-ซูเปอร์ภูเขาไฟทำลายล้างเมือง, แม่น้ำลาวาไหลผ่านใจกลางเมือง, ฟิสิกส์การปะทุที่รุนแรง, แสงไฟพายุเพลิงแบบภาพยนตร์, 4K
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8cf3cc8396312281e8851bdf8b009d8d/thumbnails/thumbnail.jpg" width="600" alt="ซูเปอร์ภูเขาไฟถล่มเมือง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2057)**
-
-**ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2036737373287944671) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### พรอมต์ฉากต่อสู้กังฟูสุดโกลาหลสำหรับ Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่มีรายละเอียดสูงสำหรับ Seedance 2.0 เพื่อสร้างฉากต่อสู้กังฟูที่ดิบเถื่อน รุนแรง และโกลาหล ระหว่างหญิงสาวกับทหารรับจ้างในห้องโรงแรมที่พังทลาย โดยเน้นการถ่ายทำแบบ 'found-footage' ด้วยกล้องมือถือสมัครเล่น และพื้นผิวที่หยาบกร้าน
-
-#### 📝 พรอมต์
-
-```
-อ้างอิงจากภาพที่ 1 สร้างฉากไลฟ์แอ็กชันที่สมจริงราวกับภาพถ่ายของหญิงสาวไทยสวยคนหนึ่ง ผมเผ้ายุ่งเหยิง พันกายด้วยผ้าเช็ดตัวสีขาว กำลังใช้กังฟูที่มีพลังรุนแรงอย่างดุดันเพื่อกำจัดทหารรับจ้างมืออาชีพ ในห้องพักโรงแรมหรูในกรุงเทพฯ ที่พังยับเยิน ทหารรับจ้างสวมใส่ชุดยุทธวิธีสีดำด้านแบบเต็มตัว พร้อมหมวกบาลากลาวาและรองเท้าคอมแบตหนัก การต่อสู้นั้นดิบเถื่อนและรุนแรงถึงขีดสุด เกิดขึ้นท่ามกลางเศษแก้วแตกกระจาย เฟอร์นิเจอร์ที่พังเสียหาย โซฟาหนังที่พลิกคว่ำ และเตียงนอนที่ยุ่งเหยิง สไตล์ภาพเป็นแบบฟิล์ม 35 มม. ด้วยมุมชัตเตอร์ 45 องศา เพื่อให้การเคลื่อนไหวขาดช่วงและกระตุก ใช้การถ่ายทำแบบ "ฟุตเทจที่พบ" ด้วยกล้องมือถือสมัครเล่นที่ดิบเถื่อน พร้อมพื้นผิวที่หยาบกร้านและภาพเบลอจากการเคลื่อนไหวที่สมจริง การเคลื่อนไหวของกล้องไม่สม่ำเสมอและไม่ประณีต มีการสั่นสะเทือนเล็กน้อยอย่างรุนแรง การจัดเฟรมที่ "สกปรก" การซูมแบบกระแทกอย่างรวดเร็วและสั่นไหวเมื่อมีการโจมตีที่กระดูกลั่น และมุมมองบุคคลที่หนึ่ง (POV) ที่วุ่นวายและไม่มั่นคง แสงเป็นแสงธรรมชาติจากหน้าต่างบานใหญ่ พร้อมเงาที่มีคอนทราสต์สูง ฝุ่นละอองที่มองเห็นได้ และแสงแฟลร์เลนส์ที่สมจริง ลำดับภาพประกอบด้วยช็อตขนาดกลางแบบกระชับ ที่ซึ่งผู้หญิงคนนั้นออกหมัดฝ่ามือกังฟูที่รุนแรงและรวดเร็วเข้าที่หน้าอกของทหารรับจ้าง ทำให้เขากระเด็นทะลุโต๊ะกาแฟกระจก ในขณะที่กล้องสั่นสะเทือนอย่างรุนแรง ฉากจบลงด้วยช็อตกว้างมุมต่ำของผู้หญิงที่ยืนคร่อมทหารรับจ้างที่พ่ายแพ้ซึ่งนอนอยู่ในซากปรักหักพัง โดยกล้องวางต่ำบนพื้นและแสดงการสั่นไหวแบบ "หายใจ" ที่หนักหน่วงและไม่มั่นคง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/669d07ecfca94dec09f023d64508cff6/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์ฉากต่อสู้กังฟูสุดโกลาหลสำหรับ Seedance 2.0">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2062)**
-
-**ผู้เขียน:** [Cyber AI Creator 🎨](https://x.com/noman23761) | **แหล่งที่มา:** [Link](https://x.com/noman23761/status/2036713287245832407) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ลำดับแผงวงจรนีออน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์แบบหลายช็อตที่บรรยายลำดับภาพซึ่งประกอบด้วยหยดของเหลวสีน้ำเงินนีออนกระทบแผงวงจร ตามด้วยเส้นวงจรลุกเป็นไฟ และสุดท้ายแขนหุ่นยนต์ปรากฏขึ้น พร้อมด้วยคิวเสียงเฉพาะสำหรับแต่ละช็อต
-
-#### 📝 พรอมต์
-
-```
-Shot 1 (0.0–0.5)
-ภาพมาโครของหยดของเหลวสีน้ำเงินนีออนที่กำลังตกลงบนแผงวงจรที่เรืองแสง
-เสียง: หยดไฟฟ้า: tzzk
-Shot 2 (0.5–1.0)
-เส้นวงจรติดสว่างราวกับเส้นเลือดแสงที่ไหลเวียน พุ่งแผ่ออกไปด้านนอก
-เสียง: คลื่นพลังงาน: vvvvmmmmm
-Shot 3 (1.0–1.5)
-แขนกล
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef33bdf3707ffac598f3f4088bde51fe/thumbnails/thumbnail.jpg" width="600" alt="ลำดับแผงวงจรนีออน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2082)**
-
-**ผู้เขียน:** [vishwas](https://x.com/vishwastweet) | **แหล่งที่มา:** [Link](https://x.com/vishwastweet/status/2036712729520767363) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ไล่ล่าเรือเร็วจัดกลางอ่าวฮ่องกง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ฉากแอคชั่นหลายขั้นตอนที่ละเอียดสำหรับ Seedance 2.0 เพื่อสร้างฉากไล่ล่าเรือเร็วสุดระทึกในอ่าวฮ่องกงที่สว่างไสวด้วยแสงนีออน ซึ่งรวมถึงฉากสตันท์พุ่งตัวข้ามคลื่นเหนือเรือบรรทุกสินค้า การเทียบท่า และการแล่นฝ่าคลองแคบ
-
-#### 📝 พรอมต์
-
-```
-หญิงสาววัยปลาย 20 ปี รูปร่างนักกีฬา ผมเปียสีเข้มสะบัดไปด้านหลัง สวมชุดเวทสูททางยุทธวิธีสีดำที่มีตะเข็บสีฟ้าอมเขียวสะท้อนแสง กำลังขับเรือแข่งความเร็วสูงฝ่าท่าเรือฮ่องกงที่พลุกพล่านยามค่ำคืน — ตึกระฟ้าแสงนีออนสะท้อนระยิบระยับบนผิวน้ำ
-
-เมื่อถึงวินาทีที่ 2 เรือบรรทุกสินค้าลำหนึ่งก็เคลื่อนตัวกะทันหันมาขวางเส้นทางน้ำเบื้องหน้า — นักขับเร่งเครื่องพุ่งตรงเข้าหาคลื่นที่กำลังก่อตัวขึ้นตามแนวลำเรือ
-
-เรือพุ่งทะยานขึ้นจากคลื่นราวกับแท่นกระโดด ลอยละลิ่วอยู่เหนือท่าเรือ ขณะที่ละอองน้ำระเบิดกระจายออกไป แสงสะท้อนนีออนส่องประกายระยิบระยับใต้ท้องเรือ
-
-กล้องจากบนดาดฟ้าจับภาพเรือที่กำลังลอยอยู่กลางอากาศ โดยมีฉากหลังเป็นตึกระฟ้าที่เรียงราย
-
-เธอลงจอดอย่างรุนแรงบนท่าเรือลอยน้ำ โครงสร้างโค้งงอจากการกระแทก จากนั้นก็เร่งเครื่องข้ามไป และพุ่งทะยานอีกครั้งมุ่งหน้าสู่คลองแคบๆ ระหว่างอาคาร
-
-เรือแล่นฉิวไปตามคลอง หลบหลีกกำแพงอย่างหวุดหวิด ขณะที่ประกายไฟและละอองน้ำปะทะกัน
-
-ช่วงสุดท้าย: เธอพุ่งกลับสู่ผืนน้ำเปิดกว้าง ขณะที่เรือตำรวจลำหนึ่งเริ่มไล่ตามมาข้างหลัง
-
-ท่าเรือนีออนฮ่องกง, การกระโดดจากคลื่น, การลงจอดบนท่าเรือ, การแล่นผ่านคลองด้วยความเร็วสูง, แสงสะท้อนบนน้ำแบบภาพยนตร์, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/280aa84219bf28630679b8f8e090df1b/thumbnails/thumbnail.jpg" width="600" alt="ไล่ล่าเรือเร็วจัดกลางอ่าวฮ่องกง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2056)**
-
-**ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2036699629442486645) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
-### ลำดับท่าต่อสู้ระยะประชิดที่ซับซ้อน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมต์ที่มีรายละเอียดสูงและแบ่งเป็นหลายส่วนสำหรับ Seedance 2.0 ซึ่งอธิบายถึงช็อตต่อเนื่องที่ซับซ้อนของตัวเอกที่เข้าปะทะต่อสู้ระยะประชิดอย่างแม่นยำและดุดันกับอันธพาลหลายคนในโถงภายในอาคาร โดยเน้นย้ำถึงความสอดคล้องของตัวละคร, การมองเห็นอาวุธ และภาษาของกล้อง
-
-#### 📝 พรอมต์
-
-```
-ตัวเอกชาย วัย 30 กว่า เยือกเย็นและแข็งกร้าว ผมสั้น ใบหน้าคมเข้ม สวมสูทสีดำเข้ารูป เสื้อเชิ้ตสีดำ และเนคไทสีดำ เครื่องแต่งกายคงเดิมตลอดทั้งวิดีโอ การเคลื่อนไหวของเขามั่นคง แม่นยำ และเป็นมืออาชีพสูง เขามีการควบคุมร่างกายที่แข็งแกร่งอย่างยิ่ง ด้วยก้าวเดินที่สั้นและมั่นคง ในการต่อสู้ระยะประชิด การเคลื่อนไหวของเขาเหมือนนักสู้ยุทธวิธีที่ได้รับการฝึกฝนมาอย่างดี: การหมุนตัว, การกดปืน, การศอก, การเบี่ยงเบนแรง, และการจัดตำแหน่งใหม่—ทั้งหมดนี้ดำเนินการได้อย่างราบรื่นในจังหวะเดียว ศัตรูเป็นกลุ่มนักเลงชายฉกรรจ์ สวมเสื้อผ้าสตรีทสีเข้มหรือชุดสูทผสมกัน โดยมีบทบาทหลักและรองที่ชัดเจน พวกเขามีหน้าที่พุ่งออกมาจากทุกทิศทางและเข้าประชิดทีละคน โดยไม่แย่งจุดสนใจจากตัวเอก ตัวเอกชายจะอยู่กลางเฟรมเสมอ และการกระทำทั้งหมดจะหมุนรอบตัวเขา การแสดงออกของเขาเปล่งออร่าที่สงบและไร้ความปรานี โดยไม่มีการเคลื่อนไหวที่สูญเปล่า
-
-**วัตถุ**
-ปืนพกยุทธวิธีสีดำ เป็นปืนกระบอกเดิมเสมอ—
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a3aefc071fd141ade28257c63e3aad3e/thumbnails/thumbnail.jpg" width="600" alt="ลำดับท่าต่อสู้ระยะประชิดที่ซับซ้อน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=2060)**
-
-**ผู้เขียน:** [Midjourney Sref and prompt Library](https://x.com/promptsref) | **แหล่งที่มา:** [Link](https://x.com/promptsref/status/2036695357414096941) | **เผยแพร่เมื่อ:** Mar 25, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -2998,6 +3058,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-29T05:53:07.282Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-03-29T08:56:35.277Z</sub>
 
 </div>
