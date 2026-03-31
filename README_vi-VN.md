@@ -70,7 +70,7 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 |--------|-------|
 | 📝 Tổng số prompt | **1319** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-03-30** |
+| 🔄 Cập nhật lần cuối | **2026-03-31** |
 
 ---
 
@@ -2983,6 +2983,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-03-30T21:02:23.943Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-03-31T02:54:17.433Z</sub>
 
 </div>
