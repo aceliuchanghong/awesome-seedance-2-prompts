@@ -78,85 +78,147 @@ Warum unsere Galerie nutzen?
 
 > ⭐ Handverlesene Prompts mit herausragenden Ergebnissen
 
-### No. 1: Surrealistische Ronin-Action-Szene auf dem Schlachtfeld
+### No. 1: Seedance 2.0: 15-sekündiger filmischer japanischer Romantik-Kurzfilm
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Beschreibung
 
-Ein sehr detaillierter Multi-Shot-Prompt für Seedance 2.0, der eine surreale, actionreiche Schlachtfeldszene am Himmel beschreibt, mit einem maskierten Ronin, der von einem kolossalen geflügelten Biest verfolgt wird, dessen Brust ein Wirbelsturm aus Gewitterwolken ist. Der Prompt enthält spezifische Kamerabewegungen, technische Details (720p, 16:9, 15 Sekunden) und ein dramatisches Finale.
+Ein hochdetaillierter, 15-sekündiger Multi-Szenen-Prompt für Seedance 2.0, der darauf ausgelegt ist, einen filmischen, ultrarealistischen japanischen Highschool-Kurzfilm über reine Liebe zu generieren. Der Prompt spezifiziert die Szeneneinstellung (leeres Klassenzimmer, warmes goldenes Sonnenlicht, Staubpartikel), Kamerabewegungen, Charakterkonsistenz (keine Deformation/Drift), subtile Mikroausdrücke, synchronisierte Atem-/Lippenbewegungen, Dialog und Soundeffekte (Zikaden, Stiftkratzen, niederfrequenter Herzschlag, sanftes Klavier). Die Erzählung konzentriert sich auf die intensive, unbeholfene und intime emotionale Spannung zwischen einem schreibenden Mädchen und einem Jungen, der sie heimlich beobachtet, und gipfelt in einer schüchternen Konfrontation.
 
 #### 📝 Prompt
 
 ```
-Ein surreales Schlachtfeld am Himmel: schwebende Felseninseln treiben durch ein Gewitter, Wolken wirbeln darunter wie ein Ozean. Der maskierte Ronin eilt über die treibenden Plattformen, verfolgt von einem kolossalen geflügelten Biest, dessen Brust ein wirbelnder Strudel aus Gewitterwolken und Blitzen ist. Die Kamera rast von Insel zu Insel und kämpft darum, Schritt zu halten, während Felsen unter ihnen kippen, sich drehen und zerbröseln. Jeder Flügelschlag sendet Schockwellen durch die Luft, erschüttert das Bild und bläst Trümmer und Regen direkt ins Gesicht des Betrachters. Schnelle Handkamera-Schnitte fangen den Ronin ein, wie er unmögliche Lücken überspringt, sein Schwert Lichtbögen zieht, die kurz die Dunkelheit durchschneiden. Das Finale zeigt die Kamera, wie sie hinter ihm her taucht, als er vom letzten zerbröselnden Felsen springt und auf einem Blitz direkt in den Brustwirbel des Monsters reitet, mit einem letzten, alles-oder-nichts-Hieb, der den Sturm von innen heraus explodieren lässt und den Himmel in einem blendenden Blitz klärt.
-
-720p
-16:9
-15 Sekunden
+15-sekündiger filmischer japanischer Drama-Kurzfilm über reine, ambivalente Liebe, ultra-realistische Qualität, warmes goldenes Sonnenlicht in einem leeren Klassenzimmer am Nachmittag, das durch die Jalousien auf die nebeneinander stehenden Schreibtische fällt, feine Staubpartikel, die langsam in den Lichtstrahlen schweben, alte Holzschreibtische, extrem natürliche, subtile Bewegungen, Atmung und Augenspannung, Charaktere behalten durchgehend konsistente Gesichter, Kleidung und Frisuren ohne Verformung, Drift oder Artefakte, echtes, leichtes Heben und Senken des Brustkorbs synchron zur Atmung, geringe Schärfentiefe, cremiger, unscharfer Hintergrund, warmer Filmkorn, 8K scharf, japanische Jugend, zurückhaltende, herzklopfende, erstickende Atmosphäre.
+0-4 Sekunden: Extrem langsamer Push-in-Shot von einer Halbtotalen des Schreibtisches zu einer Nahaufnahme der Seitenprofile der beiden nebeneinander sitzenden Personen. Ein reines Mädchen in Sommer-Schuluniform konzentriert sich mit gesenktem Kopf auf das Schreiben von Notizen, langes schwarzes Haar und einzelne Strähnen an ihren Ohren werden sanft von einer leichten Brise angehoben, lange Wimpern werfen subtile Schatten, die Haut ist natürlich rosig und zart, ein leichtes, unbeabsichtigtes Hochziehen des Mundwinkels in Konzentration, leichte und gleichmäßige Atmung.
+4-9 Sekunden: Wechsel zu einer Nahaufnahme des Jungen. Sein Schuluniformkragen ist leicht locker, er stützt den Ellbogen auf den Schreibtisch und dreht heimlich den Kopf, um sie anzustarren, seine Augen sind erfüllt von sanfter, zurückhaltender Zuneigung und Zärtlichkeit, die Pupillen sind leicht geweitet, sein Adamsapfel rollt sanft. Plötzlich bemerkt er, wie ihr Stift innehält, er dreht schnell und verwirrt den Kopf, um so zu tun, als würde er seine eigenen Notizen betrachten, seine Ohrläppchen werden schnell leicht rot, seine Fingerspitzen zittern leicht, während er den Stift hält, gelegentlich blickt er unter seinem Pony zu ihr hinüber, seine Atmung ist leicht unregelmäßig, und seine Lippen sind fest zusammengepresst, um ruhig zu bleiben.
+9-15 Sekunden: Extrem-Nahaufnahme beider Gesichter im selben Bild, Zeitlupen-Augen treffen sich plötzlich: Das Mädchen dreht langsam den Kopf, zeigt zuerst eine benommene Überraschung, senkt dann schnell und schüchtern für 0,3 Sekunden den Kopf, beißt sich sanft auf die Unterlippe, ihre Wangen und Ohrläppchen blühen augenblicklich in Kirschblütenrosa auf, ihre feuchten Wimpern blicken schüchtern auf, um seinen Blick wieder zu treffen, während sie leise und schüchtern flüstert: „...Was starrst du an?“; der Junge erstarrt völlig, seine Pupillen weiten sich, und er ist für 0,4 Sekunden fassungslos, dann stottert er verwirrt und leise als Antwort: „N-nichts...“. Das Mädchen flüstert noch leiser, beißt sich auf die Lippe und schielt ihn wieder an, flüstert weiter: „...Lügner.“ Der Junge hält inne, seufzt dann sanft und flüstert: „...Ich sehe dich nur an.“, sein Mundwinkel kräuselt sich langsam zu einem schüchternen, sanften, schiefen Lächeln, feine Linien erscheinen an seinen Augenwinkeln, und seine Atmung vertieft sich merklich. Eine unsichtbare Strömung scheint die ambivalente Spannung zwischen ihren Gesichtern zu ziehen, sie teilen die Atemtemperatur des anderen, der Hintergrund verschmilzt vollständig zu Schichten cremiger, verträumter Lichtpunkte, warmer Halos und feiner Luftpartikel.
+Lippensynchronisation ist natürlich und präzise, emotionale Mikrozittern und Atmung sind synchronisiert, Dialog ist leises Flüstern mit schüchternem Ton, natürliche kurze Pausen zwischen 200-400 Millisekunden, der Mund bewegt sich beim Sprechen nur leicht, ohne Übertreibung oder roboterhaftes Gefühl, perfekte natürliche Lippensynchronisation und emotionale Authentizität.
+Gesamte Soundeffekte: Fernes Zirpen von Sommerzikaden, das leise Kratzgeräusch des Stiftes auf dem Papier, der fast unhörbare niederfrequente Puls ihrer Herzschläge, der schließlich in ein sehr leichtes, luftiges Klavier übergeht. Der Dialog ist vollständig natürlich als Flüstern in die Szene integriert, die Stimme des Mädchens ist sanft und schüchtern, der Junge wechselt von verwirrtem Stottern zu Sanftheit.
+Die Identität der Charaktere bleibt durchgehend erhalten, echte subtile Kopfbewegungen, Augenbewegungen und Atemsynchronisation, kein Text, Wasserzeichen oder Untertitel, reine japanische Jugend-Geheimschwärmerei, herzklopfende Spannung.
 ```
 
 #### 🎬 Video
 
 <div align="center">
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/133.mp4">
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Surrealistische Ronin-Action-Szene auf dem Schlachtfeld">
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1402.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f63ad253175a9ad1dac53de490efac8/thumbnails/thumbnail.jpg" width="700" alt="Seedance 2.0: 15-sekündiger filmischer japanischer Romantik-Kurzfilm">
 </a>
 
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=1402)**
 
 </div>
 
 #### 📌 Details
 
-- **Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam)
-- **Quelle:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
-- **Veröffentlicht:** February 11, 2026
+- **Autor:** [AIGC｜阳家豪](https://x.com/JiahaoYang_art)
+- **Quelle:** [Twitter Post](https://x.com/JiahaoYang_art/status/2033119940216344616)
+- **Veröffentlicht:** March 15, 2026
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=133)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=1402)**
 
 ---
 
-### No. 2: Optimus Prime vs. Godzilla in Tokio
+### No. 2: Hollywood Haute Couture Fantasy Video Prompt
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Beschreibung
 
-Eine Beschreibung eines von Seedance 2.0 generierten CGI-Videos, das einen Luxuswagen zeigt, der sich in Optimus Prime verwandelt und gegen Godzilla kämpft, vor dem Hintergrund einer regnerischen Tokioter Nacht mit Explosionen und Energiestrahlen.
+Ein detaillierter, multi-szenischer Videogenerierungs-Prompt für Seedance 2.0, konzipiert für einen Hollywood Haute Couture Fantasy-Film. Der Prompt spezifiziert Stil, Auflösung (8K), Rendering-Engine (Unreal Engine 5), Dauer (15 Sekunden) und drei verschiedene Kamera-/Aktionssequenzen, die ein Model in flüssigem blau-weißem Porzellan zeigen, das in Tusche-Schwalben zerspringt und in einem 3D-Flüssigtusche-Wirbel kulminiert.
 
 #### 📝 Prompt
 
 ```
-Ein Luxusauto verwandelt sich in Optimus Prime und kämpft gegen Godzilla, wobei Explosionen und Energiestöße vor dem Hintergrund einer regnerischen Tokioter Nacht entfesselt werden.
+[Stil] Hollywood Haute Couture Fantasy-Blockbuster, 8K ultra-scharf, fotorealistisch, High-Fashion Editorial Style, Unreal Engine 5 Flüssigkeitsrendering, visuelle Illusion. [Dauer] 15 Sekunden. [Szene] Eine endlose, realistische Salar de Uyuni (Sky Mirror) Salzwüste. Der Himmel ist erfüllt von bedrückenden dunklen Wolken, und der Boden spiegelt alles perfekt wider, wobei das Gesamtbild einen minimalistischen, kühlen Ton präsentiert. [00:00-00:05] Einstellung 1: Haute Couture Auftritt und Porzellanhaut. Kameraposition: Extrem niedrige Aufwärtsaufnahme, Ultra-Teleobjektiv-Zoom. Aktion: Ein asiatisches weibliches Model mit einem sehr wiedererkennbaren, hochmodischen Gesicht geht kühl über die Wasseroberfläche. Effekt: Sie trägt keinen Stoff, sondern ein langes Kleid aus fließendem, echtem flüssigem Blau-Weiß-Porzellan. Während sie geht, erzeugt der Rock ein klares Kollisionsgeräusch wie echte Keramik, mit einem fließenden Glanz auf der Oberfläche. Die traditionellen blau-weißen Muster bewegen sich über den Rock mit Porzellan-Textur, als wären sie lebendig. [00:05-00:10] Einstellung 2: Physisches Zerbrechen und Tusche-Abstieg. Kameraposition: Extreme Nahaufnahme des Gesichts, Fokus zieht schnell zurück. Aktion: Das Model bleibt plötzlich stehen, starrt kalt in die Kamera und schnippt scharf mit den Fingern. Effekt: In dem Moment, in dem die Finger schnippen, fällt ihr blau-weißes Porzellankleid nicht, sondern explodiert sofort in Tausende von extrem fotorealistischen Tusche-Schwalben. Diese Schwalben tragen echte Wassertropfen und Tuscheflecken, ziehen schwarze flüssige Nachbilder in der Luft und wirbeln frenetisch um sie herum. [00:10-00:15] Einstellung 3: Dimensionale Auflösung und Abgrundreflexion. Kameraposition: Hochauflösende Überkopfaufnahme, Kamera dreht sich schnell und sinkt ab. Aktion: Der Schwarm der Tusche-Schwalben stürzt in das spiegelnde Seewasser unter den Füßen des Models. Effekt: Die Oberflächenspannung des ursprünglich festen Salzsees verschwindet sofort. Die gesamte extrem realistische Welt beginnt, wie konzentrierte Tinte, die in klares Wasser getropft wird, heftig zu bluten und sich aufzulösen. Die realen dunklen Wolken und die Figur des Models verwandeln sich vollständig in einen extrem grandiosen 3D-Flüssigtintenwirbel, der die Kamera vollständig in einen schwarz-weiß verwobenen Abgrund verschlingt.
 ```
 
 #### 🎬 Video
 
 <div align="center">
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/210.mp4">
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Optimus Prime vs. Godzilla in Tokio">
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/594.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e066fab457509bc6809ea212ae5d6a51/thumbnails/thumbnail.jpg" width="700" alt="Hollywood Haute Couture Fantasy Video Prompt">
 </a>
 
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=210)**
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=594)**
 
 </div>
 
 #### 📌 Details
 
-- **Autor:** [HopefulofNFTs](https://x.com/HopefulofNFTs)
-- **Quelle:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
+- **Autor:** [John](https://x.com/johnAGI168)
+- **Quelle:** [Twitter Post](https://x.com/johnAGI168/status/2025849650654122348)
+- **Veröffentlicht:** February 23, 2026
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=594)**
+
+---
+
+### No. 3: Moderner ländlicher Ästhetik-Heilungs-Kurzfilm-Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+![Featured](https://img.shields.io/badge/⭐-Featured-gold)
+
+#### 📖 Beschreibung
+
+Ein detaillierter, dreiteiliger Prompt für Seedance 2.0 zur Generierung eines heilsamen, filmischen Kurzfilms im Stil der Modern Rural Aesthetics. Er spezifiziert den Stil (Cinematic Commercial, 4K/8K, Extreme Makro, natürliches Licht, ASMR), den Schauplatz (eine moderne offene Küche mit Gartenblick), die Figur (ein konzentrierter Schöpfer in Leinen) und spezifische Aktionen für drei Szenen: das Pflücken einer Tomate, präzises Schneiden und einen ruhigen Moment des Essens.
+
+#### 📝 Prompt
+
+```
+[Stil]
+Moderne ländliche Ästhetik, filmische Werbequalität, aufgenommen mit Sony A7S3/Kinokamera, 4K/8K ultra-scharf, Extrem-Makro, natürliche transparente Beleuchtung, heilendes ASMR, kein historisches Kostümdrama-Gefühl.
+
+[Szene]
+Eine gepflegte, moderne offene Bauernhausküche, im Hintergrund ein üppiger Gemüsegarten, strahlender Sonnenschein.
+
+[Charakter]
+Moderne ländliche Kreatorin, schwarzes langes Haar lässig mit einer Holzhaarnadel hochgesteckt, trägt ein dunkelblaues, bequemes Leinenoutfit, klares Make-up, konzentrierte und friedliche Augen.
+
+[Aufnahmedetails]
+[00:00-00:05] Aufnahme 1: Morgenernte (Die Frische)
+Visuelles: Hochauflösende Nahaufnahme. Morgenlicht trifft die Pflanzen mit seitlichem Gegenlicht.
+Aktion: Die bloßen Hände der Kreatorin (lange, saubere Finger) pflücken eine leuchtend rote Tomate mit glitzernden Tautropfen von der Rebe.
+Details: Extrem scharfer Fokus, der deutlich den Flaum auf der Tomatenoberfläche und die Flugbahn der abrutschenden Wassertropfen zeigt. Der Hintergrund ist unscharf, hochwertiges Grün.
+
+[00:05-00:10] Aufnahme 2: Extreme Handwerkskunst (Das Handwerk)
+Visuelles: Kochbereich im Innenbereich, voller Leben, aber makellos sauber.
+Aktion: Die Kreatorin schneidet Gemüse, die Bewegungen sind geschickt und präzise (nicht performativ).
+Details: Makroobjektiv fängt den Moment ein, in dem die Messerklinge durch die Zutaten schneidet und Saft spritzt. Dann wechselt es zur orangefarbenen Flamme, die im Lehmofen flackert, Licht und Schatten sind warm und real.
+
+[00:10-00:15] Aufnahme 3: Ruhige Zeit (Der Moment)
+Visuelles: Totale/Halbtotale.
+Aktion: Ein delikates, hausgemachtes Gericht wird auf dem langen Holztisch im Hof platziert. Die Kreatorin setzt sich leise hin, streicht sanft eine abstehende Haarsträhne zurecht und nimmt einen Bissen Essen.
+Atmosphäre: Dampf steigt langsam gegen das Gegenlicht auf, die Szene ist so still, dass man fast den Wind hören kann, was das ultimative Gefühl der Entspannung zeigt, nach dem sich moderne Menschen sehnen.
+```
+
+#### 🎬 Video
+
+<div align="center">
+
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/288.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce508b28e505ffce07247e2ab036d6f1/thumbnails/thumbnail.jpg" width="700" alt="Moderner ländlicher Ästhetik-Heilungs-Kurzfilm-Video-Prompt">
+</a>
+
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=288)**
+
+</div>
+
+#### 📌 Details
+
+- **Autor:** [John](https://x.com/johnAGI168)
+- **Quelle:** [Twitter Post](https://x.com/johnAGI168/status/2021818021354848258)
 - **Veröffentlicht:** February 12, 2026
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=210)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=288)**
 
 ---
 
-### No. 3: Demon Slayer Live-Action Battle Prompt für Seedance 2.0
+### No. 4: Demon Slayer Live-Action Battle Prompt für Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
@@ -209,114 +271,87 @@ Spezialeffekt-Spektakel: Der blaue Wasserdrache und der goldene Blitz explodiere
 
 ---
 
-### No. 4: Anime-Mädchen-Bühnentanz mit Motion Capture
+### No. 5: Seedance 2.0: 80-jähriger Rapper MV
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Beschreibung
 
-Verwenden Sie Referenzvideo 1 (Szenenvideo), um die Aktionen von Charakter 2 (Motion-Capture-Video) auszuführen, und generieren Sie ein Video mit dem Charakter aus Bild 3. Ein blondes Mädchen im Anime-Stil in einem schwarzen Kleid führt einen eleganten Tanz auf einer Bühne auf.
+Ein detaillierter, 15-sekündiger Prompt für Seedance 2.0 zur Erstellung eines horizontalen 16:9 Street-Rap-Musikvideos (MV) mit einer 80-jährigen Frau. Der Prompt spezifiziert den Stil (Neon-Lila/Blau-Kaltton, explosive Atmosphäre), das Aussehen der Figur (silbernes Haar, Lederjacke, Hip-Hop-Accessoires), die Szenenaufteilung (0-3s Intro, 3-7s Rap, 7-11s Tanz, 11-15s Höhepunkt/Fazit), spezifische Rap-Texte, Kameratechniken (Low Angle, 360-Grad-Rotation, schnelle Schnitte) und Sounddesign (Trap Electronic Music, schwere 808-Drums).
 
 #### 📝 Prompt
 
 ```
-Referenzvideo 1 (Szenenvideo) für die Aktion von Person 2 (Motion-Capture-Video), um ein Video der Person aus Bild 3 zu generieren.
+16:9 Querformat, Street-Rap-MV-Stil, neon-violette und blaue kühle Farbtöne, explosive, coole und wilde Atmosphäre. 0-3 Sekunden: Halbtotale, die sich hineinbewegt, nächtliche Straßenszene mit blinkenden Neonlichtern, eine 80-jährige silberhaarige Frau steht vor einer Graffiti-Wand, kurzes silberweißes Haar, ordentlich nach hinten gegelt, ausgeprägte eckige Gesichtskontur, schwertförmige Augenbrauen, die zu den Schläfen hin abfallen, Augen scharf wie Elektrizität, Falten an den Augenwinkeln wie Abzeichen der Zeit, ein selbstbewusstes Lächeln auf den Mundwinkeln, trägt eine schwarze Lederjacke über einem weißen bedruckten T-Shirt (große schwarze Buchstaben "YOLO" auf der Brust) + schwarze Cargohose + weiße High-Top-Sneaker, eine dicke goldene Halskette um den Hals, silbernes Armband am Handgelenk, hält ein Mikrofon mit beiden Händen hoch, starke Schlagzeugbeats der BGM setzen ein, die Augen der alten Frau schärfen sich, und ihre Lippen öffnen sich, um mit dem Rap zu beginnen. 3-7 Sekunden: Halbtotale + Nahaufnahme-Wechsel, die alte Frau beginnt zu rappen, mit einem extrem starken Rhythmusgefühl, ihr silbernes Haar fliegt bei ihren Kopfnickbewegungen, eine Hand hält das Mikrofon, die andere Hand macht Gesten, um den Rhythmus zu untermauern – Zeigefinger zeigt auf die Kamera, Handfläche schneidet den Rhythmus auf und ab, macht Hip-Hop-Gesten, Bewegungen sind flüssig und geschmeidig, Augen scharf und direkt in die Kamera blickend, Falten springen lebhaft mit ihrem Ausdruck, Lippen öffnen und schließen sich schnell, um Texte auszuspucken: [Rap-Texte] "Achtzigjährige Beine, können besser springen als du! Silbernes Haar weht, das ist mein Stolz! Nenn mich nicht alt, mein Flow ist besser als deiner, als du Rap gespielt hast, habe ich Disco gehört!" (Schnelles Tempo, starker Rhythmus, wilde Attitüde) Schnelle Schnitte: Gesichts-Nahaufnahmen, Handbewegungen, Ganzkörper-Schwingen, Seiten-Silhouetten, synchron zum BGM-Beat. 7-11 Sekunden: Tanzsegment, die Kamera zieht sich zurück, um den ganzen Körper zu zeigen, die alte Frau beginnt zu tanzen – zuerst der klassische Hip-Hop-Bounce, dann ein sauberer Street-Dance-Freeze, gefolgt von einer Körperwelle, die sich von den Schultern bis zu den Zehen ausbreitet, und dann ein schnelles Fußarbeitstraining, Bewegungen sind sauber und scharf, silbernes Haar fliegt unter den Neonlichtern, die Lederjacke flattert in der Luft, sie rappt weiter, während sie tanzt: [Rap-Texte] "Beine und Füße sind flink, Geschwindigkeit ist nicht langsam, meine Texte sind in der Zeit gemeißelt! Du spielst mit Handys, ich spiele mit Beats, achtzig Jahre Leben, in diesen Vers geschrieben!" (Schnellerer Rhythmus, stärkerer Ton) Tiefwinkel-Aufnahme von unten + 360-Grad-Umfeldaufnahme, die die coolen und wilden Tanzbewegungen der alten Frau einfängt. 11-15 Sekunden: Höhepunkt-Ende, die alte Frau macht eine coole Drehung, ihr silbernes Haar beschreibt einen Bogen in der Luft, sie blickt in die Kamera und macht eine "Schhh"-Geste mit dem Finger, dann bewegen sich ihre Lippen näher an das Mikrofon, singt die letzte Zeile mit tiefer, magnetischer Stimme: [Reality-Texte] "Die Zeit besiegt niemals eine Schönheit, ich habe nur die Art geändert, wie ich die Jugend erlebe..." (Langsamer Rhythmus, tiefe Emotion, nachklingendes Ende) Die Kamera fährt langsam für eine Nahaufnahme der Augen der alten Frau heran, die Falten an ihren Augenwinkeln sind alles Geschichten, ihr Blick ist immer noch scharf, aber mit einem Hauch von Freundlichkeit, die BGM stoppt abrupt am Höhepunkt, das Bild friert auf dem coolen, aber leicht sanften Lächeln der alten Frau ein, Vignettierung + neon-violette Lichthof.
 ```
 
 #### 🎬 Video
 
 <div align="center">
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/406.mp4">
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Anime-Mädchen-Bühnentanz mit Motion Capture">
+<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/1403.mp4">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e011d2666b5ee19d5b9f8b9837b974c2/thumbnails/thumbnail.jpg" width="700" alt="Seedance 2.0: 80-jähriger Rapper MV">
 </a>
 
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=406)**
+📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=1403)**
 
 </div>
 
 #### 📌 Details
 
-- **Autor:** [Jackywine](https://x.com/Jackywine)
-- **Quelle:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
-- **Veröffentlicht:** February 11, 2026
+- **Autor:** [松果先森](https://x.com/songguoxiansen)
+- **Quelle:** [Twitter Post](https://x.com/songguoxiansen/status/2033175478765289598)
+- **Veröffentlicht:** March 15, 2026
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=406)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=1403)**
 
 ---
 
-### No. 5: Verfolgungsjagd durch eine Klippenstadt (Ein einziger, durchgehender Shot)
+### No. 6: Prompt für eine filmreife Straßenrenn-Sequenz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 ![Featured](https://img.shields.io/badge/⭐-Featured-gold)
 
 #### 📖 Beschreibung
 
-Ein extrem detaillierter, durchgängiger Prompt, der eine Hochgeschwindigkeits-Verfolgungsjagd durch eine monumentale Klippenstadt beschreibt, mit Fokus auf dynamische Kamerabewegung, Hitzeflimmern, Trümmer und einem Höhepunkt, der ein von einem Wasserfall gespeistes Tal enthüllt.
+Ein detaillierter Prompt zur Erstellung einer filmreifen Straßenrenn-Sequenz bei Nacht mit Seedance 2.0, inklusive Angaben zu Kamerabewegungen, Shot-Timing (0-12s), Umgebungsdetails und dem gewünschten visuellen Stil (inspiriert von Fast and Furious).
 
 #### 📝 Prompt
 
 ```
-Verfolgungsjagd mit einem Speeder durch eine Klippenstadt (eine einzige, durchgehende Aufnahme) Aus einer monumentalen, in Stein gehauenen Klippenstadt taucht die Kamera auf einen winzigen Lichtstreifen zu, der über eine schmale Felsstraße rast. Ziel erfasst: ein Speeder, der sich mit irrsinniger Geschwindigkeit an der Wand entlangschlängelt. Die Kamera schießt voraus, schnellt zurück und fällt dann dicht an die hinteren Triebwerke: Hitzeschleier, Schmutz, der vom Felsrand abspringt, blinkende Warnlichter. Ein einstürzender Balkon regnet Trümmer; der Fahrer weicht im letzten Moment unter einem fallenden Bogen aus und schlängelt sich dann in einer fließenden Bewegung durch hängende Wäscheleinen und offene Fenster. Die Kamera huscht durch dieselben Öffnungen und bleibt der Bewegung treu. Eine letzte Biegung und plötzliche Ruhe: Die Kamera schießt nach außen und enthüllt die Stadt, die sich zu einem grenzenlosen, von Wasserfällen gespeisten Tal öffnet, wobei sich der Nebel in einen Regenbogen verwandelt.
+Filmreife Straßenrenn-Sequenz bei Nacht, ein konzentrierter Fahrer in einem Hochleistungsauto umklammert das Lenkrad, intensiver Blick, Stadtlichter spiegeln sich in der Windschutzscheibe, Spannung baut sich vor der plötzlichen Beschleunigung auf
+
+Kamera: Schnelles Multi-Winkel-System mit nahtlosen Übergängen, Innenraum-Nahaufnahme → über die Schulter → Außen-Tracking → niedrige Bodenaufnahmen, ultra-dynamische Kamerabewegung, Whip-Pans + Speed-Ramp-Übergänge + Motion-Blur-Maskierungsschnitte, Illusion eines kontinuierlichen Flusses
+
+(0-2s) Innenraum-Nahaufnahme des Fahrers, Hand strafft sich am Schalthebel, subtile Atmung, Armaturenbrettbeleuchtung leuchtet
+(2-4s) Über-die-Schulter-Aufnahme, die Straße vor uns erstreckt sich in die neonbeleuchtete Stadt, Motorvibration baut sich auf
+(4-6s) Extreme Nahaufnahme eines Fingers, der den NOS-Knopf drückt, sofortige Zündreaktion
+(6-8s) Explosive Beschleunigung, Kamera springt auf seitliche Außen-Tracking-Aufnahme, Auto schießt mit gewaltigem Geschwindigkeitsschub nach vorne
+(8-10s) Ultra-niedrige Bodenaufnahme nahe am Asphalt, Räder drehen sich mit extremer Geschwindigkeit, die Umgebung zieht vorbei
+(10-12s) Hochgeschwindigkeitsjagd durch enge Straßen, scharfe Kurven, Kamera-Whip-Pans zwischen den Winkeln, Reflexionen und Lichtspuren verstärken das Tempo
+
+Dichte urbane Nachtumgebung, nasser Asphalt reflektiert Neonlichter, Tunnelpassagen, vorbeiziehende Straßenlaternen, Hochgeschwindigkeits-Stadtatmosphäre
+Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealistische Beleuchtung, intensive Bewegungsunschärfe, kontrastreiche Neonreflexionen, filmische Schärfentiefe, extremes Geschwindigkeitsgefühl, flüssige Übergänge, keine Verzerrung, kein Dehnen
 ```
 
 #### 🎬 Video
 
 <div align="center">
 
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/393.mp4">
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Verfolgungsjagd durch eine Klippenstadt (Ein einziger, durchgehender Shot)">
-</a>
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18e0c087ff65e7a375b46c7717f36923/thumbnails/thumbnail.jpg" width="700" alt="Prompt für eine filmreife Straßenrenn-Sequenz">
 
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=393)**
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=2530)**
 
 </div>
 
 #### 📌 Details
 
-- **Autor:** [Umesh](https://x.com/umesh_ai)
-- **Quelle:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
-- **Veröffentlicht:** February 14, 2026
+- **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
+- **Quelle:** [Twitter Post](https://x.com/CharaspowerAI/status/2039651574297792688)
+- **Veröffentlicht:** April 2, 2026
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=393)**
-
----
-
-### No. 6: Bollywood-Tanz: Distracted-Boyfriend-Meme-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-![Featured](https://img.shields.io/badge/⭐-Featured-gold)
-
-#### 📖 Beschreibung
-
-Ein Prompt für Seedance 2.0, der die KI anweist, den Bollywood-Tanzstil im Kontext des „Distracted Boyfriend“-Memes zusammenzufassen, mit einem humorvollen und aufmerksamkeitsstarken Ton.
-
-#### 📝 Prompt
-
-```
-Fasse den Bollywood-Tanz im Meme „Distracted Boyfriend“ zusammen – stelle sicher, dass es bescheuert ist und 50 Likes bekommt.
-```
-
-#### 🎬 Video
-
-<div align="center">
-
-<a href="https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/releases/download/videos/379.mp4">
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood-Tanz: Distracted-Boyfriend-Meme-Prompt">
-</a>
-
-📥 *Klicken Sie auf das Bild, um das Video herunterzuladen* | **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=379)**
-
-</div>
-
-#### 📌 Details
-
-- **Autor:** [𝕋𝔼𝕄ℙ𝕃𝔼](https://x.com/13enZGN_temple)
-- **Quelle:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
-- **Veröffentlicht:** February 14, 2026
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=379)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/seedance-2-0-prompts?id=2530)**
 
 ---
 
@@ -700,37 +735,6 @@ Motiv 2: Golden Retriever, großer Kopf, breite Brust, dichtes, flauschiges Fell
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=2545)**
 
 **Autor:** [Latte](https://x.com/0xbisc) | **Quelle:** [Link](https://x.com/0xbisc/status/2039673040787956123) | **Veröffentlicht:** Apr 2, 2026
-
----
-### Prompt für eine filmreife Straßenrenn-Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer filmreifen Straßenrenn-Sequenz bei Nacht mit Seedance 2.0, inklusive Angaben zu Kamerabewegungen, Shot-Timing (0-12s), Umgebungsdetails und dem gewünschten visuellen Stil (inspiriert von Fast and Furious).
-
-#### 📝 Prompt
-
-```
-Filmreife Straßenrenn-Sequenz bei Nacht, ein konzentrierter Fahrer in einem Hochleistungsauto umklammert das Lenkrad, intensiver Blick, Stadtlichter spiegeln sich in der Windschutzscheibe, Spannung baut sich vor der plötzlichen Beschleunigung auf
-
-Kamera: Schnelles Multi-Winkel-System mit nahtlosen Übergängen, Innenraum-Nahaufnahme → über die Schulter → Außen-Tracking → niedrige Bodenaufnahmen, ultra-dynamische Kamerabewegung, Whip-Pans + Speed-Ramp-Übergänge + Motion-Blur-Maskierungsschnitte, Illusion eines kontinuierlichen Flusses
-
-(0-2s) Innenraum-Nahaufnahme des Fahrers, Hand strafft sich am Schalthebel, subtile Atmung, Armaturenbrettbeleuchtung leuchtet
-(2-4s) Über-die-Schulter-Aufnahme, die Straße vor uns erstreckt sich in die neonbeleuchtete Stadt, Motorvibration baut sich auf
-(4-6s) Extreme Nahaufnahme eines Fingers, der den NOS-Knopf drückt, sofortige Zündreaktion
-(6-8s) Explosive Beschleunigung, Kamera springt auf seitliche Außen-Tracking-Aufnahme, Auto schießt mit gewaltigem Geschwindigkeitsschub nach vorne
-(8-10s) Ultra-niedrige Bodenaufnahme nahe am Asphalt, Räder drehen sich mit extremer Geschwindigkeit, die Umgebung zieht vorbei
-(10-12s) Hochgeschwindigkeitsjagd durch enge Straßen, scharfe Kurven, Kamera-Whip-Pans zwischen den Winkeln, Reflexionen und Lichtspuren verstärken das Tempo
-
-Dichte urbane Nachtumgebung, nasser Asphalt reflektiert Neonlichter, Tunnelpassagen, vorbeiziehende Straßenlaternen, Hochgeschwindigkeits-Stadtatmosphäre
-Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealistische Beleuchtung, intensive Bewegungsunschärfe, kontrastreiche Neonreflexionen, filmische Schärfentiefe, extremes Geschwindigkeitsgefühl, flüssige Übergänge, keine Verzerrung, kein Dehnen
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18e0c087ff65e7a375b46c7717f36923/thumbnails/thumbnail.jpg" width="600" alt="Prompt für eine filmreife Straßenrenn-Sequenz">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=2530)**
-
-**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Quelle:** [Link](https://x.com/CharaspowerAI/status/2039651574297792688) | **Veröffentlicht:** Apr 2, 2026
 
 ---
 ### Quantum Reality Fracture Sci-Fi-Horror-Prompt
@@ -3054,13 +3058,32 @@ Kontinuierliche Einzeleinstellung, Kamera neigt, rollt, dreht sich und fliegt du
 **Autor:** [Changning Liu](https://x.com/ChangningL29508) | **Quelle:** [Link](https://x.com/ChangningL29508/status/2038342216733819347) | **Veröffentlicht:** Mar 29, 2026
 
 ---
+### High-Speed Cheetah Chase Cam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochtechnischer Prompt für Seedance 2.0, der eine Steadicam-Verfolgungsaufnahme eines Geparden spezifiziert, der mit 112 km/h durch dichten Dschungel rennt. Der Prompt beschreibt Kamerahöhe, Geschwindigkeitsanpassung, null vertikale Drift sowie präzise Winkel bei den Kurven- und Flexionsbewegungen des Geparden beim Umgehen von Hindernissen, wobei der Fokus auf Bewegungsunschärfe im Hintergrund und gestochen scharfer Fokussierung auf das Motiv liegt.
+
+#### 📝 Prompt
+
+```
+Steadicam-Verfolgung von hinten, 2,5 Meter hinter dem Geparden, fixiert auf 112 km/h durch dichtes Dschungelunterholz, Kamerahöhe 40 cm, exakte Geschwindigkeitsanpassung, null vertikale Drift. Das Motiv legt sich in einer harten Linkskurve um 28 Grad um einen massiven Feigenstamm, die Wirbelsäule komprimiert sich und explodiert dann in die volle Streckung, alle vier Gliedmaßen in der Schwebephase, während das Licht der goldenen Stunde durch das Blätterdach auf das gefleckte Fell stroboskopartig einwirkt. Unmittelbare Rechtskurve um 32 Grad durch eine Lücke zwischen zwei Mahagonistämmen, der Körper neigt sich entgegengesetzt zur Kameraneigung, das Hintergrundlaub verschwimmt zu reiner Bewegungsunschärfe, während das Motiv gestochen scharf in der Bildmitte bleibt. Gerader Sprint durch einen Farnkorridor, dann aggressive Linksneigung um 25 Grad, um einen umgestürzten Baumstamm zu vermeiden, die Wirbelsäule flext bei jedem Schrittzyklus von maximaler Kompression bis zur Streckung. Rechtskurve um 30 Grad entlang einer natürlichen Pfadbiegung, warmes Seitenlicht betont die Muskeldefinition, lange Schatten ziehen sich bei hoher Geschwindigkeit über den Dschungelboden. Abschließendes Links-Ausweichen um 27 Grad zwischen Bambusgruppen, anhaltende Höchstgeschwindigkeit während der gesamten Sequenz, jede Richtungsänderung ist umgebungsbedingt, die Kamera bleibt parallel fixiert und weicht nie von der hinteren Verfolgungsposition ab.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/22f86aee46deabbf98f70a0f2cc785b6/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Cheetah Chase Cam">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=2305)**
+
+**Autor:** [Changning Liu](https://x.com/ChangningL29508) | **Quelle:** [Link](https://x.com/ChangningL29508/status/2038331787055878200) | **Veröffentlicht:** Mar 29, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 100 weitere Prompts hier nicht angezeigt
+### 🎯 99 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3115,6 +3138,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-04-03T13:25:18.286Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-04-03T17:00:09.756Z</sub>
 
 </div>
