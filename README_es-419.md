@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **1671** |
+| 📝 Total de prompts | **1719** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-04-09** |
 
@@ -339,7 +339,7 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 <div align="center">
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18e0c087ff65e7a375b46c7717f36923/thumbnails/thumbnail.jpg" width="700" alt="Prompt para secuencia cinemática de carreras callejeras">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3a7fb0a6d706b9f568479bb720ce1ad4/thumbnails/thumbnail.jpg" width="700" alt="Prompt para secuencia cinemática de carreras callejeras">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2530)**
 
@@ -361,6 +361,1137 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Man vs. Sea Monster in a Violent Storm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Seedance 2.0 prompt for generating a hyper-realistic, dramatic cinematic video of a lone man struggling in a small boat during a violent ocean storm, culminating in a sea monster attack.
+
+#### 📝 Prompt
+
+```
+A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide. It clamps its teeth onto the boat, splintering the wood, and violently drags it beneath the churning ocean as the man fights for his life. Dramatic lighting, cinematic camera angles, hyper-realistic, intense atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac78c2a52ca0593980b333dad213a594/thumbnails/thumbnail.jpg" width="600" alt="Man vs. Sea Monster in a Violent Storm">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3004)**
+
+**Autor:** [Heisenberg](https://x.com/rovvmut_) | **Fuente:** [Link](https://x.com/rovvmut_/status/2042123163325374788) | **Publicado:** Apr 9, 2026
+
+---
+### Prompt de coreografía de pelea de anime estilo Wing Chun
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para Seedance 2.0 que instruye al modelo a actuar como un coreógrafo de peleas de anime profesional con conocimientos de Wing Chun y wushu chino. Describe una pelea unilateral y desesperada entre dos personajes, Jinx y Knibbz, especificando los ataques de Jinx, el dominio de Knibbz, los movimientos de cámara (órbita de 360 grados, cortes rápidos) y los efectos visuales (ondas de choque, ráfagas de viento).
+
+#### 📝 Prompt
+
+```
+Actúa como un coreógrafo de peleas profesional de la industria del anime con un amplio conocimiento de Wing Chun y el estilo de combate wushu chino.
+
+Crea una escena de pelea dinámica y de ritmo rápido entre Jinx @Image4 y Knibbz @Image5. Jinx debe tener suciedad y rasguños ligeramente manchados en su rostro, como en @Image6, durante esta pelea. Sus pies se desplazan de un lado a otro mientras Jinx pierde terreno lentamente y Knibbz presiona hacia adelante. Esta es una pelea unilateral donde, a pesar de todo lo que intenta Jinx, no logra conectar un golpe limpio a Knibbz. Jinx intenta una serie de ataques al estilo Wing Chun (golpes rápidos, patadas giratorias rápidas a velocidad extrema, combos de golpes que terminan en una patada de mariposa, como ejemplos), pero todo es bloqueado o esquivado en el último momento por Knibbz.
+
+Los movimientos de cámara incluyen una órbita rápida de 360 grados, cortes rápidos (Jet cuts) a planos detalle (ECU) de momentos clave en los golpes y esquivas, y cortes abruptos a las expresiones faciales.
+
+Efectos de onda de choque por impacto, efectos de ráfaga de viento y efectos de ráfaga de aire solo en los ataques más pesados de Knibbz.
+
+Ambiente de pelea desesperada. Jinx es superado por Knibbz. No debes añadir diálogos adicionales. No debes añadir personajes adicionales. Usa la referencia de audio solo para saber cómo suena Knibbz. Todos los ataques de Jinx deben estar dirigidos hacia Knibbz.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1043fccb4a865bcc6b9813a6f268a4d/thumbnails/thumbnail.jpg" width="600" alt="Prompt de coreografía de pelea de anime estilo Wing Chun">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2969)**
+
+**Autor:** [Jason W - AI](https://x.com/PocketScreenAI) | **Fuente:** [Link](https://x.com/PocketScreenAI/status/2042026447993553046) | **Publicado:** Apr 8, 2026
+
+---
+### Cinematic supernatural duel: The Ink Monk vs the Paper Dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Seedance 2.0 prompt for a cinematic supernatural duel video featuring a silent monk in black robes fighting in an abandoned calligraphy hall during a torrential rain. The monk uses brushstroke sigils, flowing ink whips, and a lacquer-black staff in his fight.
+
+#### 📝 Prompt
+
+```
+The Ink Monk vs the Paper Dragon A cinematic supernatural duel. 
+
+A silent monk in soaked black robes stands in an abandoned calligraphy hall during torrential rain. He fights using brushstroke sigils, flowing ink whips, and a lacquer-black staff. His
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84fcb75c14f4263935ef044e46f23474/thumbnails/thumbnail.jpg" width="600" alt="Cinematic supernatural duel: The Ink Monk vs the Paper Dragon">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2984)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2042020365023474024) | **Publicado:** Apr 8, 2026
+
+---
+### Photorealistic Cinematic Action Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt designed for generating a photorealistic, cinematic video with continuous, high-energy kinetic action. The instructions specify a 16:9 aspect ratio, constant camera movement, short cuts (max 1.5 seconds), and the use of an anamorphic lens to achieve a $200M blockbuster aesthetic, starting with an extreme low-angle shot of a motorcycle wheel on wet asphalt.
+
+#### 📝 Prompt
+
+```
+Photorealistic cinematic 16:9. Non-stop kinetic action. Camera
+never stops moving. No cuts longer than 1.5 seconds. Shot like
+a $200M blockbuster. Anamorphic lens throughout.
+
+[0.0s] SMASH OPEN — extreme low angle, motorcycle wheel fills
+frame, wet asphalt inches away,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a5da2f0831ef6cc88163f5f394e5b60/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Cinematic Action Video Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2985)**
+
+**Autor:** [ρŁ𝐀𝔰Ｍʘ](https://x.com/plasm0) | **Fuente:** [Link](https://x.com/plasm0/status/2042015615645601842) | **Publicado:** Apr 8, 2026
+
+---
+### Prompt para cortometraje de acción de fantasía en miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para Seedance 2.0 que genera un cortometraje de acción de fantasía en miniatura. Describe a dos modelos de combate originales que despiertan en un estudio y se enfrentan en una batalla épica, enfatizando la fotografía macro, los efectos de iluminación y restricciones negativas específicas para garantizar la originalidad.
+
+#### 📝 Prompt
+
+```
+Cortometraje original de acción de fantasía en miniatura: En un estudio a altas horas de la noche, dos modelos de combate originales en el gabinete de colección despiertan repentinamente bajo la luz de la luna. Inician una batalla épica entre el estrecho escritorio y los adornos. La cámara adopta una fotografía cinematográfica macro para resaltar el enorme contraste de escala. La luz entra sesgada desde fuera de la ventana, con partículas de polvo claramente visibles. La colisión de armas pequeñas genera chispas de fuego, haciendo que la imagen sea a la vez absurda y espectacular, con un ritmo compacto y llena de sorpresas. Restricciones negativas: No incluir marcas de juguetes existentes, no incluir IP de robots conocidos, no incluir elementos de marcas de bloques de construcción, no incluir formas militares con derechos de autor, no incluir rostros de actores.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a5cc6e20e2610734a426acad07ee2e2b/thumbnails/thumbnail.jpg" width="600" alt="Prompt para cortometraje de acción de fantasía en miniatura">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2966)**
+
+**Autor:** [TopviewAI](https://x.com/TopviewAIhq) | **Fuente:** [Link](https://x.com/TopviewAIhq/status/2042011857616052382) | **Publicado:** Apr 8, 2026
+
+---
+### São Paulo Parkour at Sunset Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt describing a vertical city parkour scene in São Paulo at sunset, featuring a teenage girl running across favela rooftops with specific clothing and atmospheric details.
+
+#### 📝 Prompt
+
+```
+VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, black curly hair flying free, wearing faded yellow shorts and a white tank top with scuffed trainers, runs full speed across the rooftops of São Paulo's dense favela skyline as the sun sets blood orange
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7926ea672a4a52c133e53120af1e9ee/thumbnails/thumbnail.jpg" width="600" alt="São Paulo Parkour at Sunset Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2979)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fuente:** [Link](https://x.com/sebatheepan/status/2042008797594493126) | **Publicado:** Apr 8, 2026
+
+---
+### Pixar-Style Builder Queue Prompt (0-5s)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A time-coded prompt (0-5 seconds) for a Pixar-style 3D animation set on a muddy British building site. The scene shows a queue of burly builders in hi-vis vests and muddy boots waiting nervously, with a battered, ancient wizard hat sitting on an object.
+
+#### 📝 Prompt
+
+```
+[00:00–00:05] Pixar-style 3D animation. A muddy British building site with scaffolding, half-built brick walls, and a cement mixer. A queue of burly builders in hi-vis vests and muddy steel-toe boots wait nervously. A battered, ancient, moth-eaten pointed wizard hat sits on an
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7527a7e721e829ace03db0abd2013b66/thumbnails/thumbnail.jpg" width="600" alt="Pixar-Style Builder Queue Prompt (0-5s)">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2991)**
+
+**Autor:** [Michael](https://x.com/real_michal) | **Fuente:** [Link](https://x.com/real_michal/status/2041980436344127578) | **Publicado:** Apr 8, 2026
+
+---
+### Pixar-style 3D animation of iridescent fabric on a marble pedestal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a short, continuous 3D animated video in the Pixar style, focusing on a shimmering, iridescent fabric resting on a white marble pedestal in a minimalist setting, captured with a slow orbiting camera shot.
+
+#### 📝 Prompt
+
+```
+[00:00–00:05] Pixar-style 3D animation. A shimmering translucent fabric with a subtle iridescent weave rests perfectly folded on a clean white marble pedestal in a minimalist showroom — white walls, soft directional lighting, nothing else. Slow orbit shot circling the pedestal.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61f0008d6aef697ac3770e3499abf452/thumbnails/thumbnail.jpg" width="600" alt="Pixar-style 3D animation of iridescent fabric on a marble pedestal">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2980)**
+
+**Autor:** [Michael](https://x.com/real_michal) | **Fuente:** [Link](https://x.com/real_michal/status/2041976556717826114) | **Publicado:** Apr 8, 2026
+
+---
+### Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed text-to-video prompt for Seedance 2.0, aiming to generate a cinematic scene of a 1920s Harlem barbershop. The prompt specifies a black-and-white/sepia tone for the entire scene, with the exception of the vibrant, spinning barber pole, which is the only element in full color, creating a dramatic visual contrast.
+
+#### 📝 Prompt
+
+```
+Classic 1920s Harlem barbershop interior scene in full black-and-white / sepia tone except for the vibrant spinning barber pole (bright red, white, and blue stripes with glowing motion blur) which is the ONLY thing in full color. At least three dapper barbers in vintage aprons and white shirts actively cutting hair with scissors and clippers, chatting and laughing animatedly with customers in the classic leather chairs, mirrors reflecting the busy shop, vintage posters and tools on the walls, warm wooden floors, soft natural window light, highly detailed cinematic AI art, elegant semi-transparent calligraphy watermark "BicRevelation" in the lower-left corner at golden-ratio offset 0.04 from left and 0.03 from bottom, height exactly 0.02 of image height, semi-transparent and unobtrusive.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e77cfde8c5ce256af791c4f037443d73/thumbnails/thumbnail.jpg" width="600" alt="Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2989)**
+
+**Autor:** [𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷](https://x.com/Bic_Revelation) | **Fuente:** [Link](https://x.com/Bic_Revelation/status/2041968501578199354) | **Publicado:** Apr 8, 2026
+
+---
+### Giantess Anime Climbing Scene Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a 2D anime-style video. The scene features a tiny man climbing the leg of a giantess wearing fishnet stockings, utilizing dynamic low-angle camera work to emphasize the massive scale contrast.
+
+#### 📝 Prompt
+
+```
+High-quality anime style, 2D animation. Warm, cinematic lighting with sunlight filtering through blinds. A tiny man wearing a green hoodie and blue jeans runs across a wooden floor toward a giantess. He climbs up her massive foot and leg, which are covered in black fishnet stockings, using the fishnet holes to climb. Dynamic low-angle camera following his ascent, emphasizing the colossal scale of the giantess. He climbs past her black pleated skirt and white collared shirt, scaling up her dark blue ribbed sweater. The camera pans up to reveal the giantess looking down at him. She has long brown hair, a flower hair clip, and large brown eyes. She wears a highly surprised, wide-eyed expression with a slight blush. Background is a softly blurred bedroom with a music keyboard.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac071a96ccd5827c82205794c48c7ca/thumbnails/thumbnail.jpg" width="600" alt="Giantess Anime Climbing Scene Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2986)**
+
+**Autor:** [el.cine](https://x.com/EHuanglu) | **Fuente:** [Link](https://x.com/EHuanglu/status/2041963901559173545) | **Publicado:** Apr 8, 2026
+
+---
+### Cortometraje cómico del estornudo del camaleón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado de 12 segundos para Seedance 2.0 para una animación de toma dolly continua, centrado en un pequeño camaleón de ojos saltones que experimenta un pánico creciente y un estornudo masivo debido a una mariposa que aterriza en su nariz. El prompt especifica el formato (12s, toma dolly continua, animación 3D, squash and stretch extremo), el entorno, el estado de ánimo y una línea de tiempo (0:00–0:03, 0:03–0:07, etc.) que detalla la secuencia cómica del camaleón perdiendo su camuflaje e inflándose antes del estornudo final.
+
+#### 📝 Prompt
+
+```
+FORMATO: 12s / 1 toma dolly continua / Animación 3D vibrante / Squash and stretch extremo. SUJETOS: Un pequeño camaleón de ojos saltones. Una mariposa amarilla y esponjosa cubierta de polen. 
+ENTORNO: Una rama de selva tropical exuberante y altamente detallada. Luz solar cálida filtrándose a través de las hojas verdes. ESTADO DE ÁNIMO: Pánico creciente, comedia muda, física de dibujos animados. 
+LÍNEA DE TIEMPO: 0:00–0:03: Primer plano. El camaleón es perfectamente verde, camuflado contra una hoja grande. Una mariposa amarilla y esponjosa desciende flotando y aterriza directamente en la punta de la nariz del camaleón. 
+
+0:03–0:07: Los ojos del camaleón se cruzan para mirar a la mariposa. Inhala profundamente, tratando de contener un estornudo masivo. El pánico se apodera de él. El camaleón pierde el control de su camuflaje: su piel cambia rápidamente de color, de verde a rosa neón, y luego a rayas de cebra en blanco y negro. 
+
+0:07–0:10: La presión interna aumenta. El cuerpo del camaleón se infla como un globo de goma redondo, sus mejillas se hinchan masivamente. La mariposa permanece perfectamente quieta en su nariz. 
+
+0:10–0:12: ¡El estornudo! Una ráfaga de aire potente y repentina. La fuerza del estornudo lanza al camaleón completamente redondo hacia atrás fuera de la rama como un cohete, dejando a la mariposa girando en el aire en una nube de polen amarillo brillante.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a24cc027640e1f555051be518911ccd3/thumbnails/thumbnail.jpg" width="600" alt="Cortometraje cómico del estornudo del camaleón">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2974)**
+
+**Autor:** [Kiber Alla](https://x.com/Kiber_Alla) | **Fuente:** [Link](https://x.com/Kiber_Alla/status/2041948763217129641) | **Publicado:** Apr 8, 2026
+
+---
+### Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The first part of a multi-part prompt for a 15-second cinematic video. It sets the scene in a luxurious, warm-lit marble bathroom, focusing on a woman in a foam-filled bathtub, starting with a slow side-profile close-up.
+
+#### 📝 Prompt
+
+```
+Cinematic 15-second visual set in a luxurious marble bathroom with warm golden ambient lighting reflecting softly across water and glass. A woman reclines in a foam-filled bathtub, calm and composed. The camera begins with a slow side-profile close-up as she gently looks away.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174b891d7d5a2981080b8e1b09f65085/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2994)**
+
+**Autor:** [MMENDIE](https://x.com/mmendie__) | **Fuente:** [Link](https://x.com/mmendie__/status/2041948351558537608) | **Publicado:** Apr 8, 2026
+
+---
+### Cinematic Nu-Metal Nightmare Style Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt defining a specific visual style for video generation, characterized by high-contrast chiaroscuro lighting, a desaturated cool-toned palette with crimson backlight, high-grain 35mm film emulation, and pronounced lens flares.
+
+#### 📝 Prompt
+
+```
+{   "style_name": "Cinematic Nu-Metal Nightmare",   "art_direction": "High-contrast chiaroscuro lighting on a desaturated, cool-toned palette, punctuated by a menacing, pulsing crimson backlight.
+ High-grain 35mm film emulation with pronounced anamorphic lens flares and halation
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/368fd3b3bac98a0e2944f98a8e4238f8/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Nu-Metal Nightmare Style Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2992)**
+
+**Autor:** [Ainario](https://x.com/ainarioapp) | **Fuente:** [Link](https://x.com/ainarioapp/status/2041946886962344347) | **Publicado:** Apr 8, 2026
+
+---
+### Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A prompt for Seedance 2.0 demonstrating a seamless outfit change effect using a rotating fan blade to momentarily obscure the subject, allowing for an instant, smooth transformation between four different outfits.
+
+#### 📝 Prompt
+
+```
+Image 1 serves as the starting frame. Only half of a brown wooden fan blade is in the extreme foreground, diagonally cutting the screen from bottom left to top right, slightly blurred. The fan blade rotates slowly and continuously throughout. Timeline: 0-2 seconds: The woman is lying down, relaxed and smiling, breathing lightly, hands resting gently on her chest, wearing the clothes from the reference image. 2-4 seconds: The fan blade completely sweeps across and thoroughly obscures her, then instantly reveals a new outfit—a loose hoodie and sweatpants. 4-6 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a classic white shirt and casual long pants. 6-8 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a comfortable long-sleeved cotton pajama set. 8-10 seconds: The fan blade continues to rotate slowly, and the woman is lying down, relaxed and smiling in the final outfit, with slight natural movements. The seamless transformation and outfit change only occur instantly when the fan blade completely obscures her. Realistic style, cinematic bedroom lighting, rich fabric details, consistent facial features and hair, 24fps smooth motion.
+```
+
+<img src="https://cms-assets.youmind.com/media/1775716268943_a1bdul_HFZjolXbUAAYeij.jpg" width="600" alt="Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2999)**
+
+**Autor:** [神奇小喷菇AIGC](https://x.com/xpg0970) | **Fuente:** [Link](https://x.com/xpg0970/status/2041929120322568623) | **Publicado:** Apr 8, 2026
+
+---
+### 1980s fantasy film scene of a knight fighting a lake monster
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a video scene in the style of a 1980s live-action fantasy film, shot on Arri with Zeiss 35mm lenses, depicting a knight wading through a lake to fight a massive lake monster while villagers watch in the background under a gray, overcast, foggy sky. The scene cuts to a close-up on the knight's determined face.
+
+#### 📝 Prompt
+
+```
+1980s live-action fantasy film, shot on arri with zeiss 35mm lenses. A knight is wading through a lake, facing off with a massive lake monster, as villagers look in the background. It's a gray, overcast day. Fog in the air. Cut to: close on the knight's determined face as
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88504ba3e2f49a46ef393e1960f77121/thumbnails/thumbnail.jpg" width="600" alt="1980s fantasy film scene of a knight fighting a lake monster">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2983)**
+
+**Autor:** [Dr. Dreams](https://x.com/DrDreamsMusic) | **Fuente:** [Link](https://x.com/DrDreamsMusic/status/2041923672307585193) | **Publicado:** Apr 8, 2026
+
+---
+### Girl and Cat Transformation Video Prompt (Seedance 2.0)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed, multi-scene prompt for Seedance 2.0 to generate a video sequence featuring a girl transforming from a dark, melancholic look to an ethereal, snow-white haired goddess, incorporating elements of traditional Chinese/Japanese attire and a white cat.
+
+#### 📝 Prompt
+
+```
+Girl Character: Subject Core: delicate East Asian female character. Appearance Style: ethereal dreamy illustration/manga style. Facial Features: Skin: pearl-like porcelain skin, soft pink blush. Eyes: bright, clear cerulean blue eyes. Expression: gentle, clear, fragile/melancholic expression. Lips: delicate, slightly parted lips. Accessories: delicate pearl earrings. Appearance Details: Hair: Color: snow-white hair. Texture: ultra-long, voluminous, wavy, sea-tangled texture. Attire: Type: traditional Japanese kimono/Hanfu style attire. Color: peach-orange and white patterned silk. Texture: intricate floral patterns. Accessories: floral garlands of pink and white blossoms wrapped around the neck and hair. Key Props: Umbrella: Type: purple oil paper umbrella/wagasa. Details: detailed spokes visible, lilac and lavender hues on the umbrella canopy. Environment & Atmosphere: Petal Details: drifting pink and white cherry blossom petals/cherry blossoms. Background Tone: soft pastel macaron background, lavender, pink gradients. Lighting Effect: soft, ethereal, diffused light, high bloom. Overall Style: dreamy, healing, watercolor and oil painting texture, detailed vector illustration, delicate linework. Atmosphere: serene, mystical, healing, gentle. [Heterochromia in the Umbrella] (Focus: The thrilling and beautiful reversal of spatial folding) 00:00-00:03 (Visual Impact): A dark, rainy alley. A girl in a black hoodie opens a plain black umbrella. Suddenly, a strange purple light illuminates the inside of the umbrella canopy, and a giant, glowing white cat's paw reaches out from “inside” the umbrella and presses onto the girl's forehead! 00:03-00:07 (High-Energy Transformation): The screen instantly flashes white! The black umbrella shatters into fragments of purple oil paper umbrella flying everywhere. The girl's black hair instantly fades into sea-tangled snow-white long hair, and the hoodie transforms into a stunning peach-orange Hanfu. 00:07-00:15 (Healing Freeze Frame): The light fades, and the girl is placed in a pink and purple sea of flowers illusion. The white cat (normal size) lightly lands on her shoulder, sweeping its fluffy tail across her clear cerulean blue eyes, and the girl reveals a gentle smile.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f79800a171f4ab4bc315dc1703c3ca2c/thumbnails/thumbnail.jpg" width="600" alt="Girl and Cat Transformation Video Prompt (Seedance 2.0)">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2998)**
+
+**Autor:** [宇宙知识库分享](https://x.com/Cosmoslucy13) | **Fuente:** [Link](https://x.com/Cosmoslucy13/status/2041908111381082463) | **Publicado:** Apr 8, 2026
+
+---
+### Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed, multi-scene prompt for Seedance 2.0 to generate a dramatic ancient Chinese romance video sequence titled 'Spring Imprisonment,' specifying cinematic style, lighting, character details (using reference images), and a four-part script with dialogue and camera movements.
+
+#### 📝 Prompt
+
+```
+Image Quality Style: Cinematic, 4K ultra-clear, extremely smooth CG.
+Lighting Atmosphere: Soft, dreamy spring morning light, Tyndall effect, highlights with slight bloom.
+Environmental Elements: Ancient style window side, outside the window is full of blooming flowers, pink petals gently swirl into the room with the wind.
+Character Settings:
+Female Lead [@Image 1]: Maiden makeup, charming and lively. Wearing a pink light gauze dress, tassel headwear sways.
+Male Lead [@Image 2]: Cold and clean white clothes. Handsome face but deep eyes, with a strong sense of aggression.
+
+Storyboard Script
+Scene 1: Dreamy Spring Light · Astonishment
+The camera pans from the spring scenery outside the window to the interior. The female lead sits by the window sill, her pink gauze dress spread out, and the tassel headwear subtly shakes with her movements.
+The male lead bends over from behind, his arms forming an enclosure, wrapping the female lead in front of his chest.
+
+“Madam?” The female lead's eyes are flustered, her pupils tremble slightly, her lips stammer, her face full of disbelief: “But… didn't we agree this was just acting? You… you broke your promise!”
+Camera: Medium close-up, side composition, emphasizing the compressed space between the two.
+Lighting: Backlight outlines the figures with a golden edge, petals pass between the two.
+
+Scene 2: Whispering in the Ear · Trembling
+The male lead buries his head in the female lead's neck, leaning close to her ear. A close-up shot captures the slight tremor of his chest from a low laugh.
+The scorching breath makes the female lead's fair earlobe quickly turn red, and her body trembles slightly due to tension.
+The male lead's lips curl into a determined arc, his eyes deep as ink.
+Camera Language: Extreme close-up (ear, neck), emphasizing the tension of sensory contact.
+
+Scene 3: Cage Declaration · Entering the Game
+The male lead slightly turns his head, his lips almost touching the female lead's, his voice low and dangerous: “Acting? Madam, my acting is very good… good enough to act for a lifetime.”
+The female lead's face turns from pink to white, her gaze shifting from panic to complete stiffness, as if seeing an invisible, luxurious cage tightening.
+The male lead looks directly into the female lead's eyes, dark mist heavy in his gaze, conveying a sense of “absolute control” oppression.
+
+Camera: Close-up of the two faces in confrontation, focus switching between the male lead's ambitious eyes and the female lead's pale lips.
+
+Scene 4: Affectionate Confinement · Finale
+The male lead vows word by word: “You will never escape in this life.”
+As the words fall, he cups the back of the female lead's head and kisses her forcefully and deeply.
+The wind picks up outside the window, large petals swirl into the room, dancing around the couple. The dreamy spring light conceals the suffocating possessiveness.
+Camera: The camera slowly pulls back, transitioning from a close-up to a full shot, freezing on the silhouette of the embrace surrounded by blooming flowers.
+
+Sound Effects
+Environmental Sound: Slight bird chirping outside the window, rustling of leaves in the wind.
+Human Voice: The male lead's magnetic, hoarse low laugh, grainy whispering near the ear.
+BGM: Early stage is soft, ethereal piano, later transitions to oppressive, gradually escalating orchestral music.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cafd6a375342b6622b8eb3912d78766d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2997)**
+
+**Autor:** [李岳](https://x.com/liyue_ai) | **Fuente:** [Link](https://x.com/liyue_ai/status/2041898660368413032) | **Publicado:** Apr 8, 2026
+
+---
+### Seamless Transformation Video: Modern Office to 1920s Gangster Film
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed Seedance 2.0 video prompt for generating a seamless transformation short video, switching from a modern indoor scene to a retro 1920s gangster film world, emphasizing cinematic quality, dramatic contrast, and character presence. The prompt includes a detailed two-part script with camera movements, character descriptions, and scene settings.
+
+#### 📝 Prompt
+
+```
+A seamless transformation short video, switching from a modern daily indoor scene to a retro 1920s gangster film world with extreme contrast. The total duration is 7 seconds, combining the impact of vertical fashion transformation with a cinematic aspect ratio, resulting in extremely refined visuals and quality comparable to high-end theatrical films. Part 1 (0:00-0:02): Fixed camera, subjective frontal perspective. The frame is completely blocked by the broad backs of two men wearing black casual clothes, black baseball caps, and black masks, standing close to the lens. They suddenly step apart to the left and right, like drawing a curtain, revealing a young Asian woman in the center. The indoor lighting is bright, clean, and uniform, with a gray-white marble textured wall behind her and a black storage cabinet below. She has bright reddish-brown long curly hair, wears thick black-rimmed glasses, and a light-colored floral long-sleeved shirt, with a cold and dominant expression. She raises her right hand, pointing directly at the camera with a sharp, powerful gesture, her lips slightly pursed, radiating a commanding presence, as if declaring: those who oppose us, beware. Part 2 (0:02-0:07): The moment her fingertip points at the camera, a hard cut achieves a seamless transformation. The scene instantly switches to a foggy, retro late-night alley, full of 'Peaky Blinders'-style cinematic atmosphere. Thick fog envelops the entire space, and distant warm amber streetlights form a highly oppressive backlight, outlining the figures with dramatic rim lighting. The overall image shifts to a low, gloomy dark tone, paired with delicate film grain, showcasing the quality of an epic gangster film. The red-haired woman has transformed: she has removed her glasses, wears a gray newsboy cap, a white shirt, black tie, and gray patterned vest, paired with a fitted pencil skirt, and a dark charcoal gray long wool coat draped dramatically over her shoulders, with black leather gloves on her hands. She lightly adjusts her cap, her eyes arrogant and cold, making her unapproachable. The two men beside her also transform simultaneously, removing their masks to reveal cold, handsome faces, dressed in retro gangster attire: newsboy caps, shirts, ties, and heavy long wool coats. The camera smoothly transitions to a pull-back follow shot, as the three walk slowly in a neat formation through the thick fog, their presence intimidating, fully displaying the swagger and authority of gangster bosses. The film-level contrast, stunning reveal, seamless transformation, realistic and natural fabric dynamics, and powerful character presence all highlight the style of a high-end period crime film.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95e836a50e76dacaf313f180de0c6e1e/thumbnails/thumbnail.jpg" width="600" alt="Seamless Transformation Video: Modern Office to 1920s Gangster Film">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3002)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041895750125199797) | **Publicado:** Apr 8, 2026
+
+---
+### POV de moto de cross prehistórica: Corriendo contra dinosaurios
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado de múltiples tomas para Seedance 2.0, diseñado para generar un video en primera persona de un motociclista de cross corriendo a través de un cañón prehistórico mientras es acechado por dinosaurios. El prompt especifica el estilo visual, detalles de los personajes, el escenario, el arco emocional, la lógica de color y una línea de tiempo precisa con efectos de sonido para una secuencia cinemática de alta adrenalina.
+
+#### 📝 Prompt
+
+```
+ESTILO VISUAL: Utiliza realismo de largometraje de acción real con la nitidez de una cámara de acción y una neblina atmosférica prehistórica. Ligero desenfoque de movimiento por vibración, micro-temblores por el esfuerzo de la suspensión.
+
+PERSONAJES: Define un POV estricto con manos enguantadas cubiertas de lodo agarrando el manillar de una moto de cross. La mano derecha acelera agresivamente con un acelerador atascado, la mano izquierda accionando una palanca de embrague suelta. Botas bloqueadas en los estribos vibrantes. Múltiples depredadores prehistóricos masivos cruzando y reaccionando al camino.
+
+ESCENARIO: Un vasto cañón prehistórico que desciende hacia un denso dosel de helechos, un estrecho corredor fluvial y un claro de lodo removido bajo una intensa neblina de luz diurna.
+
+OBJETIVO EMOCIONAL: Escalar desde el control de adrenalina → falla mecánica → pánico irreversible de ser cazado.
+
+LÓGICA DE COLOR: Emulación de película naturalista con difusión de polvo y luces altas bañadas por el sol.
+
+⏱️ LÍNEA DE TIEMPO
+
+00:00.0
+Apertura en un POV directo en el borde del cañón. Lente de acción ultra gran angular de 14 mm. El motor ya suena demasiado alto: el acelerador está parcialmente atascado. La moto se lanza hacia adelante violentamente sin control total. Las manos luchan con el manillar mientras la rueda delantera cae por el borde hacia un descenso pronunciado.
+ SFX: Motor sobre-revolucionado, traqueteo de cadena, grava salpicando, ráfaga de viento.
+00:03.2
+Mantener POV ininterrumpido. Atravesar brechas densas entre las copas de los árboles y terreno irregular. Un herbívoro masivo de cuello largo cruza por delante: el piloto sacude el manillar, esquivando por poco su cuello oscilante. El acelerador aumenta de forma impredecible a mitad de la curva.
+ SFX: Aumento repentino del motor, bramido animal profundo, ramas rompiéndose.
+00:06.5
+Sumergirse en un estrecho corredor fluvial. La roca mojada y el lodo reducen la tracción: el neumático trasero derrapa violentamente. Una bandada de pterosaurios irrumpe en el camino. El piloto acciona el embrague desesperadamente para recuperar el control, pero las revoluciones aumentan de nuevo.
+ SFX: Neumático resbalando, salpicaduras de agua, aleteos frenéticos, grito del motor.
+
+00:09.8
+Salir disparado de la curva del río hacia lodo espeso. El acelerador se queda atascado completamente abierto. El piloto intenta frenar: la respuesta es débil. La velocidad se vuelve incontrolable. La moto rebota con fuerza, la suspensión golpea.
+ SFX: Motor al máximo, chirrido de frenos desvaneciéndose, lodo desgarrándose bajo el neumático.
+00:12.4
+Perder estabilidad: caída parcial. La moto derrapa de lado, la cámara se inclina violentamente pero permanece en POV. Las botas golpean el lodo, las manos siguen agarradas mientras el impulso arrastra hacia adelante.
+00:13.6
+A nivel del suelo, dar dos pasos tambaleantes hacia adelante tras soltarse. Respiración agitada. Mirar hacia arriba—
+
+Un Spinosaurus que carga irrumpe a través de la niebla del río, con las fauces abiertas, cerrando la distancia instantáneamente hasta que los dientes llenan el encuadre.
+SFX: Impactos que sacuden el suelo, rugido gutural, mandíbulas chasqueando, corte abrupto.
+🚫 EXCLUIR
+
+Evitar cortes en tercera persona, conducción limpia/estable, control perfecto, terreno que se teletransporta, criaturas congeladas, estética de moto moderna y pulida, recuperación imposible de derrapes, comportamiento de suspensión poco realista.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4c5966b25996600ab3f86eb7d40f0c4/thumbnails/thumbnail.jpg" width="600" alt="POV de moto de cross prehistórica: Corriendo contra dinosaurios">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2968)**
+
+**Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Fuente:** [Link](https://x.com/ai_gezgini/status/2041891151481811249) | **Publicado:** Apr 8, 2026
+
+---
+### Transformación VFX cinematográfica de un guerrero
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado de 15 segundos para Seedance 2.0 diseñado para generar una secuencia de transformación cinematográfica dramática de un guerrero en una arena de templo antiguo. El prompt utiliza marcadores de tiempo (0–2s, 2–4s, etc.) para definir movimientos de cámara específicos (estático, push-in, orbital, whip-pan, seguimiento) y efectos visuales (runas brillantes, materialización de armadura, ráfagas de energía) que culminan en una poderosa toma de héroe.
+
+#### 📝 Prompt
+
+```
+VFX de transformación cinematográfica dramática de 15 segundos, arena de templo antiguo bajo una tormenta de energía cósmica, armadura hiperdetallada transformándose con partículas brillantes y destellos de lente, 8K, iluminación de contorno potente y ráfagas de energía. 
+0–2s: Toma estática amplia, guerrero solitario con túnicas andrajosas arrodillado en el centro de un círculo de runas brillantes. 
+2–4s: Push-in en ángulo bajo, las runas antiguas se encienden intensamente en el suelo mientras un viento feroz levanta polvo. 
+4–6s: Primer plano medio, los ojos del guerrero se abren de golpe, energía dorada se extiende dramáticamente por su piel. 
+6–8s: Toma orbital de 360°, piezas de armadura se materializan a partir de partículas de luz giratorias, la ropa vieja se desintegra. 
+8–10s: Whip-pan en cámara lenta, la armadura completa se ensambla con fuertes sonidos metálicos y descargas de energía brillantes. 
+10–12s: Primer plano extremo del casco formándose, el visor brilla intensamente con poder puro. 
+12–14s: Seguimiento dinámico mientras el guerrero se levanta, un aura de energía explota hacia afuera alejando densas nubes de polvo. 
+14–15s: Toma de héroe en ángulo bajo con retroceso aéreo, el guerrero acorazado levanta una espada brillante en una poderosa pose final.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4065308f8a162942a1867c2cfd7aacc/thumbnails/thumbnail.jpg" width="600" alt="Transformación VFX cinematográfica de un guerrero">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2973)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fuente:** [Link](https://x.com/sebatheepan/status/2041888784610959516) | **Publicado:** Apr 8, 2026
+
+---
+### Prompt de batalla cinematográfica para agente femenina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente estructurado y con código de tiempo para Seedance 2.0 que detalla una secuencia de acción de alta tensión protagonizada por una agente altamente capacitada en un banco de lujo, inspirada en el estilo gun-fu de John Wick. Especifica rasgos de los personajes, progresión de la escena, movimientos de cámara y el ambiente general.
+
+#### 📝 Prompt
+
+```
+Personaje
+Una agente altamente capacitada con un elegante traje táctico negro, tranquila, concentrada, respiración controlada, ojos agudos que escanean constantemente.
+Dos pistolas en mano, precisa y eficiente.
+
+0-3s
+La cámara comienza dentro de un banco de lujo.
+Avance lento a través de un enfrentamiento tenso: guardias de seguridad apuntando, civiles congelados.
+Ella está en el centro, perfectamente inmóvil.
+
+3-5s
+Sin previo aviso, todo explota en movimiento.
+Ella da un paso adelante. Disparos rápidos y precisos; cada movimiento es mínimo, controlado, sin desperdiciar energía.
+
+5-7s
+La cámara se fija cerca de ella, orbitando mientras se mueve entre los guardias.
+Utiliza el entorno (columnas, escritorios), movimiento fluido, sin detenerse nunca.
+
+7-9s
+Transición a través de reflejos en el cristal.
+Ella se desliza por el suelo pulido, disparando en pleno movimiento, las balas impactan en las superficies a su alrededor.
+
+9-11s
+Secuencia en pasillo estrecho.
+Combate a corta distancia, reacciones ultrarrápidas, microgiros de cabeza, apuntado instantáneo.
+
+11-13s
+Gran avance hacia el vestíbulo principal.
+La cámara se abre a un plano general: caos por todas partes.
+Ella se mueve a través de él como si estuviera en cámara lenta.
+
+13-15s
+Momento final.
+Ella sale a través de puertas de cristal destrozadas hacia la luz del día.
+No mira atrás.
+Detrás de ella, impactos retardados, todo colapsa.
+La cámara se congela mientras ella se aleja.
+
+Toma de seguimiento continua, proximidad cercana + órbita dinámica + transiciones rápidas enmascaradas por el movimiento
+Interior de banco de lujo, mármol, cristal, reflejos, contraste de luz diurna
+Ultrarrealista, acción de atraco al estilo Hollywood, gun-fu de John Wick, coreografía precisa, alta tensión, movimiento fluido, iluminación cinematográfica, sin distorsión, sin estiramientos
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f75ea331091a4098532e49a7bc1500d/thumbnails/thumbnail.jpg" width="600" alt="Prompt de batalla cinematográfica para agente femenina">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2965)**
+
+**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fuente:** [Link](https://x.com/CharaspowerAI/status/2041886328048980463) | **Publicado:** Apr 8, 2026
+
+---
+### Efecto de cámara cinematográfica con fotograma congelado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para Seedance 2.0 que permite crear un video de toma continua a partir de una imagen inicial, utilizando un efecto de fotograma congelado donde la cámara se desplaza dramáticamente a través de la escena completamente inmovilizada.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen como fotograma inicial para una toma única y continua en tiempo congelado. La cámara se desplaza dramáticamente a través de la escena completamente inmovilizada.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77e9a1638dec39357ef769ed8ac917a5/thumbnails/thumbnail.jpg" width="600" alt="Efecto de cámara cinematográfica con fotograma congelado">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2962)**
+
+**Autor:** [Jerrod Lew](https://x.com/jerrod_lew) | **Fuente:** [Link](https://x.com/jerrod_lew/status/2041880717798351156) | **Publicado:** Apr 8, 2026
+
+---
+### Persecución de drones FPV en una ciudad apocalíptica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video de alta intensidad para Seedance 2.0, centrado en una toma dinámica de dron FPV persiguiendo a dos autos de carreras a través de una ciudad en ruinas y apocalíptica. El prompt detalla la acción de carrera agresiva, el movimiento de cámara (balanceo, descenso, ascenso), elementos ambientales (polvo, edificios destruidos, drones de vigilancia) y cualidades cinematográficas específicas como la iluminación, la paleta de colores y el desenfoque de movimiento.
+
+#### 📝 Prompt
+
+```
+Cámara de dron FPV persiguiendo a un grupo de 2 autos de carreras que van a toda velocidad por un camino estrecho y lleno de curvas en una ciudad apocalíptica en ruinas. Los autos compiten y se persiguen agresivamente, derrapando en curvas cerradas, rebasándose, chocando levemente y luchando por la posición. La cámara FPV vuela bajo detrás de ellos, balanceándose de izquierda a derecha, descendiendo y ascendiendo con la inclinación del camino. Nubes de polvo explotan bajo los neumáticos. Edificios destruidos, drones de vigilancia volando que emiten ondas de escaneo y rayos de luz que atraviesan el aire polvoriento. Paleta de colores minimalista, iluminación cinematográfica, entorno hiperdetallado, ultrarrealista, desenfoque de movimiento a alta velocidad, energía de carrera intensa y caótica.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/04a5c5bd954a66b88edaee06042000c2/thumbnails/thumbnail.jpg" width="600" alt="Persecución de drones FPV en una ciudad apocalíptica">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2970)**
+
+**Autor:** [Zara](https://x.com/ZaraIrahh) | **Fuente:** [Link](https://x.com/ZaraIrahh/status/2041874582630445151) | **Publicado:** Apr 8, 2026
+
+---
+### Fluffy Cat Watchmaker Scene Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed, multi-stage prompt for Seedance 2.0 to generate a 15-second ultra-realistic macro video of a fluffy cat meticulously acting as a watchmaker in a workshop, focusing on concentration, tools, and a customer interaction.
+
+#### 📝 Prompt
+
+```
+Create a 15-second ultra-realistic workshop scene with a fluffy cat acting like a meticulous watchmaker. The cat sits upright at a wooden workbench under a bright lamp, wearing tiny round glasses and a miniature work apron, surrounded by gears, watch parts, tools, and magnifying lenses. 0–5s: the cat carefully holds a small watch with both paws, inspecting delicate mechanisms while dust particles float in warm light. 5–10s: extreme close-up as the cat uses a tiny precision tool to adjust the watch internals, blinking slowly with deep concentration, metal parts glinting in the lamp light. 10–15s: a customer receives the repaired watch from the cat, smiles with gratitude, and places payment on the desk while the cat gives a proud professional nod. Ultra-detailed macro realism, polished metals, realistic cat motion, quiet workshop ambience, no text, no logos.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab27483d7b8530f98823ef467c608fe7/thumbnails/thumbnail.jpg" width="600" alt="Fluffy Cat Watchmaker Scene Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2976)**
+
+**Autor:** [Ertan Dönmez | Ai Master](https://x.com/ertanlabs) | **Fuente:** [Link](https://x.com/ertanlabs/status/2041873283939725694) | **Publicado:** Apr 8, 2026
+
+---
+### Kids TV Studio Pig Man Host Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing a bright, colorful kids' TV studio scene featuring a 'pig man' host in a black robe and scarf, leading a silly dance alongside a 'monkey man' in a red costume.
+
+#### 📝 Prompt
+
+```
+Bright colourful kids TV studio, funny playful energy, the pig man host stands centre stage in a cheerful children’s show set, wearing his black robe and scarf, big pig ears, smiling as he leads a silly dance. Beside him, a monkey man in a bright red costume plays
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfc2f1c6e32e41f7d7879c13309cadfb/thumbnails/thumbnail.jpg" width="600" alt="Kids TV Studio Pig Man Host Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2978)**
+
+**Autor:** [Captain HaHaa](https://x.com/CaptainHaHaa) | **Fuente:** [Link](https://x.com/CaptainHaHaa/status/2041870969481130353) | **Publicado:** Apr 8, 2026
+
+---
+### Wide shot of an astronaut skiing on a lunar plain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a wide shot video of a lone astronaut in an orange pressure suit skiing across a vast, dusty lunar plain, leaving parallel tracks in the regolith.
+
+#### 📝 Prompt
+
+```
+Wide shot. A lone astronaut in a dusty orange pressure suit with dark blue-gray harness straps and black boots skis across a vast lunar plain, leaving two long parallel tracks in the gray regolith behind. The astronaut is mid-stride, poles planted,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b653d347559eca8a93f7db5a275dbe07/thumbnails/thumbnail.jpg" width="600" alt="Wide shot of an astronaut skiing on a lunar plain">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2981)**
+
+**Autor:** [Alex Patrascu](https://x.com/maxescu) | **Fuente:** [Link](https://x.com/maxescu/status/2041855481203802463) | **Publicado:** Apr 8, 2026
+
+---
+### Transformación de una talla 2D en una mujer humana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de Seedance 2.0 utilizado para una toma de prueba de un video musical, que detalla la transformación de una mujer tallada en 2D en una hermosa mujer humana, incluyendo la metamorfosis de su tono de piel, rasgos faciales, joyas y vestido, culminando con ella saliendo de la talla en la pared.
+
+#### 📝 Prompt
+
+```
+La mujer tallada en 2D se convierte gradualmente en humana. Un tono de piel natural comienza a aparecer en las puntas de sus dedos y se extiende rápidamente por todo su cuerpo. Su rostro gira hacia la cámara mientras se transforma en el rostro de una hermosa mujer que conserva los mismos rasgos de la talla de piedra. Su brazalete, collar y tocado se convierten en oro real incrustado con gemas deslumbrantes. Su vestido tallado se transforma en tela de satén rojo. Ella sale de la talla en la pared y extiende su mano hacia la cámara.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2beaf97807e2774a6c6505d02106e0e/thumbnails/thumbnail.jpg" width="600" alt="Transformación de una talla 2D en una mujer humana">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2960)**
+
+**Autor:** [PZF](https://x.com/pzf_ai) | **Fuente:** [Link](https://x.com/pzf_ai/status/2041854815589044518) | **Publicado:** Apr 8, 2026
+
+---
+### Bullet Time Effect in a College Canteen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt designed to capture a 'bullet time' effect in a college canteen setting, freezing a student mid-stride while various food items are suspended in motion, emphasizing hyper-realistic detail and physics.
+
+#### 📝 Prompt
+
+```
+Bullet time effect. College canteen. A student in a wrinkled shirt pitches forward mid-stride, arms flung wide, surrendering everything at once — masala dosa unfolding like a golden ribbon mid-flight, momos in loose constellation, samosa split open with filling frozen mid-bloom,
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fa37688dd9ec8e2208b491f3ae99cea/thumbnails/thumbnail.jpg" width="600" alt="Bullet Time Effect in a College Canteen">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2993)**
+
+**Autor:** [Harsha Swamy](https://x.com/harsha3d) | **Fuente:** [Link](https://x.com/harsha3d/status/2041848354167255357) | **Publicado:** Apr 8, 2026
+
+---
+### Reluctant Dancing Woman in Kimono MV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed English prompt for Seedance 2.0 (via Topview) to generate a dynamic music video sequence featuring an original character—a woman in a black kimono—dancing with a reluctant and annoyed expression. The prompt specifies multi-cut editing, camera work, and the overall cinematic, anime-style MV atmosphere.
+
+#### 📝 Prompt
+
+```
+The background is predominantly white with pastel-colored patterns scattered throughout; . Do not show the attached character sheet in the video.A woman in a black kimono dances with a reluctant, annoyed expression, as if she does not want to be there. The scene is styled like a dynamic dance music video with rapid multi-cut editing: close-ups of her exasperated face, tight zoom-ins on her feet struggling to keep up with the choreography, detailed shots of her hands moving slightly behind the beat, and expressive cut-ins that emphasize her irritated body language. She follows the dance with a slight delay, making her performance feel awkward yet charming. Include a close-up of her fed-up expression, then a smooth spinning turn, captured with dramatic motion and energetic camera work, anime-style dance MV atmosphere, cinematic rhythm, stylish and playful.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe73734d51e86292809e3e2887b903b6/thumbnails/thumbnail.jpg" width="600" alt="Reluctant Dancing Woman in Kimono MV">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3006)**
+
+**Autor:** [🍺 イケハヤ@アニメ作る人](https://x.com/IHayato) | **Fuente:** [Link](https://x.com/IHayato/status/2041839076354224178) | **Publicado:** Apr 8, 2026
+
+---
+### Cinematic black and white portrait of a young woman with a tear
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Seedance 2.0, focusing on a black and white portrait of a young woman in an abaya and hijab. The prompt specifies dramatic Rembrandt lighting, high contrast, subtle camera movements (slow push-in), and a specific emotional sequence involving a tear falling and the subject's expression changing.
+
+#### 📝 Prompt
+
+```
+black and white cinematic portrait of a young woman wearing a flowing black abaya and a soft black hijab, modest elegant look, the hijab delicately wrapped, a few subtle hair strands gently visible from the back, side profile, natural beauty with soft freckles, minimal makeup, calm but deeply emotional expression
+dramatic side lighting, Rembrandt style, half of her face in shadow, soft rim light outlining her silhouette and the edge of the hijab, high contrast, soft film grain, shallow depth of field, 85mm lens
+dark minimal background, faint floating dust particles, quiet intimate atmosphere
+slow cinematic push-in, no cuts, ultra subtle movements only
+a tear slowly forms in her eye, then gently falls down her cheek in slow motion, she closes her eyes briefly, breath soft and heavy
+her hand rises slowly from the black abaya sleeve, delicately wiping the tear without fully removing the emotion
+a faint breeze slightly moves the edge of the hijab and the loose hair strands
+she slowly turns her face away from the light, shadows deepen across her features
+she becomes completely still for a moment
+then her eyes open slowly, distant and empty gaze, unfocused, lost in thought
+fade to black
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/181a714a3331efc38972f77b430e56ba/thumbnails/thumbnail.jpg" width="600" alt="Cinematic black and white portrait of a young woman with a tear">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2987)**
+
+**Autor:** [Sara | 사라 Al ✦ 🎥✍️](https://x.com/sara4ai) | **Fuente:** [Link](https://x.com/sara4ai/status/2041834780161974423) | **Publicado:** Apr 8, 2026
+
+---
+### Rural Scene: Woman Walking in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt describing a realistic rural scene featuring a blonde woman walking down a muddy road in the pouring rain, carrying buckets towards a barn filled with cows. The full prompt is linked externally.
+
+#### 📝 Prompt
+
+```
+A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural village road in the pouring rain, carrying two metal buckets towards a barn filled with cows.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eac9b64c0517eddd6892efcb96d1e85/thumbnails/thumbnail.jpg" width="600" alt="Rural Scene: Woman Walking in Rain">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2996)**
+
+**Autor:** [AI Society](https://x.com/aisocity) | **Fuente:** [Link](https://x.com/aisocity/status/2041823886929752285) | **Publicado:** Apr 8, 2026
+
+---
+### Cortometraje de moda glam-comedia de una paloma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de Seedance 2.0 para generar un cortometraje de moda glam-comedia de 15 segundos que presenta a una paloma urbana robusta y segura de sí misma desfilando por una alfombra roja. El prompt utiliza marcadores de tiempo (0–3s, 3–6s, etc.) para dictar la narrativa y la acción de la cámara, enfocándose en la confianza absurda de la paloma y su interacción con el entorno, terminando con un primer plano cómico.
+
+#### 📝 Prompt
+
+```
+Cortometraje de moda glam-comedia de 15 segundos, iluminación de evento de lujo. Mismo sujeto durante todo el video: una paloma urbana robusta con plumas brillantes y una confianza absurda desfilando por una alfombra roja de celebridades. 0–3s: los fotógrafos usan flash mientras la paloma camina hacia la cámara como una superestrella. 3–6s: celebridades humanas se hacen a un lado mientras la paloma se adueña de la pasarela, con el movimiento de cabeza perfectamente sincronizado. 6–10s: hace una pausa para una pose dramática extendiendo las alas y la multitud aclama más fuerte. 10–15s: toma final en primer plano mientras la paloma arrebata un canapé de una bandeja de plata sin perder el paso, y luego sigue caminando como si nada hubiera pasado.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bda819691aef1553fd6d9fdea3ee5832/thumbnails/thumbnail.jpg" width="600" alt="Cortometraje de moda glam-comedia de una paloma">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2972)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fuente:** [Link](https://x.com/sebatheepan/status/2041804805526438255) | **Publicado:** Apr 8, 2026
+
+---
+### Tráiler de batalla de fantasía cinematográfica: Eldrath vs. Vespera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un tráiler de batalla de fantasía cinematográfico en 16:9 usando Seedance 2.0. La escena se desarrolla en el reino mítico de Aetherion, con enormes islas flotantes, un dragón colosal (Eldrath), elfos con armaduras de plata, jinetes de grifos y el antagonista, el Señor Hechicero de Obsidiana Vespera, con su legión de sombras. El prompt especifica un movimiento de cámara dinámico (tomas aéreas, seguimiento), efectos visuales (relámpagos, vórtices) y un estilo artístico específico influenciado por Guillermo del Toro y Peter Jackson.
+
+#### 📝 Prompt
+
+```
+Tráiler de batalla de fantasía cinematográfico en 16:9 ultra detallado en el reino mítico de Aetherion. Enormes islas flotantes de cristal brillante y ruinas antiguas cubiertas de musgo flotan a través de cielos dorados infinitos. Un dragón antiguo colosal llamado Eldrath lidera una alianza desesperada de elfos con armaduras de plata y jinetes de grifos para defender el Cristal del Corazón contra el Señor Hechicero de Obsidiana Vespera y su legión de demonios envueltos en sombras. Tomas aéreas amplias y explosivas y una cámara de seguimiento dinámica capturan el caos: tormentas eléctricas, flechas brillantes, grifos en picada y vórtices negros giratorios. Primeros planos emotivos de Eldrath y la hechicera semielfa Lirael mientras combinan sus poderes en una supernova de luz cegadora. Iluminación cinematográfica hiperrealista, gradación de color dramática, 8K, grano de película, al estilo de Guillermo del Toro y Peter Jackson.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9e806dc9cf8459c9a6959512511aa9f/thumbnails/thumbnail.jpg" width="600" alt="Tráiler de batalla de fantasía cinematográfica: Eldrath vs. Vespera">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2971)**
+
+**Autor:** [AI-ishere](https://x.com/AIishere_art) | **Fuente:** [Link](https://x.com/AIishere_art/status/2041801904028840427) | **Publicado:** Apr 8, 2026
+
+---
+### High-Speed Female Swordswoman Battle Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a high-quality, full-color Japanese animation movie featuring a female swordswoman engaged in a continuous, high-speed battle sequence. The prompt specifies various sword techniques like 'Flame Slash,' 'Explosive Ice Slash,' and 'Thunder Slash,' with screen-filling effects and a focus on maintaining the style of the input image.
+
+#### 📝 Prompt
+
+```
+High-speed battle motion by a female swordswoman, performing a fierce sword dance (camera angle, subject distance, and focus are all left to the AI), executing various sword techniques such as Flame Slash, Explosive Ice Slash, and Thunder Slash without stopping from start to finish. Include effects that burst out to fill the screen, and generate a high-quality, full-color Japanese animation movie. Maintain the style/artistic touch of the input image.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4921c332a9bb59b22607ffc0650091d6/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Female Swordswoman Battle Animation">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3005)**
+
+**Autor:** [そぴちゃんねる](https://x.com/souhiro_meem_ch) | **Fuente:** [Link](https://x.com/souhiro_meem_ch/status/2041801510250803408) | **Publicado:** Apr 8, 2026
+
+---
+### Handheld Astronaut Footage Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt focusing on camera movement, lighting, and audio to simulate raw, shaky, handheld footage taken by a second astronaut on the lunar surface, aiming for a leaked personal clip aesthetic.
+
+#### 📝 Prompt
+
+```
+SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera operator breathes too loud. Framing drifts. Feels like a personal clip that leaked.
+
+LIGHTING: Raw sunlight from camera left. No fill. High contrast.
+
+AUDIO: Two sets of breathing on open channel.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e8f5850114227c22f324ad2da2b1914/thumbnails/thumbnail.jpg" width="600" alt="Handheld Astronaut Footage Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2977)**
+
+**Autor:** [Alex Patrascu](https://x.com/maxescu) | **Fuente:** [Link](https://x.com/maxescu/status/2041796512024342780) | **Publicado:** Apr 8, 2026
+
+---
+### 15-Second Continuous Action Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 15-second continuous single-shot video sequence, emphasizing hyper-realistic cinematic fantasy elements, large-scale creature physics, and detailed atmospheric effects like volumetric fire and heat distortion.
+
+#### 📝 Prompt
+
+```
+15-second continuous single-shot action sequence.
+No cuts. No scene transitions.
+
+Hyper-realistic cinematic fantasy, large-scale creature physics, volumetric fire simulation, heat distortion, dynamic airflow, atmospheric perspective
+
+Single continuous subject: rider firmly
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63f1aa7f8a62360c821e1e1fc436829c/thumbnails/thumbnail.jpg" width="600" alt="15-Second Continuous Action Sequence">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2995)**
+
+**Autor:** [OscarAI](https://x.com/Artedeingenio) | **Fuente:** [Link](https://x.com/Artedeingenio/status/2041790861772562653) | **Publicado:** Apr 8, 2026
+
+---
+### Cyberpunk Woman Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a 10-second clip featuring a beautiful young East Asian woman in a dark, neon-lit cyberpunk city alley at night, detailing her appearance (platinum blonde hair, glowing blue cybernetic eyes, worn leather jacket with neon accessories) and specifying the first three seconds of the video.
+
+#### 📝 Prompt
+
+```
+A cinematic 10-second video of a beautiful young East Asian woman in a dark alley of a neon-lit cyberpunk city at night. She has short platinum blonde hair, glowing blue cybernetic eyes, and wears a worn leather jacket with neon-trimmed tech accessories.
+
+[00:00-03:00s] —
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/129718e6d9c1e5286e63f63dfd3eb68e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Woman Video Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3000)**
+
+**Autor:** [阿越-AY](https://x.com/AyccAI) | **Fuente:** [Link](https://x.com/AyccAI/status/2041789306722046063) | **Publicado:** Apr 8, 2026
+
+---
+### Prompt de video de técnica mixta AR: Furina en una taza de vidrio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado y con código de tiempo para Seedance 2.0 que genera un video de técnica mixta de realidad aumentada. Presenta una mano humana realista interactuando con un personaje animado en 2D (Furina de Genshin Impact) dentro de una taza de vidrio transparente, centrándose en las interacciones físicas, las expresiones emocionales y el renderizado realista de la física del vidrio.
+
+#### 📝 Prompt
+
+```
+Plano estático en primer plano. Una mano humana realista interactúa con un personaje animado en 2D de Furina —una chica de anime con vestido azul y blanco y cabello largo azul claro— dentro de una taza de vidrio transparente colocada sobre una mesa de madera. [0-2s] La mano empuja al personaje 2D de Furina hacia el interior del vaso desde arriba; ella se resiste y se sujeta del borde. [2-5s] Ella pierde el agarre y cae al fondo del vaso, mira hacia arriba con ojos llorosos y solloza suavemente. [5-9s] Ella se pone de pie, patea el suelo, señala hacia arriba y grita con enojo con una expresión exagerada. [9-13s] La mano entra y pellizca su cabeza entre dos dedos, levantándola por encima del borde. [13-15s] Suspendida en el aire, de repente sonríe radiante, el encuadre se mantiene estable. Estilo de técnica mixta AR: personaje de dibujos animados 2D plano con interacción física completa en un entorno 3D real; las refracciones del vidrio, las sombras proyectadas y el contacto con el borde están renderizados de forma realista. Iluminación natural cálida y brillante, ambiente divertido y caprichoso.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b2ba354269ea5ee989a597ac9bc8182/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de técnica mixta AR: Furina en una taza de vidrio">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2964)**
+
+**Autor:** [Kiki](https://x.com/Mayz1169) | **Fuente:** [Link](https://x.com/Mayz1169/status/2041787247180313081) | **Publicado:** Apr 8, 2026
+
+---
+### Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed Seedance 2.0 prompt for a video inspired by 1970s Shaw Brothers martial arts films, featuring a character named Pupu dramatically pulling up a large willow tree. The prompt specifies the visual style (Technicolor, high saturation, dramatic lighting, film grain, artificial set design) and includes a three-part script with specific camera angles, actions, and dialogue.
+
+#### 📝 Prompt
+
+```
+The video is based on the style of 1970s Shaw Brothers martial arts films, featuring obviously artificial rockeries and fake farmhouse courtyards. Technicolor, high saturation, unnatural dramatic lighting, old film grain texture, and a studio set feel. No subtitles. [0-7s] The camera slowly pushes in with a low-angle upward shot, the focus firmly locked on Pupu's strained upper body: sweat beads on the forehead, and sweat mixed with dirt rolls down the jawline. With hands clamped like iron tongs around the large willow trunk, Pupu forcefully pulls up the entire old willow tree with a dull sound of tearing earth, then violently flings the willow tree horizontally, the trunk hitting the ground with a whoosh, creating billowing smoke and dust. [8-9s] The camera quickly pushes in for a top-down shot of the two dogs' stunned expressions. [10-12s] An upward shot shows Pupu sweating, looking at the tree on the ground, laughing and saying: "That felt great!" [12-15s] The two dogs are trembling with fear, and one dog says to the other: "Maybe we should behave ourselves from now on."
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39273c573e993f312758a27165919de/thumbnails/thumbnail.jpg" width="600" alt="Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3003)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041780444459409423) | **Publicado:** Apr 8, 2026
+
+---
+### Batalla épica entre una pitón gigante y un dragón chino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico ultra realista y altamente detallado para Seedance 2.0, que describe una batalla catastrófica entre una colosal pitón gigante ancestral y un dragón chino sin alas en una megaciudad china moderna, capturado en una sola toma continua al estilo documental.
+
+#### 📝 Prompt
+
+```
+Épica de desastre cinematográfico ultra realista, toma única continua, sin cortes, sin montaje, sin lenguaje de cámaras múltiples, realismo estilo documental, claridad a escala IMAX, grano de película natural, alto rango dinámico, luz diurna físicamente precisa, perspectiva atmosférica realista, reflejos auténticos, polvo y humo volumétricos, iluminación urbana y comportamiento ambiental realistas. Una megaciudad china moderna real durante el día: torres de gran altura, carreteras elevadas, avenidas amplias, plazas, autos estacionados y en movimiento, letreros de calles, fachadas de vidrio, todo con el aspecto de metraje de acción real genuino. La toma comienza con el caos ya en marcha: una colosal pitón gigante ancestral, mucho más grande y aterradora que una anaconda realista, arrasa violentamente la ciudad. Su cuerpo grueso y musculoso se azota entre calles y edificios con una velocidad y un peso aterradores, aplastando autos, destrozando estructuras al borde de la carretera, envolviéndose alrededor de las fachadas de los edificios y abalanzándose sobre las multitudes que huyen. La gente corre presa del pánico, los vehículos chocan, fragmentos de vidrio, polvo de concreto, vallas publicitarias desgarradas y escombros llenan el aire. Todo se siente como una emergencia catastrófica real capturada en una toma ininterrumpida. Luego, el cielo cambia repentinamente. Las nubes se desgarran a gran velocidad y un gigantesco dragón chino desciende desde los cielos. Este no es un dragón de dibujos animados y no tiene alas. Es un colosal y creíble dragón oriental, una misteriosa criatura biológica real del mundo natural, cuerpo largo y serpentino, sin alas, extremidades poderosas, músculos realistas, huesos, superposición de escamas, escamas reflectantes desgastadas, sombras en capas, tensión natural de la piel, masa e inercia creíbles. A medida que se mueve, su cuerpo ondula por el aire con una resistencia aerodinámica convincente, con bigotes y crines arrastrándose en el flujo de aire turbulento, y sutil vapor de nubes y niebla perturbada formándose a su alrededor. El dragón desciende como un guardián sobre la ciudad, apuntando precisamente a la pitón gigante de abajo. En una toma continua, las dos bestias se enfrentan en una brutal pelea a corta distancia entre rascacielos y sobre calles destrozadas. La pitón se enrosca, ataca y se agita entre los edificios; el dragón chino desgarra la constricción con sus garras, se enrosca alrededor de la serpiente para dominarla y finalmente muerde con fuerza la parte superior del cuerpo y el cuello de la pitón. Con una fuerza abrumadora, el dragón arrastra a la serpiente que lucha desde las ruinas de la ciudad y la eleva hacia el cielo. En los momentos finales, el dragón chino sin alas asciende impulsando su largo cuerpo a través del aire, llevándose a la pitón que aún se retuerce hacia el cielo distante. Abajo, los ciudadanos aterrorizados dejan de correr y miran hacia arriba con asombro. La ciudad en ruinas permanece llena de humo, escombros y luz solar que atraviesa la bruma, creando una imagen épica final de un dragón divino salvando a la humanidad. Mantenga toda la pieza basada en la física del mundo real, destrucción realista, escala creíble, peso aterrador, comportamiento de cámara restringido y autenticidad inmersiva de desastre de acción real.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/161a3b0e7da2fce4bd7c58dacbba69f9/thumbnails/thumbnail.jpg" width="600" alt="Batalla épica entre una pitón gigante y un dragón chino">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2961)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041772197799236033) | **Publicado:** Apr 8, 2026
+
+---
+### Sci-Fi Action Film Aesthetic Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Seedance 2.0 generating a high-energy sci-fi action scene featuring two women fighting on a speeding train in a rainy gorge, focusing on martial arts, motion blur, and a moody teal-grey aesthetic.
+
+#### 📝 Prompt
+
+```
+Fast low-angle tracking, rainy dark gorge. Pink-haired woman in tactical gear vs woman in white bodysuit fighting atop speeding train. Martial arts, sparks, motion blur, moody teal-grey sci-fi action film aesthetic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a7fa0d371f4ba068df6f740a44c154e/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Action Film Aesthetic Video Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2975)**
+
+**Autor:** [Leo ☄️](https://x.com/AIByLeo) | **Fuente:** [Link](https://x.com/AIByLeo/status/2041767181411561720) | **Publicado:** Apr 8, 2026
+
+---
+### Secuencia de diseño de movimiento ultra refinada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt extremadamente detallado y de múltiples etapas para Seedance 2.0, diseñado para generar una secuencia compleja de gráficos en movimiento. Especifica el estilo visual (minimalismo futurista, blanco monocromático, fondo negro absoluto), el trabajo de cámara (toma continua única, sin movimiento) y una sincronización precisa para 15 segundos de transformaciones geométricas, desde el génesis hasta la revelación final del logotipo de la marca.
+
+#### 📝 Prompt
+
+```
+Secuencia de diseño de movimiento ultra refinada. Fondo negro absoluto.
+Lenguaje visual blanco monocromático con acentos sutiles de espacio negativo.
+Toma continua única: sin cortes, sin movimiento de cámara.
+Toda transformación emerge desde el centro.
+Geometría autoiluminada, bordes definidos, sin ruido, sin degradados.
+0–1s [GÉNESIS]
+Un haz vertical blanco y delgado aparece gradualmente en el centro del encuadre.
+Zumba sutilmente, luego se divide en dos líneas paralelas —perfectamente simétricas— antes de volver a unirse en una sola.
+1–2s [FRACTURA]
+La línea se fractura en múltiples segmentos cortos, espaciados uniformemente.
+Cada segmento se separa ligeramente en sentido horizontal, creando un patrón rítmico de líneas discontinuas.
+2–4s [CAMPO DE ONDAS]
+Los segmentos comienzan a oscilar verticalmente en un movimiento de onda sinusoidal.
+La onda se propaga hacia afuera desde el centro, formando una forma de onda suave y sincronizada a través del encuadre.
+4–6s [CINTA → TOROIDE]
+La forma de onda se engrosa hasta convertirse en una cinta fluida continua.
+Se retuerce en el espacio 3D, curvándose hacia adentro y conectándose perfectamente en un toroide (forma de dona) giratorio, perfectamente centrado.
+6–8s [TOROIDE → ANILLOS DE DATOS]
+El toroide se divide en múltiples anillos giratorios concéntricos.
+Cada anillo lleva pequeños nodos blancos espaciados uniformemente, como puntos de datos orbitando en sincronización precisa.
+8–10s [RED]
+Líneas delgadas conectan los nodos en órbita a través de los anillos, formando una red geométrica dinámica.
+Las conexiones aparecen y desaparecen algorítmicamente, sugiriendo inteligencia y computación.
+10–11.5s [COMPRESIÓN]
+Toda la red se contrae hacia adentro.
+Las líneas se retraen, los nodos aceleran hacia el centro, formando un denso cúmulo brillante.
+11.5–13s [NÚCLEO DE ENERGÍA]
+El cúmulo se estabiliza en un núcleo poliédrico pulsante: un sólido geométrico limpio hecho de bordes interconectados.
+Gira sutilmente, emitiendo pulsos rítmicos tenues.
+13–14s [DESENSAMBLAJE]
+El núcleo se desintegra en líneas radiales perfectamente rectas que se disparan brevemente hacia afuera, luego invierten su dirección y regresan rápidamente hacia adentro.
+14–15s [REVELACIÓN DE IDENTIDAD]
+Todas las líneas convergen en una única línea base horizontal.
+Desde esta línea, surge una tipografía blanca minimalista que forma el logotipo de la marca en una fuente sans-serif limpia.
+Un brillo suave y breve irradia desde abajo, luego se desvanece a negro puro.
+Estilo: minimalismo futurista, precisión del diseño suizo, elegancia computacional
+Ambiente: inteligente, controlado, inevitable, identidad de marca tecnológica de alta gama
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0b1effa5e3fc94f5422e0fb05759fba/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de diseño de movimiento ultra refinada">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2963)**
+
+**Autor:** [Ciri](https://x.com/Ciri_ai) | **Fuente:** [Link](https://x.com/Ciri_ai/status/2041766798220259711) | **Publicado:** Apr 8, 2026
+
+---
+### Melancholic Mountain Woman Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a 15-second clip featuring a beautiful young East Asian woman with long silver hair, standing alone on a fog-covered mountain peak at dawn, wearing a dark minimalist coat and looking into the distance with a calm, melancholic expression, specifying the first three seconds of the video.
+
+#### 📝 Prompt
+
+```
+A cinematic 15-second video of a beautiful young East Asian woman with long flowing silver hair, standing alone on a fog-covered mountain peak at dawn. She wears a dark minimalist coat, looking into the distance with a calm, melancholic expression.
+
+[00:00-03:00s] —
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69f129e1163dc4625cb623d57687f333/thumbnails/thumbnail.jpg" width="600" alt="Melancholic Mountain Woman Video Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3001)**
+
+**Autor:** [阿越-AY](https://x.com/AyccAI) | **Fuente:** [Link](https://x.com/AyccAI/status/2041750686975848850) | **Publicado:** Apr 8, 2026
+
+---
+### 10-Second Cinematic Vertical Action Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 10-second cinematic vertical video (9:16) featuring one continuous, unbroken tracking shot of massive blockbuster fantasy action. The scene is a hyper-detailed storm ocean at night, with the camera staying behind a female hero in a wide full-body frame.
+
+#### 📝 Prompt
+
+```
+A 10-second cinematic vertical video, 9:16, one continuous unbroken tracking shot, massive blockbuster fantasy action, ultra-premium VFX, hyper-detailed storm ocean at night. The camera stays behind the female hero for the entire shot in a wide full-body framing, clearly showing
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/654953d92bce9f0da760edf9f812babb/thumbnails/thumbnail.jpg" width="600" alt="10-Second Cinematic Vertical Action Prompt">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2990)**
+
+**Autor:** [TheYudayVerse](https://x.com/yuday9909) | **Fuente:** [Link](https://x.com/yuday9909/status/2041709090251141427) | **Publicado:** Apr 8, 2026
+
+---
+### 2D Animated Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 2D animated fight scene between two characters, Anya and Kannakamui, focusing on fast movements, impact effects, smooth synchronization, and powerful action.
+
+#### 📝 Prompt
+
+```
+A 2D animated fight scene between two characters, Anya and Kannakamui. Anya moves quickly, circling around and delivering many punches and flying kicks. The ground cracks and dust rises into the air. Kannakamui twists and turns her body rapidly, using quick movements, dodges, and blocks to avoid the attacks. Each strike creates gusts of wind and loud impact sounds. The motion and shifts in body control are clearly shown. The animation is smooth and synchronized, making the fight feel powerful and full of weight.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6edf1100613812fb4ff6e3eac5d64aea/thumbnails/thumbnail.jpg" width="600" alt="2D Animated Fight Scene">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2988)**
+
+**Autor:** [Zyro](https://x.com/Itswsm105f) | **Fuente:** [Link](https://x.com/Itswsm105f/status/2041691758711730435) | **Publicado:** Apr 8, 2026
+
+---
+### Prompt de tragedia de helado de chica anime chibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente estructurado en formato JSON para Seedance 2.0, que genera un video animado corto y ultra tierno de una chica anime chibi (GuguGgaga) experimentando la dramática pérdida de su helado al atardecer. Especifica el diseño del personaje, el entorno de la escena, la secuencia de acción, las expresiones, el trabajo de cámara y los efectos de audio.
+
+#### 📝 Prompt
+
+```
+{
+  "character": {
+    "description": "Una pequeña chica anime chibi con un corte bob negro corto, flequillo recto y una pequeña pinza metálica para el cabello, vistiendo una suave sudadera de pingüino con un pico amarillo en la parte superior, textura exterior negra, parche blanco en el vientre, mangas estilo ala y pequeños pies de pingüino amarillos"
+  },
+  "scene": {
+    "environment": "Banca de parque al atardecer con iluminación dorada cálida, gradientes de cielo suaves y una brisa ligera, atmósfera cinematográfica con profundidad de campo y desenfoque de fondo suave",
+    "style": "ultra tierno, inspirado en Pixar + anime, renderizado de dibujos animados en 3D de alta calidad, iluminación brillante, colores vibrantes, sombras suaves"
+  },
+  "action": {
+    "sequence": [
+ "Ella sostiene felizmente un cono de helado mientras está sentada en la banca",
+ "El helado se resbala repentinamente y cae al suelo en cámara lenta",
+ "Ella se congela y lo mira con incredulidad",
+ "De repente, estalla en un llanto dramático exagerado con lágrimas como cascadas"
+    ]
+  },
+  "expression": {
+    "start": "feliz y emocionada",
+    "middle": "mirada de shock en blanco",
+    "end": "tristeza exagerada con enormes lágrimas fluyendo"
+  },
+  "camera": {
+    "movement": "lento zoom cinematográfico hacia su rostro",
+    "framing": "comienza como un plano medio y termina en un primer plano",
+    "effects": "profundidad de campo suave, enfoque dramático emocional"
+  },
+  "audio": {
+    "sound_effects": [
+ "sonido suave de helado cayendo",
+ "música de violín triste",
+ "chirridos tiernos de pingüino llorando"
+    ],
+    "voice_line": "GuGuGaGa…!"
+  },
+  "duration": "5-8 segundos",
+  "loop": "bucle continuo con el llanto persistiendo al final"
+}
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e59c2453afc11b7ada8317b3faa7aceb/thumbnails/thumbnail.jpg" width="600" alt="Prompt de tragedia de helado de chica anime chibi">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2967)**
+
+**Autor:** [Shami](https://x.com/ShamiWeb3) | **Fuente:** [Link](https://x.com/ShamiWeb3/status/2041684360483541236) | **Publicado:** Apr 8, 2026
+
+---
+### 15-second seamless one-take transition video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for creating a 15-second cinematic video that seamlessly transitions between six reference images using continuous camera movements like whip-pans or zooms, strictly forbidding hard cuts, fades, or opacity changes.
+
+#### 📝 Prompt
+
+```
+Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use fluid, continuous camera movements (like whip-pans or zooms)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c86c58f69f7142471d60364dbcf363ca/thumbnails/thumbnail.jpg" width="600" alt="15-second seamless one-take transition video">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2982)**
+
+**Autor:** [Jin.B](https://x.com/opener_ai) | **Fuente:** [Link](https://x.com/opener_ai/status/2041678893640511723) | **Publicado:** Apr 8, 2026
+
+---
 ### Prompt de VFX para el recorrido por la ciudad subterránea 'ARC'
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -430,7 +1561,7 @@ Configuraciones detalladas: resolución 8k, fotorrealista, renderizado volumétr
 "Un personaje masculino crea un núcleo de cristal brillante y se lo envía a un personaje femenino, quien absorbe su poder para comenzar una magnífica danza de fuego sobre el agua." "intent": "Generar una narrativa cinematográfica de dos escenas que muestre dos formas distintas pero conectadas de magia elemental
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/250e67988fce781809dee302a5077e62/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video narrativo de magia elemental">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ed696e2e2fae2f384582e1137a89e89/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video narrativo de magia elemental">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2918)**
 
@@ -659,7 +1790,7 @@ Corte a la Toma 9: Impacto final completo, encuadre consumido por agua violenta 
 PERSONAJES: Define a una figura con una máscara de festival japonés y un bastón en la acera, peatones retrocediendo al borde de la calle y un colosal titán abisal serpentino con una silueta de lomo crestado y una masa a escala urbana que emerge tras el segundo impacto.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/99d1d4aad828d0a4b2aeb222db8a8adc/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Seedance 2.0 para escena de Kaiju">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecbc55172764bf2a1141c8087faa4a61/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Seedance 2.0 para escena de Kaiju">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2908)**
 
@@ -734,7 +1865,7 @@ Colapso urbano épico donde la naturaleza reclama su lugar, física orgánica ci
 Un viajero solitario camina sobre un vasto océano similar al cristal bajo un cielo crepuscular violeta. Bajo el agua transparente, millones de estrellas centellean y palpitan como si el universo entero estuviera sumergido. Cada paso crea ondas a través de las profundidades cósmicas, distorsionando galaxias y nebulosas como reflejos líquidos del infinito.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8556452000d84a15304760917ad086b9/thumbnails/thumbnail.jpg" width="600" alt="Viajero del océano cósmico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1a26d91474788f22740036bdf243aa24/thumbnails/thumbnail.jpg" width="600" alt="Viajero del océano cósmico">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2905)**
 
@@ -1161,6 +2292,25 @@ TOMA 4: Las hojas crecen densas (verano).
 **Autor:** [Aleena Amir](https://x.com/aleenaamiir) | **Fuente:** [Link](https://x.com/aleenaamiir/status/2041478764610404703) | **Publicado:** Apr 7, 2026
 
 ---
+### Grounded Action Sequence in a Gothic Cathedral
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A user describes their attempt to generate a 'grounded' action sequence using Seedance 2.0, focusing on realistic physics, Arri Alexa texture, and natural lighting within a gothic cathedral setting, avoiding neon lights and exaggerated VFX.
+
+#### 📝 Prompt
+
+```
+I tried a completely "grounded" action sequence inside a gothic cathedral, far from neon lights and exaggerated VFX. The realism level is tremendous with Arri Alexa texture and natural lighting. A solid fight choreography that adheres to the laws of physics...
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afbff359962d31f0393a5696a0092eaa/thumbnails/thumbnail.jpg" width="600" alt="Grounded Action Sequence in a Gothic Cathedral">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=3007)**
+
+**Autor:** [Okan Can](https://x.com/0kncn) | **Fuente:** [Link](https://x.com/0kncn/status/2041466729843372134) | **Publicado:** Apr 7, 2026
+
+---
 ### Tráiler de acción de fantasía oscura de ritmo rápido
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1288,7 +2438,7 @@ Arquitectura: Las paredes exteriores de la villa tienen un diseño moderno con c
 Vestuario y cabello: Su cabello castaño ondea naturalmente con fuerza en el viento tropical, y su crop top blanco y shorts enfatizan una sensación de apertura y un estilo veraniego saludable.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c15d025093fc9c1196aa8b5676638b99/thumbnails/thumbnail.jpg" width="600" alt="Video de escape tropical hiperdinámico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7d027431da19679374438f970f98f01b/thumbnails/thumbnail.jpg" width="600" alt="Video de escape tropical hiperdinámico">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2903)**
 
@@ -1804,1348 +2954,6 @@ Descripción estática
 **Autor:** [Super Edge](https://x.com/KimAkiyama81) | **Fuente:** [Link](https://x.com/KimAkiyama81/status/2041275069834445282) | **Publicado:** Apr 6, 2026
 
 ---
-### Prompt para transición de textura de película real a acción anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Seedance 2.0 y Topview Agent, diseñado para crear un cortometraje de acción que transiciona de una ciudad futurista con textura de película real a un estilo de acción anime bidimensional de alta energía, enfocado en capacidades de edición precisas.
-
-#### 📝 Prompt
-
-```
-Cortometraje de acción original: Comienza con una ciudad futurista con una textura casi de película real, transicionando gradualmente a un estilo de acción bidimensional de alta energía. Los personajes persiguen, saltan y se enfrentan a gran velocidad entre viaductos de neón y edificios altos. El lenguaje cinematográfico es estable al principio y luego explosivo; los materiales transicionan de metal real y reflejos en superficies húmedas a líneas de energía exageradas y una sensación de pintura dinámica, formando un efecto visual de "integración de sentido de película real y sentido explosivo de anime". Un gancho fuerte en los primeros 2 segundos, con un cuerpo principal estable, acciones coherentes, composición y luces y sombras de nivel cinematográfico, textura real, sentido épico, emociones fuertes y detalles de alta definición, adecuado para la difusión en redes sociales.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a369712bc4a2ae44035e09341da4eeed/thumbnails/thumbnail.jpg" width="600" alt="Prompt para transición de textura de película real a acción anime">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2809)**
-
-**Autor:** [TopviewAI](https://x.com/TopviewAIhq) | **Fuente:** [Link](https://x.com/TopviewAIhq/status/2041268710913011737) | **Publicado:** Apr 6, 2026
-
----
-### Combate de lucha libre de la WWE cinematográfico con un giro impactante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt extremadamente detallado y dividido en varias secciones para Seedance 2.0, diseñado para generar un video de un combate de lucha libre al estilo WWE de alta calidad y cinematográfico, que incluye configuraciones de cámara específicas, descripciones de personajes, una línea de tiempo segundo a segundo y un giro argumental impactante que involucra al árbitro.
-
-#### 📝 Prompt
-
-```
-[CONFIGURACIÓN CINEMATOGRÁFICA]
-
-Estilo: Metraje de transmisión deportiva profesional en 4K para TV, cámara en mano desde el ringside combinada con tomas amplias de grúa.
-
-Lente/Apertura: Lente de transmisión de 35 mm, profundidad de campo profunda para mantener al público a la vista.
-
-Graduación de color: Iluminación de "Evento Principal" de alto contraste y saturada, con azules y rojos vibrantes.
-
-Atmósfera: Neblina volumétrica, destellos de luces estroboscópicas del público, sudor realista en la arena y textura de piel detallada.
-
-Audio: Sonido espacial inmersivo, rugido del público en el estadio, impactos sordos en la lona del ring, efectos de sonido de "choque" metálico de sillas pesadas.
-
-[PERSONAJES]
-
-Luchador 1: Atlético, ágil, con calzoncillos y muñequeras de color verde neón.
-
-Luchador 2: Peso pesado, alto, con cabello largo y mojado, vistiendo mallas de cuero negro.
-
-El Behemoth: Un gigante colosal con obesidad mórbida en una licra de estampado de leopardo estirada.
-
-El Oficial: Árbitro estándar con camisa a rayas blancas y negras y pantalones negros.
-
-[LÍNEA DE TIEMPO SEGUNDO A SEGUNDO]
-
-0-3s: [Plano medio de seguimiento] El Luchador 1 corre hacia las cuerdas del ring, rebota en los cables tensados con física realista y acelera de regreso hacia el centro.
-
-3-6s: [Ángulo bajo dinámico] El Luchador 2 mantiene su posición y ejecuta un poderoso lazo al cuello (lariat); el Luchador 1 gira hacia atrás por el impacto y golpea la lona con fuerza, con un efecto de onda visible en el suelo del ring.
-
-6-11s: [Toma amplia de grúa] Ambos luchadores yacen aturdidos. Un enorme Behemoth de 500 libras sube al esquinero. Hace una pausa y luego realiza un salto gigante, aterrizando con todo su cuerpo sobre ambos hombres. La estructura del ring se sacude violentamente tras el impacto.
-
-11-15s: [Primer plano cerrado] El árbitro toma repentinamente una silla de acero laminado en frío. En un impactante cambio de bando (heel-turn), balancea la silla sobre su cabeza y la estrella contra el cráneo del Behemoth. Chispas de impacto metálico y audio espacial de "CLANG".
-
-[POTENCIADORES DE ESTILO Y CALIDAD]
-Fotorrealista 8K, texturas de piel y sudor ultra detalladas, iluminación de estadio cinematográfica, desenfoque de movimiento perfecto, alto rango dinámico, sin artefactos, física coherente para múltiples sujetos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c6163e479551c940c2e885fb7efbefab/thumbnails/thumbnail.jpg" width="600" alt="Combate de lucha libre de la WWE cinematográfico con un giro impactante">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2812)**
-
-**Autor:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **Fuente:** [Link](https://x.com/Ankit_patel211/status/2041265004067103202) | **Publicado:** Apr 6, 2026
-
----
-### Estética de cámara de celular en bar deportivo lleno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estructurado que define la estética, el audio y la línea de tiempo para un videoclip grabado con la cámara de un celular dentro de un bar deportivo abarrotado, enfocándose en la pared de televisores y el sonido de los cánticos de la multitud que va en aumento.
-
-#### 📝 Prompt
-
-```
-estética: celular sostenido en un bar deportivo lleno, pared de televisores brillando al fondo
-  audio: cánticos de la multitud aumentando, pisadas cada vez más fuertes, bajo de fondo
-  línea de tiempo:
-    - "0-4s: Cámara de celular dentro de un bar deportivo lleno. Cientos de personas. Pared de pantallas detrás de ellos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f65da9595ed0627728828aae1b90d4e/thumbnails/thumbnail.jpg" width="600" alt="Estética de cámara de celular en bar deportivo lleno">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2831)**
-
-**Autor:** [Alex Patrascu](https://x.com/maxescu) | **Fuente:** [Link](https://x.com/maxescu/status/2041245383205245189) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para Seedance 2.0: Nike Basketball Sprint
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Seedance 2.0 que detalla una escena dinámica de un joven jugador de baloncesto corriendo a través de charcos en una cancha urbana bajo la lluvia, driblando, apoyando el pie y lanzándose hacia el aro.
-
-#### 📝 Prompt
-
-```
-Un joven jugador se encuentra en una cancha urbana bajo la lluvia sosteniendo un balón de baloncesto. Explota hacia adelante corriendo a través de charcos hacia el aro al fondo, con la lluvia cayendo a su alrededor. Dos dribles rápidos sobre el concreto mojado. Apoya el pie con fuerza y se lanza hacia el
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/42a7bacea89a1c7f68fb116fd22a9e78/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Seedance 2.0: Nike Basketball Sprint">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2838)**
-
-**Autor:** [Koldo Huici](https://x.com/koldo2k) | **Fuente:** [Link](https://x.com/koldo2k/status/2041236553167749193) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video para lanzamiento de béisbol de Kit Kat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estructurado que describe una toma cinematográfica que sigue una pelota de béisbol lanzada por un joven en una calle urbana mojada durante la hora dorada, con la cámara sujeta a la pelota mientras gira hacia un edificio.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Sobre el hombro de un joven con gorro y chaqueta en una calle urbana mojada durante la hora dorada. Se prepara y lanza una pelota de béisbol hacia el edificio al otro lado de la calle. La cámara permanece sujeta a la pelota mientras gira hacia adelante cruzando la calle,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27af1fe9391b66dd26f3f59e2ef5e0fe/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para lanzamiento de béisbol de Kit Kat">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2915)**
-
-**Autor:** [Koldo Huici](https://x.com/koldo2k) | **Fuente:** [Link](https://x.com/koldo2k/status/2041236549317378556) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para Seedance 2.0: Transformación del logo de GoPro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para Seedance 2.0 que describe la transformación del logo de GoPro en un surfista que entra en el tubo de una ola mientras graba con la cámara, enfatizando la acción continua y el movimiento de cámara.
-
-#### 📝 Prompt
-
-```
-El logo de GoPro sobre la ola tormentosa comienza a vibrar. Los cuatro cuadrados de colores se expulsan hacia afuera y se transforman en las extremidades de un surfista que sostiene una cámara GoPro Hero 12 en una mano. El surfista entra en el tubo, con el brazo extendido grabando con la cámara. A
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b520da5b353e2df21a5a9a72d6b8f8ff/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Seedance 2.0: Transformación del logo de GoPro">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2836)**
-
-**Autor:** [Koldo Huici](https://x.com/koldo2k) | **Fuente:** [Link](https://x.com/koldo2k/status/2041236546305823134) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video: Campo de batalla del caos elemental
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinemático y altamente detallado para Seedance 2.0 que genera una escena masiva de un campo de batalla costero donde tres criaturas elementales colosales (dragón del cielo, coloso de fuego, leviatán oceánico) chocan, resultando en una destrucción ambiental masiva.
-
-#### 📝 Prompt
-
-```
-Un campo de batalla costero masivo donde el océano, la tierra y el cielo chocan. Tres criaturas colosales se enfrentan:
-— un dragón del cielo con escamas metálicas y alas de tormenta
-— un coloso de fuego emergiendo de fisuras volcánicas
-— un leviatán oceánico gigante elevándose desde el mar
-Cuadro inicial: toma amplia de la costa — el océano se agita, el volcán entra en erupción, nubes de tormenta se acumulan arriba.
-Gancho en el segundo dos: las tres criaturas atacan simultáneamente.
-El campo de batalla se fractura en un caos elemental:
-— el dragón genera vientos con fuerza de huracán y relámpagos
-— el coloso de fuego expulsa lava y ondas de choque
-— el leviatán invoca oleadas masivas de marea
-La ciudad entre ellos colapsa bajo las fuerzas combinadas — el agua inunda las calles, el fuego enciende las estructuras, el viento destroza los edificios.
-La cámara recorre a los tres titanes, haciendo zoom rápido hacia las colisiones — fuego encontrándose con agua en nubes de vapor explosivas, relámpagos golpeando terreno fundido.
-Lógica de color: azul océano profundo, rojo-naranja fundido, gris tormenta y blanco eléctrico.
-La escalada aumenta a medida que las tres fuerzas chocan en el mismo punto, desestabilizando toda la costa.
-Golpe final: cambio de POV drástico — la cámara se convierte en la colisión misma de ola-fuego-tormenta, avanzando rápidamente mientras todos los elementos se fusionan en una única explosión catastrófica.
-Destrucción ambiental masiva, interacción física multielemental, escala cinemática, ultra detalle 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0142225cab55cb749fa7a67133b237c0/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video: Campo de batalla del caos elemental">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2810)**
-
-**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fuente:** [Link](https://x.com/LudovicCreator/status/2041218152617369735) | **Publicado:** Apr 6, 2026
-
----
-### Continuación dinámica del lanzamiento del dragón
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt que solicita una continuación cinematográfica y de ritmo rápido de una escena donde un dragón se lanza desde un acantilado con fuerza explosiva, enfatizando el movimiento dinámico de cámara y el seguimiento a alta velocidad.
-
-#### 📝 Prompt
-
-```
-Crea una continuación cinematográfica de ritmo rápido con acción acelerada y movimiento dinámico de cámara. El dragón se lanza instantáneamente desde el acantilado con fuerza explosiva, sin pausas. Las rocas y los escombros se dispersan hacia afuera mientras las alas se despliegan en el aire. La cámara se fija inmediatamente en un seguimiento a alta velocidad.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e14f0ab3450abfa3eafdd6e0bbfc0f25/thumbnails/thumbnail.jpg" width="600" alt="Continuación dinámica del lanzamiento del dragón">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2833)**
-
-**Autor:** [Umair Latif](https://x.com/ulprompts) | **Fuente:** [Link](https://x.com/ulprompts/status/2041216551404417444) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para Seedance 2.0: Mujer cansada en una habitación desordenada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para Seedance 2.0 para generar una toma cenital continua de 15 segundos de una mujer cansada moviéndose lentamente en un entorno estrecho y desordenado, enfocándose en una postura pesada y una expresión distante.
-
-#### 📝 Prompt
-
-```
-FORMATO: 15s / UNA TOMA CONTINUA / seguimiento cenital desde arriba, sin cortes
-
-SUJETOS: Una mujer cansada con una camiseta sin mangas holgada y shorts de dormir, movimiento habitual lento. Delineador ligeramente corrido, pies descalzos, postura pesada, rostro distante.
-ENTORNO: Un espacio estrecho y desordenado
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8b9316dc8a439c857b773e65ec95944d/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Seedance 2.0: Mujer cansada en una habitación desordenada">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2835)**
-
-**Autor:** [Aimi Kōda](https://x.com/aimikoda) | **Fuente:** [Link](https://x.com/aimikoda/status/2041180971630833935) | **Publicado:** Apr 6, 2026
-
----
-### Prueba de animación: Desayuno de la familia Tentáculo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un usuario puso a prueba Seedance 2.0 de CapCut proporcionando tres imágenes de personajes y un prompt detallado de dos partes para generar una animación de 15 segundos sobre una familia con tentáculos desayunando, en la que los padres han cambiado drásticamente de apariencia.
-
-#### 📝 Prompt
-
-```
-Mañana. Cocina. (Personaje 1) manipula hábilmente una sartén con múltiples tentáculos mientras cocina panqueques. A su lado, (Personaje 2) sostiene una tetera con un tentáculo con ventosas, preparando un café aromático. Todos los utensilios de cocina se han transformado en formas orgánicas y de ellos emana un vapor iridiscente. (Personaje 3) murmura: "Mamá y papá, se ven raros", y se queda paralizado en la entrada, observando a sus padres drásticamente cambiados.
-
-Mañana. Cocina. (Personajes 1 y 2) notan a (Personaje 3) y agitan suavemente sus tentáculos, haciéndole señas. Parecen alienígenas, pero sus ojos aún conservan el mismo profundo afecto. (Personaje 1): "Buenos días. ¿Quieres probar nuestros panqueques especiales?". (Personaje 2): "Hoy hay una fiesta de baile en la plaza. Apurémonos para ir juntos". (Personaje 3) sonríe con sorpresa, aliviado por la calidez de sus padres, y piensa: "¡Pueden verse diferentes, pero mamá y papá siguen siendo los mismos!"
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3facfa6606ee8da9997b5c49010661e5/thumbnails/thumbnail.jpg" width="600" alt="Prueba de animación: Desayuno de la familia Tentáculo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2853)**
-
-**Autor:** [はなな🌼](https://x.com/nanohana_hanana) | **Fuente:** [Link](https://x.com/nanohana_hanana/status/2041176167819124869) | **Publicado:** Apr 6, 2026
-
----
-### Cortometraje original de acción de fantasía oscura
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un cortometraje de acción de fantasía oscura ambientado dentro de una iglesia en ruinas, que detalla la batalla final entre un guerrero vestido de blanco y un oponente con armadura negra, centrándose en elementos atmosféricos como vidrieras que se hacen añicos y la luz de la luna.
-
-#### 📝 Prompt
-
-```
-Cortometraje original de acción de fantasía oscura: Dentro de una iglesia en ruinas, un guerrero vestido de blanco y un oponente con armadura negra inician su batalla final en medio de una atmósfera como un coro. Los vitrales se hacen añicos, la luz de la luna penetra a través del humo y el polvo, y los bancos están volcados.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ba8643fdd78c4a5676bd5d143acf0b73/thumbnails/thumbnail.jpg" width="600" alt="Cortometraje original de acción de fantasía oscura">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2832)**
-
-**Autor:** [Mark Gadala-Maria](https://x.com/markgadala) | **Fuente:** [Link](https://x.com/markgadala/status/2041171287196758054) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de transformación estilo blockbuster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt simple de texto a video para Seedance 2.0 que describe una transformación dramática de un autobús a toda velocidad a un mecha T-Rex, enfatizando la física, el detalle mecánico y un trabajo de cámara cinematográfico.
-
-#### 📝 Prompt
-
-```
-Un autobús a toda velocidad ______> Un imponente mecha T-Rex en medio de una tormenta.
-
-Física de la lluvia
-Detalle mecánico.
-Trabajo de cámara cinematográfico que se siente directamente salido de IMAX.🔥
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c6bc7c76295e178c290644bc43eb821/thumbnails/thumbnail.jpg" width="600" alt="Prompt de transformación estilo blockbuster">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2822)**
-
-**Autor:** [Shein | AI](https://x.com/shien119) | **Fuente:** [Link](https://x.com/shien119/status/2041169831370920240) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de Seedance 2.0: Épica de combate bíblico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Seedance 2.0 que solicita una épica de combate bíblico hiperrealista al estilo IMAX con 11 tomas rápidas en 15 segundos, representando la batalla entre un joven pastor y un gigante, utilizando una textura de pintura al óleo con realismo cinematográfico.
-
-#### 📝 Prompt
-
-```
-Épica de combate bíblico hiperrealista, cinematografía IMAX, escala al estilo Ridley Scott. 11 tomas rápidas en 15 segundos. La batalla imposible: joven pastor contra gigante de 2.7 metros. Una piedra. Textura de pintura al óleo con realismo cinematográfico. Sin diálogos. Banda sonora de percusión intensa. Color: armadura de bronce,
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be7658edc6d8346bf6d1a3896a349875/thumbnails/thumbnail.jpg" width="600" alt="Prompt de Seedance 2.0: Épica de combate bíblico">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2837)**
-
-**Autor:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211) | **Fuente:** [Link](https://x.com/Ankit_patel211/status/2041166491010408520) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video de pelea cinemática de Kunoichi para Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de acción continua y detallado para Seedance 2.0, que genera una secuencia de pelea ultracinemática de 15 segundos protagonizada por una kunoichi en el patio de un templo japonés nevado, enfatizando el trabajo de cámara agresivo a corta distancia, coreografía de gun-fu y transiciones fluidas.
-
-#### 📝 Prompt
-
-```
-secuencia de acción continua ultracinemática de 15 segundos, una kunoichi letal con un elegante traje de combate se encuentra en el patio nevado de un templo japonés, sosteniendo una pistola en cada mano, control absoluto y enfoque letal antes de un enfrentamiento explosivo instantáneo
-sistema de proximidad ultra inmersivo, seguimiento de cuerpo + órbita cerrada + acercamientos agresivos, la cámara permanece extremadamente cerca del personaje, barridos rápidos y transiciones con desenfoque de movimiento ocultas por el movimiento corporal, destellos de disparo y ráfagas de nieve, ilusión de toma continua completa
-
-progresión de la acción:
-(0-2s) acercamiento cerrado desde detrás del hombro, la kunoichi inclina ligeramente la cabeza, los enemigos se abalanzan, reacción instantánea
-(2-5s) combate a corta distancia, ella se acerca a los enemigos, pistolas duales disparando a quemarropa, apuntando con precisión a la altura de la cabeza, giros corporales fluidos, mínimo movimiento desperdiciado
-(5-8s) flujo de gun-fu encadenado, ella gira entre los enemigos, disparando mientras redirige los cuerpos, usando el impulso, la cámara orbitando estrechamente alrededor de su centro de masa
-(8-11s) micro-momento en cámara lenta, esquiva por poco, cuerpo inclinándose hacia los lados mientras dispara simultáneamente
-(11-13s) re-enfrentamiento rápido, recarga fluida integrada en el movimiento, continuación inmediata de disparos precisos, enemigos colapsando en secuencia
-(13-15s) momento final de dominio, el último enemigo se acerca, ella da un paso adelante y dispara tiros controlados, luego baja las pistolas con calma, permaneciendo quieta mientras la nieve cae a su alrededor
-
-Patio de templo japonés tradicional, arquitectura de madera, techos cubiertos de nieve, luz diurna brillante reflejándose intensamente en la nieve, partículas a la deriva, diseño limpio para un combate cercano claro
-Ultrarrealista, coreografía de gun-fu al estilo John Wick, disparos tácticos hiperprecisos, retroceso y tiempos realistas, combate intenso a corta distancia, acentos cinemáticos en cámara lenta, iluminación de alto contraste, partículas de nieve volumétricas, transiciones fluidas, sin distorsión, sin estiramiento
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78db20db3364ea3d1844158d326a69fe/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de pelea cinemática de Kunoichi para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2819)**
-
-**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fuente:** [Link](https://x.com/CharaspowerAI/status/2041161533657407561) | **Publicado:** Apr 6, 2026
-
----
-### Descenso hiperrealista en escaleras con FPV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado y de varias partes diseñado para Seedance 2.0, con el fin de generar un video FPV hiperrealista, de alta energía y en toma continua de un ciclista navegando por un caótico descenso de escaleras en un entorno denso de ladera brasileña.
-
-#### 📝 Prompt
-
-```
-FORMATO: 15s / 180 BPM / UNA TOMA CONTINUA / Descenso de escaleras en POV 360, energía viral, caos máximo. SUJETOS: Ciclista en primera persona, manubrio y rueda delantera destellando en la parte baja del encuadre durante saltos y giros cerrados. Vendedores, ropa tendida, scooters, perros, pollos, autos y peatones irrumpen alrededor del ciclista como obstáculos repentinos. ENTORNO: Calles densas en laderas brasileñas, escaleras de concreto pintado, descansos estrechos, esquinas con azulejos, cables colgantes, murales, toldos, charcos, luz intensa de tarde, sombras profundas en callejones, ciudad extendiéndose abajo. ESTADO DE ÁNIMO: Adrenalina, caos máximo y velocidad callejera ininterrumpida con una intensidad espacial violenta en todas direcciones. LÓGICA DE COLOR: Estilo Pop hiperrealista. DETALLES DE CÁMARA: POV de cámara de acción 360, horizonte estable pero brutal, avance frontal constante, balanceo mínimo, vibración intensa por escaleras, paralaje lateral y trasero nítido, caos de esfera completa, sin cortes. LÍNEA DE TIEMPO: 0:00-0:03: El POV cae en picada por una escalera empinada. La rueda delantera golpea los primeros escalones, el manubrio vibra violentamente bajo el encuadre, toda la esfera se estremece con cada impacto mientras un niño se lanza desde la izquierda para quitar un balón de fútbol de la trayectoria del ciclista; paredes, barandales, balcones y rostros pasan a toda velocidad por ambos lados. Descenso frontal violento con vibración brutal por las escaleras. SFX: (zumbido de ciudad, ritmo funk distante, traqueteo de neumáticos, respiración, golpes rápidos en escaleras, vibración del cuadro). Sol intenso arriba, sombras profundas abajo. 0:03-0:05: El POV gira bruscamente a la izquierda a través de un pequeño descanso, salta sobre una caja rota y cae de nuevo mientras la ropa tendida cruza el hemisferio frontal, el hombro pasa a centímetros del concreto pintado mientras los espectadores a los lados retroceden. Sacudida lateral fuerte, regreso inmediato al descenso de escaleras. SFX: (golpe de tela, derrape, gritos de la multitud, zumbido de cadena, traqueteo de escaleras). 0:05-0:08: El POV golpea la siguiente escalera mientras un perro callejero cruza el centro del encuadre y pollos asustados salen volando desde los escalones laterales, con las alas extendidas por toda la esfera. El ciclista mueve el manubrio, la rueda trasera patina, luego se abre paso entre un puesto de frutas y un barandal con casi nada de espacio mientras la esfera se agita con cada impacto. Caos de toma continua con vibración rápida. SFX: (chirrido de neumáticos, golpe de caja, aleteo, graznidos, patas sobre el suelo, golpes en escaleras, bajos desde una ventana, traqueteo de metal). 0:08-0:10: El POV sale disparado de un tramo de escaleras, salta sobre un pequeño espacio de asfalto entre dos secciones sin reducir la velocidad, golpea el bordillo opuesto y cae directamente en los siguientes escalones. Solo cuando el ciclista vuelve a las escaleras, las bocinas estallan detrás mientras los autos pasan a toda velocidad por el costado. Cruce a máxima velocidad con fuerte paralaje lateral y sin pausas. SFX: (motor en ralentí, zumbido de neumáticos, traqueteo de cadena, golpe en el bordillo, bocinas de autos detrás). 0:10-0:13: El POV continúa atacando la siguiente sección de escaleras inmediatamente después del espacio de asfalto, avanzando como ametralladora a través de dos descansos estrechos y otro callejón empinado, cada impacto enviando una sacudida a través de la esfera mientras...
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27afe9ffb49cfbca969990a6a6a00f1c/thumbnails/thumbnail.jpg" width="600" alt="Descenso hiperrealista en escaleras con FPV">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2807)**
-
-**Autor:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Fuente:** [Link](https://x.com/IqraSaifiii/status/2041160745778585662) | **Publicado:** Apr 6, 2026
-
----
-### Guerrera con traje táctico a alta velocidad
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado que describe a una guerrera con un traje táctico oscuro y ajustado, centrándose en los detalles visuales de su cabello y su vestimenta bajo la resistencia del aire a alta velocidad. Este es un prompt de generación de video para una secuencia de acción cinematográfica.
-
-#### 📝 Prompt
-
-```
-Una guerrera con cabello a la altura de los hombros, con las puntas naturalmente volteadas hacia afuera, presionadas hacia atrás y ligeramente despeinadas por la resistencia del aire durante un movimiento a alta velocidad. Viste un traje táctico oscuro y ajustado que combina tela real con elementos de metal desgastado, con
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e8e66ab6427bdff722b4d66fdbe414ea/thumbnails/thumbnail.jpg" width="600" alt="Guerrera con traje táctico a alta velocidad">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2828)**
-
-**Autor:** [Latte](https://x.com/0xbisc) | **Fuente:** [Link](https://x.com/0xbisc/status/2041152434173772146) | **Publicado:** Apr 6, 2026
-
----
-### Escena de acción cyberpunk: Prompt de caída libre e intercepción de vehículo (Capítulo 2)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt complejo y de múltiples capítulos para Seedance 2.0, que detalla una secuencia de acción cyberpunk de alto octanaje. Este extracto se centra en el Capítulo 2 (0-15 segundos), que involucra a una protagonista cibernética con traje blanco en una caída libre vertical a alta velocidad sobre Chongqing, y la dramática intercepción por parte de un vehículo Huawei AITO R7 de color púrpura. El prompt especifica un estilo realista y crudo de 35 mm con cámara en mano, seguimiento continuo en una sola toma y detalles de física y efectos de sonido.
-
-#### 📝 Prompt
-
-```
-Capítulo 2 (0–15 segundos): Caída libre · El AITO R7 púrpura entra en escena Estilo: Estilo de realismo crudo, utilizando metraje real, cámara en mano de 35 mm, con un sutil movimiento natural y grano de película. Cámara: Toma de seguimiento en tercera persona continua (sin cortes), seguimiento vertical a alta velocidad durante toda la secuencia, sin cortes. Iluminación: Sol de mediodía deslumbrante y de alto contraste en Chongqing, fuerte resplandor reflejado en la superficie del río, niebla urbana entrelazada con luces y sombras. Efectos de sonido: Efectos de sonido espacial inmersivos: zumbido bajo de la ingravidez en caída libre, fortalecimiento continuo del silbido del viento cortante, ruido del viento reflejándose en el muro cortina de cristal de Raffles City, vibración de las articulaciones mecánicas en el flujo de aire, rugido repentino y fuerte de transmisión mecánica a lo lejos, sonido de energía cibernética rompiendo el aire, rugido del motor entrando repentinamente en la escena. [Referencia/Descripción visual] La protagonista es el mismo personaje femenino de la Imagen 1, conservando todos los detalles de apariencia y vestimenta. La física de la tela del traje blanco y los detalles de deformación aerodinámica de la columna mecánica y los brazos durante la caída libre son el foco de la representación. Un Huawei AITO R7 púrpura se acerca a toda velocidad desde la dirección de la superficie del río Chaotianmen, su carrocería emite un halo de energía azul-púrpura cibernético, interceptando a la protagonista con precisión justo antes del impacto. [Cronología por segundos] 0–6 segundos: [Descenso extremo · Profundidad urbana] La protagonista cae verticalmente a una velocidad extremadamente alta, la cámara constantemente fijada en su espalda y costado. Los muros cortina de cristal de los rascacielos de Raffles City vuelan rápidamente hacia arriba a ambos lados, las calles de la ciudad y la superficie del río Yangtsé se agrandan rápidamente debajo. El viento distorsiona severamente la tela del traje blanco y el exoesqueleto mecánico, los brazos mecánicos se extienden hacia los lados para mantener el equilibrio y la coleta flota completamente horizontal. Desenfoque de movimiento extremo, el suelo acercándose rápidamente, sensación realista de ingravidez. 6–10 segundos: [Halo distante · El púrpura entra en escena] Aproximadamente a 200 metros sobre el suelo, un rayo de luz púrpura se desplaza desde la dirección de la autopista junto al río Chaotianmen: la carrocería del Huawei AITO R7 púrpura emite un halo de energía azul-púrpura cibernético, descendiendo a través del aire a una velocidad increíble, dejando un rastro de energía púrpura que corta la bruma del mediodía de Chongqing, el rugido del motor estalla repentinamente y llena la banda sonora. 10–15 segundos: [Trayectoria de intercepción · Acercamiento preciso] La cámara cambia a un gran angular lateral, siguiendo a ambos simultáneamente: el AITO R7 púrpura intercepta con precisión justo debajo de la trayectoria de caída de la protagonista. Ambos se acercan rápidamente, la distancia se acorta drásticamente en una cuenta regresiva. El halo de energía de la carrocería del coche se intensifica, el sonido de la transmisión mecánica estalla repentinamente a su máxima intensidad y el encuadre se congela en el momento de extrema tensión 0,5 segundos antes de la colisión. [Mejora de estilo y calidad] Calidad 8K realista, texturas mecánicas y de efectos de luz de energía ultra finas, rayos divinos cinematográficos (luz volumétrica Tyndall), desenfoque de velocidad perfecto, halo de energía HDR, sin artefactos, efectos físicos multimodales coherentes. . Capítulo 3: Etiquetas de estilo global] [Acción Cyberpunk Hardcore de Hollywood] Estilo de realismo crudo, utilizando cámara de película de 35 mm en mano, con grano de película natural y movimiento sutil. El sol directo y deslumbrante del mediodía de Chongqing crea sombras fuertes de alto contraste y halos. [Definición de personaje y vehículo] Protagonista | Chica cibernética Imagen 1 Estado actual: Sprint de vuelo horizontal, brazos mecánicos extendidos (continuando la imagen de referencia). Vehículo | Huawei AITO R7 púrpura Estado de vuelo no tripulado, daño potencial del motor en el lado derecho preestablecido, admite transformación de medio ala tipo F-14 (solo alas extendidas para aterrizaje de planeo a gran altitud). Accesorios clave del terreno Torre del puente de acero rojo del puente Chaotianmen: A aprox. 80 metros de la trayectoria de vuelo, la mayor amenaza en toda la película Superficie de la carretera junto al río Chongqing: Carretera plana junto al río, punto de aterrizaje para el final del Capítulo 3 Superficie del río Yangtsé: Referencia de altitud de todo el recorrido y fondo reflectante [Arco emocional de tres actos] Capítulo 1 (Colisión contra el coche · Estableciendo el caos) → Capítulo 2 (Pérdida de sustentación y giro · Superando la adversidad) → Capítulo 3 (Picado rozando la torre · Aterrizaje con transformación · Final de contraste) Conecta con la Imagen 2, extendida por 15 segundos. Capítulo 1 (0–15 segundos): Volando a través de la ventana para tomar el control · Estableciendo el caos aéreo Estilo: Realismo crudo, 35 mm en mano, fuerte contraluz de mediodía. Cámara: Vista de sprint sobre el hombro de la protagonista ↔ Gran angular lateral del coche ↔ Vista cenital con el fondo del río Yangtsé, cortes multiángulo para crear un impacto extremo. Velocidad de fotogramas: Segmento de sprint a velocidad normal → Abrir la puerta lateral del coche y entrar al coche a velocidad normal. Efectos de sonido: Silbido fuerte del flujo de aire → Zumbido de carga del brazo mecánico → Alarma del coche sonando repentinamente → Zumbido bajo de temblor metálico continuo [Cronología por segundos] 0–4 segundos: [Sprint volador · Colisión a contraluz] Continuando la imagen de referencia: la protagonista corre horizontalmente, brazos mecánicos extendidos, el contraluz del mediodía corta las siluetas de ambos en sombras fuertes, la superficie del río Yangtsé se refleja ampliamente en la mitad inferior del encuadre, el arco del puente Chaotianmen es claro. La cámara se fija en el AITO R7 desde detrás del hombro de la protagonista: el halo de energía azul-púrpura se extiende, la distancia entre ambos se acorta rápidamente, el flujo de aire presiona la coleta y el dobladillo del traje de la protagonista completamente planos horizontalmente. 4–7 segundos: La protagonista trepa al capó del coche con ambas manos, luego se mueve hacia el costado del coche, abre la puerta y la parte superior del cuerpo entra en el vehículo. Velocidad normal: La parte superior del cuerpo de la protagonista ya está dentro del coche, las piernas aún suspendidas afuera, el dobladillo del traje blanco ondeando violentamente en el flujo de aire a alta velocidad, botas mecánicas plateadas balanceándose en el flujo de aire. 7–11 segundos: [Toma de control forzada · Sistema de bloqueo] El brazo mecánico de la protagonista agarra el reposacabezas del asiento para estabilizar su cuerpo (solo la parte superior del cuerpo está dentro), la pantalla HUD muestra una alerta azul completa, ella golpea la consola central con la otra mano: todas las alertas se apagan, cambio forzado al modo manual. El coche se estabiliza durante 2 segundos completos. 11–15 segundos: [Detalle de contraste · Ajustando el traje] Un vendaval de 180 km/h entra al coche por la ventana. Después de sentarse, ella baja la cabeza y ajusta cuidadosamente el cuello de su traje con dedos mecánicos, luego mira hacia arriba: el marcador de advertencia rojo para la torre del puente Chaotianmen se agranda rápidamente en la pantalla HUD, distancia mostrada: 78 metros. Su boca se contrae ligeramente y agarra el volante.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/537941b81f7e8cb76ac45f2966323ddb/thumbnails/thumbnail.jpg" width="600" alt="Escena de acción cyberpunk: Prompt de caída libre e intercepción de vehículo (Capítulo 2)">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2850)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fuente:** [Link](https://x.com/john87445528/status/2041148666350587947) | **Publicado:** Apr 6, 2026
-
----
-### Replicación del efecto de transformación de belleza de zorro de Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de Seedance 2.0 diseñado para replicar un popular efecto de video corto: una transformación de fantasía oscura de una joven asiática en un zorro de nueve colas y viceversa. El prompt especifica el estilo cinematográfico, la duración, las transiciones de escena, los detalles del personaje y la lógica detallada de la transformación con marcas de tiempo y efectos especiales (disolución de partículas, materialización, disolución dorada).
-
-#### 📝 Prompt
-
-```
-[Estilo] Transformación de fantasía oriental oscura, textura cinematográfica, ultra nítido 8K, fotorrealista, corrección de color de alto nivel DaVinci [Duración] 12 segundos [Escena] Pasillo de hogar moderno y brillante (Toma 1) → Sala de estar tenue · Sofá de terciopelo oscuro (Tomas 2-3) [Personaje] Mujer asiática joven, cabello largo negro,
-Imagen 1
-[00:00-00:01] Toma 1: Disolución de partículas. Plano medio, pasillo de hogar brillante. La mujer está de pie en el centro, mirando directamente a la cámara, vistiendo una camisa de manga corta azul oscuro y pantalones cortos negros. Un deslumbrante halo mágico rojo se eleva rápidamente desde sus pies, envolviendo su cuerpo de abajo hacia arriba (Efecto de anillo mágico rojo). Donde el halo pasa, el cuerpo se desintegra instantáneamente en partículas rojas brillantes que giran rápidamente (Explosión de partículas), y la persona completa se transforma en una esfera de partículas rojas que gira a alta velocidad. [00:01-00:04] Toma 2: Materialización del zorro de nueve colas. La esfera de partículas rojas viaja rápidamente desde la entrada del pasillo hacia la sala de estar tenue (Desplazamiento de partículas), dejando una estela de luz roja. Las partículas golpean la superficie del sofá de terciopelo oscuro, estallan y se contraen rápidamente hacia adentro, convergiendo luz y sombra para materializarse en un zorro gigante de nueve colas negro que yace sobre el sofá. Llamas mágicas mezcladas de color rojo y púrpura arden alrededor del zorro (Simulación de fuego realista), con las llamas surgiendo cerca del pelaje. Runas brillantes doradas fluyen y parpadean lentamente sobre la superficie de su cuerpo. Nueve colas gigantes y esponjosas se extienden naturalmente, con micro-luces rojas en las puntas. La cámara se acerca lentamente hacia el rostro del zorro, sus pupilas ámbar brillan en la luz tenue. [00:04-00:12] Toma 3: Humanización del espíritu zorro (Dolly in lento). Todo el cuerpo del zorro de nueve colas brilla en dorado, transformándose en un cielo lleno de partículas de fuego doradas que se disipan hacia arriba (Efecto de disolución dorada). A medida que la luz dorada se desvanece, la figura de una mujer acostada de lado aparece suavemente en el sofá. Peinado de doble moño, vistiendo un vestido ajustado tipo bustier de color rojo púrpura, con un chal negro transparente sobre él. Descalza, tez clara, lápiz labial rojo intenso, ojos fríos y afilados mirando directamente a la cámara. Iluminación lateral fría, un lado brillante y otro oscuro. La cámara se acerca lentamente desde un plano medio hasta un primer plano facial (Dolly in ultra lento), congelándose finalmente en los ojos, donde un rastro de luz de fuego roja residual se refleja tenuemente en las pupilas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b018e837572c94203a5d65133b97f93f/thumbnails/thumbnail.jpg" width="600" alt="Replicación del efecto de transformación de belleza de zorro de Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2841)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041146946681721113) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de secuencia de desastre cinematográfico para Seedance 2.0 Fast
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de múltiples tomas para Seedance 2.0 Fast, diseñado para generar una secuencia de destrucción cinematográfica de alta intensidad y ultra realista en una ciudad moderna, utilizando un movimiento hacia adelante agresivo, una cámara de persecución en mano y momentos imposibles de colapso arquitectónico.
-
-#### 📝 Prompt
-
-```
-Secuencia de destrucción cinematográfica ultra realista, ciudad moderna densa, peligro físico extremo, movimiento hacia adelante agresivo, cámara de persecución en mano, arquitectura colapsando, interacción con escombros, polvo volumétrico, ondas de choque, sin estabilidad, sin zonas seguras, ritmo de alta intensidad, solo cortes directos, sin fundidos, sin disolvencias, sin transiciones de transformación.
-Toma 1: La cámara ya está corriendo hacia adelante por una calle de la ciudad, gente corriendo al lado, estruendo distante que crece rápidamente
-Corte a Toma 2: Un edificio adelante se comprime repentinamente hacia adentro como si fuera aplastado por una fuerza invisible, lanzando escombros hacia afuera
-Corte a Toma 3: La cámara esquiva cristales y concreto que caen, girando bruscamente hacia un lado, evitando el impacto por poco
-Corte a Toma 4: La calle detrás comienza a colapsar hacia adentro, el asfalto se pliega y arrastra todo hacia atrás
-Corte a Toma 5: ACCIÓN TOTAL, toda la fachada del edificio se desplaza hacia adelante a través de la calle, la cámara se sumerge bajo los escombros que caen
-Corte a Toma 6: El espacio adelante comprime la distancia visualmente, encogiéndose, los edificios se inclinan uno hacia el otro
-Corte a Toma 7: MOMENTO IMPOSIBLE, la cámara corre a través de una brecha que se estrecha mientras dos rascacielos chocan detrás
-Corte a Toma 8: El suelo se levanta violentamente, volcando autos, la cámara tropieza pero sigue moviéndose
-Corte a Toma 9: Final, todo colapsa hacia adentro hacia un único desastre, la cámara es arrastrada hacia él en plena carrera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4cc47d41fe24e7bee4529bf7c436fa5/thumbnails/thumbnail.jpg" width="600" alt="Prompt de secuencia de desastre cinematográfico para Seedance 2.0 Fast">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2816)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2041145902077813177) | **Publicado:** Apr 6, 2026
-
----
-### Estructura de prompt JSON para vuelo FPV macro de hada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una plantilla de prompt JSON altamente detallada y estructurada para Seedance 2.0, diseñada para generar un video FPV intenso y lleno de adrenalina de un hada volando caóticamente a través de un entorno macro, culminando en un encuentro con la nariz de un cachorro gigante.
-
-#### 📝 Prompt
-
-```
-{
-"cinematography": {
-"camera_perspective": "toma de seguimiento FPV macro extrema, cámara fijada firmemente a la espalda del hada, sincronizada con la frecuencia del aleteo",
-"lens": "lente sonda de 8mm ultra gran angular macro, distorsión de perspectiva extrema, las briznas de hierba parecen rascacielos imponentes en los bordes del encuadre",
-"depth_of_field": "profundidad de campo muy reducida (f/1.4 simulado)",
-"effects": [
-"desenfoque de movimiento radial",
-"bokeh en primer plano por partículas de polen y polvo de rápido movimiento",
-"cambios de enfoque dinámicos debido al vuelo a alta velocidad"
-]
-},
-"motion_dynamics": {
-"flight_path": "tejido caótico y no lineal a alta velocidad a través de tallos de hierba gigantes, cambios rápidos de dirección, esquivando pétalos de lado",
-"actions": [
-"giro de barril de 360 grados a través de un arco de enredadera brillante masivo"
-],
-"speed_ramping": "efecto de dilatación temporal, cámara lenta a 120fps al pasar gotas de rocío que muestran el micro mundo reflejado, luego aceleración repentina a 2.5x hacia el objetivo distante",
-"camera_motion": "cámara en mano de alta frecuencia causada por la presión del viento y la velocidad"
-},
-"environment": {
-"setting": "mundo de pastizales macro donde cada brizna de hierba se asemeja a una ola verde masiva con texturas de venas detalladas",
-"flora": "las flores aparecen como grandes palacios flotantes, partículas de polen flotando en el aire",
-"scale": "contraste de tamaño extremo, sujeto micro en un entorno natural gigantesco",
-"interaction": [
-"el flujo de aire de las alas del hada hace que la hierba cercana se balancee suavemente",
-"al aterrizar, el aliento del cachorro crea un micro vórtice visible que afecta el cabello y las alas del hada"
-],
-"final_target": "una nariz de cachorro gigante que se asemeja a una montaña volcánica negra masiva con textura orgánica húmeda"
-},
-"lighting": {
-"time": "luz solar cálida de la tarde",
-"style": "atmósfera de cuento de hadas, cinematográfica y de ensueño con luz moteada y sombras",
-"material_response": [
-"dispersión subsuperficial en las briznas de hierba, verde translúcido brillante bajo contraluz",
-"las alas del hada son semitransparentes como alas de cigarra con colores de interferencia iridiscentes",
-"la nariz del cachorro es húmeda, irregular, ligeramente reflectante con textura de cuero"
-]
-},
-"physics": {
-"wind": "fuerte interacción del flujo de aire por el vuelo a alta velocidad",
-"particles": "polen y polvo flotantes que reaccionan al movimiento",
-"breath_simulation": "flujo de aire visible suave desde la nariz del cachorro creando micro turbulencias"
-},
-"mood": {
-"emotion": "intensa, llena de adrenalina, aventura emocionante",
-"immersion": "fuerte sentido de contraste de escala, impacto visual de 'mundo pequeño vs masivo'",
-"tone": "fantástico, cinematográfico, impresionante"
-}
-}
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72529b2cab63636c413a42ff478497ef/thumbnails/thumbnail.jpg" width="600" alt="Estructura de prompt JSON para vuelo FPV macro de hada">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2813)**
-
-**Autor:** [el.cine](https://x.com/EHuanglu) | **Fuente:** [Link](https://x.com/EHuanglu/status/2041132328655954201) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de animación de pelea de stickman 2D para Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado y de múltiples escenas para generar una animación de pelea de stickman de la vieja escuela, brutal, estilizada y fluida, usando Seedance 2.0. El prompt especifica el estilo, diseño de personajes, entorno, tipos de enemigos, trabajo de cámara y una línea de tiempo precisa de 12 segundos con acciones e impactos.
-
-#### 📝 Prompt
-
-```
-ESTILO: Animación 2D de stickman limpia con líneas finas y seguras, sin sombreado, sin texturas, sin diálogos, sin subtítulos. Solo líneas de velocidad, cuadros de desenfoque (smear frames), anillos de impacto, marcas de derrape y pequeños acentos de sangre roja y afilada en los golpes más fuertes. Energía brutal, estilizada y fluida de las peleas de stickman de la vieja escuela de internet. PERSONAJE PRINCIPAL: Un stickman artista marcial de color negro sólido con una cinta de kung-fu atada en la frente, con los extremos de la cinta ondeando durante el movimiento. Es calmado, preciso, letal y nunca deja de moverse hacia abajo por la escalera. Su estilo combina kung-fu, patadas de taekwondo, codazos, redirecciones, pasos por la pared, contraataques asistidos por la escalera y combos encadenados rápidos. ENTORNO: Un interior de edificio en corte transversal dibujado con líneas negras finas sobre un fondo blanco. Escaleras, descansos, puertas y pasillos visibles. El héroe sigue descendiendo piso por piso mientras pelea sin parar. Los enemigos derrotados pueden permanecer como cuerpos de colores en los pisos superiores. ENEMIGOS: Cada piso tiene un nuevo stickman de color con un estilo único. Morado: luchador aéreo acrobático, patadas giratorias, rebotes en la pared. Rojo: boxeador, ganchos pesados, combos de presión. Azul: luchador evasivo de contraataque, barridas, esquivas, golpes de intercepción. Verde: pateador de largo alcance, piernas látigo, ataques de embestida. Amarillo: luchador de agarre (grappler), clinch, derribos, intentos de azotar. Naranja: luchador berserker, embestidas de codos y choques de hombro. Enemigo final: oponente espejo de élite oscuro con un borde blanco fino, calmado y técnico. CÁMARA: Principalmente tomas abiertas de perfil que muestran claramente la geometría de la escalera. Cortes rápidos pero legibles, paneos rápidos (whip pans) ocasionales, acercamientos cortos, énfasis en los choques. LÍNEA DE TIEMPO: 0:00-0:02 - Toma abierta. El héroe corre hacia abajo desde el piso superior. El enemigo morado salta desde arriba. El héroe esquiva una patada voladora, pisa el barandal, gira y conecta una patada lateral fuerte que lanza al morado a través del descanso. 0:02-0:04 - Corte en la acción. El héroe se desliza por el pasamanos y aterriza en el siguiente piso. El enemigo rojo irrumpe por una puerta lanzando ganchos. El héroe esquiva, bloquea, conecta un rodillazo en las costillas y termina con una patada giratoria hacia atrás. Pequeña mancha roja en el impacto. 0:04-0:06 - Paneo rápido hacia abajo. El enemigo azul ataca bajo en las escaleras con una barrida. El héroe salta sobre ella, corre dos pasos por la pared, cae hacia atrás con un codazo, redirige el contraataque del azul y lo lanza sobre el barandal. 0:06-0:08 - Corte seco. El enemigo verde ataca con patadas de largo alcance en el descanso. El héroe esquiva una patada látigo, atrapa la pierna, pisa la rodilla de apoyo y lanza una patada ascendente que envía al verde hacia atrás a través de la puerta. 0:08-0:10 - Corte en el impacto. El enemigo amarillo embosca desde la esquina y agarra al héroe en un clinch. El héroe conecta codazos cortos, pisa el barandal, gira sobre el agarre y azota al amarillo de cara contra las escaleras. 0:10-0:12 - Latigazo fuerte hacia abajo. El enemigo naranja carga hacia arriba como un ariete. Chocan en la escalera en un combo salvaje y rápido: bloqueo, codazo, rodillazo, esquiva, patada, empujón, rebote en el barandal, golpe recto, codazo giratorio, pisotón, cruzado, patada final al pecho. El naranja choca contra el m
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5d1b4d68c1334e0788b4fe6887540d3d/thumbnails/thumbnail.jpg" width="600" alt="Prompt de animación de pelea de stickman 2D para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2824)**
-
-**Autor:** [Ertan Dönmez | Ai Master](https://x.com/ertanlabs) | **Fuente:** [Link](https://x.com/ertanlabs/status/2041126984705597807) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para video de batalla de fantasía oscura en FPV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt diseñado para Seedance 2.0 para generar una secuencia de video cinematográfica de fantasía oscura desde una perspectiva en primera persona (FPV), que incluye poderes psíquicos y combate contra monstruos.
-
-#### 📝 Prompt
-
-```
-Poderes psíquicos, combate contra monstruos, destrucción y escala cinematográfica, todo desde un solo prompt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8660f04f30d035060afb212e437c6b2/thumbnails/thumbnail.jpg" width="600" alt="Prompt para video de batalla de fantasía oscura en FPV">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2811)**
-
-**Autor:** [MayorkingAI](https://x.com/MayorKingAI) | **Fuente:** [Link](https://x.com/MayorKingAI/status/2041125333802574228) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para una escena japonesa surrealista con cazarrecompensas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para Seedance 2.0 que genera una escena japonesa surrealista con estética manga, que incluye a un pianista musculoso y dos cazarrecompensas en un entorno de cerezos en flor, utilizado para una prueba de comparación.
-
-#### 📝 Prompt
-
-```
-Una escena japonesa surrealista en tonos rosa y pastel con estética manga. Composición de la escena: fondo con efecto bokeh de cerezos en flor y pétalos flotando suavemente. Cámara estática con enfoque nítido en el plano medio, donde se ve a un pianista musculoso de espaldas, vestido con esmoquin y tocando un piano de cola. A la derecha del encuadre, un cazarrecompensas de aspecto genial, vestido con una chaqueta y pantalones azul oscuro, toca suavemente una guitarra. A la izquierda del encuadre, una cazarrecompensas vestida con un conjunto de cuero amarillo y una camisa roja de manga corta toca elegantemente un violín. En primer plano, columnas romanas con efecto bokeh a ambos lados del encuadre.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e70348bd3a0e798a823aef59dc20cc5c/thumbnails/thumbnail.jpg" width="600" alt="Prompt para una escena japonesa surrealista con cazarrecompensas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2808)**
-
-**Autor:** [Ash](https://x.com/asheem01) | **Fuente:** [Link](https://x.com/asheem01/status/2041123008283046113) | **Publicado:** Apr 6, 2026
-
----
-### Prompt detallado de Seedance 2.0 para una chica zorro bailando
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt altamente detallado y dividido en varias secciones para usar con Seedance 2.0 de LitVideo, diseñado para generar un video de una chica zorro de cabello azul realizando un baile enérgico y saltarín en un entorno de santuario japonés.
-
-#### 📝 Prompt
-
-```
-Usa @Image1 como referencia del personaje. Mantén el diseño del personaje, el peinado, las orejas, la cola, el atuendo y los colores perfectamente consistentes.
-
-【Sujeto】
-
-Una chica zorro de cabello azul con una melena larga y fluida, grandes orejas de zorro esponjosas y una cola enorme y esponjosa.
-Lleva un atuendo inspirado en una doncella de santuario (miko) con mangas sueltas y una falda corta.
-Se encuentra en un santuario japonés con un torii rojo y hojas de otoño cayendo a su alrededor.
-Su expresión es juguetona, enérgica y ligeramente pícara.
-
-【Acción】
-
-Realiza un baile enérgico y saltarín con frecuentes movimientos de salto.
-
-Saltos ligeros repetidos al ritmo (pyon pyon)
-Las rodillas se flexionan profundamente antes de cada salto para lograr un movimiento natural
-El cabello, las mangas y la cola rebotan dinámicamente siguiendo las leyes de la física
-La cola se balancea con un movimiento de seguimiento exagerado
-Giro de 360° rápido a mitad del salto
-Aterriza suavemente y hace la transición inmediata al siguiente salto
-Los brazos se balancean ampliamente y luego se retraen para ganar impulso
-Termina con un salto alto y una pose juguetona al aterrizar
-
-👉 Instrucciones importantes de estabilización
-
-Flexión de piernas clara y control del peso al aterrizar
-Gravedad natural y arcos de salto fluidos
-Sin distorsión corporal durante el tiempo en el aire
-La cola sigue un movimiento secundario retardado
-【Cámara】
-Horizontal 16:9, 15 segundos
-Inicio: toma amplia de cuerpo completo (mostrar todo el cuerpo para confirmar el salto)
-Ángulo ligeramente bajo para enfatizar la altura del salto
-Seguimiento suave para acompañar el movimiento vertical
-Sutil rebote de cámara en mano sincronizado con los saltos
-Zoom en la sección media durante el salto con giro
-Final: ligero acercamiento (push-in) mientras aterriza en la pose final
-【Estilo】
-Animación anime 2D de alta calidad
-Fluida, con alta consistencia de fotogramas
-Paleta de colores otoñales brillantes (hojas rojas, naranjas y doradas)
-Luz solar suave filtrándose a través de los árboles
-Énfasis en el movimiento de la física de la tela y el volumen de la cola
-Líneas limpias, sombreado ligeramente suave
-Efecto bloom ligero y profundidad de campo
-【Sonido】
-
-Pista de J-pop / electro dance optimista e hiperenérgica (~170 BPM)
-
-Bajo saltarín y bombo contundente
-Melodías de sintetizador brillantes
-Acentos de palmas y caja en los saltos
-Voces femeninas lindas pero enérgicas (frases cortas / cánticos)
-Acentos vocales juguetones tipo zorro como “¡hey!” o “¡yo!”
-Atmósfera ambiental sutil de santuario (viento + hojas)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/77e7a39690491e4dde8b0776dbe198b2/thumbnails/thumbnail.jpg" width="600" alt="Prompt detallado de Seedance 2.0 para una chica zorro bailando">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2851)**
-
-**Autor:** [レイリア](https://x.com/Reiria123) | **Fuente:** [Link](https://x.com/Reiria123/status/2041118339393826933) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video para escena de oficina cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de texto a video para Seedance 2.0, con el objetivo de lograr una atmósfera cinematográfica y tranquila en un entorno de oficina, con movimiento de cámara fluido y calidad fotorrealista.
-
-#### 📝 Prompt
-
-```
-Toma de seguimiento lenta a través de un escritorio de oficina minimalista, taza de café de cerámica humeante liberando suaves volutas de vapor, luz suave de la mañana de lunes entrando a través de cortinas traslúcidas, MacBook limpia y una pequeña suculenta en el encuadre, tonos cálidos beige y madera de roble, atmósfera cinematográfica tranquila, fotorrealista en 4k, movimiento de cámara fluido
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68df234e850af205d38578a916f0eed1/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para escena de oficina cinematográfica">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2821)**
-
-**Autor:** [Lionars](https://x.com/InterestedBrain) | **Fuente:** [Link](https://x.com/InterestedBrain/status/2041097848503009341) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video con transiciones de alta velocidad para Seedance 2.0 Omni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado, escena por escena, para Seedance 2.0 Omni, diseñado para crear un video continuo de 6.0 segundos que demuestra la rutina matutina de un personaje utilizando transiciones de "portal" de alta velocidad y una mecánica de cámara giratoria de 360 grados para cambios de vestuario y acción.
-
-#### 📝 Prompt
-
-```
-Concepto central: Un contraste dramático entre un despertar caótico y un look de oficina profesional y pulido, logrado mediante transiciones de "portal" de alta velocidad y una mecánica de giro continuo.
-
-Mecánica de transición: El golpe al portal: Comienza en la cama. El personaje golpea agresivamente el lente de la cámara para silenciar la alarma, activando un efecto de portal de velocidad warp/whoosh.
-
-El giro: Ella aterriza perfectamente en un taburete giratorio sin respaldo frente a un tocador en la misma habitación. Comienza la rotación continua de 360 grados, con una nueva acción cada vez que mira a la cámara.
-
-Personaje: Una mujer joven con cabello rojo. El prompt utiliza estrictamente "El mismo personaje" para asegurar la consistencia.
-
-Duración total: 6.0 segundos. Cronología y desglose escena por escena:
-
-Escena 1: El golpe a la alarma ( - . | Duración: 2 seg)
-Acción: El mismo personaje duerme profundamente en una cama real, con los ojos completamente cerrados. Tiene el cabello rojo desordenado, un antifaz para dormir subido en la frente y viste pijama. Comienza el sonido fuerte de una alarma. La cámara tiembla y se sacude ligeramente, simulando la vibración de un teléfono.
-Transición (El portal): Sobresaltada por el sonido, se despierta abruptamente, sentándose rápido con una expresión de irritación. En el punto máximo de su movimiento al sentarse, se activa el efecto de "portal", que la "succiona" visiblemente hacia adentro, transformándose inmediatamente en un desenfoque de movimiento de portal rápido con un efecto de distorsión warp/whoosh.
-
-Escena 2: Aterrizaje y cepillado de dientes (.0 - .6 | Duración: 0.6 seg)
-Acción: El mismo personaje. La transición del portal termina cuando aterriza perfectamente sentada en un taburete giratorio sin respaldo frente a su tocador. Todavía lleva puesta su pijama. Mientras gira para mirar a la cámara, ya se está cepillando los dientes con un cepillo eléctrico.
-Transición: Giro continuo inmediato hacia afuera.
-
-Escena 3: Cepillado de cabello (0:2.6 - .2 | Duración: 0.6 seg)
-Acción: El mismo personaje. Gira de nuevo para mirar a la cámara. Ahora está cepillando vigorosamente su cabello rojo con un cepillo.
-Transición: Giro continuo inmediato hacia afuera.
-
-Escena 4: Maquillaje de ojos (.2 - .8 | Duración: 0.6 seg)
-Acción: El mismo personaje. Gira de nuevo para mirar a la cámara. Se está aplicando rápidamente rímel o sombra de ojos con un aplicador, luciendo concentrada.
-Transición: Giro continuo inmediato hacia afuera.
-
-Escena 5: Completamente vestida (.8 - .4 | Duración: 0.6 seg)
-Acción: El mismo personaje. Gira de nuevo para mirar a la cámara.
-Cambio de vestuario: Ahora está vestida instantáneamente con ropa de oficina profesional (por ejemplo, una camisa blanca impecable y un blazer azul marino). Está ajustándose el cuello o los puños.
-Transición: Giro continuo inmediato hacia afuera.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cb0e855f21469f16ef815e5ceb8c36e0/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video con transiciones de alta velocidad para Seedance 2.0 Omni">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2817)**
-
-**Autor:** [Kiber Alla](https://x.com/Kiber_Alla) | **Fuente:** [Link](https://x.com/Kiber_Alla/status/2041092994246328703) | **Publicado:** Apr 6, 2026
-
----
-### Comedia de metraje encontrado: Prompt de video de baile con glitch de sombra
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para Seedance 2.0 para generar un video pseudodocumental (estilo Vlog) de 15 segundos con cámara fija. La trama involucra a una mujer grabando un video de baile sencillo, pero su sombra en la pared realiza repentinamente una rutina de breakdance altamente calificada y completamente diferente, creando un efecto cómico. El prompt utiliza una imagen de referencia para el personaje.
-
-#### 📝 Prompt
-
-```
-[Estilo] Pseudodocumental (estilo Vlog), hiperrealismo, sensación de toma real con cámara fija, luz natural, tono de comedia de suspenso, textura de grabación de pantalla vertical de teléfono móvil [Duración] 15 segundos [Escena] Sala de estar familiar común, frente a una pared blanca, luz lateral de la tarde entrando por la ventana, tapete de yoga en el suelo, sombra humana clara proyectada en la pared [Personaje] Protagonista femenina @Imagen 1, vistiendo chaleco deportivo y pantalones de yoga, cola de caballo, grabando un video de baile frente a un soporte para teléfono [00:00-00:05] Toma 1: Normalidad / Cámara fija Encuadre: Plano medio fijo, perspectiva de selfie de teléfono. Acción: La protagonista hace un gesto de corazón hacia la cámara, luego comienza a bailar un baile popular sencillo de Douyin, movimientos ligeramente poco familiares, mirando ocasionalmente el teléfono en el suelo para verificar los movimientos. Detalle clave: La sombra en la pared es completamente normal y está sincronizada. El fondo está en silencio, solo se escucha la música que suena desde el altavoz Bluetooth. Atmósfera: Completamente normal, sin indicios de anormalidad. [00:05-00:11] Toma 2: El Glitch / Misma cámara fija Acción: La protagonista repite el mismo baile. Al realizar un giro en el medio— Momento culminante (giro principal): La sombra en la pared de repente **no sigue el giro**, sino que cambia a una rutina de baile callejero de alta dificultad (movimiento de potencia de Breaking) por sí sola. La sombra realiza un Thomas flare en la pared, movimientos suaves y fluidos. La protagonista no se ha dado cuenta, continúa con sus pasos de baile sencillos, pero la sombra ha perdido completamente la sincronización y está haciendo un solo salvaje en la pared. Nota del director: La habilidad de baile de la sombra debe superar claramente a la del cuerpo. Cuanto mayor sea el contraste en sus movimientos, más fuerte será el efecto cómico: el cuerpo está haciendo el baile con el gesto de manos "te amo", mientras que la sombra está haciendo un movimiento de molino en el suelo. [00:11-00:15] Toma 3: El remate / Misma cámara fija Acción: La protagonista termina de bailar, revisa la grabación del teléfono, nota la anomalía de la sombra y gira bruscamente la cabeza para mirar la pared. Resultado: La sombra ha vuelto a la normalidad, copiando fielmente cada movimiento de la protagonista. La protagonista levanta lentamente su mano derecha con sospecha, y la sombra también levanta su mano derecha. La protagonista cambia rápidamente a su mano izquierda; la sombra la sigue sin errores. Congelación final: La protagonista tiene una expresión de "¿me estoy volviendo loca?" hacia la cámara, pero en los últimos 0.5 segundos antes de que termine el encuadre, la sombra hace secretamente un signo de paz mientras la protagonista mira a la cámara. El encuadre se congela en este momento.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d4935a96ce785e3b83826b068cfdf312/thumbnails/thumbnail.jpg" width="600" alt="Comedia de metraje encontrado: Prompt de video de baile con glitch de sombra">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2847)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041087879095464375) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de generación de video para Seedance 2.0: Rutina con múltiples escenas y atuendos
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para Seedance 2.0 que especifica una rutina de video de 15 segundos sincronizada a un ritmo de 145 BPM, con 15 tomas distintas. El prompt describe la apariencia del sujeto, dos atuendos diferentes (un look de tarde relajada y un look para salir), y una secuencia de entornos que transicionan desde una sala de estar soleada hasta una escena nocturna en la ciudad.
-
-#### 📝 Prompt
-
-```
-Formato: 15 segundos / 145 BPM / 15 tomas / Rutina sincronizada con el ritmo. Sujeto: @[image1]. Atuendos: Suéter holgado y jeans para una tarde relajada, y un pequeño vestido negro ajustado, tacones de aguja y accesorios delicados para salir. Entorno: Sala de estar soleada y relajada, tocador desordenado pero acogedor, espejo de entrada, puerta de ascensor de metal, seguido de luces de neón de la ciudad por la noche.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c81e5d0c692eee491ea01de1d90a5a0b/thumbnails/thumbnail.jpg" width="600" alt="Prompt de generación de video para Seedance 2.0: Rutina con múltiples escenas y atuendos">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2843)**
-
-**Autor:** [阿越-AY](https://x.com/AyccAI) | **Fuente:** [Link](https://x.com/AyccAI/status/2041083808162959648) | **Publicado:** Apr 6, 2026
-
----
-### Prompt cinemático de movimiento de alta velocidad para Mecha (RAY-G)
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado de múltiples segmentos para Seedance 2.0, diseñado para generar un video de 15 segundos que muestra el movimiento de alta velocidad de un mecha gigante llamado RAY-G (Imagen 1). El estilo es minimalista, de mecha hardcore y con alta tasa de fotogramas, centrándose en la "potencia de ráfaga instantánea" y la "trayectoria aerodinámica", inspirado en Gundam y Metal Gear. El prompt utiliza dos imágenes de referencia y especifica cinco tomas distintas con trabajo de cámara y efectos detallados.
-
-#### 📝 Prompt
-
-```
-Para el mecha gigante <<<Imagen 1>>> (RAY-G) que proporcionaste, he diseñado un guion de video de 15 segundos para movimiento de alta velocidad, con un estilo extremadamente conciso, elegante y que desafía la gravedad.
-
-Este prompt combina la agilidad de "Mobile Suit Gundam: The Witch from Mercury" con la frialdad mecánica de "Metal Gear", centrándose en la **"potencia de ráfaga instantánea" y la "trayectoria aerodinámica".**
-
-Guion de generación de video: [RAY-G: Punto de ruptura]
-Duración total: 15 segundos
-
-Etiquetas de estilo: Minimalismo, mecha hardcore, acción de alta tasa de fotogramas, dinámica de fluidos, estética de cel-shading de alta gama.
-
-(00:00 - 03:00) Prólogo: Potencial estático
-Cámara: Primer plano extremo, composición diagonal.
-
-Visuales: El centro del encuadre son las líneas naranjas sobre la armadura negra mate de la <<<Imagen 1>>>. Las líneas comienzan a parpadear intensa y rítmicamente como vasos sanguíneos, emitiendo un zumbido de alta frecuencia.
-
-Efectos: El aire se distorsiona severamente debido a la alta temperatura (bruma de calor), la superficie del mar de fondo permanece extremadamente quieta, creando un contraste entre el movimiento y la quietud.
-
-[Prompt / Palabras clave]:
-
-Primer plano extremo, composición diagonal. Enfoque en la armadura negra mate del mecha <<<Imagen 1>>>. Líneas naranjas vibrantes parpadean a alta frecuencia como luces de respiración. Vapor blanco a alta presión extremadamente fino sale de las uniones de la armadura. El fondo ambiental está desenfocado. Esquema de color minimalista, textura cinemática, estilo de metal frío y duro.
-
-(03:00 - 06:00) Aceleración instantánea: Rompiendo la barrera del sonido
-Cámara: Toma de seguimiento lateral, acompañada de un fuerte estiramiento (cambio de FOV).
-
-Acción: Las patas traseras similares a las de un pájaro del mecha @image 2 pisan fuerte, las ruedas (Land Spinner) en sus tobillos giran a alta velocidad. Pasa instantáneamente de estar estacionario a velocidad supersónica, cortando una estela blanca recta a través de la superficie del mar.
-
-Efectos: Se genera una nube de cono sónico y una imagen residual naranja traza una línea recta y nítida en el aire.
-
-[Prompt / Palabras clave]:
-
-Seguimiento dinámico lateral. El mecha @image 2 estalla instantáneamente en una carrera. Las ruedas de los tobillos giran a alta velocidad, cortando una enorme estela en forma de V en la superficie del mar. Nube de onda de choque supersónica. Desenfoque de movimiento extremo, el mecha deja una larga trayectoria residual naranja. Sensación de estiramiento espacial, aceleración visualmente impresionante.
-
-(06:00 - 10:00) Maniobra vertical: Inversión de gravedad
-Cámara: Toma dinámica de grúa y órbita.
-
-Acción: El mecha corre hacia una torre costera gigante semidestruida, sin reducir la velocidad, corriendo directamente por la superficie de la pared vertical. Realiza un espectacular giro de barril de 180 grados en la pared vertical para evadir un ataque imaginario.
-
-Efectos: Fragmentos de vidrio roto vuelan en el aire, refractando la luz naranja del atardecer.
-
-[Prompt / Palabras clave]:
-
-Cámara orbital dinámica. El mecha <<<Imagen 1>>> corre a alta velocidad sobre la superficie de un edificio vertical, desafiando la gravedad. El cuerpo realiza un elegante giro de barril. Los fragmentos salpican, reflejando la luz naranja del atardecer. Sombras de alto contraste, estilo de animación cel-shading, diseño de acción altamente dramático.
-
-(10:00 - 13:00) Destacado: Deslizamiento táctico (Slides)
-Cámara: Ángulo extremadamente bajo apuntando a los pies.
-
-Acción: El mecha salta desde un punto alto, sus pies realizan un deslizamiento de larga distancia sobre la superficie del mar. El cuerpo se baja al extremo, presentando una postura similar a la de un depredador.
-
-Efectos: Se levanta una enorme cantidad de neblina de agua, formando un arcoíris bajo la luz del sol.
-
-[Prompt / Palabras clave]:
-
-Ángulo extremadamente bajo. El mecha <<<Imagen 1>>> se desliza con un centro de gravedad bajo sobre la superficie del mar. Enormes olas blancas y neblina de agua. Postura de depredador, operación detallada de las articulaciones mecánicas. Resplandor del atardecer, reflejo metálico, saturación de color extremadamente alta, pureza visual máxima.
-
-(13:00 - 15:00) Epílogo: El resplandor
-Cámara: Primer plano frontal, acercamiento gradual.
-
-Acción: El mecha deja de deslizarse, su cuerpo tiembla ligeramente debido a la inercia. La visera de la cabeza se abre y el ojo monocular central de color azul verdoso brillante mira repentinamente a la cámara.
-
-Efectos: Un breve destello de una interfaz de usuario naranja de "LOCK ON" aparece en la pantalla al final, luego corta a negro.
-
-[Prompt / Palabras clave]:
-
-Primer plano frontal. El mecha @image 2 deja de deslizarse, el vapor se disipa. El ojo monocular azul verdoso de la cabeza se ilumina, nítido y frío. Una interfaz de usuario de bloqueo naranja aparece en el centro de la pantalla. Trabajo de cámara cinemático, la pantalla corta repentinamente a negro.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6946c1df5f7d7477f585588d699d2c05/thumbnails/thumbnail.jpg" width="600" alt="Prompt cinemático de movimiento de alta velocidad para Mecha (RAY-G)">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2849)**
-
-**Autor:** [MiraMusic](https://x.com/MiraMusic_AI) | **Fuente:** [Link](https://x.com/MiraMusic_AI/status/2041071417278754879) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para Seedance 2.0: Secuencia de transformación de Void Lord
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt diseñado específicamente para Seedance 2.0 que detalla una secuencia de transformación titulada 'Void Lord: Total Decay'. El prompt especifica el tema central y la descripción visual para el segmento inicial de 0 a 3 segundos, incluyendo el ángulo de cámara, la acción y los patrones geométricos.
-
-#### 📝 Prompt
-
-```
-Tema central: Void Lord: Total Decay 
-Prompt: 0-3s · Grabado de otro mundo, toma en ángulo contrapicado. La mano derecha de la Entidad del Vacío está incrustada en el altar y aparecen venas oscuras en un patrón geométrico fractal.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b067ff61a99f25e58bd3db6540bb3bb/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Seedance 2.0: Secuencia de transformación de Void Lord">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2844)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2041050710721339521) | **Publicado:** Apr 6, 2026
-
----
-### Estética de cámara de celular en una fiesta rave en una lavandería
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estructurado que define la estética, el audio y la línea de tiempo para un videoclip grabado con una cámara de celular inestable y en ángulo bajo, en medio de una multitud en una fiesta rave dentro de una lavandería, enfocándose en la música house vibrante y los ciclos de centrifugado como percusión.
-
-#### 📝 Prompt
-
-```
-estética: cámara de celular desde el centro de la multitud, ángulo bajo, inestable, energía vertical
-  audio: música house vibrante, bajos que hacen vibrar las puertas de las lavadoras, ciclos de centrifugado como percusión, gritos de la multitud
-  línea de tiempo:
-    - "0-3s: El celular atraviesa una puerta hacia una lavandería intensamente iluminada.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8964c7cde52b14aff50bebf1ae7f9a51/thumbnails/thumbnail.jpg" width="600" alt="Estética de cámara de celular en una fiesta rave en una lavandería">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2834)**
-
-**Autor:** [Alex Patrascu](https://x.com/maxescu) | **Fuente:** [Link](https://x.com/maxescu/status/2041047577257541705) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video para montaje de fiesta en piscina de verano
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt altamente detallado de múltiples tomas para Seedance 2.0, diseñado para generar un video de montaje de 15 segundos de una fiesta en la piscina en verano. El prompt especifica cortes rápidos, resolución 4K, alta saturación y detalla acciones específicas, ángulos de cámara (macro, gran angular, primer plano, bajo el agua) y la apariencia de los personajes a lo largo de 11 tomas distintas.
-
-#### 📝 Prompt
-
-```
-[Estilo] Montaje de fiesta en piscina de verano, cortes rápidos, alta definición 4K, tonos brillantes de alta saturación [Duración] 15 segundos [Escena] Fiesta soleada en piscina al aire libre, fondo de edificio de apartamentos de dos pisos, borde de la piscina lleno de gente, flotadores amarillos sobre la superficie del agua [Personajes] Mujer rubia, mujer pelirroja, mujer de cabello negro, todas usando bikinis con estampados coloridos [00:00-00:01] Toma 1: Apertura con cubo de hielo (Primer plano macro) Primer plano: Cubos de hielo transparentes e irregulares en un vaso, superficie húmeda, grietas internas claras, bokeh de color marrón rojizo llenando el fondo. [00:01-00:02] Toma 2: Vista amplia de la fiesta (Gran angular) Gran angular: Piscina frente al edificio de apartamentos de dos pisos, balcón y borde de la piscina llenos de gente, dos salpicaduras blancas brotando de la piscina azul en el centro del encuadre, flotadores amarillos a la deriva. [00:02-00:03] Toma 3: Sonrisa con cabello mojado (Primer plano) Primer plano: Mujer rubia mirando a la cámara, rostro cubierto de gotas de agua, cabello mojado pegado a la cara, riendo con la boca abierta. Fondo de luz de agua azul con poca profundidad de campo. [00:04-00:05] Toma 4: Descansando en el flotador (Plano medio) Plano medio: Mujer de cabello negro recostada en un flotador amarillo, usando gafas de sol grandes con marco blanco, sosteniendo sus gafas con ambas manos, cabeza inclinada hacia atrás con los ojos cerrados. Reloj plateado y pulseras rosas/amarillas apiladas en su muñeca. [00:05-00:06] Toma 5: Cabello mojado en cámara lenta (Primer plano, cámara lenta) Primer plano en cámara lenta: Mujer pelirroja empuja lentamente su cabello mojado hacia atrás con ambas manos, inclinando ligeramente la cabeza, gotas de agua salpicando desde sus mechones. [00:07-00:08] Toma 6: Ritmo de fiesta (Plano medio) Plano medio: Dos mujeres bailando junto al borde de la piscina, la mujer de la derecha usa un bikini con lazos laterales, pulseras plateadas apiladas en su muñeca, sosteniendo una botella de cerveza en su mano derecha, balanceándose al ritmo. [00:08-00:09] Toma 7: Lado a lado junto a la piscina (Plano medio) Plano medio: Dos mujeres de pie una al lado de la otra de espaldas a la cámara, usando trajes de baño con estampados azul/blanco y rojo/blanco, pulseras en sus muñecas moviéndose con sus gestos, árboles junto a la piscina y multitud borrosa al fondo. [00:09-00:10] Toma 8: Grabación con cámara DV de mano (Plano medio) Plano medio: Mujer rubia con cabello mojado, usando joyas plateadas, sosteniendo una cámara DV plateada de mano apuntando hacia adelante, ojos enfocados en el visor. La espalda de otra mujer entra en el encuadre a la izquierda. [00:11-00:12] Toma 9: Dúo nadando bajo el agua (Gran angular bajo el agua) Gran angular bajo el agua: Mujer rubia y pelirroja nadando hacia la cámara, burbujas surgiendo, luz refractándose, el encuadre tiene una turbidez natural. [00:12-00:13] Toma 10: Primer plano bajo el agua (Primer plano bajo el agua) Primer plano bajo el agua: Rostros y parte superior del cuerpo de ambas, luz penetrando la superficie del agua, una pequeña cantidad de burbujas flotando, expresiones vagamente visibles. [00:14-00:15] Toma 11: Final con pelota de playa (Gran angular) Gran angular: Una pelota de playa azul y blanca vuela a través del centro del encuadre, una mujer en primer plano agita su brazo para lanzar la pelota, la multitud vitoreando junto a la piscina, flotadores salpicando la superficie del agua.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ec45d8b74924b7b9063e69b636d65da6/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para montaje de fiesta en piscina de verano">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2848)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041039874648654110) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para escena de comedia slapstick de gato espía y petardo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar una escena cinematográfica de comedia slapstick de alto riesgo utilizando Seedance 2.0. El video presenta a un gato espía que intenta una misión que involucra un petardo y una gallina dormida en un almacén de madera abandonado, enfatizando la física de dibujos animados y el estilo cinematográfico.
-
-#### 📝 Prompt
-
-```
-Escena cinematográfica de comedia slapstick juguetona y de alto riesgo en un almacén de madera abandonado con luz solar ámbar cálida y sombras industriales frías. Un travieso gato atigrado naranja que usa un pequeño arnés táctico realiza una "misión secreta" mientras está suspendido de una cuerda, sosteniendo un petardo encendido. Debajo de él, una gallina blanca y regordeta que usa un gorro de dormir azul duerme sobre sacos de grano, roncando ruidosamente.
-El gato deja caer teatralmente el petardo en el gorro de dormir de la gallina. Explota en una ráfaga de humo púrpura y plumas voladoras. La gallina es lanzada hacia arriba con una física de dibujos animados exagerada, luego aterriza aturdida, girando lentamente hacia la cámara con ojos rojos brillantes en un dramático final de suspenso.
-Estilo: comedia cinematográfica, parodia de Misión Imposible, ultra detallado, iluminación volumétrica, partículas de polvo, física de plumas, animación de aplastamiento y estiramiento (squash-and-stretch), movimiento dinámico, partitura de comedia slapstick orquestal a 120 BPM, alto detalle, 4K, renderizado con calidad cinematográfica.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14762bc055f2e09bbae6edc9b00b5383/thumbnails/thumbnail.jpg" width="600" alt="Prompt para escena de comedia slapstick de gato espía y petardo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2826)**
-
-**Autor:** [Shami](https://x.com/ShamiWeb3) | **Fuente:** [Link](https://x.com/ShamiWeb3/status/2041032238293540876) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video para ciudad cyberpunk en noche lluviosa
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado de generación de video para Seedance 2.0, que describe una escena vertical 9:16 de una ciudad futurista cyberpunk en una noche lluviosa. El prompt especifica rascacielos de alta densidad, un esquema de color neón cian-azul predominante con toques magenta, calles mojadas con reflejos tipo espejo, reflejos de luces de autos en charcos y una atmósfera de frialdad, soledad, ensueño e inmersión con un toque cinematográfico de alto nivel.
-
-#### 📝 Prompt
-
-```
-Pantalla vertical 9:16, ciudad futurista cyberpunk en noche lluviosa, rascacielos de alta densidad, tono principal neón cian-azul, pequeña cantidad de toques magenta, calles mojadas con reflejos tipo espejo evidentes, reflejos de luces de autos y del agua en el suelo, niebla fina y luz volumétrica en el aire, detalles ricos de arquitectura futurista, atmósfera general fría, solitaria, de ensueño, inmersiva y con un toque cinematográfico de alto nivel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b79dd5e78ef86831eb0d0794097788f5/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para ciudad cyberpunk en noche lluviosa">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2852)**
-
-**Autor:** [阿越-AY](https://x.com/AyccAI) | **Fuente:** [Link](https://x.com/AyccAI/status/2041027472012222841) | **Publicado:** Apr 6, 2026
-
----
-### Escena de mercado egipcio estilo Ghibli con sirviente cocodrilo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado de múltiples escenas para Seedance 2.0 para generar un video al estilo de la animación de Studio Ghibli. La narrativa involucra a un amo humano adinerado y su musculoso sirviente cocodrilo en un bullicioso mercado egipcio, donde un niño intenta hacerle cosquillas al sirviente con una pluma, lo que lleva a una reacción humorística.
-
-#### 📝 Prompt
-
-```
-Estilo de animación Ghibli. Escena 1: En un bullicioso mercado egipcio, un amo humano adinerado y su musculoso sirviente cocodrilo están frente al puesto de otro vendedor. El amo examina los productos del vendedor, mientras el musculoso sirviente cocodrilo, con aspecto serio y aburrido, sostiene las pertenencias del amo sobre su cabeza. El sirviente cocodrilo es musculoso, usa anillos en sus brazos y una cadena alrededor de su cuello. Escena 2: Un niño se acerca, atraído por el robusto sirviente cocodrilo, y lo saluda con la mano. El sirviente cocodrilo lo mira de reojo, luego aparta la mirada, pareciendo indiferente. Escena 4: El amo humano y el vendedor comienzan a regatear el precio de un artículo. Escena 3: El niño revela una sonrisa astuta y luego extiende una pluma hacia la axila del cocodrilo. (El sirviente cocodrilo sostiene las cosas del amo sobre su cabeza, por lo que su axila queda expuesta). Escena 4: Un primer plano muestra al niño acariciando suavemente la axila del cocodrilo de un lado a otro con la pluma, repitiendo la acción, acompañada de efectos de sonido divertidos. Al mismo tiempo, escuchamos las risitas bajas y roncas del cocodrilo. Escena 5: Un primer plano se centra en la parte superior del cuerpo del cocodrilo. El cocodrilo sonríe, cierra los ojos y emite risitas bajas y roncas, mientras el niño continúa acariciando su axila con la pluma. Escena 6: El niño continúa haciendo cosquillas suavemente en la axila del cocodrilo con la pluma. El cocodrilo sigue emitiendo risitas bajas y roncas, con los ojos aún cerrados. Escena 7: De repente, una voz llama al niño desde otro lugar, presumiblemente su madre. El niño deja de hacerle cosquillas al cocodrilo y sale corriendo. El cocodrilo sigue riendo, abre los ojos para verlo partir y finalmente suspira con despreocupación, volviendo a su expresión seria y aburrida anterior.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7ccf327ad07d65b13e617cbc1e1ce16/thumbnails/thumbnail.jpg" width="600" alt="Escena de mercado egipcio estilo Ghibli con sirviente cocodrilo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2846)**
-
-**Autor:** [migrok](https://x.com/migrok293703) | **Fuente:** [Link](https://x.com/migrok293703/status/2041022764811776153) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video cinematográfico surrealista y distópico para Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de múltiples escenas para Seedance 2.0 que genera una película distópica, oscura y surrealista de posguerra, con movimientos de cámara específicos, corrección de color e imágenes simbólicas, como un rostro gigante fragmentado y una mujer cargando una estructura de casa.
-
-#### 📝 Prompt
-
-```
-Una película cinematográfica oscura y surrealista ambientada en una ciudad distópica de posguerra, tonos apagados, corrección de color fría, poca profundidad de campo, grano de película suave, iluminación dramática.
-
-Escena 1:
-Una calle vacía y agrietada cerca de una costa con niebla. Una mujer con un abrigo largo gris camina lentamente hacia la cámara. A su lado flota un rostro humano gigante y fragmentado hecho de edificios rotos y concreto, que se desplaza sutilmente como si estuviera vivo. Partículas de polvo flotan en el aire.
-
-Escena 2:
-Corte a un niño cansado apoyado contra una pared rota en el interior, con los ojos entrecerrados, exhausto. En el fondo desenfocado, otro niño está sentado en silencio. La atmósfera se siente pesada, abandonada y sin esperanza.
-
-Escena 3:
-Un hombre severo de mediana edad con un abrigo gris está de pie en una calle en ruinas de estilo europeo junto a un coche viejo y oxidado. La cámara se acerca lentamente mientras él mira hacia adelante con una expresión endurecida.
-
-Escena 4:
-Primer plano del rostro de una mujer parcialmente fusionado con fragmentos mecánicos y arquitectónicos. Mariposas naranjas revolotean alrededor de su cabeza en cámara lenta, simbolizando una esperanza frágil.
-
-Escena 5:
-Una calle concurrida bajo un muro curvo masivo incrustado con pequeñas estructuras y ventanas. La gente camina sin rumbo, con la cabeza baja, creando una sensación de rutina y opresión.
-
-Escena 6:
-Un músico callejero con el cabello desordenado toca la guitarra frente a un micrófono antiguo. Detrás de él hay una multitud silenciosa. Un tranvía oxidado se vislumbra en el fondo. Comienza a caer una lluvia ligera.
-
-Escena 7:
-Una fila de niños con ropa vintage desgastada permanece inmóvil, mirando directamente a la cámara. Sus expresiones son inexpresivas, casi inquietantes. Movimiento lento de dolly hacia adelante.
-
-Escena 8:
-Una pareja surrealista camina junta. La mujer lleva una estructura similar a una casa sobre su cabeza, con su rostro visible a través de una pequeña ventana. El hombre a su lado está parcialmente cubierto de hollín oscuro. Caminan entre escombros en silencio.
-
-Escena 9 (Final):
-Una mujer está sentada en una habitación desordenada llena de radios y relojes antiguos. Un letrero que dice “MORE” cuelga detrás de ella. Ella gira lentamente la perilla de una radio antigua mientras la estática llena el aire. Fundido a negro.
-🎥 Palabras clave de estilo y movimiento
-
-cinematográfico, distópico, realismo surrealista, cámara lenta, iluminación dramática, niebla volumétrica, profundidad de campo, aspecto de película de 35 mm, tonos desaturados, narrativa simbólica, ambiente melancólico, movimiento de cámara fluido
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0283b92e81811ff636db47a22949f631/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video cinematográfico surrealista y distópico para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2815)**
-
-**Autor:** [Smiling Khan](https://x.com/AIwithkhan) | **Fuente:** [Link](https://x.com/AIwithkhan/status/2041018531186376970) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video de transformación de color para Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de Seedance 2.0 para generar un cortometraje de 15 segundos con efectos especiales de estilo live-action de alta calidad. El concepto central es una mujer joven que cambia de escena y de atuendo de manera fluida al deslizar una rueda de colores de interfaz de usuario flotante. El prompt especifica las características del personaje, la lógica detallada de la escena y la acción con marcas de tiempo, además de instrucciones de control especiales para transiciones suaves y consistencia emocional.
-
-#### 📝 Prompt
-
-```
-Genera un cortometraje de 15 segundos con efectos especiales de estilo live-action de alta calidad, que muestre principalmente a una mujer joven logrando un cambio fluido y continuo de escenas y atuendos al deslizar una rueda de colores de interfaz de usuario (UI) flotante. Presta atención a la composición de la toma y al ritmo de la transición. El metraje debe tener una excelente profundidad de campo, y el rostro del personaje debe permanecer claro con una iluminación tridimensional. [Bloqueo de características del personaje] Las características principales del personaje están bloqueadas durante todo el video: mujer joven, cabello corto de color amarillo dorado icónico, usando lentes redondos con marco de metal. [Composición de la toma y diseño de acción] 00:00-00:05: Escena nocturna en un dormitorio interior, el fondo presenta luces de cadena con bokeh en forma de estrella de color amarillo cálido. El cabello del personaje está ligeramente recogido, viste una pijama de manga larga de color beige claro, sentada en la cama. Una rueda de colores degradados completa y semitransparente (elemento interactivo de UI) flota directamente frente a la pantalla. El personaje sonríe a la cámara, extiende la mano de forma natural y desliza la rueda de colores brillante hacia la derecha. 00:05-00:07: A medida que la rueda de colores gira, transiciona sin problemas a una escena diurna brillante junto a una ventana interior con luz solar cálida. El cabello corto del personaje cae naturalmente, cambiando instantáneamente a una blusa sin mangas de color naranja vibrante y pantalones casuales blancos, apoyando una mano en su mejilla con una sonrisa brillante. La rueda de colores flota en el lado derecho de la pantalla, con el cursor resaltando el área amarillo-naranja. 00:07-00:09: Transiciona sin problemas a una escena diurna en un parque al aire libre, el fondo presenta árboles de color verde brillante con alta exposición. El personaje se apoya contra el tronco grueso de un árbol, cambiando a una blusa corta de color verde menta con cuello cuadrado y mangas abullonadas, y pantalones cortos de cintura alta de color claro, usando un guante de cuero negro sin dedos en su mano derecha, guiñando un ojo juguetonamente a la cámara, tocando ligeramente sus labios con su dedo. La rueda de colores flota en el lado derecho, con el cursor resaltando el área verde brillante. 00:09-00:11: Transiciona sin problemas a un área de césped abierta al aire libre, el fondo presenta cielo azul y nubes blancas. El personaje se apoya contra un muro bajo de concreto gris-blanco, vistiendo una blusa sencilla de tirantes finos de color azul-púrpura oscuro, apoyando una mano en su barbilla, con una expresión relajada y fresca. La rueda de colores se mueve al lado izquierdo de la pantalla, con el cursor resaltando el área púrpura intenso. 00:11-00:13: Transiciona sin problemas a un bosque de cerezos en flor soleado al aire libre, el fondo está lleno de cerezos en flor de color rosa. El personaje cambia a una blusa de tirantes finos de color rosa, tocando ligeramente el cabello en la parte superior de su cabeza con una mano, mostrando una sonrisa dulce y reconfortante. La rueda de colores flota en el lado izquierdo, con el cursor resaltando el área rosa. 00:13-00:15: Transiciona sin problemas al frente de un edificio tradicional chino al aire libre, el fondo presenta pilares rojos borrosos y aleros arquitectónicos antiguos. El personaje viste una blusa tipo Qipao china modificada de color rojo oscuro y tono caramelo, con hombros descubiertos (con botones de nudo tradicionales), posando con gracia y elegancia, colocando una mano en su clavícula, con los ojos ligeramente bajos hacia la cámara. La rueda de colores flota en el lado izquierdo, con el cursor resaltando el área roja. [Instrucciones de control especiales] Se debe asegurar que cada cambio de escena y de atuendo sea fluido y sin interrupciones (transición suave), manteniendo la continuidad de las acciones del personaje. Durante cada cambio, las emociones y microexpresiones del personaje deben coincidir perfectamente con la atmósfera del color de la ropa actual. El video puede generar automáticamente música de fondo (BGM) con efectos de sonido de interfaz de usuario de ciencia ficción ligera y un ritmo dinámico que coincida con el cambio de color.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/13f4b4b8da6a65b3c2d6075a6dceca01/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de transformación de color para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2842)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2041001869435158629) | **Publicado:** Apr 6, 2026
-
----
-### Seedance 2.0: Prompt maestro para tomas cinemáticas de una sola secuencia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt extremadamente detallado para Seedance 2.0 que describe un movimiento de cámara de una sola toma (one-shot) a través de una ciudad fantástica oriental divina, incluyendo maniobras de vuelo, rotación y descenso, culminando con un artista marcial en un gran altar.
-
-#### 📝 Prompt
-
-```
-Prompt de movimiento de cámara continuo en una sola toma: Ciudad de Dioses y Budas · El gran maestro entra en escena]
-
-La cámara se desplaza en una sola toma continua, inclinándose, girando, rotando y acelerando a través de una gigantesca ciudad fantástica de estilo oriental.
-
-[Cuadro inicial - Escena 1]: La cámara desciende desde el cielo, pasando junto a una luna pálida y gigante suspendida en el aire, acercándose rápidamente a dos estatuas colosales de Buda con las palmas levantadas que se elevan hasta las nubes (de más de cien metros de altura), atravesando la fina niebla y las hileras de linternas rojas que se arremolinan entre los dedos del Buda. La cámara desciende rápidamente, sobrevolando la ciudad acuática de fantasía oriental, entrecruzada por canales de color azul verdoso, donde densos edificios antiguos de madera, casas sobre pilotes, puentes de piedra y muelles brillantemente iluminados son apenas visibles entre la niebla.
-
-La cámara atraviesa la decoración tallada en la palma del Buda, cayendo rápidamente a lo largo de la pasarela de madera en espiral que envuelve la base del Buda, esquivando linternas rojas colgantes, banderas de oración que ondean, monjes en oración y humo de incienso. La cámara se desliza sobre la superficie del canal, levantando agua, pasando por encima del techo de un bote cubierto con linternas rojas y sumergiéndose bajo el agua.
-
-La toma submarina atraviesa con elegancia un corredor de observación de cristal transparente, revelando las profundas ruinas de la ciudad antigua sumergida a ambos lados, columnas de piedra hundidas y peces koi nadando. La cámara rompe la superficie del agua hacia arriba, saliendo de la fuente en la plaza central de sacrificios, salpicando gotas de agua.
-
-La cámara gira en el aire, barriendo a cientos de artistas marciales vestidos de negro alineados cuidadosamente en la plaza (como se muestra en la Figura 2), quienes permanecen en silencio con las manos juntas, formando un muro humano. La cámara pasa a través de los huecos entre los artistas marciales, deslizándose cerca del suelo, pasando por los escalones del altar de piedra gigante tallados con patrones de nubes y truenos.
-
-[Segmento de transición]: La cámara gira hacia arriba a lo largo de los escalones, esquivando los gigantescos incensarios de bronce que arden a ambos lados, la luz parpadeante del fuego y el humo disperso del incienso. La cámara rota rápidamente 360 grados, mostrando las dos estatuas gigantes de Buda al fondo, la luna pálida suspendida y el horizonte envuelto en niebla.
-
-[Cuadro final - Escena 2]: La cámara finalmente se estabiliza en la plataforma en la parte superior del altar, frente a un artista marcial oriental de mediana edad (haciendo referencia al personaje de la Figura 3) que viste una túnica blanca, un cinturón beige y una armadura mecánica negra en los hombros. Sus manos cuelgan naturalmente a los lados, sosteniendo dos espadas largas mecánicas de plata cruzadas, con una leve sonrisa en el rostro, de pie en el centro al final de los escalones.
-
-La cámara retrocede lentamente, revelando las dos estatuas gigantes de Buda con las palmas levantadas detrás de él, la densa formación de artistas marciales vestidos de negro debajo y la vista panorámica de la antigua ciudad acuática en la niebla a lo lejos. La luna pálida gigante cuelga en el cielo, envuelta en una fina niebla, creando una atmósfera solemne y épica.
-
-Sin cortes, movimiento de cámara increíble, conexión fluida, lleno de misterio oriental, grandeza épica y una sensación extremadamente cinematográfica. Calidad de alta definición 8K, material de video de alta calidad.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d48a0d8a2417d1544cc88c53a4b9d21/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0: Prompt maestro para tomas cinemáticas de una sola secuencia">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2754)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fuente:** [Link](https://x.com/john87445528/status/2041000256930763046) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para escena de anime 2.5D fotorrealista
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt que detalla una escena de anime 2.5D fotorrealista en japonés, especificando las alturas de los personajes y la primera toma: un plano medio de una chica en las calles de Akihabara por la noche, mirando hacia abajo con una expresión de dolor, mientras la cámara hace un paneo hacia abajo siguiendo su movimiento.
-
-#### 📝 Prompt
-
-```
-Anime 2.5D fotorrealista de alta definición. Todo el diálogo está en japonés.
-La altura de la chica es de 153 cm y la del hombre es de 185 cm.
-
-toma1
-En la calle en Akihabara por la noche. Plano medio de la chica. La altura de la chica es de 153 cm.
-La chica cierra los ojos con dolor y mira hacia abajo. La cámara también hace un PANEO hacia abajo siguiendo su movimiento.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6ad49990f8c774a3cbf7c205afc091f4/thumbnails/thumbnail.jpg" width="600" alt="Prompt para escena de anime 2.5D fotorrealista">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2854)**
-
-**Autor:** [角煮星丸](https://x.com/_3912657840) | **Fuente:** [Link](https://x.com/_3912657840/status/2040992518624661538) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para video de transmisión de noticias históricas
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt detallado para Seedance 2.0 para generar un video de transmisión de noticias basado en una fecha histórica específica (20 de julio de 1969), utilizando la función de búsqueda web y presentando el contenido al estilo de una transmisión de noticias japonesa de la era Showa tardía.
-
-#### 📝 Prompt
-
-```
-Utiliza la función de búsqueda web para identificar una noticia histórica positiva y mundialmente famosa relacionada con la fecha del 20 de julio de 1969. Presenta el contenido en el formato de una transmisión de noticias japonesa de finales de la era Showa. El narrador debe explicar los eventos con claridad en un tono solemne, esperanzador e histórico, como una transmisión de noticias antigua que reporta noticias internacionales de aquella época. No muestres subtítulos. No muestres telops (gráficos de texto en pantalla). No muestres ningún texto en la pantalla.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5c12ddd59b369cd384186e5f72b3bf/thumbnails/thumbnail.jpg" width="600" alt="Prompt para video de transmisión de noticias históricas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2823)**
-
-**Autor:** [NOMI｜AI creator](https://x.com/KimikoOsugi) | **Fuente:** [Link](https://x.com/KimikoOsugi/status/2040988742111080542) | **Publicado:** Apr 6, 2026
-
----
-### Estética de cámara de celular entre la multitud en un museo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estructurado que define la estética, el audio y la línea de tiempo para un videoclip grabado con la cámara de un celular dentro de una gran galería de museo, enfocándose en la multitud masiva y el audio con bajos resonantes.
-
-#### 📝 Prompt
-
-```
-estética: celular sostenido en medio de una multitud abarrotada dentro de una galería de museo
-  audio: bajos retumbando contra el mármol, cada sonido duplicado por el eco
-  línea de tiempo:
-    - "0-5s: Rodeado por una multitud masiva, grabado con la cámara de un celular dentro de una gran galería de museo. Alto
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8589f79ddb79c06946a2ab7381ed594c/thumbnails/thumbnail.jpg" width="600" alt="Estética de cámara de celular entre la multitud en un museo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2829)**
-
-**Autor:** [Alex Patrascu](https://x.com/maxescu) | **Fuente:** [Link](https://x.com/maxescu/status/2040987182438273139) | **Publicado:** Apr 6, 2026
-
----
-### Cortometraje cómico sobre un gato maestro con TDAH
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado y de varias secciones para Seedance 2.0 que genera un cortometraje cómico, absurdo y de ritmo rápido sobre un gato maestro que lidia con un estudiante hiperactivo, con un final conmovedor e instrucciones específicas de cámara y edición.
-
-#### 📝 Prompt
-
-```
-Cortometraje cómico de parodia de ritmo rápido para Seedance 2 ambientado en un salón de clases de primaria. Un gato maestro naranja (que usa lápiz labial brillante, una peluca rosa exagerada, un collar de perlas y un atuendo de maestro de primaria) está frente al pizarrón enseñando. Un estudiante gato negro (camisa blanca, pantalones cortos azul oscuro) muestra un comportamiento hiperactivo constante en su escritorio: charla con sus compañeros, se levanta de su asiento con frecuencia, echa un vistazo a un cómic de un gato azul de dibujos animados escondido en su cajón, mueve las piernas, mira por la ventana, rebusca en su mochila y derrama todo en el piso. El gato maestro naranja se siente cada vez más abrumado a medida que el salón de clases cae en el caos.
-
-Diálogo (rápido y superpuesto):
-Gato maestro naranja: “¡Silencio! ¡Vuelve a tu asiento y concéntrate!”
-Estudiante gato negro: “¿Eh? ¡Solo dame un segundo!”
-Otros compañeros: “¡Maestro, lo está haciendo de nuevo!”
-
-El gato maestro naranja, furioso, exclama: “¡Por favor, venga a la escuela de inmediato!” Una gata madre blanca (con un vestido rojo) aparece y lleva al estudiante gato negro a una clínica. Un apuesto doctor tigre blanco (con gafas de montura negra y bata blanca) dice con calma: “Esto es TDAH”, y le entrega una cápsula amarilla brillante.
-
-Regreso al salón de clases: El estudiante gato negro está al frente, ahora concentrado y sereno. El gato maestro naranja, conmovido, lo elogia: “¡Has cambiado mucho!” Otros estudiantes gatos aplauden con entusiasmo: “¡Qué impresionante!” El estudiante gato negro sonríe tímidamente.
-
-Cámara y estilo: cortes rápidos, barridos, desenfoque de movimiento exagerado, ritmo de 0.6 a 1.2 segundos; fuerte contraste del caos al orden, terminando en un fotograma congelado en cámara lenta. Tono cómico absurdo y exagerado con un giro ligeramente conmovedor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5f99f9f3d27aeda291b79271a99c2f2/thumbnails/thumbnail.jpg" width="600" alt="Cortometraje cómico sobre un gato maestro con TDAH">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2814)**
-
-**Autor:** [The Anxious Mind](https://x.com/drjoetw) | **Fuente:** [Link](https://x.com/drjoetw/status/2040980806680838396) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video para transformación de parkour en pueblo antiguo
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado para Seedance 2.0 para generar un video de 15 segundos, en una sola toma y con seguimiento manual, que representa una escena realista de transformación de parkour al estilo chino antiguo. El prompt describe al personaje, el entorno, secuencias de acción específicas de 3 segundos y la calidad cinematográfica requerida (estilo de película ARRI, lógica de resistencia física al viento).
-
-#### 📝 Prompt
-
-```
-Transformación de parkour al estilo antiguo realista. Protagonista femenina [@Image 1] en estilo realista, tez clara, cabello largo ondulado negro, vestido negro, rostro ligeramente sudoroso, mirada intensa. 15 segundos, una sola toma, seguimiento manual.
-Escena: Pueblo antiguo al atardecer, piedra azul húmeda, tonos de color fríos y cálidos.
-Lógica de acción: 0-3s Salta y voltea un puesto de té, se pone casualmente una camisa blanca, el dueño grita; 3-6s Pisa un carrito y hace un salto mortal hacia atrás, se quita los jeans y aterriza en una vaporera, agarra con fuerza la falda de estilo 'horse-face' de una transeúnte, la chica cae; 6-9s Se desliza por una barandilla y se pone las mangas, arrebata una horquilla de plata y se desliza sobre las rodillas para recogerse el cabello, el anciano queda atónito; 9-12s Corre por la pared en un callejón estrecho mientras se ajusta un cinturón, agarra un paraguas de papel aceitado rojo y derriba el soporte de paraguas, el aprendiz tropieza; 12-15s Imagen congelada en la parte superior del puente, mirando hacia la multitud, abre violentamente el paraguas para cubrirse el rostro, la mirada de regreso se vuelve intensa.
-Textura: Calidad de película ARRI, lógica de resistencia física al viento, atmósfera popular extrema, reacciones realistas de los transeúntes, estética de parkour violento.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/648fc8a379c4b2222c0794cf9ed0c545/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video para transformación de parkour en pueblo antiguo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2752)**
-
-**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2040980673851506798) | **Publicado:** Apr 6, 2026
-
----
-### Prompt para la experiencia sensorial de un bocado de salmón
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico detallado de 15 segundos para Seedance 2.0 que transiciona desde un primer plano macro de una rosa de salmón en un restaurante hacia un mundo submarino de fantasía, simbolizando la maravilla sensorial del bocado, con enfoque en el trabajo de cámara, diseño de sonido y fotorrealismo.
-
-#### 📝 Prompt
-
-```
-Video cinematográfico de 15 segundos, cámara ultra fluida, cambios de enfoque naturales, transición de color cálido a frío, fotorrealismo en 8K, estética ARRI Alexa.
-Primer plano macro de una rosa de salmón estilo Michelin: capas brillantes de color naranja rosado. Un cuchillo realiza un corte lento y preciso, los aceites resplandecen (0–3s). El enfoque cambia hacia un joven tranquilo de perfil mientras levanta un bocado (3–5s). Primer plano extremo del bocado: masticación lenta, ojos que se suavizan, sonrisa sutil (5–7s).
-Zoom rápido hacia su ojo: el reflejo florece en luz, la escena se disuelve (7–8s).
-Mundo submarino: plano general, rayos de sol a través de agua turquesa, corales, algas, bancos de salmones nadando. El hombre flota sin peso, observando a los peces con calma y asombro. Órbita lenta, haces de luz que se desplazan (8-13s).
-Corte por coincidencia de vuelta al restaurante: mismo ángulo, él traga, sonríe y continúa comiendo (13–15s).
-SFX: corte de cuchillo, masticación suave, ambiente de restaurante que se desvanece hacia sonidos submarinos y viceversa. Sin superposiciones de texto.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/25230a48c79fa27f5d9d2a4ce06b4eb5/thumbnails/thumbnail.jpg" width="600" alt="Prompt para la experiencia sensorial de un bocado de salmón">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2827)**
-
-**Autor:** [Shami](https://x.com/ShamiWeb3) | **Fuente:** [Link](https://x.com/ShamiWeb3/status/2040959499847221480) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de secuencia de acción con nunchakus dorados para Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de múltiples tomas para Seedance 2.0 que genera una secuencia de acción centrada en unos nunchakus dorados brillantes, con giros rápidos, estelas luminosas, una órbita de cámara cenital y una explosión dramática final con la revelación del personaje.
-
-#### 📝 Prompt
-
-```
-Unos nunchakus dorados brillantes giran rápidamente en ambas manos, trazando arcos luminosos contra el fondo oscuro. Cada movimiento deja estelas doradas que permanecen en el aire. Los giros de los nunchakus se amplían; las estelas de arco dorado se extienden por toda la pantalla, superponiéndose y cruzándose en todas direcciones. Las estelas brillan con más intensidad en cada pasada, llenando el espacio oscuro con destellos de luz dorada. Los nunchakus son lanzados directamente hacia arriba, hacia la cámara. Aumentan de tamaño a medida que se acercan; el brillo dorado inunda la pantalla hasta quedar totalmente blanca. Los nunchakus reaparecen girando en el aire, dejando imágenes residuales en forma de arco dorado. Chispas naranjas se dispersan a su alrededor. Ángulo contrapicado: una mano enguantada se extiende para atrapar la cadena que desciende. La cámara orbita desde arriba, pasando por detrás de la cabeza, con una luz de contorno dorada que perfila la silueta del cabello, para luego girar hacia el frente y revelar el rostro con una expresión de confianza. El personaje posa con los nunchakus a la altura del hombro. Detrás de él, una explosión naranja se enciende y se expande rápidamente; rayos de luz divina descienden desde arriba. La explosión inunda el encuadre en un blanco cegador. La cámara se aleja lentamente mientras la explosión disminuye. La bola de fuego pasa de un blanco incandescente a naranja y luego a humo oscuro que forma una nube en forma de hongo. El personaje permanece inmóvil, con el arma al costado; destellos en forma de diamante aparecen a su alrededor. Escombros y brasas flotan en el aire. Nueva escena. Primer plano extremo del rostro del personaje: una sonrisa suave y satisfecha. Partículas de bokeh doradas flotan en el fondo oscuro.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b266c26828e345868405789eae57bef/thumbnails/thumbnail.jpg" width="600" alt="Prompt de secuencia de acción con nunchakus dorados para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2820)**
-
-**Autor:** [ShadeLurk](https://x.com/ShadeLurk) | **Fuente:** [Link](https://x.com/ShadeLurk/status/2040956518787616936) | **Publicado:** Apr 6, 2026
-
----
-### Duelo de anime de alta velocidad en ruinas celestiales
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para Seedance 2.0 para generar una escena de duelo de anime de alta velocidad ambientada en ruinas en el cielo, con rayos, choques de energía y acción cinematográfica, similar a una batalla contra un jefe final.
-
-#### 📝 Prompt
-
-```
-Duelo de anime de alta velocidad en ruinas en el cielo, rayos, choques de energía, acción cinematográfica.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88148fc1e573480abf0cac33b8a86b44/thumbnails/thumbnail.jpg" width="600" alt="Duelo de anime de alta velocidad en ruinas celestiales">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2779)**
-
-**Autor:** [Tiago | IA](https://x.com/IATiago) | **Fuente:** [Link](https://x.com/IATiago/status/2040945930946424939) | **Publicado:** Apr 6, 2026
-
----
-### Prompt de video de drama caprichoso de conejo de Pascua para Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de múltiples tomas para Seedance 2.0 que genera un drama cinematográfico oscuro y caprichoso de 15 segundos ambientado en el París del siglo XVIII, protagonizado por un conejo caballero blanco y una gata dama naranja, culminando en una secuencia cómica de malabarismo con huevos de Pascua.
-
-#### 📝 Prompt
-
-```
-Prompt para Seedance 2 (15 segundos en total, cada toma ~0.6–1.2s)
-
-Drama cinematográfico oscuro y caprichoso, calle de París del siglo XVIII de noche, nevada ligera, tonos azul grisáceo melancólicos, faroles de gas brillando a través de la niebla, reflejos en adoquines mojados, fantasía histórica estilizada, trasfondo cómico sutil, movimiento de cámara dinámico, grano de película suave.
-
-S1 (0.9s)
-Plano general: Un conejo caballero blanco con ropa de mendigo desgastada y un sombrero viejo camina solo por una calle de París nevada y tenuemente iluminada, el aliento es visible en el aire frío, una silueta distante de la Torre Eiffel apenas visible a través de la niebla.
-
-S2 (0.8s)
-Plano medio de seguimiento: El conejo tiembla ligeramente, con las manos metidas en las mangas, caminando lentamente frente a edificios elegantes y farolas parpadeantes.
-
-S3 (0.9s)
-Plano de entrada: Una noble gata dama naranja con un vestido de noche negro fluido entra con gracia en el encuadre, sosteniendo una canasta llena de coloridos huevos de Pascua.
-
-S4 (0.7s)
-Primer plano: La canasta se balancea suavemente, los huevos vibrantes contrastan con el entorno oscuro y apagado.
-
-S5 (0.8s)
-Tensión repentina: Un carruaje de caballos irrumpe en el encuadre, conducido imprudentemente por una hiena vestida como un sirviente de gris, cargando hacia la gata dama.
-
-S6 (0.7s)
-Momento de impacto: El carruaje casi la golpea—ella retrocede—la canasta se inclina—
-
-S7 (0.8s)
-Cámara lenta: Docenas de huevos de Pascua vuelan por el aire, girando, esparciéndose por la calle nevada.
-
-S8 (1.0s)
-Explosión de acción: El conejo blanco se lanza instantáneamente hacia adelante con una agilidad sorprendente, su cuerpo se estira elásticamente.
-
-S9 (1.0s)
-Secuencia cómica: Atrapa huevos rápidamente usando ambas manos, pies e incluso su boca, haciendo malabares con varios a la vez con expresiones faciales exageradas y tontas.
-
-S10 (0.8s)
-Primer plano: Un huevo casi cae—él da una voltereta hacia atrás, atrapándolo con el pie en el aire.
-
-S11 (0.9s)
-Atrapada final: Aterriza de forma torpe pero exitosa, sosteniendo todos los huevos apilados precariamente, con las mejillas infladas y los ojos bizcos de forma cómica.
-
-S12 (0.8s)
-Plano de reacción: La gata dama naranja observa, con los ojos muy abiertos, luego sonríe cálidamente, claramente impresionada.
-
-S13 (1.0s)
-Revelación de la multitud: Animales cercanos con vestimenta del siglo XVIII (zorros, ciervos, gatos, perros) se detienen y comienzan a aplaudir.
-
-S14 (1.0s)
-Momento emocional: El conejo se sonroja ligeramente bajo su sombrero raído, todavía tratando de equilibrar los huevos.
-
-S15 (1.2s)
-Plano final: La nieve cae suavemente mientras la multitud aplaude, la gata dama naranja asiente con gracia en señal de gratitud, una luz cálida se refleja en el rostro del conejo mientras permanece de pie, torpe pero orgulloso.
-
-Movimiento y efectos:
-Partículas de nieve suave, física en cámara lenta para los huevos voladores, animación exagerada de aplastamiento y estiramiento (squash-and-stretch), paneos de cámara cinematográficos y zooms rápidos, contraste de iluminación cálida frente a fría, humor suave mezclado con una elegante atmósfera de fantasía oscura.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e92ea7296b7024dcdc43307b644f81f/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de drama caprichoso de conejo de Pascua para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2818)**
-
-**Autor:** [The Anxious Mind](https://x.com/drjoetw) | **Fuente:** [Link](https://x.com/drjoetw/status/2040942938231030140) | **Publicado:** Apr 6, 2026
-
----
-### Escena de comedia romántica: Acorralamiento contra la pared y coqueteo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado para una escena de comedia romántica, centrado en el tono de los personajes, apariencia, acciones, cambios de expresión y diálogos, donde un protagonista masculino intenta un dramático acorralamiento contra la pared, pero se ve saboteado por su nerviosismo y el ingenio agudo de la protagonista. El prompt especifica realismo cinematográfico y utiliza una imagen de referencia para la protagonista.
-
-#### 📝 Prompt
-
-```
-Seedance V2 👌
-
-Tono de los personajes:
-comedia romántica de alta gama, coqueteo inexpresivo, protagonista masculino demasiado serio, protagonista femenina de ingenio rápido, realismo cinematográfico, química dulce y caótica, cada fotograma como un póster
-
-Protagonista masculino:
-traje negro a medida, cuello de camisa blanca ligeramente abierto, apuesto y severo, aura poderosa, esforzándose mucho por parecer frío y dominante, pero secretamente nervioso y confundido, pequeños detalles lo delatan: corbata ligeramente torcida, mandíbula tensa, yemas de los dedos temblando levemente
-
-Protagonista femenina [@ Image1]:
-vestido lencero ajustado / conjunto refinado inspirado en Chanel, cabello largo ligeramente despeinado, elegante y de aspecto suave pero emocionalmente más aguda que él, obstinada, con un humor seco, aparentemente acorralada por un momento, luego visiblemente poco impresionada, conteniendo la risa
-
-Acción + cambios de expresión:
-el protagonista masculino se acerca con fuerza para una pose dramática de acorralamiento contra la pared, una mano apoyada en la pared, cerrando la distancia con demasiada seriedad, tratando de parecer intenso; su expresión comienza fría pero gradualmente se quiebra en una vergüenza contenida
-la protagonista femenina [@ Image1] retrocede un paso, abre mucho los ojos, luego nota su corbata torcida y su mano temblorosa; su expresión cambia de una resistencia cautelosa a una incredulidad inexpresiva y una molestia que casi llega a la risa
-sus narices casi se tocan, su respiración se entrelaza, la tensión se vuelve juguetona y absurda en lugar de tensa
-el protagonista masculino levanta ligeramente su barbilla, tratando de recuperar su imagen de tipo duro; la protagonista femenina lo mira como si estuviera viendo a alguien olvidar su propio guion
-
-Diálogo:
-Protagonista masculino: ¿Ya terminaste?
-Protagonista femenina [@ Image1]: Primero arréglate la corbata.
-Protagonista masculino: Estoy hablando en serio.
-Protagonista femenina [@ Image1]: Entonces deja de pisarme el talón.
-Protagonista masculino: ...Eso fue a propósito.
-Protagonista femenina [@ Image1]: Tu mano temblorosa dice lo contrario.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d4ef1b1f6b44ac78329de376ae46043/thumbnails/thumbnail.jpg" width="600" alt="Escena de comedia romántica: Acorralamiento contra la pared y coqueteo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=2932)**
-
-**Autor:** [Emily](https://x.com/IamEmily2050) | **Fuente:** [Link](https://x.com/IamEmily2050/status/2040937663042384235) | **Publicado:** Apr 5, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3207,6 +3015,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-09T02:32:02.573Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-09T06:37:34.330Z</sub>
 
 </div>
