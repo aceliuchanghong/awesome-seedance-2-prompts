@@ -361,19 +361,19 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
-### Man vs. Sea Monster in a Violent Storm
+### Homme contre monstre marin dans une tempête violente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Seedance 2.0 prompt for generating a hyper-realistic, dramatic cinematic video of a lone man struggling in a small boat during a violent ocean storm, culminating in a sea monster attack.
+> Un prompt Seedance 2.0 pour générer une vidéo cinématographique dramatique et hyperréaliste montrant un homme seul en difficulté sur un petit bateau lors d'une violente tempête en mer, se terminant par l'attaque d'un monstre marin.
 
 #### 📝 Prompt
 
 ```
-A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide. It clamps its teeth onto the boat, splintering the wood, and violently drags it beneath the churning ocean as the man fights for his life. Dramatic lighting, cinematic camera angles, hyper-realistic, intense atmosphere.
+Un homme seul lutte pour garder l'équilibre sur un petit bateau au milieu d'une violente tempête océanique. Le tonnerre gronde et une pluie battante s'abat alors que des vagues gigantesques s'écrasent autour de lui. Soudain, un monstre marin surgit des eaux sombres, ses mâchoires massives grandes ouvertes. Il plante ses dents dans le bateau, fracassant le bois, et l'entraîne violemment sous l'océan déchaîné tandis que l'homme se bat pour sa survie. Éclairage dramatique, angles de caméra cinématographiques, hyperréaliste, atmosphère intense.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac78c2a52ca0593980b333dad213a594/thumbnails/thumbnail.jpg" width="600" alt="Man vs. Sea Monster in a Violent Storm">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac78c2a52ca0593980b333dad213a594/thumbnails/thumbnail.jpg" width="600" alt="Homme contre monstre marin dans une tempête violente">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3004)**
 
@@ -407,45 +407,42 @@ Ambiance de combat désespéré. Jinx est surpassé par Knibbz. Ne pas ajouter d
 **Auteur:** [Jason W - AI](https://x.com/PocketScreenAI) | **Source:** [Link](https://x.com/PocketScreenAI/status/2042026447993553046) | **Publié:** Apr 8, 2026
 
 ---
-### Cinematic supernatural duel: The Ink Monk vs the Paper Dragon
+### Duel surnaturel cinématographique : Le Moine à l'Encre contre le Dragon de Papier
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Seedance 2.0 prompt for a cinematic supernatural duel video featuring a silent monk in black robes fighting in an abandoned calligraphy hall during a torrential rain. The monk uses brushstroke sigils, flowing ink whips, and a lacquer-black staff in his fight.
+> Un prompt Seedance 2.0 pour une vidéo de duel surnaturel cinématographique mettant en scène un moine silencieux en robes noires combattant dans une salle de calligraphie abandonnée sous une pluie torrentielle. Le moine utilise des sceaux tracés au pinceau, des fouets d'encre fluide et un bâton noir laqué pour son combat.
 
 #### 📝 Prompt
 
 ```
-The Ink Monk vs the Paper Dragon A cinematic supernatural duel. 
+Le Moine à l'Encre contre le Dragon de Papier : Un duel surnaturel cinématographique. 
 
-A silent monk in soaked black robes stands in an abandoned calligraphy hall during torrential rain. He fights using brushstroke sigils, flowing ink whips, and a lacquer-black staff. His
+Un moine silencieux en robes noires trempées se tient dans une salle de calligraphie abandonnée sous une pluie torrentielle. Il combat en utilisant des sceaux tracés au pinceau, des fouets d'encre fluide et un bâton noir laqué. Son
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84fcb75c14f4263935ef044e46f23474/thumbnails/thumbnail.jpg" width="600" alt="Cinematic supernatural duel: The Ink Monk vs the Paper Dragon">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84fcb75c14f4263935ef044e46f23474/thumbnails/thumbnail.jpg" width="600" alt="Duel surnaturel cinématographique : Le Moine à l'Encre contre le Dragon de Papier">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2984)**
 
 **Auteur:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2042020365023474024) | **Publié:** Apr 8, 2026
 
 ---
-### Photorealistic Cinematic Action Video Prompt
+### Prompt vidéo cinématique photoréaliste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt designed for generating a photorealistic, cinematic video with continuous, high-energy kinetic action. The instructions specify a 16:9 aspect ratio, constant camera movement, short cuts (max 1.5 seconds), and the use of an anamorphic lens to achieve a $200M blockbuster aesthetic, starting with an extreme low-angle shot of a motorcycle wheel on wet asphalt.
+> Un prompt détaillé conçu pour générer une vidéo cinématique photoréaliste avec une action cinétique continue et intense. Les instructions spécifient un format 16:9, un mouvement de caméra constant, des coupes rapides (1,5 seconde maximum) et l'utilisation d'un objectif anamorphique pour obtenir une esthétique de blockbuster à 200 millions de dollars, commençant par un plan en contre-plongée extrême d'une roue de moto sur de l'asphalte mouillé.
 
 #### 📝 Prompt
 
 ```
-Photorealistic cinematic 16:9. Non-stop kinetic action. Camera
-never stops moving. No cuts longer than 1.5 seconds. Shot like
-a $200M blockbuster. Anamorphic lens throughout.
+Cinématique photoréaliste 16:9. Action cinétique non-stop. La caméra ne s'arrête jamais de bouger. Aucune coupe ne dépasse 1,5 seconde. Filmé comme un blockbuster à 200 millions de dollars. Objectif anamorphique utilisé tout au long de la séquence.
 
-[0.0s] SMASH OPEN — extreme low angle, motorcycle wheel fills
-frame, wet asphalt inches away,
+[0.0s] OUVERTURE FRAPPANTE — contre-plongée extrême, une roue de moto remplit le cadre, asphalte mouillé à quelques centimètres,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a5da2f0831ef6cc88163f5f394e5b60/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Cinematic Action Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a5da2f0831ef6cc88163f5f394e5b60/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo cinématique photoréaliste">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2985)**
 
@@ -471,95 +468,95 @@ Court-métrage d'action fantastique miniature original : Tard dans la nuit, dans
 **Auteur:** [TopviewAI](https://x.com/TopviewAIhq) | **Source:** [Link](https://x.com/TopviewAIhq/status/2042011857616052382) | **Publié:** Apr 8, 2026
 
 ---
-### São Paulo Parkour at Sunset Prompt
+### Prompt pour une scène de parkour à São Paulo au coucher du soleil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt describing a vertical city parkour scene in São Paulo at sunset, featuring a teenage girl running across favela rooftops with specific clothing and atmospheric details.
+> Un prompt détaillé décrivant une scène de parkour urbain vertical à São Paulo au coucher du soleil, mettant en scène une adolescente courant sur les toits d'une favela, avec des détails précis sur sa tenue et l'atmosphère.
 
 #### 📝 Prompt
 
 ```
-VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, black curly hair flying free, wearing faded yellow shorts and a white tank top with scuffed trainers, runs full speed across the rooftops of São Paulo's dense favela skyline as the sun sets blood orange
+VILLE VERTICALE — Parkour à São Paulo au coucher du soleil. Une adolescente de 17 ans, athlétique, aux cheveux noirs bouclés flottant au vent, portant un short jaune délavé, un débardeur blanc et des baskets usées, court à toute vitesse sur les toits de la dense favela de São Paulo alors que le soleil se couche dans une teinte orange sang.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7926ea672a4a52c133e53120af1e9ee/thumbnails/thumbnail.jpg" width="600" alt="São Paulo Parkour at Sunset Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7926ea672a4a52c133e53120af1e9ee/thumbnails/thumbnail.jpg" width="600" alt="Prompt pour une scène de parkour à São Paulo au coucher du soleil">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2979)**
 
 **Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2042008797594493126) | **Publié:** Apr 8, 2026
 
 ---
-### Pixar-Style Builder Queue Prompt (0-5s)
+### Prompt de file d'attente de constructeurs style Pixar (0-5s)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A time-coded prompt (0-5 seconds) for a Pixar-style 3D animation set on a muddy British building site. The scene shows a queue of burly builders in hi-vis vests and muddy boots waiting nervously, with a battered, ancient wizard hat sitting on an object.
+> Un prompt temporel (0-5 secondes) pour une animation 3D style Pixar se déroulant sur un chantier de construction britannique boueux. La scène montre une file d'attente de constructeurs costauds en gilets haute visibilité et bottes boueuses attendant nerveusement, avec un vieux chapeau de sorcier abîmé posé sur un objet.
 
 #### 📝 Prompt
 
 ```
-[00:00–00:05] Pixar-style 3D animation. A muddy British building site with scaffolding, half-built brick walls, and a cement mixer. A queue of burly builders in hi-vis vests and muddy steel-toe boots wait nervously. A battered, ancient, moth-eaten pointed wizard hat sits on an
+[00:00–00:05] Animation 3D style Pixar. Un chantier de construction britannique boueux avec des échafaudages, des murs en briques à moitié construits et une bétonnière. Une file d'attente de constructeurs costauds en gilets haute visibilité et bottes de sécurité boueuses attendent nerveusement. Un vieux chapeau de sorcier pointu, élimé et mité, est posé sur un
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7527a7e721e829ace03db0abd2013b66/thumbnails/thumbnail.jpg" width="600" alt="Pixar-Style Builder Queue Prompt (0-5s)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7527a7e721e829ace03db0abd2013b66/thumbnails/thumbnail.jpg" width="600" alt="Prompt de file d'attente de constructeurs style Pixar (0-5s)">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2991)**
 
 **Auteur:** [Michael](https://x.com/real_michal) | **Source:** [Link](https://x.com/real_michal/status/2041980436344127578) | **Publié:** Apr 8, 2026
 
 ---
-### Pixar-style 3D animation of iridescent fabric on a marble pedestal
+### Animation 3D style Pixar d'un tissu iridescent sur un piédestal en marbre
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a short, continuous 3D animated video in the Pixar style, focusing on a shimmering, iridescent fabric resting on a white marble pedestal in a minimalist setting, captured with a slow orbiting camera shot.
+> Un prompt pour générer une courte vidéo d'animation 3D continue dans le style Pixar, mettant l'accent sur un tissu chatoyant et iridescent posé sur un piédestal en marbre blanc dans un décor minimaliste, capturé avec un mouvement de caméra en orbite lente.
 
 #### 📝 Prompt
 
 ```
-[00:00–00:05] Pixar-style 3D animation. A shimmering translucent fabric with a subtle iridescent weave rests perfectly folded on a clean white marble pedestal in a minimalist showroom — white walls, soft directional lighting, nothing else. Slow orbit shot circling the pedestal.
+[00:00–00:05] Animation 3D style Pixar. Un tissu translucide et chatoyant au tissage délicatement iridescent repose parfaitement plié sur un piédestal en marbre blanc immaculé dans un showroom minimaliste — murs blancs, éclairage directionnel doux, sans aucun autre élément. Prise de vue en orbite lente autour du piédestal.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61f0008d6aef697ac3770e3499abf452/thumbnails/thumbnail.jpg" width="600" alt="Pixar-style 3D animation of iridescent fabric on a marble pedestal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61f0008d6aef697ac3770e3499abf452/thumbnails/thumbnail.jpg" width="600" alt="Animation 3D style Pixar d'un tissu iridescent sur un piédestal en marbre">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2980)**
 
 **Auteur:** [Michael](https://x.com/real_michal) | **Source:** [Link](https://x.com/real_michal/status/2041976556717826114) | **Publié:** Apr 8, 2026
 
 ---
-### Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole
+### Scène classique de salon de coiffure à Harlem dans les années 1920 avec un poteau de barbier aux couleurs éclatantes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed text-to-video prompt for Seedance 2.0, aiming to generate a cinematic scene of a 1920s Harlem barbershop. The prompt specifies a black-and-white/sepia tone for the entire scene, with the exception of the vibrant, spinning barber pole, which is the only element in full color, creating a dramatic visual contrast.
+> Un prompt texte-vidéo détaillé pour Seedance 2.0, visant à générer une scène cinématographique d'un salon de coiffure à Harlem dans les années 1920. Le prompt spécifie un ton noir et blanc/sépia pour l'ensemble de la scène, à l'exception du poteau de barbier vibrant et rotatif, qui est le seul élément en couleur, créant un contraste visuel spectaculaire.
 
 #### 📝 Prompt
 
 ```
-Classic 1920s Harlem barbershop interior scene in full black-and-white / sepia tone except for the vibrant spinning barber pole (bright red, white, and blue stripes with glowing motion blur) which is the ONLY thing in full color. At least three dapper barbers in vintage aprons and white shirts actively cutting hair with scissors and clippers, chatting and laughing animatedly with customers in the classic leather chairs, mirrors reflecting the busy shop, vintage posters and tools on the walls, warm wooden floors, soft natural window light, highly detailed cinematic AI art, elegant semi-transparent calligraphy watermark "BicRevelation" in the lower-left corner at golden-ratio offset 0.04 from left and 0.03 from bottom, height exactly 0.02 of image height, semi-transparent and unobtrusive.
+Scène intérieure classique d'un salon de coiffure à Harlem dans les années 1920, entièrement en noir et blanc / ton sépia, à l'exception du poteau de barbier vibrant et rotatif (rayures rouge vif, blanc et bleu avec un flou de mouvement lumineux) qui est le SEUL élément en couleur. Au moins trois barbiers élégants en tabliers vintage et chemises blanches coupant activement les cheveux avec des ciseaux et des tondeuses, discutant et riant avec animation avec des clients assis dans les fauteuils en cuir classiques, miroirs reflétant l'agitation du salon, affiches et outils vintage sur les murs, planchers en bois chaleureux, lumière naturelle douce provenant des fenêtres, art IA cinématographique très détaillé, filigrane calligraphique semi-transparent élégant « BicRevelation » dans le coin inférieur gauche avec un décalage de nombre d'or de 0,04 par rapport à la gauche et 0,03 par rapport au bas, hauteur exactement égale à 0,02 de la hauteur de l'image, semi-transparent et discret.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e77cfde8c5ce256af791c4f037443d73/thumbnails/thumbnail.jpg" width="600" alt="Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e77cfde8c5ce256af791c4f037443d73/thumbnails/thumbnail.jpg" width="600" alt="Scène classique de salon de coiffure à Harlem dans les années 1920 avec un poteau de barbier aux couleurs éclatantes">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2989)**
 
 **Auteur:** [𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷](https://x.com/Bic_Revelation) | **Source:** [Link](https://x.com/Bic_Revelation/status/2041968501578199354) | **Publié:** Apr 8, 2026
 
 ---
-### Giantess Anime Climbing Scene Prompt
+### Prompt pour une scène d'escalade d'anime de type géante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for generating a 2D anime-style video. The scene features a tiny man climbing the leg of a giantess wearing fishnet stockings, utilizing dynamic low-angle camera work to emphasize the massive scale contrast.
+> Un prompt très détaillé pour générer une vidéo de style anime 2D. La scène met en scène un homme minuscule escaladant la jambe d'une géante portant des bas résille, utilisant un travail de caméra dynamique en contre-plongée pour souligner le contraste d'échelle massif.
 
 #### 📝 Prompt
 
 ```
-High-quality anime style, 2D animation. Warm, cinematic lighting with sunlight filtering through blinds. A tiny man wearing a green hoodie and blue jeans runs across a wooden floor toward a giantess. He climbs up her massive foot and leg, which are covered in black fishnet stockings, using the fishnet holes to climb. Dynamic low-angle camera following his ascent, emphasizing the colossal scale of the giantess. He climbs past her black pleated skirt and white collared shirt, scaling up her dark blue ribbed sweater. The camera pans up to reveal the giantess looking down at him. She has long brown hair, a flower hair clip, and large brown eyes. She wears a highly surprised, wide-eyed expression with a slight blush. Background is a softly blurred bedroom with a music keyboard.
+Style anime de haute qualité, animation 2D. Éclairage cinématographique chaleureux avec la lumière du soleil filtrant à travers des stores. Un homme minuscule portant un sweat à capuche vert et un jean bleu court sur un parquet en bois vers une géante. Il grimpe sur son pied et sa jambe massifs, recouverts de bas résille noirs, en utilisant les mailles du filet pour s'agripper. Caméra dynamique en contre-plongée suivant son ascension, soulignant l'échelle colossale de la géante. Il dépasse sa jupe plissée noire et sa chemise à col blanc, escaladant son pull côtelé bleu foncé. La caméra effectue un panoramique vers le haut pour révéler la géante qui le regarde. Elle a de longs cheveux bruns, une pince à cheveux en forme de fleur et de grands yeux marron. Elle affiche une expression très surprise, les yeux écarquillés, avec un léger rougissement. L'arrière-plan est une chambre doucement floutée avec un clavier musical.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac071a96ccd5827c82205794c48c7ca/thumbnails/thumbnail.jpg" width="600" alt="Giantess Anime Climbing Scene Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac071a96ccd5827c82205794c48c7ca/thumbnails/thumbnail.jpg" width="600" alt="Prompt pour une scène d'escalade d'anime de type géante">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2986)**
 
@@ -596,172 +593,172 @@ CHRONOLOGIE :
 **Auteur:** [Kiber Alla](https://x.com/Kiber_Alla) | **Source:** [Link](https://x.com/Kiber_Alla/status/2041948763217129641) | **Publié:** Apr 8, 2026
 
 ---
-### Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)
+### Scène de salle de bain cinématographique : femme allongée dans une baignoire (Partie 1)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The first part of a multi-part prompt for a 15-second cinematic video. It sets the scene in a luxurious, warm-lit marble bathroom, focusing on a woman in a foam-filled bathtub, starting with a slow side-profile close-up.
+> La première partie d'un prompt en plusieurs étapes pour une vidéo cinématographique de 15 secondes. Il plante le décor dans une luxueuse salle de bain en marbre à l'éclairage chaleureux, en se concentrant sur une femme dans une baignoire remplie de mousse, en commençant par un gros plan lent de profil.
 
 #### 📝 Prompt
 
 ```
-Cinematic 15-second visual set in a luxurious marble bathroom with warm golden ambient lighting reflecting softly across water and glass. A woman reclines in a foam-filled bathtub, calm and composed. The camera begins with a slow side-profile close-up as she gently looks away.
+Visuel cinématographique de 15 secondes se déroulant dans une luxueuse salle de bain en marbre, avec un éclairage ambiant doré et chaleureux se reflétant doucement sur l'eau et le verre. Une femme est allongée dans une baignoire remplie de mousse, calme et sereine. La caméra commence par un gros plan lent de profil alors qu'elle détourne doucement le regard.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174b891d7d5a2981080b8e1b09f65085/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174b891d7d5a2981080b8e1b09f65085/thumbnails/thumbnail.jpg" width="600" alt="Scène de salle de bain cinématographique : femme allongée dans une baignoire (Partie 1)">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2994)**
 
 **Auteur:** [MMENDIE](https://x.com/mmendie__) | **Source:** [Link](https://x.com/mmendie__/status/2041948351558537608) | **Publié:** Apr 8, 2026
 
 ---
-### Cinematic Nu-Metal Nightmare Style Prompt
+### Prompt de style cauchemardesque Nu-Metal cinématographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt defining a specific visual style for video generation, characterized by high-contrast chiaroscuro lighting, a desaturated cool-toned palette with crimson backlight, high-grain 35mm film emulation, and pronounced lens flares.
+> Un prompt détaillé définissant un style visuel spécifique pour la génération de vidéo, caractérisé par un éclairage en clair-obscur à fort contraste, une palette de tons froids désaturés avec un rétroéclairage cramoisi, une émulation de film 35mm à grain élevé et des reflets d'objectif prononcés.
 
 #### 📝 Prompt
 
 ```
-{   "style_name": "Cinematic Nu-Metal Nightmare",   "art_direction": "High-contrast chiaroscuro lighting on a desaturated, cool-toned palette, punctuated by a menacing, pulsing crimson backlight.
- High-grain 35mm film emulation with pronounced anamorphic lens flares and halation
+{   "style_name": "Cauchemar Nu-Metal cinématographique",   "art_direction": "Éclairage en clair-obscur à fort contraste sur une palette de tons froids désaturés, ponctuée par un rétroéclairage cramoisi menaçant et pulsant.
+ Émulation de film 35mm à grain élevé avec des reflets d'objectif anamorphiques prononcés et un effet de halo." }
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/368fd3b3bac98a0e2944f98a8e4238f8/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Nu-Metal Nightmare Style Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/368fd3b3bac98a0e2944f98a8e4238f8/thumbnails/thumbnail.jpg" width="600" alt="Prompt de style cauchemardesque Nu-Metal cinématographique">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2992)**
 
 **Auteur:** [Ainario](https://x.com/ainarioapp) | **Source:** [Link](https://x.com/ainarioapp/status/2041946886962344347) | **Publié:** Apr 8, 2026
 
 ---
-### Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)
+### Prompt pour changement de tenue fluide avec Seedance 2.0 (transition par pale de ventilateur)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt for Seedance 2.0 demonstrating a seamless outfit change effect using a rotating fan blade to momentarily obscure the subject, allowing for an instant, smooth transformation between four different outfits.
+> Un prompt pour Seedance 2.0 démontrant un effet de changement de tenue fluide utilisant une pale de ventilateur rotative pour masquer momentanément le sujet, permettant une transformation instantanée et harmonieuse entre quatre tenues différentes.
 
 #### 📝 Prompt
 
 ```
-Image 1 serves as the starting frame. Only half of a brown wooden fan blade is in the extreme foreground, diagonally cutting the screen from bottom left to top right, slightly blurred. The fan blade rotates slowly and continuously throughout. Timeline: 0-2 seconds: The woman is lying down, relaxed and smiling, breathing lightly, hands resting gently on her chest, wearing the clothes from the reference image. 2-4 seconds: The fan blade completely sweeps across and thoroughly obscures her, then instantly reveals a new outfit—a loose hoodie and sweatpants. 4-6 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a classic white shirt and casual long pants. 6-8 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a comfortable long-sleeved cotton pajama set. 8-10 seconds: The fan blade continues to rotate slowly, and the woman is lying down, relaxed and smiling in the final outfit, with slight natural movements. The seamless transformation and outfit change only occur instantly when the fan blade completely obscures her. Realistic style, cinematic bedroom lighting, rich fabric details, consistent facial features and hair, 24fps smooth motion.
+L'image 1 sert de cadre de départ. Seule la moitié d'une pale de ventilateur en bois marron se trouve à l'extrême premier plan, coupant l'écran en diagonale du bas à gauche vers le haut à droite, légèrement floue. La pale du ventilateur tourne lentement et continuellement tout au long de la séquence. Chronologie : 0-2 secondes : La femme est allongée, détendue et souriante, respirant légèrement, les mains posées délicatement sur sa poitrine, portant les vêtements de l'image de référence. 2-4 secondes : La pale du ventilateur balaie complètement l'écran et l'obscurcit totalement, puis révèle instantanément une nouvelle tenue : un sweat à capuche ample et un pantalon de jogging. 4-6 secondes : La pale du ventilateur balaie à nouveau l'écran et l'obscurcit totalement, puis révèle instantanément une nouvelle tenue : une chemise blanche classique et un pantalon long décontracté. 6-8 secondes : La pale du ventilateur balaie à nouveau l'écran et l'obscurcit totalement, puis révèle instantanément une nouvelle tenue : un ensemble de pyjama confortable en coton à manches longues. 8-10 secondes : La pale du ventilateur continue de tourner lentement, et la femme est allongée, détendue et souriante dans sa tenue finale, avec de légers mouvements naturels. La transformation fluide et le changement de tenue ne se produisent instantanément que lorsque la pale du ventilateur l'obscurcit complètement. Style réaliste, éclairage de chambre cinématographique, détails de tissus riches, traits du visage et cheveux cohérents, mouvement fluide à 24 fps.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1775716268943_a1bdul_HFZjolXbUAAYeij.jpg" width="600" alt="Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)">
+<img src="https://cms-assets.youmind.com/media/1775716268943_a1bdul_HFZjolXbUAAYeij.jpg" width="600" alt="Prompt pour changement de tenue fluide avec Seedance 2.0 (transition par pale de ventilateur)">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2999)**
 
 **Auteur:** [神奇小喷菇AIGC](https://x.com/xpg0970) | **Source:** [Link](https://x.com/xpg0970/status/2041929120322568623) | **Publié:** Apr 8, 2026
 
 ---
-### 1980s fantasy film scene of a knight fighting a lake monster
+### Scène de film fantastique des années 1980 représentant un chevalier combattant un monstre lacustre
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video scene in the style of a 1980s live-action fantasy film, shot on Arri with Zeiss 35mm lenses, depicting a knight wading through a lake to fight a massive lake monster while villagers watch in the background under a gray, overcast, foggy sky. The scene cuts to a close-up on the knight's determined face.
+> Un prompt pour générer une scène vidéo dans le style d'un film fantastique en prises de vues réelles des années 1980, tourné avec une caméra Arri et des objectifs Zeiss 35 mm, montrant un chevalier pataugeant dans un lac pour combattre un monstre lacustre massif sous le regard des villageois, sous un ciel gris, couvert et brumeux. La scène coupe sur un gros plan du visage déterminé du chevalier.
 
 #### 📝 Prompt
 
 ```
-1980s live-action fantasy film, shot on arri with zeiss 35mm lenses. A knight is wading through a lake, facing off with a massive lake monster, as villagers look in the background. It's a gray, overcast day. Fog in the air. Cut to: close on the knight's determined face as
+Film fantastique en prises de vues réelles des années 1980, tourné avec une caméra Arri et des objectifs Zeiss 35 mm. Un chevalier patauge dans un lac, face à un monstre lacustre massif, tandis que des villageois observent en arrière-plan. Journée grise et couverte. Brouillard dans l'air. Coupe sur : gros plan du visage déterminé du chevalier alors que
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88504ba3e2f49a46ef393e1960f77121/thumbnails/thumbnail.jpg" width="600" alt="1980s fantasy film scene of a knight fighting a lake monster">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88504ba3e2f49a46ef393e1960f77121/thumbnails/thumbnail.jpg" width="600" alt="Scène de film fantastique des années 1980 représentant un chevalier combattant un monstre lacustre">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2983)**
 
 **Auteur:** [Dr. Dreams](https://x.com/DrDreamsMusic) | **Source:** [Link](https://x.com/DrDreamsMusic/status/2041923672307585193) | **Publié:** Apr 8, 2026
 
 ---
-### Girl and Cat Transformation Video Prompt (Seedance 2.0)
+### Prompt vidéo de transformation fille et chat (Seedance 2.0)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, multi-scene prompt for Seedance 2.0 to generate a video sequence featuring a girl transforming from a dark, melancholic look to an ethereal, snow-white haired goddess, incorporating elements of traditional Chinese/Japanese attire and a white cat.
+> Un prompt multi-scènes très détaillé pour Seedance 2.0 afin de générer une séquence vidéo mettant en scène une jeune fille passant d'un look sombre et mélancolique à celui d'une déesse éthérée aux cheveux blanc neige, intégrant des éléments de tenues traditionnelles chinoises/japonaises et un chat blanc.
 
 #### 📝 Prompt
 
 ```
-Girl Character: Subject Core: delicate East Asian female character. Appearance Style: ethereal dreamy illustration/manga style. Facial Features: Skin: pearl-like porcelain skin, soft pink blush. Eyes: bright, clear cerulean blue eyes. Expression: gentle, clear, fragile/melancholic expression. Lips: delicate, slightly parted lips. Accessories: delicate pearl earrings. Appearance Details: Hair: Color: snow-white hair. Texture: ultra-long, voluminous, wavy, sea-tangled texture. Attire: Type: traditional Japanese kimono/Hanfu style attire. Color: peach-orange and white patterned silk. Texture: intricate floral patterns. Accessories: floral garlands of pink and white blossoms wrapped around the neck and hair. Key Props: Umbrella: Type: purple oil paper umbrella/wagasa. Details: detailed spokes visible, lilac and lavender hues on the umbrella canopy. Environment & Atmosphere: Petal Details: drifting pink and white cherry blossom petals/cherry blossoms. Background Tone: soft pastel macaron background, lavender, pink gradients. Lighting Effect: soft, ethereal, diffused light, high bloom. Overall Style: dreamy, healing, watercolor and oil painting texture, detailed vector illustration, delicate linework. Atmosphere: serene, mystical, healing, gentle. [Heterochromia in the Umbrella] (Focus: The thrilling and beautiful reversal of spatial folding) 00:00-00:03 (Visual Impact): A dark, rainy alley. A girl in a black hoodie opens a plain black umbrella. Suddenly, a strange purple light illuminates the inside of the umbrella canopy, and a giant, glowing white cat's paw reaches out from “inside” the umbrella and presses onto the girl's forehead! 00:03-00:07 (High-Energy Transformation): The screen instantly flashes white! The black umbrella shatters into fragments of purple oil paper umbrella flying everywhere. The girl's black hair instantly fades into sea-tangled snow-white long hair, and the hoodie transforms into a stunning peach-orange Hanfu. 00:07-00:15 (Healing Freeze Frame): The light fades, and the girl is placed in a pink and purple sea of flowers illusion. The white cat (normal size) lightly lands on her shoulder, sweeping its fluffy tail across her clear cerulean blue eyes, and the girl reveals a gentle smile.
+Personnage féminin : Cœur du sujet : personnage féminin délicat d'Asie de l'Est. Style visuel : illustration onirique éthérée / style manga. Traits du visage : Peau : peau de porcelaine nacrée, léger blush rose. Yeux : yeux bleu azur brillants et clairs. Expression : expression douce, limpide, fragile/mélancolique. Lèvres : lèvres délicates, légèrement entrouvertes. Accessoires : boucles d'oreilles en perles délicates. Détails de l'apparence : Cheveux : Couleur : cheveux blanc neige. Texture : ultra-longs, volumineux, ondulés, texture enchevêtrée comme par la mer. Tenue : Type : tenue traditionnelle de style kimono japonais/Hanfu. Couleur : soie à motifs pêche-orangé et blanc. Texture : motifs floraux complexes. Accessoires : guirlandes florales de fleurs roses et blanches enroulées autour du cou et dans les cheveux. Accessoires clés : Parapluie : Type : parapluie en papier huilé violet/wagasa. Détails : rayons détaillés visibles, teintes lilas et lavande sur la toile du parapluie. Environnement et atmosphère : Détails des pétales : pétales de cerisiers roses et blancs à la dérive / fleurs de cerisier. Ton de l'arrière-plan : fond pastel macaron doux, dégradés de lavande et de rose. Effet d'éclairage : lumière douce, éthérée, diffuse, fort effet de halo (bloom). Style global : onirique, apaisant, texture peinture à l'huile et aquarelle, illustration vectorielle détaillée, traits délicats. Atmosphère : sereine, mystique, apaisante, douce. [Hétérochromie dans le parapluie] (Focus : Le renversement saisissant et magnifique du pliage spatial) 00:00-00:03 (Impact visuel) : Une ruelle sombre et pluvieuse. Une fille en sweat à capuche noir ouvre un parapluie noir uni. Soudain, une étrange lumière violette illumine l'intérieur de la toile du parapluie, et une patte de chat blanc géante et lumineuse sort de « l'intérieur » du parapluie et se pose sur le front de la jeune fille ! 00:03-00:07 (Transformation haute énergie) : L'écran clignote instantanément en blanc ! Le parapluie noir vole en éclats, des fragments de papier huilé violet s'éparpillant partout. Les cheveux noirs de la fille deviennent instantanément des cheveux longs blanc neige, et le sweat à capuche se transforme en un superbe Hanfu pêche-orangé. 00:07-00:15 (Arrêt sur image apaisant) : La lumière s'estompe, et la fille est placée dans une illusion de mer de fleurs roses et violettes. Le chat blanc (taille normale) atterrit légèrement sur son épaule, balayant ses yeux bleu azur clairs de sa queue duveteuse, et la jeune fille esquisse un sourire doux.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f79800a171f4ab4bc315dc1703c3ca2c/thumbnails/thumbnail.jpg" width="600" alt="Girl and Cat Transformation Video Prompt (Seedance 2.0)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f79800a171f4ab4bc315dc1703c3ca2c/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo de transformation fille et chat (Seedance 2.0)">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2998)**
 
 **Auteur:** [宇宙知识库分享](https://x.com/Cosmoslucy13) | **Source:** [Link](https://x.com/Cosmoslucy13/status/2041908111381082463) | **Publié:** Apr 8, 2026
 
 ---
-### Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)
+### Prompt vidéo Seedance 2.0 : Emprisonnement printanier (Romance ancienne)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, multi-scene prompt for Seedance 2.0 to generate a dramatic ancient Chinese romance video sequence titled 'Spring Imprisonment,' specifying cinematic style, lighting, character details (using reference images), and a four-part script with dialogue and camera movements.
+> Un prompt détaillé et multi-scènes pour Seedance 2.0 afin de générer une séquence vidéo dramatique de romance chinoise ancienne intitulée « Emprisonnement printanier ». Il précise le style cinématographique, l'éclairage, les détails des personnages (en utilisant des images de référence) et un script en quatre parties avec dialogues et mouvements de caméra.
 
 #### 📝 Prompt
 
 ```
-Image Quality Style: Cinematic, 4K ultra-clear, extremely smooth CG.
-Lighting Atmosphere: Soft, dreamy spring morning light, Tyndall effect, highlights with slight bloom.
-Environmental Elements: Ancient style window side, outside the window is full of blooming flowers, pink petals gently swirl into the room with the wind.
-Character Settings:
-Female Lead [@Image 1]: Maiden makeup, charming and lively. Wearing a pink light gauze dress, tassel headwear sways.
-Male Lead [@Image 2]: Cold and clean white clothes. Handsome face but deep eyes, with a strong sense of aggression.
+Style de qualité d'image : Cinématographique, ultra-clair 4K, CG extrêmement fluide.
+Atmosphère lumineuse : Lumière douce et onirique d'un matin de printemps, effet Tyndall, reflets avec un léger flou artistique.
+Éléments environnementaux : Bord de fenêtre de style ancien, l'extérieur est rempli de fleurs en pleine floraison, des pétales roses tourbillonnent doucement dans la pièce avec le vent.
+Paramètres des personnages :
+Protagoniste féminine [@Image 1] : Maquillage de jeune fille, charmante et vive. Porte une robe en gaze légère rose, des accessoires de tête à pompons qui se balancent.
+Protagoniste masculin [@Image 2] : Vêtements blancs, froids et épurés. Visage beau mais regard profond, avec un fort sentiment d'agressivité.
 
-Storyboard Script
-Scene 1: Dreamy Spring Light · Astonishment
-The camera pans from the spring scenery outside the window to the interior. The female lead sits by the window sill, her pink gauze dress spread out, and the tassel headwear subtly shakes with her movements.
-The male lead bends over from behind, his arms forming an enclosure, wrapping the female lead in front of his chest.
+Script du storyboard
+Scène 1 : Lumière printanière onirique · Étonnement
+La caméra effectue un panoramique du paysage printanier extérieur vers l'intérieur. La protagoniste féminine est assise sur le rebord de la fenêtre, sa robe en gaze rose étalée, et ses accessoires de tête à pompons tremblent subtilement avec ses mouvements.
+Le protagoniste masculin se penche par-derrière, ses bras formant une enceinte, enveloppant la protagoniste féminine devant sa poitrine.
 
-“Madam?” The female lead's eyes are flustered, her pupils tremble slightly, her lips stammer, her face full of disbelief: “But… didn't we agree this was just acting? You… you broke your promise!”
-Camera: Medium close-up, side composition, emphasizing the compressed space between the two.
-Lighting: Backlight outlines the figures with a golden edge, petals pass between the two.
+« Madame ? » Les yeux de la protagoniste féminine sont troublés, ses pupilles tremblent légèrement, ses lèvres bégayent, son visage est rempli d'incrédulité : « Mais… n'avions-nous pas convenu qu'il ne s'agissait que d'une mise en scène ? Vous… vous avez rompu votre promesse ! »
+Caméra : Plan moyen, composition latérale, soulignant l'espace compressé entre les deux.
+Éclairage : Le contre-jour souligne les silhouettes avec un bord doré, des pétales passent entre les deux.
 
-Scene 2: Whispering in the Ear · Trembling
-The male lead buries his head in the female lead's neck, leaning close to her ear. A close-up shot captures the slight tremor of his chest from a low laugh.
-The scorching breath makes the female lead's fair earlobe quickly turn red, and her body trembles slightly due to tension.
-The male lead's lips curl into a determined arc, his eyes deep as ink.
-Camera Language: Extreme close-up (ear, neck), emphasizing the tension of sensory contact.
+Scène 2 : Murmure à l'oreille · Tremblement
+Le protagoniste masculin enfouit sa tête dans le cou de la protagoniste féminine, se penchant près de son oreille. Un gros plan capture le léger tremblement de sa poitrine dû à un rire étouffé.
+Le souffle brûlant fait rapidement rougir le lobe d'oreille pâle de la protagoniste féminine, et son corps tremble légèrement sous la tension.
+Les lèvres du protagoniste masculin se courbent en un arc déterminé, ses yeux sont profonds comme de l'encre.
+Langage de la caméra : Très gros plan (oreille, cou), soulignant la tension du contact sensoriel.
 
-Scene 3: Cage Declaration · Entering the Game
-The male lead slightly turns his head, his lips almost touching the female lead's, his voice low and dangerous: “Acting? Madam, my acting is very good… good enough to act for a lifetime.”
-The female lead's face turns from pink to white, her gaze shifting from panic to complete stiffness, as if seeing an invisible, luxurious cage tightening.
-The male lead looks directly into the female lead's eyes, dark mist heavy in his gaze, conveying a sense of “absolute control” oppression.
+Scène 3 : Déclaration de la cage · Entrer dans le jeu
+Le protagoniste masculin tourne légèrement la tête, ses lèvres touchant presque celles de la protagoniste féminine, sa voix est basse et dangereuse : « Une mise en scène ? Madame, mon jeu est très bon… assez bon pour jouer toute une vie. »
+Le visage de la protagoniste féminine passe du rose au blanc, son regard passant de la panique à une raideur totale, comme si elle voyait une cage luxueuse et invisible se resserrer.
+Le protagoniste masculin regarde directement dans les yeux de la protagoniste féminine, une brume sombre lourde dans son regard, transmettant un sentiment d'oppression de « contrôle absolu ».
 
-Camera: Close-up of the two faces in confrontation, focus switching between the male lead's ambitious eyes and the female lead's pale lips.
+Caméra : Gros plan des deux visages en confrontation, la mise au point basculant entre les yeux ambitieux du protagoniste masculin et les lèvres pâles de la protagoniste féminine.
 
-Scene 4: Affectionate Confinement · Finale
-The male lead vows word by word: “You will never escape in this life.”
-As the words fall, he cups the back of the female lead's head and kisses her forcefully and deeply.
-The wind picks up outside the window, large petals swirl into the room, dancing around the couple. The dreamy spring light conceals the suffocating possessiveness.
-Camera: The camera slowly pulls back, transitioning from a close-up to a full shot, freezing on the silhouette of the embrace surrounded by blooming flowers.
+Scène 4 : Confinement affectueux · Final
+Le protagoniste masculin jure mot pour mot : « Vous ne vous échapperez jamais dans cette vie. »
+Alors que les mots tombent, il coupe l'arrière de la tête de la protagoniste féminine et l'embrasse avec force et profondeur.
+Le vent se lève à l'extérieur de la fenêtre, de grands pétales tourbillonnent dans la pièce, dansant autour du couple. La lumière printanière onirique dissimule la possessivité étouffante.
+Caméra : La caméra recule lentement, passant d'un gros plan à un plan large, se figeant sur la silhouette de l'étreinte entourée de fleurs en pleine floraison.
 
-Sound Effects
-Environmental Sound: Slight bird chirping outside the window, rustling of leaves in the wind.
-Human Voice: The male lead's magnetic, hoarse low laugh, grainy whispering near the ear.
-BGM: Early stage is soft, ethereal piano, later transitions to oppressive, gradually escalating orchestral music.
+Effets sonores
+Son environnemental : Léger gazouillis d'oiseaux à l'extérieur de la fenêtre, bruissement des feuilles dans le vent.
+Voix humaine : Le rire bas, magnétique et rauque du protagoniste masculin, murmure granuleux près de l'oreille.
+BGM : Le début est un piano doux et éthéré, puis transition vers une musique orchestrale oppressive qui s'intensifie progressivement.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cafd6a375342b6622b8eb3912d78766d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cafd6a375342b6622b8eb3912d78766d/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo Seedance 2.0 : Emprisonnement printanier (Romance ancienne)">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2997)**
 
 **Auteur:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2041898660368413032) | **Publié:** Apr 8, 2026
 
 ---
-### Seamless Transformation Video: Modern Office to 1920s Gangster Film
+### Vidéo de transformation fluide : du bureau moderne au film de gangsters des années 1920
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed Seedance 2.0 video prompt for generating a seamless transformation short video, switching from a modern indoor scene to a retro 1920s gangster film world, emphasizing cinematic quality, dramatic contrast, and character presence. The prompt includes a detailed two-part script with camera movements, character descriptions, and scene settings.
+> Un prompt vidéo détaillé pour Seedance 2.0 permettant de générer une courte vidéo de transformation fluide, passant d'une scène d'intérieur moderne à l'univers d'un film de gangsters rétro des années 1920, en mettant l'accent sur la qualité cinématographique, le contraste dramatique et la prestance des personnages. Le prompt inclut un script détaillé en deux parties avec mouvements de caméra, descriptions des personnages et décors.
 
 #### 📝 Prompt
 
 ```
-A seamless transformation short video, switching from a modern daily indoor scene to a retro 1920s gangster film world with extreme contrast. The total duration is 7 seconds, combining the impact of vertical fashion transformation with a cinematic aspect ratio, resulting in extremely refined visuals and quality comparable to high-end theatrical films. Part 1 (0:00-0:02): Fixed camera, subjective frontal perspective. The frame is completely blocked by the broad backs of two men wearing black casual clothes, black baseball caps, and black masks, standing close to the lens. They suddenly step apart to the left and right, like drawing a curtain, revealing a young Asian woman in the center. The indoor lighting is bright, clean, and uniform, with a gray-white marble textured wall behind her and a black storage cabinet below. She has bright reddish-brown long curly hair, wears thick black-rimmed glasses, and a light-colored floral long-sleeved shirt, with a cold and dominant expression. She raises her right hand, pointing directly at the camera with a sharp, powerful gesture, her lips slightly pursed, radiating a commanding presence, as if declaring: those who oppose us, beware. Part 2 (0:02-0:07): The moment her fingertip points at the camera, a hard cut achieves a seamless transformation. The scene instantly switches to a foggy, retro late-night alley, full of 'Peaky Blinders'-style cinematic atmosphere. Thick fog envelops the entire space, and distant warm amber streetlights form a highly oppressive backlight, outlining the figures with dramatic rim lighting. The overall image shifts to a low, gloomy dark tone, paired with delicate film grain, showcasing the quality of an epic gangster film. The red-haired woman has transformed: she has removed her glasses, wears a gray newsboy cap, a white shirt, black tie, and gray patterned vest, paired with a fitted pencil skirt, and a dark charcoal gray long wool coat draped dramatically over her shoulders, with black leather gloves on her hands. She lightly adjusts her cap, her eyes arrogant and cold, making her unapproachable. The two men beside her also transform simultaneously, removing their masks to reveal cold, handsome faces, dressed in retro gangster attire: newsboy caps, shirts, ties, and heavy long wool coats. The camera smoothly transitions to a pull-back follow shot, as the three walk slowly in a neat formation through the thick fog, their presence intimidating, fully displaying the swagger and authority of gangster bosses. The film-level contrast, stunning reveal, seamless transformation, realistic and natural fabric dynamics, and powerful character presence all highlight the style of a high-end period crime film.
+Une courte vidéo de transformation fluide, passant d'une scène d'intérieur moderne quotidienne à l'univers d'un film de gangsters rétro des années 1920 avec un contraste extrême. La durée totale est de 7 secondes, combinant l'impact d'une transformation de mode verticale avec un format d'image cinématographique, pour un résultat visuel extrêmement raffiné d'une qualité comparable aux films de cinéma haut de gamme. Partie 1 (0:00-0:02) : Caméra fixe, perspective frontale subjective. Le cadre est entièrement obstrué par les larges dos de deux hommes portant des vêtements décontractés noirs, des casquettes de baseball noires et des masques noirs, debout près de l'objectif. Ils s'écartent soudainement vers la gauche et la droite, comme pour ouvrir un rideau, révélant une jeune femme asiatique au centre. L'éclairage intérieur est lumineux, propre et uniforme, avec un mur texturé en marbre gris-blanc derrière elle et un meuble de rangement noir en dessous. Elle a de longs cheveux bouclés brun-rouge vif, porte d'épaisses lunettes à monture noire et une chemise à manches longues à motifs floraux clairs, avec une expression froide et dominante. Elle lève la main droite, pointant directement la caméra d'un geste vif et puissant, les lèvres légèrement pincées, dégageant une présence imposante, comme pour déclarer : ceux qui s'opposent à nous, prenez garde. Partie 2 (0:02-0:07) : Au moment où le bout de son doigt pointe vers la caméra, une coupe franche permet une transformation fluide. La scène bascule instantanément dans une ruelle brumeuse et rétro en pleine nuit, imprégnée d'une atmosphère cinématographique à la « Peaky Blinders ». Un brouillard épais enveloppe tout l'espace, et des réverbères ambrés lointains forment un contre-jour très oppressant, soulignant les silhouettes avec un éclairage de contour dramatique. L'image globale passe à une tonalité sombre et lugubre, associée à un grain de film délicat, mettant en valeur la qualité d'un film de gangsters épique. La femme aux cheveux roux s'est transformée : elle a retiré ses lunettes, porte une casquette gavroche grise, une chemise blanche, une cravate noire et un gilet à motifs gris, associés à une jupe crayon ajustée, et un long manteau en laine gris anthracite drapé de façon spectaculaire sur ses épaules, avec des gants en cuir noir aux mains. Elle ajuste légèrement sa casquette, ses yeux arrogants et froids la rendant inaccessible. Les deux hommes à ses côtés se transforment également simultanément, retirant leurs masques pour révéler des visages froids et séduisants, vêtus de tenues de gangsters rétro : casquettes gavroche, chemises, cravates et longs manteaux en laine épais. La caméra effectue une transition fluide vers un plan de recul, alors que les trois marchent lentement en formation soignée à travers l'épais brouillard, leur présence intimidante affichant pleinement l'assurance et l'autorité de chefs de gang. Le contraste digne du cinéma, la révélation saisissante, la transformation fluide, la dynamique réaliste et naturelle des tissus et la puissante présence des personnages soulignent le style d'un film policier d'époque haut de gamme.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95e836a50e76dacaf313f180de0c6e1e/thumbnails/thumbnail.jpg" width="600" alt="Seamless Transformation Video: Modern Office to 1920s Gangster Film">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95e836a50e76dacaf313f180de0c6e1e/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de transformation fluide : du bureau moderne au film de gangsters des années 1920">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3002)**
 
@@ -944,57 +941,57 @@ Caméra drone FPV poursuivant un groupe de 2 voitures de course filant ensemble 
 **Auteur:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2041874582630445151) | **Publié:** Apr 8, 2026
 
 ---
-### Fluffy Cat Watchmaker Scene Prompt
+### Prompt pour une scène de chat horloger tout doux
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed, multi-stage prompt for Seedance 2.0 to generate a 15-second ultra-realistic macro video of a fluffy cat meticulously acting as a watchmaker in a workshop, focusing on concentration, tools, and a customer interaction.
+> Un prompt détaillé en plusieurs étapes pour Seedance 2.0 afin de générer une vidéo macro ultra-réaliste de 15 secondes montrant un chat tout doux travaillant méticuleusement comme horloger dans un atelier, en mettant l'accent sur la concentration, les outils et l'interaction avec un client.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second ultra-realistic workshop scene with a fluffy cat acting like a meticulous watchmaker. The cat sits upright at a wooden workbench under a bright lamp, wearing tiny round glasses and a miniature work apron, surrounded by gears, watch parts, tools, and magnifying lenses. 0–5s: the cat carefully holds a small watch with both paws, inspecting delicate mechanisms while dust particles float in warm light. 5–10s: extreme close-up as the cat uses a tiny precision tool to adjust the watch internals, blinking slowly with deep concentration, metal parts glinting in the lamp light. 10–15s: a customer receives the repaired watch from the cat, smiles with gratitude, and places payment on the desk while the cat gives a proud professional nod. Ultra-detailed macro realism, polished metals, realistic cat motion, quiet workshop ambience, no text, no logos.
+Créez une scène d'atelier ultra-réaliste de 15 secondes avec un chat tout doux agissant comme un horloger méticuleux. Le chat est assis droit à un établi en bois sous une lampe vive, portant de minuscules lunettes rondes et un tablier de travail miniature, entouré d'engrenages, de pièces d'horlogerie, d'outils et de loupes. 0–5s : le chat tient soigneusement une petite montre avec ses deux pattes, inspectant les mécanismes délicats tandis que des particules de poussière flottent dans une lumière chaude. 5–10s : gros plan extrême montrant le chat utilisant un minuscule outil de précision pour ajuster l'intérieur de la montre, clignant des yeux lentement avec une profonde concentration, les pièces métalliques brillant sous la lumière de la lampe. 10–15s : un client reçoit la montre réparée des mains du chat, sourit avec gratitude et dépose le paiement sur le bureau tandis que le chat fait un signe de tête professionnel et fier. Réalisme macro ultra-détaillé, métaux polis, mouvement de chat réaliste, ambiance d'atelier calme, sans texte, sans logos.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab27483d7b8530f98823ef467c608fe7/thumbnails/thumbnail.jpg" width="600" alt="Fluffy Cat Watchmaker Scene Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab27483d7b8530f98823ef467c608fe7/thumbnails/thumbnail.jpg" width="600" alt="Prompt pour une scène de chat horloger tout doux">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2976)**
 
 **Auteur:** [Ertan Dönmez | Ai Master](https://x.com/ertanlabs) | **Source:** [Link](https://x.com/ertanlabs/status/2041873283939725694) | **Publié:** Apr 8, 2026
 
 ---
-### Kids TV Studio Pig Man Host Prompt
+### Prompt pour animateur « homme-cochon » dans un studio TV pour enfants
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt describing a bright, colorful kids' TV studio scene featuring a 'pig man' host in a black robe and scarf, leading a silly dance alongside a 'monkey man' in a red costume.
+> Un prompt décrivant une scène de studio TV pour enfants, lumineuse et colorée, mettant en vedette un animateur « homme-cochon » vêtu d'une robe noire et d'une écharpe, menant une danse loufoque aux côtés d'un « homme-singe » en costume rouge.
 
 #### 📝 Prompt
 
 ```
-Bright colourful kids TV studio, funny playful energy, the pig man host stands centre stage in a cheerful children’s show set, wearing his black robe and scarf, big pig ears, smiling as he leads a silly dance. Beside him, a monkey man in a bright red costume plays
+Studio TV pour enfants lumineux et coloré, énergie amusante et ludique, l'animateur homme-cochon se tient au centre de la scène dans un décor d'émission pour enfants joyeux, portant sa robe noire et son écharpe, de grandes oreilles de cochon, souriant alors qu'il mène une danse loufoque. À ses côtés, un homme-singe dans un costume rouge vif joue
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfc2f1c6e32e41f7d7879c13309cadfb/thumbnails/thumbnail.jpg" width="600" alt="Kids TV Studio Pig Man Host Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfc2f1c6e32e41f7d7879c13309cadfb/thumbnails/thumbnail.jpg" width="600" alt="Prompt pour animateur « homme-cochon » dans un studio TV pour enfants">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2978)**
 
 **Auteur:** [Captain HaHaa](https://x.com/CaptainHaHaa) | **Source:** [Link](https://x.com/CaptainHaHaa/status/2041870969481130353) | **Publié:** Apr 8, 2026
 
 ---
-### Wide shot of an astronaut skiing on a lunar plain
+### Plan large d'un astronaute faisant du ski sur une plaine lunaire
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a wide shot video of a lone astronaut in an orange pressure suit skiing across a vast, dusty lunar plain, leaving parallel tracks in the regolith.
+> Un prompt pour générer une vidéo en plan large d'un astronaute solitaire en combinaison pressurisée orange faisant du ski sur une vaste plaine lunaire poussiéreuse, laissant des traces parallèles dans le régolithe.
 
 #### 📝 Prompt
 
 ```
-Wide shot. A lone astronaut in a dusty orange pressure suit with dark blue-gray harness straps and black boots skis across a vast lunar plain, leaving two long parallel tracks in the gray regolith behind. The astronaut is mid-stride, poles planted,
+Plan large. Un astronaute solitaire vêtu d'une combinaison pressurisée orange poussiéreuse, avec des sangles de harnais bleu-gris foncé et des bottes noires, skie sur une vaste plaine lunaire, laissant deux longues traces parallèles dans le régolithe gris derrière lui. L'astronaute est en pleine foulée, les bâtons plantés,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b653d347559eca8a93f7db5a275dbe07/thumbnails/thumbnail.jpg" width="600" alt="Wide shot of an astronaut skiing on a lunar plain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b653d347559eca8a93f7db5a275dbe07/thumbnails/thumbnail.jpg" width="600" alt="Plan large d'un astronaute faisant du ski sur une plaine lunaire">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2981)**
 
@@ -1020,86 +1017,86 @@ La femme sculptée en 2D devient progressivement humaine. Une couleur de peau na
 **Auteur:** [PZF](https://x.com/pzf_ai) | **Source:** [Link](https://x.com/pzf_ai/status/2041854815589044518) | **Publié:** Apr 8, 2026
 
 ---
-### Bullet Time Effect in a College Canteen
+### Effet « bullet time » dans une cafétéria universitaire
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt designed to capture a 'bullet time' effect in a college canteen setting, freezing a student mid-stride while various food items are suspended in motion, emphasizing hyper-realistic detail and physics.
+> Un prompt vidéo détaillé conçu pour capturer un effet « bullet time » dans le cadre d'une cafétéria universitaire, figeant un étudiant en plein mouvement alors que divers aliments sont suspendus dans les airs, mettant l'accent sur des détails hyperréalistes et la physique.
 
 #### 📝 Prompt
 
 ```
-Bullet time effect. College canteen. A student in a wrinkled shirt pitches forward mid-stride, arms flung wide, surrendering everything at once — masala dosa unfolding like a golden ribbon mid-flight, momos in loose constellation, samosa split open with filling frozen mid-bloom,
+Effet « bullet time ». Cafétéria universitaire. Un étudiant en chemise froissée bascule vers l'avant en pleine enjambée, les bras grands ouverts, lâchant tout en même temps — un masala dosa se déployant comme un ruban doré en plein vol, des momos en constellation éparse, un samosa ouvert avec sa farce figée en pleine éclosion,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fa37688dd9ec8e2208b491f3ae99cea/thumbnails/thumbnail.jpg" width="600" alt="Bullet Time Effect in a College Canteen">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fa37688dd9ec8e2208b491f3ae99cea/thumbnails/thumbnail.jpg" width="600" alt="Effet « bullet time » dans une cafétéria universitaire">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2993)**
 
 **Auteur:** [Harsha Swamy](https://x.com/harsha3d) | **Source:** [Link](https://x.com/harsha3d/status/2041848354167255357) | **Publié:** Apr 8, 2026
 
 ---
-### Reluctant Dancing Woman in Kimono MV
+### Femme en kimono dansant à contrecœur dans un clip vidéo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed English prompt for Seedance 2.0 (via Topview) to generate a dynamic music video sequence featuring an original character—a woman in a black kimono—dancing with a reluctant and annoyed expression. The prompt specifies multi-cut editing, camera work, and the overall cinematic, anime-style MV atmosphere.
+> Un prompt détaillé en anglais pour Seedance 2.0 (via Topview) afin de générer une séquence de clip vidéo dynamique mettant en scène un personnage original — une femme en kimono noir — dansant avec une expression réticente et agacée. Le prompt précise le montage multi-coupes, le travail de caméra et l'atmosphère cinématographique globale de type clip vidéo d'anime.
 
 #### 📝 Prompt
 
 ```
-The background is predominantly white with pastel-colored patterns scattered throughout; . Do not show the attached character sheet in the video.A woman in a black kimono dances with a reluctant, annoyed expression, as if she does not want to be there. The scene is styled like a dynamic dance music video with rapid multi-cut editing: close-ups of her exasperated face, tight zoom-ins on her feet struggling to keep up with the choreography, detailed shots of her hands moving slightly behind the beat, and expressive cut-ins that emphasize her irritated body language. She follows the dance with a slight delay, making her performance feel awkward yet charming. Include a close-up of her fed-up expression, then a smooth spinning turn, captured with dramatic motion and energetic camera work, anime-style dance MV atmosphere, cinematic rhythm, stylish and playful.
+L'arrière-plan est majoritairement blanc avec des motifs aux couleurs pastel dispersés un peu partout ; ne montrez pas la fiche de personnage jointe dans la vidéo. Une femme en kimono noir danse avec une expression réticente et agacée, comme si elle ne voulait pas être là. La scène est stylisée comme un clip vidéo de danse dynamique avec un montage rapide multi-coupes : gros plans sur son visage exaspéré, zooms serrés sur ses pieds peinant à suivre la chorégraphie, plans détaillés de ses mains bougeant légèrement en décalage avec le rythme, et inserts expressifs soulignant son langage corporel irrité. Elle suit la danse avec un léger retard, rendant sa performance maladroite mais charmante. Incluez un gros plan sur son expression de lassitude, suivi d'un tour sur elle-même fluide, capturé avec un mouvement dramatique et un travail de caméra énergique, une atmosphère de clip de danse style anime, un rythme cinématographique, élégant et ludique.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe73734d51e86292809e3e2887b903b6/thumbnails/thumbnail.jpg" width="600" alt="Reluctant Dancing Woman in Kimono MV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe73734d51e86292809e3e2887b903b6/thumbnails/thumbnail.jpg" width="600" alt="Femme en kimono dansant à contrecœur dans un clip vidéo">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3006)**
 
 **Auteur:** [🍺 イケハヤ@アニメ作る人](https://x.com/IHayato) | **Source:** [Link](https://x.com/IHayato/status/2041839076354224178) | **Publié:** Apr 8, 2026
 
 ---
-### Cinematic black and white portrait of a young woman with a tear
+### Portrait cinématographique en noir et blanc d'une jeune femme avec une larme
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for Seedance 2.0, focusing on a black and white portrait of a young woman in an abaya and hijab. The prompt specifies dramatic Rembrandt lighting, high contrast, subtle camera movements (slow push-in), and a specific emotional sequence involving a tear falling and the subject's expression changing.
+> Un prompt cinématographique détaillé pour Seedance 2.0, axé sur un portrait en noir et blanc d'une jeune femme portant une abaya et un hijab. Le prompt précise un éclairage dramatique de type Rembrandt, un contraste élevé, des mouvements de caméra subtils (travelling avant lent) et une séquence émotionnelle spécifique impliquant une larme qui coule et un changement d'expression du sujet.
 
 #### 📝 Prompt
 
 ```
-black and white cinematic portrait of a young woman wearing a flowing black abaya and a soft black hijab, modest elegant look, the hijab delicately wrapped, a few subtle hair strands gently visible from the back, side profile, natural beauty with soft freckles, minimal makeup, calm but deeply emotional expression
-dramatic side lighting, Rembrandt style, half of her face in shadow, soft rim light outlining her silhouette and the edge of the hijab, high contrast, soft film grain, shallow depth of field, 85mm lens
-dark minimal background, faint floating dust particles, quiet intimate atmosphere
-slow cinematic push-in, no cuts, ultra subtle movements only
-a tear slowly forms in her eye, then gently falls down her cheek in slow motion, she closes her eyes briefly, breath soft and heavy
-her hand rises slowly from the black abaya sleeve, delicately wiping the tear without fully removing the emotion
-a faint breeze slightly moves the edge of the hijab and the loose hair strands
-she slowly turns her face away from the light, shadows deepen across her features
-she becomes completely still for a moment
-then her eyes open slowly, distant and empty gaze, unfocused, lost in thought
-fade to black
+portrait cinématographique en noir et blanc d'une jeune femme portant une abaya noire fluide et un hijab noir doux, look élégant et modeste, le hijab délicatement drapé, quelques mèches de cheveux subtilement visibles à l'arrière, profil latéral, beauté naturelle avec de légères taches de rousseur, maquillage minimal, expression calme mais profondément émotionnelle
+éclairage latéral dramatique, style Rembrandt, moitié du visage dans l'ombre, lumière de contour douce soulignant sa silhouette et le bord du hijab, contraste élevé, grain de film doux, faible profondeur de champ, objectif 85mm
+arrière-plan sombre et minimal, fines particules de poussière en suspension, atmosphère intime et silencieuse
+travelling avant cinématographique lent, sans coupure, mouvements ultra subtils uniquement
+une larme se forme lentement dans son œil, puis coule doucement sur sa joue au ralenti, elle ferme brièvement les yeux, respiration douce et lourde
+sa main se lève lentement de la manche de l'abaya noire, essuyant délicatement la larme sans effacer l'émotion
+une légère brise fait bouger subtilement le bord du hijab et les mèches de cheveux lâches
+elle détourne lentement son visage de la lumière, les ombres s'intensifient sur ses traits
+elle devient complètement immobile pendant un instant
+puis ses yeux s'ouvrent lentement, regard distant et vide, flou, perdue dans ses pensées
+fondu au noir
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/181a714a3331efc38972f77b430e56ba/thumbnails/thumbnail.jpg" width="600" alt="Cinematic black and white portrait of a young woman with a tear">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/181a714a3331efc38972f77b430e56ba/thumbnails/thumbnail.jpg" width="600" alt="Portrait cinématographique en noir et blanc d'une jeune femme avec une larme">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2987)**
 
 **Auteur:** [Sara | 사라 Al ✦ 🎥✍️](https://x.com/sara4ai) | **Source:** [Link](https://x.com/sara4ai/status/2041834780161974423) | **Publié:** Apr 8, 2026
 
 ---
-### Rural Scene: Woman Walking in Rain
+### Scène rurale : femme marchant sous la pluie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt describing a realistic rural scene featuring a blonde woman walking down a muddy road in the pouring rain, carrying buckets towards a barn filled with cows. The full prompt is linked externally.
+> Un prompt décrivant une scène rurale réaliste mettant en vedette une femme blonde marchant sur un chemin boueux sous une pluie battante, portant des seaux vers une étable remplie de vaches. Le prompt complet est disponible via un lien externe.
 
 #### 📝 Prompt
 
 ```
-A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural village road in the pouring rain, carrying two metal buckets towards a barn filled with cows.
+Une femme blonde portant une chemise à carreaux et des bottes en caoutchouc vertes marche sur le chemin boueux d'un village rural sous une pluie battante, transportant deux seaux en métal vers une étable remplie de vaches.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eac9b64c0517eddd6892efcb96d1e85/thumbnails/thumbnail.jpg" width="600" alt="Rural Scene: Woman Walking in Rain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eac9b64c0517eddd6892efcb96d1e85/thumbnails/thumbnail.jpg" width="600" alt="Scène rurale : femme marchant sous la pluie">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2996)**
 
@@ -1144,87 +1141,87 @@ Bande-annonce de bataille fantastique cinématographique ultra-détaillée au fo
 **Auteur:** [AI-ishere](https://x.com/AIishere_art) | **Source:** [Link](https://x.com/AIishere_art/status/2041801904028840427) | **Publié:** Apr 8, 2026
 
 ---
-### High-Speed Female Swordswoman Battle Animation
+### Animation de combat à haute vitesse d'une épéiste
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed prompt for generating a high-quality, full-color Japanese animation movie featuring a female swordswoman engaged in a continuous, high-speed battle sequence. The prompt specifies various sword techniques like 'Flame Slash,' 'Explosive Ice Slash,' and 'Thunder Slash,' with screen-filling effects and a focus on maintaining the style of the input image.
+> Un prompt détaillé pour générer un film d'animation japonais en couleur de haute qualité, mettant en scène une épéiste engagée dans une séquence de combat continue à haute vitesse. Le prompt précise diverses techniques d'épée telles que « Flame Slash », « Explosive Ice Slash » et « Thunder Slash », avec des effets occupant tout l'écran et une attention particulière portée au maintien du style de l'image source.
 
 #### 📝 Prompt
 
 ```
-High-speed battle motion by a female swordswoman, performing a fierce sword dance (camera angle, subject distance, and focus are all left to the AI), executing various sword techniques such as Flame Slash, Explosive Ice Slash, and Thunder Slash without stopping from start to finish. Include effects that burst out to fill the screen, and generate a high-quality, full-color Japanese animation movie. Maintain the style/artistic touch of the input image.
+Mouvement de combat à haute vitesse d'une épéiste effectuant une danse de l'épée féroce (l'angle de caméra, la distance du sujet et la mise au point sont laissés à l'IA), exécutant diverses techniques d'épée telles que Flame Slash, Explosive Ice Slash et Thunder Slash sans interruption du début à la fin. Incluez des effets qui éclatent pour remplir l'écran et générez un film d'animation japonais en couleur de haute qualité. Maintenez le style et la touche artistique de l'image source.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4921c332a9bb59b22607ffc0650091d6/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Female Swordswoman Battle Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4921c332a9bb59b22607ffc0650091d6/thumbnails/thumbnail.jpg" width="600" alt="Animation de combat à haute vitesse d'une épéiste">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3005)**
 
 **Auteur:** [そぴちゃんねる](https://x.com/souhiro_meem_ch) | **Source:** [Link](https://x.com/souhiro_meem_ch/status/2041801510250803408) | **Publié:** Apr 8, 2026
 
 ---
-### Handheld Astronaut Footage Prompt
+### Prompt pour séquence d'astronaute filmée à la main
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt focusing on camera movement, lighting, and audio to simulate raw, shaky, handheld footage taken by a second astronaut on the lunar surface, aiming for a leaked personal clip aesthetic.
+> Un prompt détaillé axé sur les mouvements de caméra, l'éclairage et l'audio pour simuler une séquence brute, tremblante et filmée à la main par un second astronaute sur la surface lunaire, visant une esthétique de clip personnel ayant fuité.
 
 #### 📝 Prompt
 
 ```
-SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera operator breathes too loud. Framing drifts. Feels like a personal clip that leaked.
+PLAN SÉQUENCE. Filmé à la main par un second astronaute sur la surface. Tremblant. Humain. Le cadreur respire trop fort. Le cadrage dérive. Donne l'impression d'un clip personnel qui aurait fuité.
 
-LIGHTING: Raw sunlight from camera left. No fill. High contrast.
+ÉCLAIRAGE : Lumière du soleil brute venant de la gauche de la caméra. Pas de remplissage. Contraste élevé.
 
-AUDIO: Two sets of breathing on open channel.
+AUDIO : Deux respirations sur canal ouvert.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e8f5850114227c22f324ad2da2b1914/thumbnails/thumbnail.jpg" width="600" alt="Handheld Astronaut Footage Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e8f5850114227c22f324ad2da2b1914/thumbnails/thumbnail.jpg" width="600" alt="Prompt pour séquence d'astronaute filmée à la main">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2977)**
 
 **Auteur:** [Alex Patrascu](https://x.com/maxescu) | **Source:** [Link](https://x.com/maxescu/status/2041796512024342780) | **Publié:** Apr 8, 2026
 
 ---
-### 15-Second Continuous Action Sequence
+### Séquence d'action continue de 15 secondes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a 15-second continuous single-shot video sequence, emphasizing hyper-realistic cinematic fantasy elements, large-scale creature physics, and detailed atmospheric effects like volumetric fire and heat distortion.
+> Un prompt pour une séquence vidéo de 15 secondes en plan-séquence continu, mettant l'accent sur des éléments de fantasy cinématographique hyperréalistes, la physique de créatures à grande échelle et des effets atmosphériques détaillés tels que le feu volumétrique et la distorsion thermique.
 
 #### 📝 Prompt
 
 ```
-15-second continuous single-shot action sequence.
-No cuts. No scene transitions.
+Séquence d'action en plan-séquence continu de 15 secondes.
+Aucune coupure. Aucune transition de scène.
 
-Hyper-realistic cinematic fantasy, large-scale creature physics, volumetric fire simulation, heat distortion, dynamic airflow, atmospheric perspective
+Fantasy cinématographique hyperréaliste, physique de créatures à grande échelle, simulation de feu volumétrique, distorsion thermique, flux d'air dynamique, perspective atmosphérique
 
-Single continuous subject: rider firmly
+Sujet unique et continu : cavalier fermement
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63f1aa7f8a62360c821e1e1fc436829c/thumbnails/thumbnail.jpg" width="600" alt="15-Second Continuous Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63f1aa7f8a62360c821e1e1fc436829c/thumbnails/thumbnail.jpg" width="600" alt="Séquence d'action continue de 15 secondes">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2995)**
 
 **Auteur:** [OscarAI](https://x.com/Artedeingenio) | **Source:** [Link](https://x.com/Artedeingenio/status/2041790861772562653) | **Publié:** Apr 8, 2026
 
 ---
-### Cyberpunk Woman Video Prompt
+### Prompt vidéo : Femme cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a 10-second clip featuring a beautiful young East Asian woman in a dark, neon-lit cyberpunk city alley at night, detailing her appearance (platinum blonde hair, glowing blue cybernetic eyes, worn leather jacket with neon accessories) and specifying the first three seconds of the video.
+> Un prompt vidéo cinématographique pour un clip de 10 secondes mettant en scène une belle jeune femme d'Asie de l'Est dans une ruelle sombre d'une ville cyberpunk illuminée par des néons la nuit, détaillant son apparence (cheveux blond platine, yeux cybernétiques bleu brillant, veste en cuir usée avec accessoires néon) et spécifiant les trois premières secondes de la vidéo.
 
 #### 📝 Prompt
 
 ```
-A cinematic 10-second video of a beautiful young East Asian woman in a dark alley of a neon-lit cyberpunk city at night. She has short platinum blonde hair, glowing blue cybernetic eyes, and wears a worn leather jacket with neon-trimmed tech accessories.
+Une vidéo cinématographique de 10 secondes d'une belle jeune femme d'Asie de l'Est dans une ruelle sombre d'une ville cyberpunk illuminée par des néons la nuit. Elle a des cheveux courts blond platine, des yeux cybernétiques bleu brillant et porte une veste en cuir usée avec des accessoires technologiques bordés de néons.
 
 [00:00-03:00s] —
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/129718e6d9c1e5286e63f63dfd3eb68e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Woman Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/129718e6d9c1e5286e63f63dfd3eb68e/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Femme cyberpunk">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3000)**
 
@@ -1250,19 +1247,19 @@ Gros plan fixe. Une main humaine réaliste interagit avec un personnage animé e
 **Auteur:** [Kiki](https://x.com/Mayz1169) | **Source:** [Link](https://x.com/Mayz1169/status/2041787247180313081) | **Publié:** Apr 8, 2026
 
 ---
-### Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style
+### Pupu déracine un saule : style Wuxia des Shaw Brothers
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed Seedance 2.0 prompt for a video inspired by 1970s Shaw Brothers martial arts films, featuring a character named Pupu dramatically pulling up a large willow tree. The prompt specifies the visual style (Technicolor, high saturation, dramatic lighting, film grain, artificial set design) and includes a three-part script with specific camera angles, actions, and dialogue.
+> Un prompt détaillé pour Seedance 2.0 permettant de générer une vidéo inspirée des films d'arts martiaux des Shaw Brothers des années 1970, mettant en scène un personnage nommé Pupu déracinant spectaculairement un grand saule. Le prompt précise le style visuel (Technicolor, saturation élevée, éclairage dramatique, grain de pellicule, décors de studio) et inclut un script en trois parties avec des angles de caméra, des actions et des dialogues spécifiques.
 
 #### 📝 Prompt
 
 ```
-The video is based on the style of 1970s Shaw Brothers martial arts films, featuring obviously artificial rockeries and fake farmhouse courtyards. Technicolor, high saturation, unnatural dramatic lighting, old film grain texture, and a studio set feel. No subtitles. [0-7s] The camera slowly pushes in with a low-angle upward shot, the focus firmly locked on Pupu's strained upper body: sweat beads on the forehead, and sweat mixed with dirt rolls down the jawline. With hands clamped like iron tongs around the large willow trunk, Pupu forcefully pulls up the entire old willow tree with a dull sound of tearing earth, then violently flings the willow tree horizontally, the trunk hitting the ground with a whoosh, creating billowing smoke and dust. [8-9s] The camera quickly pushes in for a top-down shot of the two dogs' stunned expressions. [10-12s] An upward shot shows Pupu sweating, looking at the tree on the ground, laughing and saying: "That felt great!" [12-15s] The two dogs are trembling with fear, and one dog says to the other: "Maybe we should behave ourselves from now on."
+La vidéo s'inspire du style des films d'arts martiaux des Shaw Brothers des années 1970, avec des rocailles manifestement artificielles et des cours de ferme factices. Technicolor, saturation élevée, éclairage dramatique artificiel, texture de vieux grain de pellicule et une atmosphère de décor de studio. Pas de sous-titres. [0-7s] La caméra avance lentement en contre-plongée, le focus étant fermement verrouillé sur le haut du corps tendu de Pupu : des perles de sueur sur le front, et de la sueur mélangée à de la terre coule le long de la mâchoire. Avec des mains serrées comme des pinces en fer autour du tronc du grand saule, Pupu déracine avec force tout le vieux saule dans un bruit sourd de terre déchirée, puis projette violemment l'arbre à l'horizontale, le tronc heurtant le sol avec un sifflement, soulevant un nuage de fumée et de poussière. [8-9s] La caméra avance rapidement en plongée sur les expressions stupéfaites des deux chiens. [10-12s] Une contre-plongée montre Pupu en sueur, regardant l'arbre au sol, riant et disant : « Ça fait du bien ! » [12-15s] Les deux chiens tremblent de peur, et l'un dit à l'autre : « Peut-être devrions-nous bien nous comporter à partir de maintenant. »
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39273c573e993f312758a27165919de/thumbnails/thumbnail.jpg" width="600" alt="Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39273c573e993f312758a27165919de/thumbnails/thumbnail.jpg" width="600" alt="Pupu déracine un saule : style Wuxia des Shaw Brothers">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3003)**
 
@@ -1288,19 +1285,19 @@ The video is based on the style of 1970s Shaw Brothers martial arts films, featu
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2041772197799236033) | **Publié:** Apr 8, 2026
 
 ---
-### Sci-Fi Action Film Aesthetic Video Prompt
+### Prompt vidéo pour un film d'action de science-fiction
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Seedance 2.0 generating a high-energy sci-fi action scene featuring two women fighting on a speeding train in a rainy gorge, focusing on martial arts, motion blur, and a moody teal-grey aesthetic.
+> Un prompt détaillé pour Seedance 2.0 permettant de générer une scène d'action de science-fiction dynamique mettant en scène deux femmes se battant sur un train à grande vitesse dans une gorge pluvieuse, en mettant l'accent sur les arts martiaux, le flou de mouvement et une esthétique sombre bleu-gris.
 
 #### 📝 Prompt
 
 ```
-Fast low-angle tracking, rainy dark gorge. Pink-haired woman in tactical gear vs woman in white bodysuit fighting atop speeding train. Martial arts, sparks, motion blur, moody teal-grey sci-fi action film aesthetic.
+Suivi rapide en contre-plongée, gorge sombre et pluvieuse. Une femme aux cheveux roses en équipement tactique affronte une femme en combinaison blanche sur le toit d'un train à grande vitesse. Arts martiaux, étincelles, flou de mouvement, esthétique de film d'action de science-fiction sombre bleu-gris.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a7fa0d371f4ba068df6f740a44c154e/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Action Film Aesthetic Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a7fa0d371f4ba068df6f740a44c154e/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo pour un film d'action de science-fiction">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2975)**
 
@@ -1362,59 +1359,59 @@ Ambiance : intelligente, contrôlée, inévitable, identité de marque technolog
 **Auteur:** [Ciri](https://x.com/Ciri_ai) | **Source:** [Link](https://x.com/Ciri_ai/status/2041766798220259711) | **Publié:** Apr 8, 2026
 
 ---
-### Melancholic Mountain Woman Video Prompt
+### Prompt vidéo : Femme mélancolique en montagne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a 15-second clip featuring a beautiful young East Asian woman with long silver hair, standing alone on a fog-covered mountain peak at dawn, wearing a dark minimalist coat and looking into the distance with a calm, melancholic expression, specifying the first three seconds of the video.
+> Un prompt vidéo cinématographique pour un clip de 15 secondes mettant en scène une belle jeune femme d'Asie de l'Est aux longs cheveux argentés, seule au sommet d'une montagne embrumée à l'aube, vêtue d'un manteau minimaliste sombre et regardant au loin avec une expression calme et mélancolique, en précisant les trois premières secondes de la vidéo.
 
 #### 📝 Prompt
 
 ```
-A cinematic 15-second video of a beautiful young East Asian woman with long flowing silver hair, standing alone on a fog-covered mountain peak at dawn. She wears a dark minimalist coat, looking into the distance with a calm, melancholic expression.
+Une vidéo cinématographique de 15 secondes montrant une belle jeune femme d'Asie de l'Est aux longs cheveux argentés flottants, seule au sommet d'une montagne embrumée à l'aube. Elle porte un manteau minimaliste sombre et regarde au loin avec une expression calme et mélancolique.
 
 [00:00-03:00s] —
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69f129e1163dc4625cb623d57687f333/thumbnails/thumbnail.jpg" width="600" alt="Melancholic Mountain Woman Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69f129e1163dc4625cb623d57687f333/thumbnails/thumbnail.jpg" width="600" alt="Prompt vidéo : Femme mélancolique en montagne">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3001)**
 
 **Auteur:** [阿越-AY](https://x.com/AyccAI) | **Source:** [Link](https://x.com/AyccAI/status/2041750686975848850) | **Publié:** Apr 8, 2026
 
 ---
-### 10-Second Cinematic Vertical Action Prompt
+### Prompt d'action cinématographique vertical de 10 secondes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 10-second cinematic vertical video (9:16) featuring one continuous, unbroken tracking shot of massive blockbuster fantasy action. The scene is a hyper-detailed storm ocean at night, with the camera staying behind a female hero in a wide full-body frame.
+> Un prompt détaillé pour générer une vidéo verticale cinématographique de 10 secondes (9:16) présentant un plan-séquence continu et ininterrompu d'action fantastique digne d'un blockbuster. La scène dépeint un océan en tempête hyper-détaillé de nuit, avec une caméra suivant une héroïne en plan large plein pied.
 
 #### 📝 Prompt
 
 ```
-A 10-second cinematic vertical video, 9:16, one continuous unbroken tracking shot, massive blockbuster fantasy action, ultra-premium VFX, hyper-detailed storm ocean at night. The camera stays behind the female hero for the entire shot in a wide full-body framing, clearly showing
+Une vidéo verticale cinématographique de 10 secondes, 9:16, un plan-séquence continu et ininterrompu, action fantastique digne d'un blockbuster, effets visuels ultra-premium, océan en tempête hyper-détaillé de nuit. La caméra reste derrière l'héroïne pendant toute la durée du plan en cadrage large plein pied, montrant clairement
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/654953d92bce9f0da760edf9f812babb/thumbnails/thumbnail.jpg" width="600" alt="10-Second Cinematic Vertical Action Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/654953d92bce9f0da760edf9f812babb/thumbnails/thumbnail.jpg" width="600" alt="Prompt d'action cinématographique vertical de 10 secondes">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2990)**
 
 **Auteur:** [TheYudayVerse](https://x.com/yuday9909) | **Source:** [Link](https://x.com/yuday9909/status/2041709090251141427) | **Publié:** Apr 8, 2026
 
 ---
-### 2D Animated Fight Scene
+### Scène de combat en animation 2D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 2D animated fight scene between two characters, Anya and Kannakamui, focusing on fast movements, impact effects, smooth synchronization, and powerful action.
+> Un prompt détaillé pour générer une scène de combat en animation 2D entre deux personnages, Anya et Kannakamui, mettant l'accent sur les mouvements rapides, les effets d'impact, une synchronisation fluide et une action percutante.
 
 #### 📝 Prompt
 
 ```
-A 2D animated fight scene between two characters, Anya and Kannakamui. Anya moves quickly, circling around and delivering many punches and flying kicks. The ground cracks and dust rises into the air. Kannakamui twists and turns her body rapidly, using quick movements, dodges, and blocks to avoid the attacks. Each strike creates gusts of wind and loud impact sounds. The motion and shifts in body control are clearly shown. The animation is smooth and synchronized, making the fight feel powerful and full of weight.
+Une scène de combat en animation 2D entre deux personnages, Anya et Kannakamui. Anya se déplace rapidement, tournant autour de son adversaire et enchaînant les coups de poing et les coups de pied sautés. Le sol se fissure et de la poussière s'élève dans les airs. Kannakamui se contorsionne et pivote rapidement, utilisant des mouvements vifs, des esquives et des blocages pour éviter les attaques. Chaque coup crée des rafales de vent et des bruits d'impact sonores. Le mouvement et les changements dans le contrôle du corps sont clairement visibles. L'animation est fluide et synchronisée, rendant le combat puissant et empreint d'un sentiment de poids.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6edf1100613812fb4ff6e3eac5d64aea/thumbnails/thumbnail.jpg" width="600" alt="2D Animated Fight Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6edf1100613812fb4ff6e3eac5d64aea/thumbnails/thumbnail.jpg" width="600" alt="Scène de combat en animation 2D">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2988)**
 
@@ -1476,19 +1473,19 @@ A 2D animated fight scene between two characters, Anya and Kannakamui. Anya move
 **Auteur:** [Shami](https://x.com/ShamiWeb3) | **Source:** [Link](https://x.com/ShamiWeb3/status/2041684360483541236) | **Publié:** Apr 8, 2026
 
 ---
-### 15-second seamless one-take transition video
+### Vidéo de transition fluide en un seul plan de 15 secondes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a 15-second cinematic video that seamlessly transitions between six reference images using continuous camera movements like whip-pans or zooms, strictly forbidding hard cuts, fades, or opacity changes.
+> Un prompt pour créer une vidéo cinématographique de 15 secondes effectuant une transition fluide entre six images de référence grâce à des mouvements de caméra continus tels que des whip-pans ou des zooms, en interdisant strictement les coupes franches, les fondus ou les changements d'opacité.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use fluid, continuous camera movements (like whip-pans or zooms)
+Créez une vidéo cinématographique fluide en un seul plan de 15 secondes effectuant une transition entre [Image 1 à Image 6]. Aucune coupe franche, aucun fondu et aucun changement d'opacité ne sont autorisés. Utilisez des mouvements de caméra fluides et continus (comme des whip-pans ou des zooms).
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c86c58f69f7142471d60364dbcf363ca/thumbnails/thumbnail.jpg" width="600" alt="15-second seamless one-take transition video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c86c58f69f7142471d60364dbcf363ca/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de transition fluide en un seul plan de 15 secondes">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=2982)**
 
@@ -2296,19 +2293,19 @@ PLAN 4 : Les feuilles deviennent denses (été).
 **Auteur:** [Aleena Amir](https://x.com/aleenaamiir) | **Source:** [Link](https://x.com/aleenaamiir/status/2041478764610404703) | **Publié:** Apr 7, 2026
 
 ---
-### Grounded Action Sequence in a Gothic Cathedral
+### Séquence d'action réaliste dans une cathédrale gothique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A user describes their attempt to generate a 'grounded' action sequence using Seedance 2.0, focusing on realistic physics, Arri Alexa texture, and natural lighting within a gothic cathedral setting, avoiding neon lights and exaggerated VFX.
+> Un utilisateur décrit sa tentative de générer une séquence d'action « réaliste » à l'aide de Seedance 2.0, en se concentrant sur une physique crédible, une texture Arri Alexa et un éclairage naturel au sein d'une cathédrale gothique, tout en évitant les néons et les effets visuels exagérés.
 
 #### 📝 Prompt
 
 ```
-I tried a completely "grounded" action sequence inside a gothic cathedral, far from neon lights and exaggerated VFX. The realism level is tremendous with Arri Alexa texture and natural lighting. A solid fight choreography that adheres to the laws of physics...
+J'ai tenté de créer une séquence d'action totalement « réaliste » à l'intérieur d'une cathédrale gothique, loin des néons et des effets visuels exagérés. Le niveau de réalisme est impressionnant grâce à la texture Arri Alexa et à l'éclairage naturel. Une chorégraphie de combat solide qui respecte les lois de la physique...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afbff359962d31f0393a5696a0092eaa/thumbnails/thumbnail.jpg" width="600" alt="Grounded Action Sequence in a Gothic Cathedral">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afbff359962d31f0393a5696a0092eaa/thumbnails/thumbnail.jpg" width="600" alt="Séquence d'action réaliste dans une cathédrale gothique">
 
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=3007)**
 
@@ -3019,6 +3016,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-09T06:37:43.267Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-04-09T09:26:52.487Z</sub>
 
 </div>

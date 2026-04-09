@@ -361,91 +361,88 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Man vs. Sea Monster in a Violent Storm
+### Người đàn ông đối đầu với quái vật biển trong cơn bão dữ dội
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Seedance 2.0 prompt for generating a hyper-realistic, dramatic cinematic video of a lone man struggling in a small boat during a violent ocean storm, culminating in a sea monster attack.
+> Một câu lệnh Seedance 2.0 để tạo video điện ảnh kịch tính, siêu thực về một người đàn ông đơn độc đang chật vật trên chiếc thuyền nhỏ giữa cơn bão đại dương dữ dội, kết thúc bằng cuộc tấn công của quái vật biển.
 
 #### 📝 Prompt
 
 ```
-A lone man struggles to steady himself on a small boat in the middle of a violent ocean storm. Thunder cracks and heavy rain lashes down as towering waves crash around him. Suddenly, a sea monster bursts from the dark water, its massive jaws opening wide. It clamps its teeth onto the boat, splintering the wood, and violently drags it beneath the churning ocean as the man fights for his life. Dramatic lighting, cinematic camera angles, hyper-realistic, intense atmosphere.
+Một người đàn ông đơn độc đang chật vật giữ thăng bằng trên chiếc thuyền nhỏ giữa cơn bão đại dương dữ dội. Tiếng sấm rền vang và mưa nặng hạt trút xuống khi những con sóng cao ngất ập đến xung quanh anh. Đột nhiên, một con quái vật biển trồi lên từ làn nước tối tăm, cái hàm khổng lồ của nó mở rộng. Nó cắm răng vào chiếc thuyền, làm gỗ vỡ vụn và kéo mạnh con thuyền xuống dưới đại dương đang cuộn trào trong khi người đàn ông chiến đấu để giành lấy sự sống. Ánh sáng kịch tính, góc quay điện ảnh, siêu thực, bầu không khí căng thẳng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac78c2a52ca0593980b333dad213a594/thumbnails/thumbnail.jpg" width="600" alt="Man vs. Sea Monster in a Violent Storm">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac78c2a52ca0593980b333dad213a594/thumbnails/thumbnail.jpg" width="600" alt="Người đàn ông đối đầu với quái vật biển trong cơn bão dữ dội">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3004)**
 
 **Tác giả:** [Heisenberg](https://x.com/rovvmut_) | **Nguồn:** [Link](https://x.com/rovvmut_/status/2042123163325374788) | **Đã xuất bản:** Apr 9, 2026
 
 ---
-### Wing Chun Anime Fight Choreography Prompt
+### Prompt biên đạo cảnh chiến đấu phong cách Anime Vịnh Xuân Quyền
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed Seedance 2.0 prompt instructing the model to act as a professional anime fight choreographer with knowledge of Wing Chun and Chinese wushu. It describes a one-sided, hopeless fight between two characters, Jinx and Knibbz, specifying Jinx's attacks, Knibbz's dominance, camera movements (360 orbit, jet cuts), and visual effects (shockwaves, wind bursts).
+> Một prompt chi tiết cho Seedance 2.0 hướng dẫn mô hình đóng vai biên đạo chiến đấu anime chuyên nghiệp với kiến thức về Vịnh Xuân Quyền và võ thuật Trung Hoa. Prompt mô tả một trận chiến một chiều, đầy tuyệt vọng giữa hai nhân vật Jinx và Knibbz, chỉ định các đòn tấn công của Jinx, sự áp đảo của Knibbz, các chuyển động camera (xoay 360 độ, cắt cảnh nhanh) và hiệu ứng hình ảnh (sóng xung kích, luồng gió).
 
 #### 📝 Prompt
 
 ```
-Act as a professional fight choreographer of the anime industry with extensive knowledge of Wing Chun and Chinese wushu fighting style. 
+Hãy đóng vai một biên đạo chiến đấu chuyên nghiệp trong ngành công nghiệp anime với kiến thức sâu rộng về Vịnh Xuân Quyền và phong cách võ thuật Trung Hoa.
 
-Create a fast paced and dynamic fight scene between Jinx @Image4 and Knibbz@Image5 . Jinx should have dirt and scratches slightly smeered on his face like in @Image6 in this fight. Their feet shift back and forth with Jinx slowly losing ground and Knibbz pushing forward. This is a one sided fight where despite everything Jinx tries, he is not able to get a clean hit on Knibbz. Jinx tries an array of Wing Chung style attacks, (quick punches, rapid spinning kick at extreme speed, combo punches into a butterfly kick as examples.) but it is all blocked or dodged in the last moment by Knibbz. 
+Tạo một cảnh chiến đấu nhịp độ nhanh và năng động giữa Jinx @Image4 và Knibbz @Image5. Trong trận chiến này, Jinx cần có vết bẩn và vết trầy xước hơi lem trên mặt giống như trong @Image6. Chân của họ di chuyển qua lại, Jinx dần dần lùi bước và Knibbz liên tục dồn ép. Đây là một trận chiến một chiều, nơi dù Jinx cố gắng thế nào, cậu ấy cũng không thể tung ra một đòn đánh trúng đích vào Knibbz. Jinx thử một loạt các đòn tấn công theo phong cách Vịnh Xuân (ví dụ: đấm nhanh, cú đá xoay vòng tốc độ cực cao, combo đấm kết hợp cú đá butterfly kick), nhưng tất cả đều bị Knibbz chặn hoặc né được vào giây cuối cùng.
 
-Camera movements include rapid 360 orbit, Jet cuts to ECU of key moments in strikes and dodges, hard cuts to facial expressions. 
+Các chuyển động camera bao gồm xoay 360 độ nhanh, cắt cảnh nhanh (Jet cuts) đến cận cảnh cực đại (ECU) của những khoảnh khắc quan trọng trong các đòn đánh và né tránh, cắt cảnh đột ngột sang biểu cảm khuôn mặt.
 
-Impack shockwave effects, wind burst effects, gust effect from Knibbz's heavier attacks only. 
+Thêm hiệu ứng sóng xung kích va chạm, hiệu ứng luồng gió, hiệu ứng gió giật chỉ từ các đòn tấn công mạnh hơn của Knibbz.
 
-Hopeless fight vibe. Jinx is outmatched by Knibbz. Must not add additional dialogue. Must not add additional characters. Use the audio reference for what Knibbz sound like only. All of Jinx attacks must be directed toward Knibbz.
+Không khí trận chiến đầy tuyệt vọng. Jinx bị Knibbz áp đảo hoàn toàn. Không được thêm lời thoại. Không được thêm nhân vật khác. Chỉ sử dụng tham chiếu âm thanh cho giọng của Knibbz. Tất cả các đòn tấn công của Jinx phải nhắm vào Knibbz.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1043fccb4a865bcc6b9813a6f268a4d/thumbnails/thumbnail.jpg" width="600" alt="Wing Chun Anime Fight Choreography Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d1043fccb4a865bcc6b9813a6f268a4d/thumbnails/thumbnail.jpg" width="600" alt="Prompt biên đạo cảnh chiến đấu phong cách Anime Vịnh Xuân Quyền">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2969)**
 
 **Tác giả:** [Jason W - AI](https://x.com/PocketScreenAI) | **Nguồn:** [Link](https://x.com/PocketScreenAI/status/2042026447993553046) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Cinematic supernatural duel: The Ink Monk vs the Paper Dragon
+### Trận đấu siêu nhiên đậm chất điện ảnh: Thiền sư Mực đối đầu Rồng Giấy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Seedance 2.0 prompt for a cinematic supernatural duel video featuring a silent monk in black robes fighting in an abandoned calligraphy hall during a torrential rain. The monk uses brushstroke sigils, flowing ink whips, and a lacquer-black staff in his fight.
+> Một câu lệnh (prompt) Seedance 2.0 cho video về trận đấu siêu nhiên đậm chất điện ảnh, với hình ảnh một vị thiền sư lặng lẽ trong bộ y phục đen đang chiến đấu tại một thư phòng bỏ hoang giữa cơn mưa tầm tã. Vị thiền sư sử dụng các ấn chú bằng nét cọ, những dải mực uyển chuyển và một cây gậy sơn mài đen trong trận chiến.
 
 #### 📝 Prompt
 
 ```
-The Ink Monk vs the Paper Dragon A cinematic supernatural duel. 
+Thiền sư Mực đối đầu Rồng Giấy: Một trận đấu siêu nhiên đậm chất điện ảnh. 
 
-A silent monk in soaked black robes stands in an abandoned calligraphy hall during torrential rain. He fights using brushstroke sigils, flowing ink whips, and a lacquer-black staff. His
+Một vị thiền sư lặng lẽ trong bộ y phục đen sũng nước đứng giữa một thư phòng bỏ hoang trong cơn mưa tầm tã. Ông chiến đấu bằng cách sử dụng các ấn chú bằng nét cọ, những dải mực uyển chuyển và một cây gậy sơn mài đen. Ông
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84fcb75c14f4263935ef044e46f23474/thumbnails/thumbnail.jpg" width="600" alt="Cinematic supernatural duel: The Ink Monk vs the Paper Dragon">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84fcb75c14f4263935ef044e46f23474/thumbnails/thumbnail.jpg" width="600" alt="Trận đấu siêu nhiên đậm chất điện ảnh: Thiền sư Mực đối đầu Rồng Giấy">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2984)**
 
 **Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2042020365023474024) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Photorealistic Cinematic Action Video Prompt
+### Prompt tạo video hành động điện ảnh chân thực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt designed for generating a photorealistic, cinematic video with continuous, high-energy kinetic action. The instructions specify a 16:9 aspect ratio, constant camera movement, short cuts (max 1.5 seconds), and the use of an anamorphic lens to achieve a $200M blockbuster aesthetic, starting with an extreme low-angle shot of a motorcycle wheel on wet asphalt.
+> Một prompt chi tiết được thiết kế để tạo ra video điện ảnh chân thực với các cảnh hành động liên tục, tốc độ cao. Hướng dẫn chỉ định tỷ lệ khung hình 16:9, chuyển động camera không ngừng, các cảnh cắt ngắn (tối đa 1,5 giây) và sử dụng ống kính anamorphic để đạt được thẩm mỹ của một bộ phim bom tấn 200 triệu USD, bắt đầu bằng cú máy góc thấp cực đại vào bánh xe mô tô trên mặt đường nhựa ướt.
 
 #### 📝 Prompt
 
 ```
-Photorealistic cinematic 16:9. Non-stop kinetic action. Camera
-never stops moving. No cuts longer than 1.5 seconds. Shot like
-a $200M blockbuster. Anamorphic lens throughout.
+Video điện ảnh chân thực, tỷ lệ 16:9. Hành động kịch tính không ngừng nghỉ. Camera không bao giờ dừng chuyển động. Không có cảnh cắt nào dài quá 1,5 giây. Quay như một bộ phim bom tấn 200 triệu USD. Sử dụng ống kính anamorphic xuyên suốt.
 
-[0.0s] SMASH OPEN — extreme low angle, motorcycle wheel fills
-frame, wet asphalt inches away,
+[0.0s] MỞ ĐẦU ẤN TƯỢNG — góc thấp cực đại, bánh xe mô tô lấp đầy khung hình, mặt đường nhựa ướt ngay sát bên,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a5da2f0831ef6cc88163f5f394e5b60/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Cinematic Action Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a5da2f0831ef6cc88163f5f394e5b60/thumbnails/thumbnail.jpg" width="600" alt="Prompt tạo video hành động điện ảnh chân thực">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2985)**
 
@@ -471,95 +468,95 @@ Phim ngắn hành động giả tưởng thu nhỏ nguyên bản: Trong một ph
 **Tác giả:** [TopviewAI](https://x.com/TopviewAIhq) | **Nguồn:** [Link](https://x.com/TopviewAIhq/status/2042011857616052382) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### São Paulo Parkour at Sunset Prompt
+### Prompt về Parkour tại São Paulo lúc hoàng hôn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt describing a vertical city parkour scene in São Paulo at sunset, featuring a teenage girl running across favela rooftops with specific clothing and atmospheric details.
+> Một prompt chi tiết mô tả cảnh parkour trong thành phố thẳng đứng tại São Paulo lúc hoàng hôn, với hình ảnh một cô gái tuổi teen chạy trên những mái nhà khu ổ chuột cùng các chi tiết cụ thể về trang phục và bầu không khí.
 
 #### 📝 Prompt
 
 ```
-VERTICAL CITY — São Paulo Parkour at Sunset A teenage girl, 17, athletic, black curly hair flying free, wearing faded yellow shorts and a white tank top with scuffed trainers, runs full speed across the rooftops of São Paulo's dense favela skyline as the sun sets blood orange
+THÀNH PHỐ THẲNG ĐỨNG — Parkour tại São Paulo lúc hoàng hôn. Một cô gái 17 tuổi, vóc dáng thể thao, mái tóc đen xoăn bay tự do, mặc quần short vàng bạc màu và áo ba lỗ trắng cùng đôi giày thể thao sờn cũ, đang chạy hết tốc lực trên những mái nhà của khu ổ chuột dày đặc tại São Paulo khi mặt trời lặn nhuộm màu cam đỏ như máu
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7926ea672a4a52c133e53120af1e9ee/thumbnails/thumbnail.jpg" width="600" alt="São Paulo Parkour at Sunset Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c7926ea672a4a52c133e53120af1e9ee/thumbnails/thumbnail.jpg" width="600" alt="Prompt về Parkour tại São Paulo lúc hoàng hôn">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2979)**
 
 **Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2042008797594493126) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Pixar-Style Builder Queue Prompt (0-5s)
+### Prompt hàng đợi thợ xây phong cách Pixar (0-5 giây)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A time-coded prompt (0-5 seconds) for a Pixar-style 3D animation set on a muddy British building site. The scene shows a queue of burly builders in hi-vis vests and muddy boots waiting nervously, with a battered, ancient wizard hat sitting on an object.
+> Một prompt có mã thời gian (0-5 giây) cho hoạt hình 3D phong cách Pixar lấy bối cảnh tại một công trường xây dựng lầy lội ở Anh. Cảnh quay cho thấy hàng dài những người thợ xây vạm vỡ mặc áo phản quang và đi ủng lấm lem bùn đất đang chờ đợi một cách lo lắng, với một chiếc mũ phù thủy cổ xưa, sờn cũ đặt trên một vật thể.
 
 #### 📝 Prompt
 
 ```
-[00:00–00:05] Pixar-style 3D animation. A muddy British building site with scaffolding, half-built brick walls, and a cement mixer. A queue of burly builders in hi-vis vests and muddy steel-toe boots wait nervously. A battered, ancient, moth-eaten pointed wizard hat sits on an
+[00:00–00:05] Hoạt hình 3D phong cách Pixar. Một công trường xây dựng lầy lội ở Anh với giàn giáo, những bức tường gạch xây dở và máy trộn bê tông. Một hàng dài những người thợ xây vạm vỡ mặc áo phản quang và đi ủng mũi thép lấm lem bùn đất đang chờ đợi một cách lo lắng. Một chiếc mũ phù thủy nhọn, cổ xưa, sờn cũ và bị mọt ăn đặt trên một
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7527a7e721e829ace03db0abd2013b66/thumbnails/thumbnail.jpg" width="600" alt="Pixar-Style Builder Queue Prompt (0-5s)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7527a7e721e829ace03db0abd2013b66/thumbnails/thumbnail.jpg" width="600" alt="Prompt hàng đợi thợ xây phong cách Pixar (0-5 giây)">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2991)**
 
 **Tác giả:** [Michael](https://x.com/real_michal) | **Nguồn:** [Link](https://x.com/real_michal/status/2041980436344127578) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Pixar-style 3D animation of iridescent fabric on a marble pedestal
+### Hoạt hình 3D phong cách Pixar về tấm vải óng ánh trên bệ đá cẩm thạch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a short, continuous 3D animated video in the Pixar style, focusing on a shimmering, iridescent fabric resting on a white marble pedestal in a minimalist setting, captured with a slow orbiting camera shot.
+> Một câu lệnh (prompt) để tạo video hoạt hình 3D ngắn, liền mạch theo phong cách Pixar, tập trung vào tấm vải óng ánh, lung linh đặt trên bệ đá cẩm thạch trắng trong không gian tối giản, được quay bằng kỹ thuật lia máy chậm quanh chủ thể.
 
 #### 📝 Prompt
 
 ```
-[00:00–00:05] Pixar-style 3D animation. A shimmering translucent fabric with a subtle iridescent weave rests perfectly folded on a clean white marble pedestal in a minimalist showroom — white walls, soft directional lighting, nothing else. Slow orbit shot circling the pedestal.
+[00:00–00:05] Hoạt hình 3D phong cách Pixar. Một tấm vải bán trong suốt, lấp lánh với các đường dệt óng ánh tinh tế được gấp gọn gàng trên bệ đá cẩm thạch trắng sạch sẽ trong một phòng trưng bày tối giản — tường trắng, ánh sáng định hướng dịu nhẹ, không có chi tiết thừa. Cảnh quay lia máy chậm xoay quanh bệ đá.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61f0008d6aef697ac3770e3499abf452/thumbnails/thumbnail.jpg" width="600" alt="Pixar-style 3D animation of iridescent fabric on a marble pedestal">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/61f0008d6aef697ac3770e3499abf452/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình 3D phong cách Pixar về tấm vải óng ánh trên bệ đá cẩm thạch">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2980)**
 
 **Tác giả:** [Michael](https://x.com/real_michal) | **Nguồn:** [Link](https://x.com/real_michal/status/2041976556717826114) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole
+### Cảnh tiệm cắt tóc cổ điển tại Harlem thập niên 1920 với cột hiệu cắt tóc nổi bật
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed text-to-video prompt for Seedance 2.0, aiming to generate a cinematic scene of a 1920s Harlem barbershop. The prompt specifies a black-and-white/sepia tone for the entire scene, with the exception of the vibrant, spinning barber pole, which is the only element in full color, creating a dramatic visual contrast.
+> Một câu lệnh (prompt) text-to-video chi tiết dành cho Seedance 2.0, nhằm tạo ra một cảnh quay điện ảnh về tiệm cắt tóc ở Harlem thập niên 1920. Câu lệnh chỉ định tông màu đen trắng/nâu đỏ (sepia) cho toàn bộ khung cảnh, ngoại trừ cột hiệu cắt tóc đang xoay đầy màu sắc, đây là yếu tố duy nhất có màu sắc rực rỡ, tạo nên sự tương phản thị giác đầy ấn tượng.
 
 #### 📝 Prompt
 
 ```
-Classic 1920s Harlem barbershop interior scene in full black-and-white / sepia tone except for the vibrant spinning barber pole (bright red, white, and blue stripes with glowing motion blur) which is the ONLY thing in full color. At least three dapper barbers in vintage aprons and white shirts actively cutting hair with scissors and clippers, chatting and laughing animatedly with customers in the classic leather chairs, mirrors reflecting the busy shop, vintage posters and tools on the walls, warm wooden floors, soft natural window light, highly detailed cinematic AI art, elegant semi-transparent calligraphy watermark "BicRevelation" in the lower-left corner at golden-ratio offset 0.04 from left and 0.03 from bottom, height exactly 0.02 of image height, semi-transparent and unobtrusive.
+Cảnh nội thất tiệm cắt tóc cổ điển tại Harlem thập niên 1920 với tông màu đen trắng / nâu đỏ (sepia) chủ đạo, ngoại trừ cột hiệu cắt tóc đang xoay đầy màu sắc (các sọc đỏ, trắng và xanh dương rực rỡ với hiệu ứng nhòe chuyển động phát sáng) là yếu tố DUY NHẤT có màu sắc đầy đủ. Ít nhất ba người thợ cắt tóc lịch lãm trong trang phục tạp dề cổ điển và áo sơ mi trắng đang tích cực cắt tóc bằng kéo và tông đơ, trò chuyện và cười nói sôi nổi với khách hàng trên những chiếc ghế da cổ điển, gương phản chiếu khung cảnh tiệm bận rộn, các tấm áp phích và dụng cụ cổ điển trên tường, sàn gỗ ấm áp, ánh sáng tự nhiên dịu nhẹ từ cửa sổ, nghệ thuật AI điện ảnh có độ chi tiết cao, hình mờ thư pháp bán trong suốt thanh lịch "BicRevelation" ở góc dưới bên trái tại vị trí tỉ lệ vàng lệch 0,04 từ trái và 0,03 từ dưới lên, chiều cao chính xác bằng 0,02 chiều cao hình ảnh, bán trong suốt và không gây mất tập trung.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e77cfde8c5ce256af791c4f037443d73/thumbnails/thumbnail.jpg" width="600" alt="Classic 1920s Harlem Barbershop Scene with Color-Popping Barber Pole">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e77cfde8c5ce256af791c4f037443d73/thumbnails/thumbnail.jpg" width="600" alt="Cảnh tiệm cắt tóc cổ điển tại Harlem thập niên 1920 với cột hiệu cắt tóc nổi bật">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2989)**
 
 **Tác giả:** [𝓑𝓲𝓬_𝓡𝓮𝓿𝓮𝓵𝓪𝓽𝓲𝓸𝓷](https://x.com/Bic_Revelation) | **Nguồn:** [Link](https://x.com/Bic_Revelation/status/2041968501578199354) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Giantess Anime Climbing Scene Prompt
+### Prompt cho cảnh leo trèo trong anime Giantess
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for generating a 2D anime-style video. The scene features a tiny man climbing the leg of a giantess wearing fishnet stockings, utilizing dynamic low-angle camera work to emphasize the massive scale contrast.
+> Một prompt cực kỳ chi tiết để tạo video phong cách anime 2D. Cảnh quay mô tả một người đàn ông tí hon đang leo lên chân của một nữ khổng lồ mặc tất lưới, sử dụng góc máy thấp đầy năng động để làm nổi bật sự tương phản về quy mô khổng lồ.
 
 #### 📝 Prompt
 
 ```
-High-quality anime style, 2D animation. Warm, cinematic lighting with sunlight filtering through blinds. A tiny man wearing a green hoodie and blue jeans runs across a wooden floor toward a giantess. He climbs up her massive foot and leg, which are covered in black fishnet stockings, using the fishnet holes to climb. Dynamic low-angle camera following his ascent, emphasizing the colossal scale of the giantess. He climbs past her black pleated skirt and white collared shirt, scaling up her dark blue ribbed sweater. The camera pans up to reveal the giantess looking down at him. She has long brown hair, a flower hair clip, and large brown eyes. She wears a highly surprised, wide-eyed expression with a slight blush. Background is a softly blurred bedroom with a music keyboard.
+Phong cách anime chất lượng cao, hoạt hình 2D. Ánh sáng điện ảnh ấm áp với ánh nắng chiếu qua rèm cửa. Một người đàn ông tí hon mặc áo hoodie xanh lá và quần jean xanh đang chạy trên sàn gỗ về phía một nữ khổng lồ. Anh ta leo lên bàn chân và cẳng chân khổng lồ của cô, nơi được bao phủ bởi tất lưới màu đen, tận dụng các lỗ trên tất lưới để leo. Góc máy thấp đầy năng động theo sát quá trình leo trèo của anh, làm nổi bật quy mô to lớn của nữ khổng lồ. Anh leo qua chiếc váy xếp ly màu đen và áo sơ mi cổ trắng của cô, rồi tiếp tục leo lên chiếc áo len gân màu xanh đậm. Camera lia lên để lộ gương mặt nữ khổng lồ đang nhìn xuống anh. Cô có mái tóc nâu dài, kẹp tóc hình hoa và đôi mắt nâu to tròn. Cô biểu cảm vô cùng ngạc nhiên, mắt mở to và đôi má ửng hồng nhẹ. Bối cảnh là một phòng ngủ được làm mờ nhẹ với một chiếc đàn keyboard.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac071a96ccd5827c82205794c48c7ca/thumbnails/thumbnail.jpg" width="600" alt="Giantess Anime Climbing Scene Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cac071a96ccd5827c82205794c48c7ca/thumbnails/thumbnail.jpg" width="600" alt="Prompt cho cảnh leo trèo trong anime Giantess">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2986)**
 
@@ -593,172 +590,171 @@ MỐC THỜI GIAN: 0:00–0:03: Cận cảnh. Chú tắc kè có màu xanh hoàn
 **Tác giả:** [Kiber Alla](https://x.com/Kiber_Alla) | **Nguồn:** [Link](https://x.com/Kiber_Alla/status/2041948763217129641) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)
+### Cảnh quay phòng tắm điện ảnh: Người phụ nữ thư giãn trong bồn tắm (Phần 1)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The first part of a multi-part prompt for a 15-second cinematic video. It sets the scene in a luxurious, warm-lit marble bathroom, focusing on a woman in a foam-filled bathtub, starting with a slow side-profile close-up.
+> Phần đầu tiên của chuỗi câu lệnh dành cho video điện ảnh dài 15 giây. Bối cảnh diễn ra trong một phòng tắm ốp đá cẩm thạch sang trọng với ánh sáng ấm áp, tập trung vào một người phụ nữ đang nằm trong bồn tắm đầy bọt, bắt đầu bằng một cú máy cận cảnh nghiêng chậm rãi.
 
 #### 📝 Prompt
 
 ```
-Cinematic 15-second visual set in a luxurious marble bathroom with warm golden ambient lighting reflecting softly across water and glass. A woman reclines in a foam-filled bathtub, calm and composed. The camera begins with a slow side-profile close-up as she gently looks away.
+Video điện ảnh dài 15 giây lấy bối cảnh trong phòng tắm ốp đá cẩm thạch sang trọng với ánh sáng vàng ấm áp phản chiếu nhẹ nhàng trên mặt nước và kính. Một người phụ nữ đang nằm thư giãn trong bồn tắm đầy bọt, với vẻ điềm tĩnh. Máy quay bắt đầu bằng một cú cận cảnh nghiêng chậm rãi khi cô nhẹ nhàng nhìn sang hướng khác.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174b891d7d5a2981080b8e1b09f65085/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Bathroom Scene: Woman Reclining in Bathtub (Part 1)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/174b891d7d5a2981080b8e1b09f65085/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay phòng tắm điện ảnh: Người phụ nữ thư giãn trong bồn tắm (Phần 1)">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2994)**
 
 **Tác giả:** [MMENDIE](https://x.com/mmendie__) | **Nguồn:** [Link](https://x.com/mmendie__/status/2041948351558537608) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Cinematic Nu-Metal Nightmare Style Prompt
+### Prompt phong cách Cinematic Nu-Metal Nightmare
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt defining a specific visual style for video generation, characterized by high-contrast chiaroscuro lighting, a desaturated cool-toned palette with crimson backlight, high-grain 35mm film emulation, and pronounced lens flares.
+> Một prompt chi tiết định nghĩa phong cách hình ảnh cụ thể cho việc tạo video, đặc trưng bởi ánh sáng chiaroscuro độ tương phản cao, bảng màu tông lạnh khử bão hòa với đèn nền màu đỏ thẫm, giả lập phim 35mm hạt mịn và hiệu ứng lóe sáng ống kính (lens flare) rõ nét.
 
 #### 📝 Prompt
 
 ```
-{   "style_name": "Cinematic Nu-Metal Nightmare",   "art_direction": "High-contrast chiaroscuro lighting on a desaturated, cool-toned palette, punctuated by a menacing, pulsing crimson backlight.
- High-grain 35mm film emulation with pronounced anamorphic lens flares and halation
+{   "style_name": "Cinematic Nu-Metal Nightmare",   "art_direction": "Ánh sáng chiaroscuro độ tương phản cao trên bảng màu tông lạnh, khử bão hòa, được nhấn nhá bằng đèn nền màu đỏ thẫm đầy đe dọa. Giả lập phim 35mm hạt mịn với hiệu ứng lóe sáng ống kính anamorphic và hiện tượng tán xạ ánh sáng (halation) rõ nét."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/368fd3b3bac98a0e2944f98a8e4238f8/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Nu-Metal Nightmare Style Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/368fd3b3bac98a0e2944f98a8e4238f8/thumbnails/thumbnail.jpg" width="600" alt="Prompt phong cách Cinematic Nu-Metal Nightmare">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2992)**
 
 **Tác giả:** [Ainario](https://x.com/ainarioapp) | **Nguồn:** [Link](https://x.com/ainarioapp/status/2041946886962344347) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)
+### Prompt thay đổi trang phục liền mạch cho Seedance 2.0 (Hiệu ứng chuyển cảnh cánh quạt)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A prompt for Seedance 2.0 demonstrating a seamless outfit change effect using a rotating fan blade to momentarily obscure the subject, allowing for an instant, smooth transformation between four different outfits.
+> Một prompt cho Seedance 2.0 minh họa hiệu ứng thay đổi trang phục liền mạch, sử dụng cánh quạt quay để che khuất chủ thể trong giây lát, cho phép chuyển đổi tức thì và mượt mà giữa bốn bộ trang phục khác nhau.
 
 #### 📝 Prompt
 
 ```
-Image 1 serves as the starting frame. Only half of a brown wooden fan blade is in the extreme foreground, diagonally cutting the screen from bottom left to top right, slightly blurred. The fan blade rotates slowly and continuously throughout. Timeline: 0-2 seconds: The woman is lying down, relaxed and smiling, breathing lightly, hands resting gently on her chest, wearing the clothes from the reference image. 2-4 seconds: The fan blade completely sweeps across and thoroughly obscures her, then instantly reveals a new outfit—a loose hoodie and sweatpants. 4-6 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a classic white shirt and casual long pants. 6-8 seconds: The fan blade sweeps across and thoroughly obscures her again, then instantly reveals a new outfit—a comfortable long-sleeved cotton pajama set. 8-10 seconds: The fan blade continues to rotate slowly, and the woman is lying down, relaxed and smiling in the final outfit, with slight natural movements. The seamless transformation and outfit change only occur instantly when the fan blade completely obscures her. Realistic style, cinematic bedroom lighting, rich fabric details, consistent facial features and hair, 24fps smooth motion.
+Hình ảnh 1 đóng vai trò là khung hình bắt đầu. Chỉ một nửa cánh quạt gỗ màu nâu nằm ở tiền cảnh cực gần, cắt chéo màn hình từ góc dưới bên trái lên góc trên bên phải, hơi mờ. Cánh quạt quay chậm và liên tục trong suốt quá trình. Dòng thời gian: 0-2 giây: Người phụ nữ đang nằm, thư giãn và mỉm cười, thở nhẹ, hai tay đặt nhẹ trên ngực, mặc trang phục từ hình ảnh tham chiếu. 2-4 giây: Cánh quạt quét qua hoàn toàn và che khuất cô ấy, sau đó ngay lập tức để lộ trang phục mới—một chiếc áo hoodie rộng rãi và quần nỉ. 4-6 giây: Cánh quạt quét qua và che khuất cô ấy một lần nữa, sau đó ngay lập tức để lộ trang phục mới—một chiếc áo sơ mi trắng cổ điển và quần dài thường ngày. 6-8 giây: Cánh quạt quét qua và che khuất cô ấy một lần nữa, sau đó ngay lập tức để lộ trang phục mới—một bộ đồ ngủ dài tay bằng cotton thoải mái. 8-10 giây: Cánh quạt tiếp tục quay chậm, người phụ nữ đang nằm, thư giãn và mỉm cười trong bộ trang phục cuối cùng, với những cử động tự nhiên nhẹ nhàng. Sự chuyển đổi liền mạch và thay đổi trang phục chỉ xảy ra tức thì khi cánh quạt che khuất hoàn toàn chủ thể. Phong cách chân thực, ánh sáng phòng ngủ đậm chất điện ảnh, chi tiết vải phong phú, đường nét khuôn mặt và mái tóc nhất quán, chuyển động mượt mà 24fps.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1775716268943_a1bdul_HFZjolXbUAAYeij.jpg" width="600" alt="Seedance 2.0 Seamless Outfit Change Prompt (Fan Blade Transition)">
+<img src="https://cms-assets.youmind.com/media/1775716268943_a1bdul_HFZjolXbUAAYeij.jpg" width="600" alt="Prompt thay đổi trang phục liền mạch cho Seedance 2.0 (Hiệu ứng chuyển cảnh cánh quạt)">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2999)**
 
 **Tác giả:** [神奇小喷菇AIGC](https://x.com/xpg0970) | **Nguồn:** [Link](https://x.com/xpg0970/status/2041929120322568623) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### 1980s fantasy film scene of a knight fighting a lake monster
+### Cảnh phim giả tưởng thập niên 1980 về một hiệp sĩ chiến đấu với quái vật hồ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a video scene in the style of a 1980s live-action fantasy film, shot on Arri with Zeiss 35mm lenses, depicting a knight wading through a lake to fight a massive lake monster while villagers watch in the background under a gray, overcast, foggy sky. The scene cuts to a close-up on the knight's determined face.
+> Một câu lệnh (prompt) để tạo cảnh video theo phong cách phim giả tưởng người đóng thập niên 1980, được quay bằng máy Arri với ống kính Zeiss 35mm, mô tả một hiệp sĩ đang lội qua hồ để chiến đấu với một con quái vật hồ khổng lồ trong khi dân làng đứng xem ở phía sau dưới bầu trời xám xịt, u ám và đầy sương mù. Cảnh quay chuyển sang cận cảnh gương mặt đầy quyết tâm của hiệp sĩ.
 
 #### 📝 Prompt
 
 ```
-1980s live-action fantasy film, shot on arri with zeiss 35mm lenses. A knight is wading through a lake, facing off with a massive lake monster, as villagers look in the background. It's a gray, overcast day. Fog in the air. Cut to: close on the knight's determined face as
+Phim giả tưởng người đóng thập niên 1980, quay bằng máy Arri với ống kính Zeiss 35mm. Một hiệp sĩ đang lội qua hồ, đối đầu với một con quái vật hồ khổng lồ, trong khi dân làng đứng xem ở phía sau. Một ngày xám xịt, u ám. Không khí đầy sương mù. Chuyển cảnh: cận cảnh gương mặt đầy quyết tâm của hiệp sĩ khi
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88504ba3e2f49a46ef393e1960f77121/thumbnails/thumbnail.jpg" width="600" alt="1980s fantasy film scene of a knight fighting a lake monster">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/88504ba3e2f49a46ef393e1960f77121/thumbnails/thumbnail.jpg" width="600" alt="Cảnh phim giả tưởng thập niên 1980 về một hiệp sĩ chiến đấu với quái vật hồ">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2983)**
 
 **Tác giả:** [Dr. Dreams](https://x.com/DrDreamsMusic) | **Nguồn:** [Link](https://x.com/DrDreamsMusic/status/2041923672307585193) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Girl and Cat Transformation Video Prompt (Seedance 2.0)
+### Prompt video biến hình cô gái và mèo (Seedance 2.0)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed, multi-scene prompt for Seedance 2.0 to generate a video sequence featuring a girl transforming from a dark, melancholic look to an ethereal, snow-white haired goddess, incorporating elements of traditional Chinese/Japanese attire and a white cat.
+> Một prompt chi tiết cho nhiều phân cảnh trên Seedance 2.0 để tạo chuỗi video về một cô gái biến hình từ vẻ ngoài u tối, u sầu thành một nữ thần tóc trắng như tuyết đầy tiên khí, kết hợp các yếu tố trang phục truyền thống Trung Hoa/Nhật Bản và một chú mèo trắng.
 
 #### 📝 Prompt
 
 ```
-Girl Character: Subject Core: delicate East Asian female character. Appearance Style: ethereal dreamy illustration/manga style. Facial Features: Skin: pearl-like porcelain skin, soft pink blush. Eyes: bright, clear cerulean blue eyes. Expression: gentle, clear, fragile/melancholic expression. Lips: delicate, slightly parted lips. Accessories: delicate pearl earrings. Appearance Details: Hair: Color: snow-white hair. Texture: ultra-long, voluminous, wavy, sea-tangled texture. Attire: Type: traditional Japanese kimono/Hanfu style attire. Color: peach-orange and white patterned silk. Texture: intricate floral patterns. Accessories: floral garlands of pink and white blossoms wrapped around the neck and hair. Key Props: Umbrella: Type: purple oil paper umbrella/wagasa. Details: detailed spokes visible, lilac and lavender hues on the umbrella canopy. Environment & Atmosphere: Petal Details: drifting pink and white cherry blossom petals/cherry blossoms. Background Tone: soft pastel macaron background, lavender, pink gradients. Lighting Effect: soft, ethereal, diffused light, high bloom. Overall Style: dreamy, healing, watercolor and oil painting texture, detailed vector illustration, delicate linework. Atmosphere: serene, mystical, healing, gentle. [Heterochromia in the Umbrella] (Focus: The thrilling and beautiful reversal of spatial folding) 00:00-00:03 (Visual Impact): A dark, rainy alley. A girl in a black hoodie opens a plain black umbrella. Suddenly, a strange purple light illuminates the inside of the umbrella canopy, and a giant, glowing white cat's paw reaches out from “inside” the umbrella and presses onto the girl's forehead! 00:03-00:07 (High-Energy Transformation): The screen instantly flashes white! The black umbrella shatters into fragments of purple oil paper umbrella flying everywhere. The girl's black hair instantly fades into sea-tangled snow-white long hair, and the hoodie transforms into a stunning peach-orange Hanfu. 00:07-00:15 (Healing Freeze Frame): The light fades, and the girl is placed in a pink and purple sea of flowers illusion. The white cat (normal size) lightly lands on her shoulder, sweeping its fluffy tail across her clear cerulean blue eyes, and the girl reveals a gentle smile.
+Nhân vật cô gái: Chủ thể chính: nhân vật nữ Đông Á thanh tú. Phong cách ngoại hình: phong cách minh họa/manga mơ màng, tiên khí. Đặc điểm khuôn mặt: Da: làn da sứ như ngọc trai, ửng hồng nhẹ. Mắt: đôi mắt xanh dương sáng, trong trẻo. Biểu cảm: dịu dàng, trong sáng, mong manh/u sầu. Môi: đôi môi chúm chím, hé mở nhẹ. Phụ kiện: bông tai ngọc trai tinh xảo. Chi tiết ngoại hình: Tóc: Màu sắc: tóc trắng như tuyết. Kết cấu: tóc dài, bồng bềnh, gợn sóng, rối nhẹ như sóng biển. Trang phục: Loại: trang phục kiểu kimono Nhật Bản/Hán phục truyền thống. Màu sắc: lụa họa tiết trắng và cam đào. Kết cấu: hoa văn tinh xảo. Phụ kiện: vòng hoa hồng và trắng quấn quanh cổ và tóc. Đạo cụ chính: Ô: Loại: ô giấy dầu màu tím/wagasa. Chi tiết: nhìn rõ các nan ô, tán ô có sắc tím hoa cà và oải hương. Môi trường & Bầu không khí: Chi tiết cánh hoa: những cánh hoa anh đào hồng và trắng bay lất phất. Tông màu nền: nền màu pastel macaron nhẹ nhàng, chuyển sắc tím oải hương và hồng. Hiệu ứng ánh sáng: ánh sáng dịu, huyền ảo, khuếch tán, hiệu ứng bloom cao. Phong cách tổng thể: mơ màng, chữa lành, kết cấu tranh màu nước và sơn dầu, minh họa vector chi tiết, nét vẽ tinh tế. Bầu không khí: thanh bình, huyền bí, chữa lành, nhẹ nhàng. [Dị sắc tố trong chiếc ô] (Trọng tâm: Sự đảo ngược đầy kịch tính và đẹp mắt của không gian gấp khúc) 00:00-00:03 (Tác động thị giác): Một con hẻm tối tăm, đầy mưa. Một cô gái mặc áo hoodie đen mở chiếc ô đen trơn. Đột nhiên, một luồng sáng tím kỳ lạ chiếu sáng bên trong tán ô, và một bàn chân mèo trắng khổng lồ, phát sáng vươn ra từ "bên trong" chiếc ô và ấn lên trán cô gái! 00:03-00:07 (Biến hình năng lượng cao): Màn hình lóe sáng trắng ngay lập tức! Chiếc ô đen vỡ tan thành những mảnh giấy dầu màu tím bay khắp nơi. Mái tóc đen của cô gái lập tức chuyển thành mái tóc dài trắng như tuyết, và chiếc áo hoodie biến thành bộ Hán phục màu cam đào tuyệt đẹp. 00:07-00:15 (Khung hình chữa lành): Ánh sáng mờ dần, cô gái xuất hiện trong ảo ảnh biển hoa màu hồng và tím. Chú mèo trắng (kích thước bình thường) nhẹ nhàng đáp xuống vai cô, chiếc đuôi xù lướt qua đôi mắt xanh dương trong trẻo, và cô gái nở một nụ cười dịu dàng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f79800a171f4ab4bc315dc1703c3ca2c/thumbnails/thumbnail.jpg" width="600" alt="Girl and Cat Transformation Video Prompt (Seedance 2.0)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f79800a171f4ab4bc315dc1703c3ca2c/thumbnails/thumbnail.jpg" width="600" alt="Prompt video biến hình cô gái và mèo (Seedance 2.0)">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2998)**
 
 **Tác giả:** [宇宙知识库分享](https://x.com/Cosmoslucy13) | **Nguồn:** [Link](https://x.com/Cosmoslucy13/status/2041908111381082463) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)
+### Seedance 2.0 Video Prompt: Giam Cầm Mùa Xuân (Cổ Trang Ngôn Tình)
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed, multi-scene prompt for Seedance 2.0 to generate a dramatic ancient Chinese romance video sequence titled 'Spring Imprisonment,' specifying cinematic style, lighting, character details (using reference images), and a four-part script with dialogue and camera movements.
+> Một prompt chi tiết, đa cảnh dành cho Seedance 2.0 để tạo chuỗi video ngôn tình cổ trang kịch tính có tiêu đề 'Giam Cầm Mùa Xuân', chỉ định phong cách điện ảnh, ánh sáng, chi tiết nhân vật (sử dụng hình ảnh tham chiếu) và kịch bản bốn phần với lời thoại cùng các chuyển động máy quay.
 
 #### 📝 Prompt
 
 ```
-Image Quality Style: Cinematic, 4K ultra-clear, extremely smooth CG.
-Lighting Atmosphere: Soft, dreamy spring morning light, Tyndall effect, highlights with slight bloom.
-Environmental Elements: Ancient style window side, outside the window is full of blooming flowers, pink petals gently swirl into the room with the wind.
-Character Settings:
-Female Lead [@Image 1]: Maiden makeup, charming and lively. Wearing a pink light gauze dress, tassel headwear sways.
-Male Lead [@Image 2]: Cold and clean white clothes. Handsome face but deep eyes, with a strong sense of aggression.
+Phong cách chất lượng hình ảnh: Điện ảnh, siêu rõ nét 4K, CG cực kỳ mượt mà.
+Bầu không khí ánh sáng: Ánh sáng buổi sáng mùa xuân dịu nhẹ, mơ màng, hiệu ứng Tyndall, các điểm nhấn với độ sáng nhẹ (bloom).
+Các yếu tố môi trường: Cửa sổ phong cách cổ trang, bên ngoài cửa sổ là hoa nở rộ, những cánh hoa hồng nhẹ nhàng bay vào phòng theo gió.
+Thiết lập nhân vật:
+Nữ chính [@Image 1]: Trang điểm thiếu nữ, quyến rũ và hoạt bát. Mặc váy voan hồng nhạt, trâm cài tóc đung đưa.
+Nam chính [@Image 2]: Y phục trắng thanh khiết, lạnh lùng. Gương mặt điển trai nhưng ánh mắt thâm trầm, mang theo cảm giác chiếm hữu mạnh mẽ.
 
-Storyboard Script
-Scene 1: Dreamy Spring Light · Astonishment
-The camera pans from the spring scenery outside the window to the interior. The female lead sits by the window sill, her pink gauze dress spread out, and the tassel headwear subtly shakes with her movements.
-The male lead bends over from behind, his arms forming an enclosure, wrapping the female lead in front of his chest.
+Kịch bản phân cảnh
+Cảnh 1: Ánh xuân mơ màng · Ngỡ ngàng
+Máy quay lia từ khung cảnh mùa xuân bên ngoài cửa sổ vào trong phòng. Nữ chính ngồi bên bậu cửa sổ, chiếc váy voan hồng trải rộng, trâm cài tóc khẽ rung rinh theo chuyển động của cô.
+Nam chính cúi người từ phía sau, vòng tay tạo thành một vòng vây, ôm trọn nữ chính vào lòng ngực mình.
 
-“Madam?” The female lead's eyes are flustered, her pupils tremble slightly, her lips stammer, her face full of disbelief: “But… didn't we agree this was just acting? You… you broke your promise!”
-Camera: Medium close-up, side composition, emphasizing the compressed space between the two.
-Lighting: Backlight outlines the figures with a golden edge, petals pass between the two.
+“Phu nhân?” Đôi mắt nữ chính bối rối, đồng tử khẽ run rẩy, đôi môi lắp bắp, gương mặt đầy vẻ không tin: “Nhưng… chẳng phải chúng ta đã thỏa thuận đây chỉ là diễn kịch sao? Chàng… chàng đã thất hứa!”
+Máy quay: Cận cảnh trung, bố cục nghiêng, nhấn mạnh không gian chật hẹp giữa hai người.
+Ánh sáng: Ánh sáng ngược tạo đường viền vàng cho nhân vật, những cánh hoa bay qua giữa hai người.
 
-Scene 2: Whispering in the Ear · Trembling
-The male lead buries his head in the female lead's neck, leaning close to her ear. A close-up shot captures the slight tremor of his chest from a low laugh.
-The scorching breath makes the female lead's fair earlobe quickly turn red, and her body trembles slightly due to tension.
-The male lead's lips curl into a determined arc, his eyes deep as ink.
-Camera Language: Extreme close-up (ear, neck), emphasizing the tension of sensory contact.
+Cảnh 2: Thì thầm bên tai · Run rẩy
+Nam chính vùi đầu vào cổ nữ chính, ghé sát tai cô. Một cú máy cận cảnh ghi lại sự rung động nhẹ nơi lồng ngực anh từ một tiếng cười trầm thấp.
+Hơi thở nóng bỏng khiến dái tai trắng ngần của nữ chính nhanh chóng đỏ ửng, cơ thể cô khẽ run lên vì căng thẳng.
+Đôi môi nam chính cong lên một đường nét kiên định, ánh mắt sâu thẳm như mực.
+Ngôn ngữ máy quay: Cận cảnh cực đại (tai, cổ), nhấn mạnh sự căng thẳng của tiếp xúc giác quan.
 
-Scene 3: Cage Declaration · Entering the Game
-The male lead slightly turns his head, his lips almost touching the female lead's, his voice low and dangerous: “Acting? Madam, my acting is very good… good enough to act for a lifetime.”
-The female lead's face turns from pink to white, her gaze shifting from panic to complete stiffness, as if seeing an invisible, luxurious cage tightening.
-The male lead looks directly into the female lead's eyes, dark mist heavy in his gaze, conveying a sense of “absolute control” oppression.
+Cảnh 3: Tuyên ngôn lồng giam · Nhập cuộc
+Nam chính hơi quay đầu, đôi môi gần như chạm vào môi nữ chính, giọng nói trầm thấp và nguy hiểm: “Diễn kịch? Phu nhân, diễn xuất của ta rất tốt… đủ tốt để diễn cả một đời.”
+Gương mặt nữ chính chuyển từ hồng sang trắng bệch, ánh mắt chuyển từ hoảng loạn sang cứng đờ hoàn toàn, như thể nhìn thấy một chiếc lồng xa hoa vô hình đang siết chặt.
+Nam chính nhìn thẳng vào mắt nữ chính, màn sương đen đặc quánh trong ánh nhìn, truyền tải cảm giác áp bức của sự “kiểm soát tuyệt đối”.
 
-Camera: Close-up of the two faces in confrontation, focus switching between the male lead's ambitious eyes and the female lead's pale lips.
+Máy quay: Cận cảnh hai gương mặt đối diện, tiêu điểm chuyển đổi giữa ánh mắt đầy tham vọng của nam chính và đôi môi tái nhợt của nữ chính.
 
-Scene 4: Affectionate Confinement · Finale
-The male lead vows word by word: “You will never escape in this life.”
-As the words fall, he cups the back of the female lead's head and kisses her forcefully and deeply.
-The wind picks up outside the window, large petals swirl into the room, dancing around the couple. The dreamy spring light conceals the suffocating possessiveness.
-Camera: The camera slowly pulls back, transitioning from a close-up to a full shot, freezing on the silhouette of the embrace surrounded by blooming flowers.
+Cảnh 4: Giam cầm âu yếm · Kết thúc
+Nam chính thề thốt từng chữ một: “Đời này nàng đừng hòng thoát khỏi ta.”
+Vừa dứt lời, anh ôm lấy sau đầu nữ chính và hôn cô một cách mạnh mẽ, sâu đậm.
+Gió nổi lên ngoài cửa sổ, những cánh hoa lớn bay vào phòng, nhảy múa xung quanh cặp đôi. Ánh xuân mơ màng che giấu sự chiếm hữu ngạt thở.
+Máy quay: Máy quay từ từ lùi lại, chuyển từ cận cảnh sang toàn cảnh, đóng băng ở bóng dáng của cái ôm giữa rừng hoa nở rộ.
 
-Sound Effects
-Environmental Sound: Slight bird chirping outside the window, rustling of leaves in the wind.
-Human Voice: The male lead's magnetic, hoarse low laugh, grainy whispering near the ear.
-BGM: Early stage is soft, ethereal piano, later transitions to oppressive, gradually escalating orchestral music.
+Hiệu ứng âm thanh
+Âm thanh môi trường: Tiếng chim hót nhẹ ngoài cửa sổ, tiếng lá xào xạc trong gió.
+Giọng người: Tiếng cười trầm thấp, khàn đặc đầy từ tính của nam chính, tiếng thì thầm thô ráp gần tai.
+BGM: Giai đoạn đầu là tiếng piano nhẹ nhàng, thanh tao, sau đó chuyển sang âm nhạc dàn dây đầy áp bức, tăng dần cường độ.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cafd6a375342b6622b8eb3912d78766d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Spring Imprisonment (Ancient Romance)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cafd6a375342b6622b8eb3912d78766d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Video Prompt: Giam Cầm Mùa Xuân (Cổ Trang Ngôn Tình)">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2997)**
 
 **Tác giả:** [李岳](https://x.com/liyue_ai) | **Nguồn:** [Link](https://x.com/liyue_ai/status/2041898660368413032) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Seamless Transformation Video: Modern Office to 1920s Gangster Film
+### Video chuyển cảnh mượt mà: Từ văn phòng hiện đại sang phim gangster thập niên 1920
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed Seedance 2.0 video prompt for generating a seamless transformation short video, switching from a modern indoor scene to a retro 1920s gangster film world, emphasizing cinematic quality, dramatic contrast, and character presence. The prompt includes a detailed two-part script with camera movements, character descriptions, and scene settings.
+> Một prompt video chi tiết cho Seedance 2.0 nhằm tạo ra video ngắn chuyển cảnh mượt mà, thay đổi từ bối cảnh văn phòng hiện đại sang thế giới phim gangster thập niên 1920 cổ điển, chú trọng vào chất lượng điện ảnh, sự tương phản kịch tính và thần thái nhân vật. Prompt bao gồm kịch bản hai phần chi tiết với các chuyển động camera, mô tả nhân vật và thiết lập bối cảnh.
 
 #### 📝 Prompt
 
 ```
-A seamless transformation short video, switching from a modern daily indoor scene to a retro 1920s gangster film world with extreme contrast. The total duration is 7 seconds, combining the impact of vertical fashion transformation with a cinematic aspect ratio, resulting in extremely refined visuals and quality comparable to high-end theatrical films. Part 1 (0:00-0:02): Fixed camera, subjective frontal perspective. The frame is completely blocked by the broad backs of two men wearing black casual clothes, black baseball caps, and black masks, standing close to the lens. They suddenly step apart to the left and right, like drawing a curtain, revealing a young Asian woman in the center. The indoor lighting is bright, clean, and uniform, with a gray-white marble textured wall behind her and a black storage cabinet below. She has bright reddish-brown long curly hair, wears thick black-rimmed glasses, and a light-colored floral long-sleeved shirt, with a cold and dominant expression. She raises her right hand, pointing directly at the camera with a sharp, powerful gesture, her lips slightly pursed, radiating a commanding presence, as if declaring: those who oppose us, beware. Part 2 (0:02-0:07): The moment her fingertip points at the camera, a hard cut achieves a seamless transformation. The scene instantly switches to a foggy, retro late-night alley, full of 'Peaky Blinders'-style cinematic atmosphere. Thick fog envelops the entire space, and distant warm amber streetlights form a highly oppressive backlight, outlining the figures with dramatic rim lighting. The overall image shifts to a low, gloomy dark tone, paired with delicate film grain, showcasing the quality of an epic gangster film. The red-haired woman has transformed: she has removed her glasses, wears a gray newsboy cap, a white shirt, black tie, and gray patterned vest, paired with a fitted pencil skirt, and a dark charcoal gray long wool coat draped dramatically over her shoulders, with black leather gloves on her hands. She lightly adjusts her cap, her eyes arrogant and cold, making her unapproachable. The two men beside her also transform simultaneously, removing their masks to reveal cold, handsome faces, dressed in retro gangster attire: newsboy caps, shirts, ties, and heavy long wool coats. The camera smoothly transitions to a pull-back follow shot, as the three walk slowly in a neat formation through the thick fog, their presence intimidating, fully displaying the swagger and authority of gangster bosses. The film-level contrast, stunning reveal, seamless transformation, realistic and natural fabric dynamics, and powerful character presence all highlight the style of a high-end period crime film.
+Một video ngắn chuyển cảnh mượt mà, thay đổi từ bối cảnh trong nhà hiện đại sang thế giới phim gangster thập niên 1920 cổ điển với độ tương phản cực cao. Tổng thời lượng là 7 giây, kết hợp tác động của màn biến hình thời trang dọc với tỷ lệ khung hình điện ảnh, mang lại hình ảnh tinh tế và chất lượng tương đương với các bộ phim chiếu rạp cao cấp. Phần 1 (0:00-0:02): Camera cố định, góc nhìn trực diện chủ quan. Khung hình bị che khuất hoàn toàn bởi tấm lưng rộng của hai người đàn ông mặc đồ đen thường ngày, đội mũ bóng chày đen và đeo khẩu trang đen, đứng sát ống kính. Họ đột ngột bước sang trái và phải như kéo rèm, để lộ một phụ nữ trẻ người châu Á ở trung tâm. Ánh sáng trong nhà sáng, sạch và đồng nhất, với bức tường đá cẩm thạch màu xám trắng phía sau và tủ lưu trữ màu đen bên dưới. Cô có mái tóc xoăn dài màu nâu đỏ rực rỡ, đeo kính gọng đen dày và mặc áo sơ mi dài tay họa tiết hoa sáng màu, với biểu cảm lạnh lùng và áp đảo. Cô giơ tay phải, chỉ thẳng vào camera với cử chỉ sắc bén, đầy quyền lực, đôi môi hơi mím lại, toát lên thần thái chỉ huy như đang tuyên bố: kẻ nào chống lại chúng ta, hãy coi chừng. Phần 2 (0:02-0:07): Ngay khoảnh khắc đầu ngón tay cô chỉ vào camera, một cú cắt cảnh cứng giúp đạt được sự chuyển đổi mượt mà. Bối cảnh ngay lập tức chuyển sang một con hẻm đầy sương mù vào đêm khuya, mang đậm không khí điện ảnh phong cách 'Peaky Blinders'. Sương mù dày đặc bao trùm toàn bộ không gian, và những ánh đèn đường màu hổ phách ấm áp từ xa tạo thành luồng sáng ngược đầy áp lực, làm nổi bật các nhân vật với ánh sáng viền kịch tính. Tổng thể hình ảnh chuyển sang tông màu tối, ảm đạm, kết hợp với hạt phim tinh tế, thể hiện chất lượng của một bộ phim gangster sử thi. Người phụ nữ tóc đỏ đã biến đổi: cô bỏ kính, đội mũ newsboy màu xám, mặc áo sơ mi trắng, thắt cà vạt đen và áo vest họa tiết xám, kết hợp với chân váy bút chì ôm sát, khoác ngoài chiếc áo khoác len dài màu xám than đầy ấn tượng, tay đeo găng tay da đen. Cô nhẹ nhàng chỉnh lại mũ, ánh mắt kiêu ngạo và lạnh lùng, khiến người khác khó lòng tiếp cận. Hai người đàn ông bên cạnh cô cũng biến đổi đồng thời, bỏ khẩu trang để lộ gương mặt lạnh lùng, điển trai, mặc trang phục gangster cổ điển: mũ newsboy, áo sơ mi, cà vạt và áo khoác len dài dày dặn. Camera chuyển mượt mà sang cú quay lùi theo chân, khi cả ba bước đi chậm rãi theo đội hình chỉn chu xuyên qua làn sương dày, sự hiện diện của họ đầy đe dọa, phô diễn trọn vẹn phong thái và uy quyền của những ông trùm gangster. Độ tương phản chuẩn điện ảnh, màn lộ diện ấn tượng, chuyển cảnh mượt mà, động lực học vải vóc chân thực tự nhiên và thần thái nhân vật mạnh mẽ đều làm nổi bật phong cách của một bộ phim tội phạm cổ điển cao cấp.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95e836a50e76dacaf313f180de0c6e1e/thumbnails/thumbnail.jpg" width="600" alt="Seamless Transformation Video: Modern Office to 1920s Gangster Film">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95e836a50e76dacaf313f180de0c6e1e/thumbnails/thumbnail.jpg" width="600" alt="Video chuyển cảnh mượt mà: Từ văn phòng hiện đại sang phim gangster thập niên 1920">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3002)**
 
@@ -941,57 +937,57 @@ Camera FPV drone rượt đuổi một nhóm 2 chiếc xe đua đang tăng tốc
 **Tác giả:** [Zara](https://x.com/ZaraIrahh) | **Nguồn:** [Link](https://x.com/ZaraIrahh/status/2041874582630445151) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Fluffy Cat Watchmaker Scene Prompt
+### Prompt cảnh chú mèo bông làm thợ đồng hồ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed, multi-stage prompt for Seedance 2.0 to generate a 15-second ultra-realistic macro video of a fluffy cat meticulously acting as a watchmaker in a workshop, focusing on concentration, tools, and a customer interaction.
+> Một prompt chi tiết, đa giai đoạn dành cho Seedance 2.0 để tạo video macro siêu thực dài 15 giây về một chú mèo bông tỉ mỉ đóng vai thợ đồng hồ trong xưởng, tập trung vào sự tập trung, các công cụ và tương tác với khách hàng.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second ultra-realistic workshop scene with a fluffy cat acting like a meticulous watchmaker. The cat sits upright at a wooden workbench under a bright lamp, wearing tiny round glasses and a miniature work apron, surrounded by gears, watch parts, tools, and magnifying lenses. 0–5s: the cat carefully holds a small watch with both paws, inspecting delicate mechanisms while dust particles float in warm light. 5–10s: extreme close-up as the cat uses a tiny precision tool to adjust the watch internals, blinking slowly with deep concentration, metal parts glinting in the lamp light. 10–15s: a customer receives the repaired watch from the cat, smiles with gratitude, and places payment on the desk while the cat gives a proud professional nod. Ultra-detailed macro realism, polished metals, realistic cat motion, quiet workshop ambience, no text, no logos.
+Tạo một video 15 giây về cảnh xưởng làm việc siêu thực với một chú mèo bông đóng vai thợ đồng hồ tỉ mỉ. Chú mèo ngồi thẳng trên bàn làm việc bằng gỗ dưới ánh đèn sáng, đeo kính tròn nhỏ và tạp dề làm việc tí hon, xung quanh là các bánh răng, linh kiện đồng hồ, dụng cụ và kính lúp. 0–5 giây: chú mèo cẩn thận cầm một chiếc đồng hồ nhỏ bằng cả hai chân trước, kiểm tra các cơ chế tinh xảo trong khi các hạt bụi bay lơ lửng dưới ánh sáng ấm áp. 5–10 giây: cận cảnh cực đại khi chú mèo sử dụng một dụng cụ chính xác tí hon để điều chỉnh bên trong đồng hồ, chớp mắt chậm rãi đầy tập trung, các bộ phận kim loại lấp lánh dưới ánh đèn. 10–15 giây: khách hàng nhận chiếc đồng hồ đã sửa từ chú mèo, mỉm cười biết ơn và đặt tiền lên bàn trong khi chú mèo gật đầu đầy tự hào và chuyên nghiệp. Độ chân thực macro siêu chi tiết, kim loại sáng bóng, chuyển động của mèo chân thực, không gian xưởng yên tĩnh, không văn bản, không logo.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab27483d7b8530f98823ef467c608fe7/thumbnails/thumbnail.jpg" width="600" alt="Fluffy Cat Watchmaker Scene Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ab27483d7b8530f98823ef467c608fe7/thumbnails/thumbnail.jpg" width="600" alt="Prompt cảnh chú mèo bông làm thợ đồng hồ">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2976)**
 
 **Tác giả:** [Ertan Dönmez | Ai Master](https://x.com/ertanlabs) | **Nguồn:** [Link](https://x.com/ertanlabs/status/2041873283939725694) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Kids TV Studio Pig Man Host Prompt
+### Prompt người dẫn chương trình 'Người Lợn' tại studio truyền hình thiếu nhi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt describing a bright, colorful kids' TV studio scene featuring a 'pig man' host in a black robe and scarf, leading a silly dance alongside a 'monkey man' in a red costume.
+> Một prompt mô tả cảnh studio truyền hình thiếu nhi rực rỡ, đầy màu sắc với người dẫn chương trình là 'người lợn' mặc áo choàng đen và quàng khăn, đang dẫn dắt một điệu nhảy ngớ ngẩn cùng với một 'người khỉ' trong trang phục màu đỏ.
 
 #### 📝 Prompt
 
 ```
-Bright colourful kids TV studio, funny playful energy, the pig man host stands centre stage in a cheerful children’s show set, wearing his black robe and scarf, big pig ears, smiling as he leads a silly dance. Beside him, a monkey man in a bright red costume plays
+Studio truyền hình thiếu nhi rực rỡ đầy màu sắc, năng lượng vui nhộn, người dẫn chương trình 'người lợn' đứng giữa sân khấu trong bối cảnh chương trình thiếu nhi vui tươi, mặc áo choàng đen và quàng khăn, đôi tai lợn to, mỉm cười khi dẫn dắt điệu nhảy ngớ ngẩn. Bên cạnh anh ấy, một người khỉ trong bộ trang phục màu đỏ tươi đang chơi đùa
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfc2f1c6e32e41f7d7879c13309cadfb/thumbnails/thumbnail.jpg" width="600" alt="Kids TV Studio Pig Man Host Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfc2f1c6e32e41f7d7879c13309cadfb/thumbnails/thumbnail.jpg" width="600" alt="Prompt người dẫn chương trình 'Người Lợn' tại studio truyền hình thiếu nhi">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2978)**
 
 **Tác giả:** [Captain HaHaa](https://x.com/CaptainHaHaa) | **Nguồn:** [Link](https://x.com/CaptainHaHaa/status/2041870969481130353) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Wide shot of an astronaut skiing on a lunar plain
+### Cảnh quay rộng một phi hành gia đang trượt tuyết trên đồng bằng mặt trăng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a wide shot video of a lone astronaut in an orange pressure suit skiing across a vast, dusty lunar plain, leaving parallel tracks in the regolith.
+> Một câu lệnh (prompt) để tạo video cảnh quay rộng về một phi hành gia đơn độc trong bộ đồ áp suất màu cam đang trượt tuyết băng qua đồng bằng mặt trăng rộng lớn, đầy bụi bặm, để lại những vệt dài song song trên lớp đất mặt.
 
 #### 📝 Prompt
 
 ```
-Wide shot. A lone astronaut in a dusty orange pressure suit with dark blue-gray harness straps and black boots skis across a vast lunar plain, leaving two long parallel tracks in the gray regolith behind. The astronaut is mid-stride, poles planted,
+Cảnh quay rộng. Một phi hành gia đơn độc trong bộ đồ áp suất màu cam bám đầy bụi, với dây đai màu xanh xám đậm và ủng đen, đang trượt tuyết băng qua đồng bằng mặt trăng rộng lớn, để lại hai vệt dài song song trên lớp đất mặt màu xám phía sau. Phi hành gia đang ở giữa sải bước, gậy trượt đã cắm xuống,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b653d347559eca8a93f7db5a275dbe07/thumbnails/thumbnail.jpg" width="600" alt="Wide shot of an astronaut skiing on a lunar plain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b653d347559eca8a93f7db5a275dbe07/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay rộng một phi hành gia đang trượt tuyết trên đồng bằng mặt trăng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2981)**
 
@@ -1017,86 +1013,86 @@ Người phụ nữ chạm khắc 2D dần dần trở thành người thật. M
 **Tác giả:** [PZF](https://x.com/pzf_ai) | **Nguồn:** [Link](https://x.com/pzf_ai/status/2041854815589044518) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Bullet Time Effect in a College Canteen
+### Hiệu ứng Bullet Time trong căng tin trường đại học
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt designed to capture a 'bullet time' effect in a college canteen setting, freezing a student mid-stride while various food items are suspended in motion, emphasizing hyper-realistic detail and physics.
+> Một video prompt chi tiết được thiết kế để tạo hiệu ứng 'bullet time' trong bối cảnh căng tin trường đại học, đóng băng hình ảnh một sinh viên đang bước đi trong khi các món ăn lơ lửng giữa không trung, nhấn mạnh vào độ chi tiết siêu thực và vật lý.
 
 #### 📝 Prompt
 
 ```
-Bullet time effect. College canteen. A student in a wrinkled shirt pitches forward mid-stride, arms flung wide, surrendering everything at once — masala dosa unfolding like a golden ribbon mid-flight, momos in loose constellation, samosa split open with filling frozen mid-bloom,
+Hiệu ứng Bullet time. Căng tin trường đại học. Một sinh viên mặc áo sơ mi nhăn đang lao người về phía trước giữa bước đi, hai tay dang rộng, mọi thứ như đang đổ ập xuống cùng lúc — bánh masala dosa bung ra như một dải lụa vàng giữa không trung, những chiếc momo tạo thành chòm sao rời rạc, bánh samosa tách đôi với phần nhân đông cứng giữa khoảnh khắc nở bung,
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fa37688dd9ec8e2208b491f3ae99cea/thumbnails/thumbnail.jpg" width="600" alt="Bullet Time Effect in a College Canteen">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5fa37688dd9ec8e2208b491f3ae99cea/thumbnails/thumbnail.jpg" width="600" alt="Hiệu ứng Bullet Time trong căng tin trường đại học">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2993)**
 
 **Tác giả:** [Harsha Swamy](https://x.com/harsha3d) | **Nguồn:** [Link](https://x.com/harsha3d/status/2041848354167255357) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Reluctant Dancing Woman in Kimono MV
+### MV cô gái mặc Kimono nhảy với vẻ mặt miễn cưỡng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed English prompt for Seedance 2.0 (via Topview) to generate a dynamic music video sequence featuring an original character—a woman in a black kimono—dancing with a reluctant and annoyed expression. The prompt specifies multi-cut editing, camera work, and the overall cinematic, anime-style MV atmosphere.
+> Một câu lệnh (prompt) chi tiết bằng tiếng Anh dành cho Seedance 2.0 (thông qua Topview) để tạo chuỗi video âm nhạc sống động, có sự xuất hiện của một nhân vật gốc—một người phụ nữ mặc kimono đen—đang nhảy với biểu cảm miễn cưỡng và khó chịu. Câu lệnh chỉ định kỹ thuật cắt cảnh đa góc, kỹ thuật quay phim và bầu không khí MV phong cách anime đậm chất điện ảnh.
 
 #### 📝 Prompt
 
 ```
-The background is predominantly white with pastel-colored patterns scattered throughout; . Do not show the attached character sheet in the video.A woman in a black kimono dances with a reluctant, annoyed expression, as if she does not want to be there. The scene is styled like a dynamic dance music video with rapid multi-cut editing: close-ups of her exasperated face, tight zoom-ins on her feet struggling to keep up with the choreography, detailed shots of her hands moving slightly behind the beat, and expressive cut-ins that emphasize her irritated body language. She follows the dance with a slight delay, making her performance feel awkward yet charming. Include a close-up of her fed-up expression, then a smooth spinning turn, captured with dramatic motion and energetic camera work, anime-style dance MV atmosphere, cinematic rhythm, stylish and playful.
+Nền chủ đạo là màu trắng với các họa tiết màu pastel rải rác khắp nơi; không hiển thị bảng nhân vật đính kèm trong video. Một người phụ nữ mặc kimono đen đang nhảy với vẻ mặt miễn cưỡng, khó chịu như thể cô ấy không muốn ở đó. Cảnh quay được dàn dựng như một video âm nhạc sôi động với kỹ thuật cắt cảnh nhanh: cận cảnh khuôn mặt bực bội, zoom cận vào đôi chân đang cố gắng theo kịp vũ đạo, các cảnh quay chi tiết đôi tay di chuyển chậm hơn nhịp nhạc một chút và các cảnh cắt biểu cảm nhấn mạnh ngôn ngữ cơ thể đầy cáu kỉnh của cô. Cô ấy thực hiện các động tác nhảy với độ trễ nhẹ, khiến màn trình diễn trở nên vụng về nhưng đầy cuốn hút. Bao gồm một cảnh cận cảnh biểu cảm chán nản của cô, sau đó là một cú xoay người mượt mà, được ghi lại với chuyển động ấn tượng và kỹ thuật quay phim tràn đầy năng lượng, mang bầu không khí MV nhảy phong cách anime, nhịp điệu điện ảnh, thời thượng và vui nhộn.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe73734d51e86292809e3e2887b903b6/thumbnails/thumbnail.jpg" width="600" alt="Reluctant Dancing Woman in Kimono MV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fe73734d51e86292809e3e2887b903b6/thumbnails/thumbnail.jpg" width="600" alt="MV cô gái mặc Kimono nhảy với vẻ mặt miễn cưỡng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3006)**
 
 **Tác giả:** [🍺 イケハヤ@アニメ作る人](https://x.com/IHayato) | **Nguồn:** [Link](https://x.com/IHayato/status/2041839076354224178) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Cinematic black and white portrait of a young woman with a tear
+### Chân dung điện ảnh đen trắng của một cô gái trẻ với giọt nước mắt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for Seedance 2.0, focusing on a black and white portrait of a young woman in an abaya and hijab. The prompt specifies dramatic Rembrandt lighting, high contrast, subtle camera movements (slow push-in), and a specific emotional sequence involving a tear falling and the subject's expression changing.
+> Một câu lệnh (prompt) điện ảnh chi tiết dành cho Seedance 2.0, tập trung vào bức chân dung đen trắng của một cô gái trẻ mặc abaya và hijab. Câu lệnh chỉ định ánh sáng Rembrandt đầy kịch tính, độ tương phản cao, các chuyển động máy quay tinh tế (quay chậm tiến vào) và một chuỗi cảm xúc cụ thể bao gồm giọt nước mắt rơi và sự thay đổi biểu cảm của nhân vật.
 
 #### 📝 Prompt
 
 ```
-black and white cinematic portrait of a young woman wearing a flowing black abaya and a soft black hijab, modest elegant look, the hijab delicately wrapped, a few subtle hair strands gently visible from the back, side profile, natural beauty with soft freckles, minimal makeup, calm but deeply emotional expression
-dramatic side lighting, Rembrandt style, half of her face in shadow, soft rim light outlining her silhouette and the edge of the hijab, high contrast, soft film grain, shallow depth of field, 85mm lens
-dark minimal background, faint floating dust particles, quiet intimate atmosphere
-slow cinematic push-in, no cuts, ultra subtle movements only
-a tear slowly forms in her eye, then gently falls down her cheek in slow motion, she closes her eyes briefly, breath soft and heavy
-her hand rises slowly from the black abaya sleeve, delicately wiping the tear without fully removing the emotion
-a faint breeze slightly moves the edge of the hijab and the loose hair strands
-she slowly turns her face away from the light, shadows deepen across her features
-she becomes completely still for a moment
-then her eyes open slowly, distant and empty gaze, unfocused, lost in thought
-fade to black
+chân dung điện ảnh đen trắng của một cô gái trẻ mặc chiếc abaya đen thướt tha và khăn hijab đen mềm mại, vẻ ngoài khiêm nhường thanh lịch, khăn hijab quấn tinh tế, vài sợi tóc nhỏ lộ ra nhẹ nhàng từ phía sau, góc nghiêng, vẻ đẹp tự nhiên với những nốt tàn nhang mờ, trang điểm tối giản, biểu cảm bình tĩnh nhưng đầy cảm xúc
+ánh sáng bên kịch tính, phong cách Rembrandt, một nửa khuôn mặt chìm trong bóng tối, ánh sáng viền mềm mại làm nổi bật đường nét cơ thể và mép khăn hijab, độ tương phản cao, hạt phim mềm, độ sâu trường ảnh nông, ống kính 85mm
+nền tối tối giản, những hạt bụi lơ lửng mờ ảo, không khí tĩnh lặng thân mật
+quay chậm tiến vào kiểu điện ảnh, không cắt cảnh, chỉ có những chuyển động cực kỳ tinh tế
+một giọt nước mắt từ từ hình thành trong mắt cô, sau đó nhẹ nhàng rơi xuống má theo chuyển động chậm, cô nhắm mắt lại trong giây lát, hơi thở nhẹ và nặng nề
+tay cô từ từ đưa lên từ ống tay áo abaya đen, nhẹ nhàng lau giọt nước mắt mà không làm mất đi cảm xúc
+một cơn gió nhẹ làm lay động mép khăn hijab và những sợi tóc xõa
+cô từ từ quay mặt khỏi ánh sáng, bóng tối bao trùm lên các đường nét trên khuôn mặt
+cô trở nên hoàn toàn bất động trong một khoảnh khắc
+sau đó đôi mắt cô từ từ mở ra, ánh nhìn xa xăm và trống rỗng, mất tập trung, chìm đắm trong suy tư
+mờ dần sang màu đen
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/181a714a3331efc38972f77b430e56ba/thumbnails/thumbnail.jpg" width="600" alt="Cinematic black and white portrait of a young woman with a tear">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/181a714a3331efc38972f77b430e56ba/thumbnails/thumbnail.jpg" width="600" alt="Chân dung điện ảnh đen trắng của một cô gái trẻ với giọt nước mắt">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2987)**
 
 **Tác giả:** [Sara | 사라 Al ✦ 🎥✍️](https://x.com/sara4ai) | **Nguồn:** [Link](https://x.com/sara4ai/status/2041834780161974423) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Rural Scene: Woman Walking in Rain
+### Khung cảnh nông thôn: Người phụ nữ đi bộ dưới mưa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt describing a realistic rural scene featuring a blonde woman walking down a muddy road in the pouring rain, carrying buckets towards a barn filled with cows. The full prompt is linked externally.
+> Một câu lệnh mô tả khung cảnh nông thôn chân thực với hình ảnh một người phụ nữ tóc vàng đang đi bộ trên con đường bùn lầy dưới cơn mưa tầm tã, tay xách những chiếc xô hướng về phía nhà kho đầy bò. Câu lệnh đầy đủ được liên kết ở bên ngoài.
 
 #### 📝 Prompt
 
 ```
-A blonde woman in a plaid shirt and green rubber boots walks down a muddy rural village road in the pouring rain, carrying two metal buckets towards a barn filled with cows.
+Một người phụ nữ tóc vàng mặc áo sơ mi kẻ sọc và đi ủng cao su màu xanh lá cây đang bước đi trên con đường làng đầy bùn lầy dưới cơn mưa tầm tã, tay xách hai chiếc xô kim loại hướng về phía nhà kho đầy bò.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eac9b64c0517eddd6892efcb96d1e85/thumbnails/thumbnail.jpg" width="600" alt="Rural Scene: Woman Walking in Rain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8eac9b64c0517eddd6892efcb96d1e85/thumbnails/thumbnail.jpg" width="600" alt="Khung cảnh nông thôn: Người phụ nữ đi bộ dưới mưa">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2996)**
 
@@ -1141,87 +1137,87 @@ Trailer trận chiến giả tưởng điện ảnh 16:9 siêu chi tiết tại 
 **Tác giả:** [AI-ishere](https://x.com/AIishere_art) | **Nguồn:** [Link](https://x.com/AIishere_art/status/2041801904028840427) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### High-Speed Female Swordswoman Battle Animation
+### Hoạt ảnh chiến đấu tốc độ cao của nữ kiếm sĩ
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed prompt for generating a high-quality, full-color Japanese animation movie featuring a female swordswoman engaged in a continuous, high-speed battle sequence. The prompt specifies various sword techniques like 'Flame Slash,' 'Explosive Ice Slash,' and 'Thunder Slash,' with screen-filling effects and a focus on maintaining the style of the input image.
+> Một câu lệnh chi tiết để tạo ra phim hoạt hình Nhật Bản chất lượng cao, đầy đủ màu sắc với nhân vật nữ kiếm sĩ đang tham gia vào một chuỗi chiến đấu liên tục, tốc độ cao. Câu lệnh chỉ định nhiều kỹ thuật kiếm thuật khác nhau như 'Flame Slash', 'Explosive Ice Slash' và 'Thunder Slash', với các hiệu ứng tràn màn hình và tập trung vào việc duy trì phong cách của hình ảnh đầu vào.
 
 #### 📝 Prompt
 
 ```
-High-speed battle motion by a female swordswoman, performing a fierce sword dance (camera angle, subject distance, and focus are all left to the AI), executing various sword techniques such as Flame Slash, Explosive Ice Slash, and Thunder Slash without stopping from start to finish. Include effects that burst out to fill the screen, and generate a high-quality, full-color Japanese animation movie. Maintain the style/artistic touch of the input image.
+Chuyển động chiến đấu tốc độ cao của một nữ kiếm sĩ, thực hiện vũ điệu kiếm thuật dữ dội (góc máy, khoảng cách chủ thể và tiêu điểm đều để AI tự quyết định), thực hiện các kỹ thuật kiếm thuật khác nhau như Flame Slash, Explosive Ice Slash và Thunder Slash không ngừng nghỉ từ đầu đến cuối. Bao gồm các hiệu ứng bùng nổ tràn màn hình và tạo ra một bộ phim hoạt hình Nhật Bản chất lượng cao, đầy đủ màu sắc. Duy trì phong cách / nét nghệ thuật của hình ảnh đầu vào.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4921c332a9bb59b22607ffc0650091d6/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Female Swordswoman Battle Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4921c332a9bb59b22607ffc0650091d6/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh chiến đấu tốc độ cao của nữ kiếm sĩ">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3005)**
 
 **Tác giả:** [そぴちゃんねる](https://x.com/souhiro_meem_ch) | **Nguồn:** [Link](https://x.com/souhiro_meem_ch/status/2041801510250803408) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Handheld Astronaut Footage Prompt
+### Prompt cho thước phim phi hành gia quay cầm tay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt focusing on camera movement, lighting, and audio to simulate raw, shaky, handheld footage taken by a second astronaut on the lunar surface, aiming for a leaked personal clip aesthetic.
+> Một prompt chi tiết tập trung vào chuyển động camera, ánh sáng và âm thanh để mô phỏng thước phim thô, rung lắc, quay cầm tay bởi một phi hành gia khác trên bề mặt mặt trăng, hướng tới thẩm mỹ của một đoạn clip cá nhân bị rò rỉ.
 
 #### 📝 Prompt
 
 ```
-SINGLE TAKE. Handheld by a second astronaut on the surface. Shaky. Human. Camera operator breathes too loud. Framing drifts. Feels like a personal clip that leaked.
+QUAY LIỀN MẠCH (SINGLE TAKE). Quay cầm tay bởi phi hành gia thứ hai trên bề mặt mặt trăng. Rung lắc. Chân thực. Người quay phim thở quá to. Khung hình bị lệch. Cảm giác như một đoạn clip cá nhân bị rò rỉ.
 
-LIGHTING: Raw sunlight from camera left. No fill. High contrast.
+ÁNH SÁNG: Ánh sáng mặt trời thô từ phía bên trái camera. Không có ánh sáng phụ (fill light). Độ tương phản cao.
 
-AUDIO: Two sets of breathing on open channel.
+ÂM THANH: Hai nhịp thở trên kênh mở.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e8f5850114227c22f324ad2da2b1914/thumbnails/thumbnail.jpg" width="600" alt="Handheld Astronaut Footage Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e8f5850114227c22f324ad2da2b1914/thumbnails/thumbnail.jpg" width="600" alt="Prompt cho thước phim phi hành gia quay cầm tay">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2977)**
 
 **Tác giả:** [Alex Patrascu](https://x.com/maxescu) | **Nguồn:** [Link](https://x.com/maxescu/status/2041796512024342780) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### 15-Second Continuous Action Sequence
+### Chuỗi hành động liên tục 15 giây
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a 15-second continuous single-shot video sequence, emphasizing hyper-realistic cinematic fantasy elements, large-scale creature physics, and detailed atmospheric effects like volumetric fire and heat distortion.
+> Một câu lệnh (prompt) cho chuỗi video quay một lần (single-shot) liên tục trong 15 giây, tập trung vào các yếu tố giả tưởng điện ảnh siêu thực, vật lý sinh vật quy mô lớn và các hiệu ứng khí quyển chi tiết như lửa thể tích và hiện tượng méo do nhiệt.
 
 #### 📝 Prompt
 
 ```
-15-second continuous single-shot action sequence.
-No cuts. No scene transitions.
+Chuỗi hành động quay một lần (single-shot) liên tục trong 15 giây.
+Không cắt cảnh. Không chuyển cảnh.
 
-Hyper-realistic cinematic fantasy, large-scale creature physics, volumetric fire simulation, heat distortion, dynamic airflow, atmospheric perspective
+Giả tưởng điện ảnh siêu thực, vật lý sinh vật quy mô lớn, mô phỏng lửa thể tích, hiện tượng méo do nhiệt, luồng không khí động, phối cảnh khí quyển
 
-Single continuous subject: rider firmly
+Chủ thể duy nhất liên tục: người cưỡi vững chãi
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63f1aa7f8a62360c821e1e1fc436829c/thumbnails/thumbnail.jpg" width="600" alt="15-Second Continuous Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/63f1aa7f8a62360c821e1e1fc436829c/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động liên tục 15 giây">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2995)**
 
 **Tác giả:** [OscarAI](https://x.com/Artedeingenio) | **Nguồn:** [Link](https://x.com/Artedeingenio/status/2041790861772562653) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Cyberpunk Woman Video Prompt
+### Prompt video phụ nữ phong cách Cyberpunk
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a 10-second clip featuring a beautiful young East Asian woman in a dark, neon-lit cyberpunk city alley at night, detailing her appearance (platinum blonde hair, glowing blue cybernetic eyes, worn leather jacket with neon accessories) and specifying the first three seconds of the video.
+> Một prompt video đậm chất điện ảnh cho đoạn clip dài 10 giây, khắc họa một cô gái trẻ người Đông Á xinh đẹp trong con hẻm tối tại thành phố cyberpunk ngập tràn ánh đèn neon vào ban đêm, mô tả chi tiết ngoại hình (tóc vàng bạch kim, đôi mắt máy màu xanh phát sáng, áo khoác da sờn với các phụ kiện neon) và chỉ định cụ thể ba giây đầu tiên của video.
 
 #### 📝 Prompt
 
 ```
-A cinematic 10-second video of a beautiful young East Asian woman in a dark alley of a neon-lit cyberpunk city at night. She has short platinum blonde hair, glowing blue cybernetic eyes, and wears a worn leather jacket with neon-trimmed tech accessories.
+Đoạn video điện ảnh dài 10 giây về một cô gái trẻ người Đông Á xinh đẹp trong con hẻm tối tại thành phố cyberpunk ngập tràn ánh đèn neon vào ban đêm. Cô ấy có mái tóc ngắn màu vàng bạch kim, đôi mắt máy màu xanh phát sáng và mặc chiếc áo khoác da sờn cùng các phụ kiện công nghệ viền neon.
 
 [00:00-03:00s] —
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/129718e6d9c1e5286e63f63dfd3eb68e/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Woman Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/129718e6d9c1e5286e63f63dfd3eb68e/thumbnails/thumbnail.jpg" width="600" alt="Prompt video phụ nữ phong cách Cyberpunk">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3000)**
 
@@ -1247,19 +1243,19 @@ Cảnh quay cận cảnh tĩnh. Một bàn tay người thật tương tác vớ
 **Tác giả:** [Kiki](https://x.com/Mayz1169) | **Nguồn:** [Link](https://x.com/Mayz1169/status/2041787247180313081) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style
+### Pupu nhổ cây liễu: Phong cách võ hiệp Shaw Brothers
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed Seedance 2.0 prompt for a video inspired by 1970s Shaw Brothers martial arts films, featuring a character named Pupu dramatically pulling up a large willow tree. The prompt specifies the visual style (Technicolor, high saturation, dramatic lighting, film grain, artificial set design) and includes a three-part script with specific camera angles, actions, and dialogue.
+> Một câu lệnh Seedance 2.0 chi tiết cho video lấy cảm hứng từ các bộ phim võ thuật Shaw Brothers thập niên 1970, với nhân vật tên Pupu đang thực hiện hành động nhổ một cây liễu lớn đầy kịch tính. Câu lệnh chỉ định phong cách hình ảnh (Technicolor, độ bão hòa cao, ánh sáng kịch tính, hạt phim, thiết kế bối cảnh nhân tạo) và bao gồm kịch bản ba phần với các góc máy, hành động và lời thoại cụ thể.
 
 #### 📝 Prompt
 
 ```
-The video is based on the style of 1970s Shaw Brothers martial arts films, featuring obviously artificial rockeries and fake farmhouse courtyards. Technicolor, high saturation, unnatural dramatic lighting, old film grain texture, and a studio set feel. No subtitles. [0-7s] The camera slowly pushes in with a low-angle upward shot, the focus firmly locked on Pupu's strained upper body: sweat beads on the forehead, and sweat mixed with dirt rolls down the jawline. With hands clamped like iron tongs around the large willow trunk, Pupu forcefully pulls up the entire old willow tree with a dull sound of tearing earth, then violently flings the willow tree horizontally, the trunk hitting the ground with a whoosh, creating billowing smoke and dust. [8-9s] The camera quickly pushes in for a top-down shot of the two dogs' stunned expressions. [10-12s] An upward shot shows Pupu sweating, looking at the tree on the ground, laughing and saying: "That felt great!" [12-15s] The two dogs are trembling with fear, and one dog says to the other: "Maybe we should behave ourselves from now on."
+Video dựa trên phong cách phim võ thuật Shaw Brothers thập niên 1970, với các hòn non bộ nhân tạo và sân vườn nông trại giả rõ nét. Màu sắc Technicolor, độ bão hòa cao, ánh sáng kịch tính thiếu tự nhiên, kết cấu hạt phim cũ và cảm giác như phim trường. Không có phụ đề. [0-7 giây] Máy quay từ từ đẩy vào với góc thấp hướng lên, tiêu điểm khóa chặt vào phần thân trên đang căng cứng của Pupu: những giọt mồ hôi trên trán và mồ hôi lẫn bụi bẩn lăn dài trên đường quai hàm. Với đôi tay kẹp chặt như kìm sắt quanh thân cây liễu lớn, Pupu dùng sức nhổ bật cả gốc cây liễu già với tiếng đất xé toạc, sau đó vung mạnh cây liễu theo phương ngang, thân cây đập xuống đất tạo nên tiếng rít, bụi mù mịt bay lên. [8-9 giây] Máy quay nhanh chóng đẩy vào góc nhìn từ trên xuống ghi lại biểu cảm kinh ngạc của hai chú chó. [10-12 giây] Góc quay từ dưới lên cho thấy Pupu đang đổ mồ hôi, nhìn vào cái cây trên mặt đất, cười và nói: "Cảm giác thật tuyệt!" [12-15 giây] Hai chú chó đang run rẩy vì sợ hãi, một con nói với con kia: "Có lẽ từ giờ chúng ta nên ngoan ngoãn hơn thôi."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39273c573e993f312758a27165919de/thumbnails/thumbnail.jpg" width="600" alt="Pupu Pulling Up a Willow Tree: Shaw Brothers Wuxia Style">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a39273c573e993f312758a27165919de/thumbnails/thumbnail.jpg" width="600" alt="Pupu nhổ cây liễu: Phong cách võ hiệp Shaw Brothers">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3003)**
 
@@ -1285,19 +1281,19 @@ Sử thi thảm họa điện ảnh siêu thực, cảnh quay liên tục không
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2041772197799236033) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Sci-Fi Action Film Aesthetic Video Prompt
+### Gợi ý video phong cách phim hành động khoa học viễn tưởng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Seedance 2.0 generating a high-energy sci-fi action scene featuring two women fighting on a speeding train in a rainy gorge, focusing on martial arts, motion blur, and a moody teal-grey aesthetic.
+> Một gợi ý chi tiết cho Seedance 2.0 để tạo ra cảnh hành động khoa học viễn tưởng đầy năng lượng, với hình ảnh hai người phụ nữ chiến đấu trên đoàn tàu đang chạy tốc độ cao trong một hẻm núi đầy mưa, tập trung vào võ thuật, hiệu ứng nhòe chuyển động và phong cách thẩm mỹ màu xanh mòng két - xám đầy tâm trạng.
 
 #### 📝 Prompt
 
 ```
-Fast low-angle tracking, rainy dark gorge. Pink-haired woman in tactical gear vs woman in white bodysuit fighting atop speeding train. Martial arts, sparks, motion blur, moody teal-grey sci-fi action film aesthetic.
+Góc quay thấp theo dõi tốc độ nhanh, hẻm núi tối tăm đầy mưa. Người phụ nữ tóc hồng mặc trang phục chiến thuật đối đầu với người phụ nữ mặc bộ đồ trắng bó sát đang chiến đấu trên nóc đoàn tàu đang chạy tốc độ cao. Võ thuật, tia lửa, hiệu ứng nhòe chuyển động, phong cách thẩm mỹ phim hành động khoa học viễn tưởng màu xanh mòng két - xám đầy tâm trạng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a7fa0d371f4ba068df6f740a44c154e/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Action Film Aesthetic Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7a7fa0d371f4ba068df6f740a44c154e/thumbnails/thumbnail.jpg" width="600" alt="Gợi ý video phong cách phim hành động khoa học viễn tưởng">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2975)**
 
@@ -1359,59 +1355,59 @@ Cảm xúc: thông minh, có kiểm soát, tất yếu, nhận diện thương h
 **Tác giả:** [Ciri](https://x.com/Ciri_ai) | **Nguồn:** [Link](https://x.com/Ciri_ai/status/2041766798220259711) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### Melancholic Mountain Woman Video Prompt
+### Prompt video Người phụ nữ u sầu trên núi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for a 15-second clip featuring a beautiful young East Asian woman with long silver hair, standing alone on a fog-covered mountain peak at dawn, wearing a dark minimalist coat and looking into the distance with a calm, melancholic expression, specifying the first three seconds of the video.
+> Một prompt video đậm chất điện ảnh cho đoạn clip dài 15 giây, mô tả một cô gái trẻ Đông Á xinh đẹp với mái tóc bạc dài, đứng một mình trên đỉnh núi phủ sương mù vào lúc bình minh, mặc chiếc áo khoác tối màu tối giản và nhìn về phía xa với biểu cảm bình thản, u sầu, tập trung vào ba giây đầu tiên của video.
 
 #### 📝 Prompt
 
 ```
-A cinematic 15-second video of a beautiful young East Asian woman with long flowing silver hair, standing alone on a fog-covered mountain peak at dawn. She wears a dark minimalist coat, looking into the distance with a calm, melancholic expression.
+Một video điện ảnh dài 15 giây về một cô gái trẻ Đông Á xinh đẹp với mái tóc bạc dài thướt tha, đứng một mình trên đỉnh núi phủ sương mù vào lúc bình minh. Cô mặc một chiếc áo khoác tối màu tối giản, nhìn về phía xa với biểu cảm bình thản, u sầu.
 
 [00:00-03:00s] —
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69f129e1163dc4625cb623d57687f333/thumbnails/thumbnail.jpg" width="600" alt="Melancholic Mountain Woman Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/69f129e1163dc4625cb623d57687f333/thumbnails/thumbnail.jpg" width="600" alt="Prompt video Người phụ nữ u sầu trên núi">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3001)**
 
 **Tác giả:** [阿越-AY](https://x.com/AyccAI) | **Nguồn:** [Link](https://x.com/AyccAI/status/2041750686975848850) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### 10-Second Cinematic Vertical Action Prompt
+### Prompt hành động điện ảnh dọc 10 giây
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 10-second cinematic vertical video (9:16) featuring one continuous, unbroken tracking shot of massive blockbuster fantasy action. The scene is a hyper-detailed storm ocean at night, with the camera staying behind a female hero in a wide full-body frame.
+> Một prompt chi tiết để tạo video dọc (9:16) mang phong cách điện ảnh dài 10 giây, với một cú máy tracking liên tục, không cắt cảnh, tái hiện khung cảnh hành động giả tưởng quy mô lớn. Bối cảnh là đại dương bão đêm với độ chi tiết cực cao, camera theo sát phía sau một nữ anh hùng trong khung hình toàn thân.
 
 #### 📝 Prompt
 
 ```
-A 10-second cinematic vertical video, 9:16, one continuous unbroken tracking shot, massive blockbuster fantasy action, ultra-premium VFX, hyper-detailed storm ocean at night. The camera stays behind the female hero for the entire shot in a wide full-body framing, clearly showing
+Video dọc mang phong cách điện ảnh dài 10 giây, tỷ lệ 9:16, một cú máy tracking liên tục không cắt cảnh, hành động giả tưởng quy mô lớn, hiệu ứng hình ảnh (VFX) cao cấp, đại dương bão đêm với độ chi tiết cực cao. Camera theo sát phía sau nữ anh hùng trong suốt cảnh quay với khung hình toàn thân, hiển thị rõ nét
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/654953d92bce9f0da760edf9f812babb/thumbnails/thumbnail.jpg" width="600" alt="10-Second Cinematic Vertical Action Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/654953d92bce9f0da760edf9f812babb/thumbnails/thumbnail.jpg" width="600" alt="Prompt hành động điện ảnh dọc 10 giây">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2990)**
 
 **Tác giả:** [TheYudayVerse](https://x.com/yuday9909) | **Nguồn:** [Link](https://x.com/yuday9909/status/2041709090251141427) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### 2D Animated Fight Scene
+### Cảnh chiến đấu hoạt hình 2D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 2D animated fight scene between two characters, Anya and Kannakamui, focusing on fast movements, impact effects, smooth synchronization, and powerful action.
+> Một câu lệnh chi tiết để tạo cảnh chiến đấu hoạt hình 2D giữa hai nhân vật, Anya và Kannakamui, tập trung vào các chuyển động nhanh, hiệu ứng va chạm, sự đồng bộ mượt mà và hành động mạnh mẽ.
 
 #### 📝 Prompt
 
 ```
-A 2D animated fight scene between two characters, Anya and Kannakamui. Anya moves quickly, circling around and delivering many punches and flying kicks. The ground cracks and dust rises into the air. Kannakamui twists and turns her body rapidly, using quick movements, dodges, and blocks to avoid the attacks. Each strike creates gusts of wind and loud impact sounds. The motion and shifts in body control are clearly shown. The animation is smooth and synchronized, making the fight feel powerful and full of weight.
+Một cảnh chiến đấu hoạt hình 2D giữa hai nhân vật, Anya và Kannakamui. Anya di chuyển nhanh nhẹn, lượn vòng và tung ra nhiều cú đấm cùng những cú đá bay. Mặt đất nứt nẻ và bụi bốc lên không trung. Kannakamui xoay chuyển cơ thể nhanh chóng, sử dụng các động tác di chuyển, né tránh và đỡ đòn linh hoạt để tránh các đợt tấn công. Mỗi cú đánh đều tạo ra những luồng gió và âm thanh va chạm mạnh mẽ. Chuyển động và sự thay đổi trong cách kiểm soát cơ thể được thể hiện rõ nét. Hoạt ảnh mượt mà và đồng bộ, khiến trận chiến trở nên đầy uy lực và có sức nặng.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6edf1100613812fb4ff6e3eac5d64aea/thumbnails/thumbnail.jpg" width="600" alt="2D Animated Fight Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6edf1100613812fb4ff6e3eac5d64aea/thumbnails/thumbnail.jpg" width="600" alt="Cảnh chiến đấu hoạt hình 2D">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2988)**
 
@@ -1473,19 +1469,19 @@ A 2D animated fight scene between two characters, Anya and Kannakamui. Anya move
 **Tác giả:** [Shami](https://x.com/ShamiWeb3) | **Nguồn:** [Link](https://x.com/ShamiWeb3/status/2041684360483541236) | **Đã xuất bản:** Apr 8, 2026
 
 ---
-### 15-second seamless one-take transition video
+### Video chuyển cảnh liền mạch 15 giây trong một lần quay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for creating a 15-second cinematic video that seamlessly transitions between six reference images using continuous camera movements like whip-pans or zooms, strictly forbidding hard cuts, fades, or opacity changes.
+> Một câu lệnh (prompt) để tạo video điện ảnh dài 15 giây, chuyển cảnh mượt mà giữa sáu hình ảnh tham chiếu bằng các chuyển động máy quay liên tục như lia máy nhanh (whip-pan) hoặc thu phóng (zoom), nghiêm cấm cắt cảnh đột ngột, làm mờ dần hoặc thay đổi độ mờ.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second seamless one-take cinematic video transitioning through [ Image 1 to Image 6] Strictly no hard cuts, no fades, and no opacity changes. Use fluid, continuous camera movements (like whip-pans or zooms)
+Tạo một video điện ảnh liền mạch dài 15 giây trong một lần quay, chuyển cảnh qua [ Hình ảnh 1 đến Hình ảnh 6 ]. Nghiêm cấm cắt cảnh đột ngột, không làm mờ dần và không thay đổi độ mờ. Sử dụng các chuyển động máy quay liên tục, mượt mà (như lia máy nhanh hoặc thu phóng)
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c86c58f69f7142471d60364dbcf363ca/thumbnails/thumbnail.jpg" width="600" alt="15-second seamless one-take transition video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c86c58f69f7142471d60364dbcf363ca/thumbnails/thumbnail.jpg" width="600" alt="Video chuyển cảnh liền mạch 15 giây trong một lần quay">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=2982)**
 
@@ -2293,19 +2289,19 @@ CẢNH 4: Lá cây mọc dày đặc (mùa hè).
 **Tác giả:** [Aleena Amir](https://x.com/aleenaamiir) | **Nguồn:** [Link](https://x.com/aleenaamiir/status/2041478764610404703) | **Đã xuất bản:** Apr 7, 2026
 
 ---
-### Grounded Action Sequence in a Gothic Cathedral
+### Chuỗi hành động chân thực trong một nhà thờ Gothic
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A user describes their attempt to generate a 'grounded' action sequence using Seedance 2.0, focusing on realistic physics, Arri Alexa texture, and natural lighting within a gothic cathedral setting, avoiding neon lights and exaggerated VFX.
+> Người dùng mô tả nỗ lực tạo ra một chuỗi hành động "chân thực" bằng cách sử dụng Seedance 2.0, tập trung vào vật lý thực tế, kết cấu Arri Alexa và ánh sáng tự nhiên trong bối cảnh nhà thờ Gothic, tránh đèn neon và các hiệu ứng hình ảnh cường điệu.
 
 #### 📝 Prompt
 
 ```
-I tried a completely "grounded" action sequence inside a gothic cathedral, far from neon lights and exaggerated VFX. The realism level is tremendous with Arri Alexa texture and natural lighting. A solid fight choreography that adheres to the laws of physics...
+Tôi đã thử tạo một chuỗi hành động hoàn toàn "chân thực" bên trong một nhà thờ Gothic, tránh xa ánh đèn neon và các hiệu ứng hình ảnh cường điệu. Mức độ chân thực rất ấn tượng với kết cấu Arri Alexa và ánh sáng tự nhiên. Một vũ đạo chiến đấu vững chắc tuân thủ các định luật vật lý...
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afbff359962d31f0393a5696a0092eaa/thumbnails/thumbnail.jpg" width="600" alt="Grounded Action Sequence in a Gothic Cathedral">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afbff359962d31f0393a5696a0092eaa/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi hành động chân thực trong một nhà thờ Gothic">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=3007)**
 
@@ -3016,6 +3012,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-04-09T06:37:25.447Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-04-09T09:26:28.935Z</sub>
 
 </div>
