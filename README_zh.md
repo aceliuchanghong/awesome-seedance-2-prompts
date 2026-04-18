@@ -68,7 +68,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **1936** |
+| 📝 提示词总数 | **1952** |
 | ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-04-18** |
 
@@ -361,6 +361,449 @@
 
 > 📝 按发布日期排序（最新优先）
 
+### 末日科幻动作场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个高度精细的电影级提示词，用于生成 15 秒的动作序列，讲述一名超人类在城市废墟中与巨型怪物战斗的故事。包含具体的运镜方式、帧率以及按时间顺序排列的场景描述。
+
+#### 📝 提示词
+
+```
+图像 1：主角为一名男性，身穿黑色超大款连帽衫、黑色超大款宽松牛仔裤和黑色运动鞋。拥有辐射增强的超人类速度与力量，觉醒的橙黄色发光瞳孔，青筋暴起，气场强大。场景：废弃的芝加哥高层建筑废墟，裸露的钢筋，开裂的混凝土，悬空的废弃车辆，生锈的钢制走廊，变异藤蔓，破碎的玻璃碎片，昏暗的月光，闪烁的故障霓虹灯，浓雾，极高海拔的紧张感。一镜到底，15 秒，电影感，120fps 高帧率，超写实黑暗美式末日科幻惊悚片，低饱和冷灰色调，点缀橙黄色。0-3 秒：低角度广角镜头，主角站在开裂的地板边缘，在清理完小喽啰后喘着粗气，橙黄色瞳孔冷冷地扫视着废墟。大楼剧烈震动。升级版巨型追踪者（Giant Tracker）冲破浓雾，用巨大的爪子猛击地面，混凝土炸裂。手持式轻微抖动，广角压迫式构图。3-6 秒：巨型追踪者横扫巨爪，主角以极快速度侧身闪避，留下强烈的动态模糊残影。爪子击碎钢柱，尘土飞扬。怪物连续攻击，主角以极高速度在碎片缝隙中蛇形冲刺。地面跟拍镜头，全动态模糊。6-8 秒：主角在半空中蹬开悬浮车辆，高速旋转，向怪物的头部发动回旋踢。怪物咆哮，咬合的下颚险些擦过他的运动鞋。希区柯克式螺旋环绕镜头，高空险境。8-10 秒：主角落地并向前冲刺，对怪物的胸部和下颚连续重击三拳，每一击都将其击退，伴随骨骼碎裂的闷响。低位扫堂腿破坏怪物的重心。中景特写跟拍，120fps 慢动作捕捉拳头冲击力。10-13 秒：主角抓住怪物手臂，反向扭转，外骨骼开裂并爆开。跳上怪物背部，双腿锁住喉咙，双臂用力掰开颈部装甲。怪物剧烈挣扎，主角稳如泰山。后方俯拍镜头配合快速横向剪辑，强烈的动态模糊残影。13-15 秒：主角跳开，全力冲刺并挥拳击中怪物裂开的头骨下颚，动能穿透头部，怪物倒下，冲击波震碎周围的藤蔓和玻璃。最终定格：主角站在怪物尸体上方，橙黄色
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f814ec249a3654cc8bf2fb1a17d409cd/thumbnails/thumbnail.jpg" width="600" alt="末日科幻动作场景">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3303)**
+
+**作者:** [Harboris](https://x.com/harboriis) | **来源:** [Link](https://x.com/harboriis/status/2045388045550309833) | **发布时间:** Apr 18, 2026
+
+---
+### 发光的类人主角与沙漠遗迹
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于 Seedance 2.0 的多图像参考提示词，旨在为电影级序列定义一个生物机械角色和古老的斗兽场环境。
+
+#### 📝 提示词
+
+```
+image1 作为发光的类人主角和起始姿势（孤独而强大的形象，带有戏剧性的蓝色能量光芒，保持精确的生物机械设计、复杂的机械与有机融合，以及强烈的存在感），image4 作为古老的沙漠斗兽场遗迹环境和觉醒场景
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d6c6007780205aa67dc1c65e5ead2e44/thumbnails/thumbnail.jpg" width="600" alt="发光的类人主角与沙漠遗迹">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3298)**
+
+**作者:** [folarihn](https://x.com/folarihn) | **来源:** [Link](https://x.com/folarihn/status/2045149345721270538) | **发布时间:** Apr 17, 2026
+
+---
+### 轨道环结构性坍塌
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个科幻动作提示词，描绘了外星行星周围巨大空间环的灾难性坍塌，并带有强烈的镜头感。
+
+#### 📝 提示词
+
+```
+外星行星周围的巨大轨道环，结构性坍塌以极高速度蔓延，整个部分在交通仍在通行时分崩离析。
+广角镜头：轨道环旋转中，一道裂缝突然沿着表面以超出预期的速度疾驰。
+硬跟踪：镜头锁定在裂缝上，随着它撕裂结构层，穿透居住区和交通线。
+近距离掠过：维修船沿着轨道环加速，勉强逃离身后坍塌的结构。
+近乎失败：一艘飞船误判了速度，表面在下方坠落，被迫在最后一秒加速以避免被卷入外太空。
+连锁反应：旋转的片段开始不同步，碰撞的边缘相互摩擦并破碎。
+内部镜头：走廊剧烈位移，重力闪烁，人员和碎片撞向墙壁，大气层外泄。
+外部快速摇摄：一个巨大的部分断裂，不可预测地旋转，险些撞上一艘逃离的飞船。
+精准逃生：飞行员穿梭于坍塌的梁柱和缆绳网格中，缝隙在实时闭合。
+冲击波：结构性坍塌释放能量，将碎片向外推，飞船努力维持航向。
+最后时刻：轨道环的一大段弧形结构脱落，漂浮而去，表面仍闪烁着灯光。
+无情的结构性坍塌，没有停顿，持续的重新定位，级联式故障，扎实的物理效果，宏大的规模与切身的危险。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3a78bf01b8cd9007adc94dee1e81e69/thumbnails/thumbnail.jpg" width="600" alt="轨道环结构性坍塌">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3289)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **来源:** [Link](https://x.com/AllaAisling/status/2045145254891004257) | **发布时间:** Apr 17, 2026
+
+---
+### Iris 进入记忆世界
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一种富有创意的运镜提示词，包含 90 度环绕拍摄，并以快速虹膜缩放（iris-in）转场进入一个镜像破碎的记忆世界。
+
+#### 📝 提示词
+
+```
+摄像机向左环绕 90 度，随后快速以虹膜缩放效果聚焦于女孩，穿过她的虹膜进入一个色彩反转的镜像破碎世界。数十片玻璃碎片漂浮在神秘的黑暗虚空中，每一片都反射着女孩过去记忆的不同片段。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95db087d24336ff140390dc179af00d4/thumbnails/thumbnail.jpg" width="600" alt="Iris 进入记忆世界">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3294)**
+
+**作者:** [Jason W - AI](https://x.com/PocketScreenAI) | **来源:** [Link](https://x.com/PocketScreenAI/status/2045133335421448504) | **发布时间:** Apr 17, 2026
+
+---
+### 电影感生活方式情绪转场
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个结构化的生活方式视频提示词，描述角色在收到手机消息后情绪与环境发生转变的过程。
+
+#### 📝 提示词
+
+```
+格式：15 秒 / 135 BPM / 14 个镜头
+主体：@[image1]
+服装：休闲 → 略显精致
+环境：房间 → 街道 → 更明亮的世界
+情绪：中性 → 兴奋 → 自信
+风格：电影感生活方式
+核心创意：一条消息改变了她的整体氛围
+镜头流程：
+无聊地坐着
+手机震动
+阅读消息 → 表情变化
+快速起身
+调整服装
+照镜子
+灯光变得温暖
+走到户外
+音乐响起
+自信行走
+头发摆动的慢动作
+城市感觉更明亮
+浅浅一笑
+以光影收尾
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7139c0c746802cbf2d7d3ea52cbb2e83/thumbnails/thumbnail.jpg" width="600" alt="电影感生活方式情绪转场">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3288)**
+
+**作者:** [Kashberg](https://x.com/Kashberg_0) | **来源:** [Link](https://x.com/Kashberg_0/status/2045110294046024010) | **发布时间:** Apr 17, 2026
+
+---
+### 产品测评 UGC 提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个简单的 UGC 风格产品测评视频提示词，重点在于角色对着镜头直接讲述关于某款补剂的使用体验。
+
+#### 📝 提示词
+
+```
+一位女性对着镜头测评产品，表达她对产品非常满意，并说道：“Meno 是我用过最好的补剂！”
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c4805fa81795096a4f40af3649383a1/thumbnails/thumbnail.jpg" width="600" alt="产品测评 UGC 提示词">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3299)**
+
+**作者:** [Luka kharatishvili](https://x.com/Lukakharatishv6) | **来源:** [Link](https://x.com/Lukakharatishv6/status/2045082002882220074) | **发布时间:** Apr 17, 2026
+
+---
+### 火山人摧毁城市
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个史诗级的电影感提示词，描述了一位拥有火山力量的人在城市广场引发地质灾难，画面包含岩浆喷发和地壳断裂。
+
+#### 📝 提示词
+
+```
+一位 30 多岁、体型魁梧的男子，皮肤上布满火山灰，留着光头，双眼闪烁着余烬般的橙色光芒。他身披厚重的玄武岩铠甲，铠甲下嵌入的熔岩裂缝发出阵阵红光 —— 第 2 秒钩子：他双拳猛击城市广场，熔岩裂缝瞬间点燃，引发强烈的地震冲击波。
+
+路面瞬间裂开。
+
+岩浆脉络从地铁隧道和下水道系统喷涌而出。
+
+战斗演变为地质灾难与爆炸：战斗中街道喷出熔岩喷泉，玄武岩柱冲破摩天大楼地基，沥青在强烈的地热压力下液化。
+
+他的每一次打击都会引发城市地下的地壳断裂。
+
+整个街区开始沉入熔岩裂缝中。
+
+他在工业区推进，该区域在火山压力下崩塌：工厂地面 → 高速公路立交桥在熔岩流中融化 → 炼油厂塔楼引发连锁爆炸。
+
+追逐镜头掠过崩塌的混凝土桥梁，岩浆河在城市中冲刷出新的河道。
+
+当城市下方的休眠火山室爆炸、整个区域向上喷发时，镜头速度加快。
+
+切换至航拍视角：原先的城市所在地形成了一个新的火山火山口。
+
+他站在火山口边缘，岩浆流重塑着地貌。
+
+写实的橙色岩浆自发光效果与火山灰云及熔岩颗粒相互作用，电影级火焰光效与地质破坏物理效果，4K。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0725c6b7b86fe335deffbed1974c0605/thumbnails/thumbnail.jpg" width="600" alt="火山人摧毁城市">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3291)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2045057199056032207) | **发布时间:** Apr 17, 2026
+
+---
+### 沉浸式高速办公室乱斗
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于 15 秒办公室残酷打斗场景的综合动作序列提示词，利用角色参考和动态运镜。
+
+#### 📝 提示词
+
+```
+15 秒无对白、全沉浸式高速残酷打斗短片。
+
+两个角色 @ image1 和 @ image2 。
+真人写实风格。近距离、高速混乱的无规则肉搏战，完全失控的混战。没有花哨的编排，只有纯粹的原始感。持续的拳击、踢腿、格挡、身体冲撞、投掷和缠斗。超写实的打击感。夸张但符合物理规律的动作速度。整个序列以 120 FPS 拍摄，无慢动作。快速冲刺、闪避和高速肢体挥动。极端的运动模糊和速度轨迹增强了强度，同时保留了真实的重量感和物理效果。
+
+大师级电影运镜：
+
+专业电影摄像机紧贴动作，与格斗者动态同步飞行——高速俯冲、急停、甩镜头和 360° 全方位环绕追踪。摄像机随拳击、踢腿和闪避同步移动，伴随灵敏的抖动和位移。一镜到底，无剪辑。锐利的推拉追踪，突发的方向转换，完全融入打斗，带来面对面的沉浸式战斗视角。平滑、零延迟的运动。
+
+大师级精准剪辑：
+
+0–3 秒：超快切入战斗。
+
+3–10 秒：无缝动作衔接，无卡顿或中断。
+
+10–15 秒：密集、暴力的快速剪辑高潮。
+
+剪辑节奏随战斗强度升级。快速交叉剪辑增强混乱感。精准的节拍把控，无冗余镜头。持续且令人窒息的高速节奏。
+
+环境设置
+
+现代开放式办公室，配有办公桌、电脑、柜子、打印机和转椅；写实布局，冷色调顶光和侧逆光营造强烈对比。空间略显狭窄以增加紧张感；无玻璃破碎。
+
+环境交互与约束：
+
+战斗仅通过自然的、符合物理逻辑的碰撞影响空间——纸张因气流（而非攻击）散落，椅子因撞击滑动或倾倒，桌子轻微位移但无蓄意损坏，屏幕保持完好仅有轻微震动。无不必要或蓄意的设备破坏。
+
+身体驱动型战斗：缠斗、压制、反投，以及带有细微撞击裂纹/震动的写实摔打。自然气流——仅有轻微的纸张/灰尘移动，无夸张效果。
+
+最终动作设计
+
+最后 2–3 秒：两人同时挥出近距离重拳，在距离冲击点几英寸处定格——全身紧绷，沉重呼吸，陷入完美的僵持状态。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd2ee33a37fcbd5776c4083a6ae1db8a/thumbnails/thumbnail.jpg" width="600" alt="沉浸式高速办公室乱斗">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3293)**
+
+**作者:** [WasifAI](https://x.com/doctorwasif) | **来源:** [Link](https://x.com/doctorwasif/status/2045032794523357498) | **发布时间:** Apr 17, 2026
+
+---
+### 搞笑猫咪早餐叫醒服务
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段关于超写实视频的详细叙述性提示词，描述了一只猫咪在现代卧室里用食盆叫醒熟睡主人的场景。
+
+#### 📝 提示词
+
+```
+一段在现代西式卧室拍摄的清晨超写实视频。一对美国夫妇正安详地睡在床上，柔和的自然光透过窗户洒入室内。一只橘色虎斑猫跑进卧室门口，嘴里叼着自己的食盆。猫咪跳上床，在两个熟睡的人之间穿梭。首先，它将食盆轻轻放在两人中间的枕头上，并用爪子敲了一下，发出轻微的叮当声。女人没有睁眼，只是呻吟了一声，翻身转向另一侧。接着，猫咪用两只前爪举起整个食盆，故意将其扔在熟睡男人的头上，发出一声沉闷的金属撞击声。男人没有醒来。最后，猫咪伸出爪子，开始反复拍打男人的脸，试图把他叫醒。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd701c3adfde954fad3db58973fbfe8f/thumbnails/thumbnail.jpg" width="600" alt="搞笑猫咪早餐叫醒服务">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3290)**
+
+**作者:** [Elser AI](https://x.com/ElserAIOfficial) | **来源:** [Link](https://x.com/ElserAIOfficial/status/2044988584634237431) | **发布时间:** Apr 17, 2026
+
+---
+### 暗黑熔岩生物变身提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Seedance 2.0 设计的电影级视频提示词，利用角色参考逻辑将主体转化为战场上的熔岩生物。
+
+#### 📝 提示词
+
+```
+角色参考严格遵循面部特征；最终形态为暗黑熔岩生物；灵感来源：被摧毁的战场，周围有警察；0-3 秒：中景镜头，缓慢推进；主角跪地，呼吸沉重，身受重伤；双手撑地，可见轻微颤抖；警察进入画面。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc89de41663f61c78935dbfa098421ad/thumbnails/thumbnail.jpg" width="600" alt="暗黑熔岩生物变身提示词">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3297)**
+
+**作者:** [Duet | AI](https://x.com/Sheldon056) | **来源:** [Link](https://x.com/Sheldon056/status/2044985298208387326) | **发布时间:** Apr 17, 2026
+
+---
+### 飞毯逃生场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于古埃及飞毯追逐场景的电影级追踪镜头提示词，包含物理效果和摄像机运动指令。
+
+#### 📝 提示词
+
+```
+连续不间断的手持追踪镜头，照片级真实感，24fps。YOUR IMAGE 乘坐飞毯在阴天下的古埃及沙漠遗迹中疾驰。巨大的沙石巨人投掷巨石——他通过俯冲、急拉升和快速翻滚进行躲避，飞毯随物理效果真实弯曲，碎片从镜头前飞掠而过。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c6081d2057880f78a7447dce86dd995/thumbnails/thumbnail.jpg" width="600" alt="飞毯逃生场景">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3295)**
+
+**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2044962370636939746) | **发布时间:** Apr 17, 2026
+
+---
+### 彩色铅笔花海延时摄影
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Seedance 2.0 提供的详细提示词，旨在生成一段创意延时视频，展示使用彩色铅笔绘制生动花海的艺术过程，从空白页面到完成艺术作品的全过程。
+
+#### 📝 提示词
+
+```
+一幅由彩色铅笔精心绘制的梦幻花海景观，五彩斑斓的花朵蔓延开来（从细小到繁茂密集绽放），每一片花瓣和叶子都经过细致刻画。清澈的蓝天上有柔和的云朵缓慢漂浮，呈现深蓝色渐变，天空的质感通过独特的彩色铅笔笔触表现出来。多层色彩叠加、细腻的交叉排线、精细的阴影处理、隐约可见的纸张纹理、因笔触力度变化而产生的自然渐变，以及温暖的色调。光线倾泻在花海之上，使花瓣散发出柔和的光芒，花朵在风中自然摇曳，构图深邃（前景、中景、背景层次分明）。具有模拟手绘感，极高密度的细节，艺术上的完美，宁静与活力的共存，以及优美抒情的景观。将参考图像设置为结束帧。场景从空白画布开始。起初，纸张完全空白。随后，细腻的彩色铅笔线条逐渐显现，缓慢勾勒出花海的轮廓。先是像草稿一样淡淡的灰色线条，然后颜色逐渐叠加。红色、黄色、粉色和紫色的花朵用彩色铅笔特有的细腻笔触精心上色。强调手绘质感，使每一笔都清晰可见。随着每一层的叠加，深度和立体感不断增加。偶尔进行特写，以真实地展示纸张纹理和彩色铅笔的触感（颗粒感、重叠感、力度差异）。背景天空从淡蓝色渐变开来，柔和的云朵被轻轻添加。最终，一幅生动逼真的花海插画完成。在结束前，添加高光和阴影以统一画面。光线为柔和的自然光，营造出温暖的氛围。总体而言，这是一段展示“精心绘制的彩色铅笔艺术品”创作过程的视频。高清画质，超精准细节，彩色铅笔独有的细腻阴影，纸张纹理，艺术作品，愉悦的创作过程，类似 ASMR 的描绘。“笔触自动出现（不显示手部）”。“传达时间流逝感的延时摄影风格”。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c44ccecce0810d1103b775b68df3bb95/thumbnails/thumbnail.jpg" width="600" alt="彩色铅笔花海延时摄影">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3300)**
+
+**作者:** [なお](https://x.com/Naonekozamurai) | **来源:** [Link](https://x.com/Naonekozamurai/status/2044959028829098026) | **发布时间:** Apr 17, 2026
+
+---
+### Q 版 Phoebe 动漫描述
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于《鸣潮》(Wuthering Waves) 中 Phoebe 可爱 Q 版形象的角色描述提示词，详细说明了她的外观和服饰。
+
+#### 📝 提示词
+
+```
+POV：有人偷偷拿走了 Phoebe Q 版碗里的米饭，看她瞬间气炸的样子😂 一个超可爱的 Q 版 Phoebe，出自《鸣潮》(Wuthering Waves)，被称为“Phoebe Chupi”或“Fibi Chupi”。夸张的大头小身子，圆圆的可爱脸蛋，闪闪发光的大眼睛里有心形高光，金色头发搭配蓝色丝带，戴着她标志性的超大蓝白宽檐帽，帽子上有鹿角状装饰，身穿带有金色点缀的蓝白优雅连衣裙。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/079c6d7e12ab726b7b30e97232da50e7/thumbnails/thumbnail.jpg" width="600" alt="Q 版 Phoebe 动漫描述">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3292)**
+
+**作者:** [Shami](https://x.com/ShamiWeb3) | **来源:** [Link](https://x.com/ShamiWeb3/status/2044958230359462113) | **发布时间:** Apr 17, 2026
+
+---
+### 未来感赛博朋克 Logo 动态图形
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个高度详细、多阶段的 storyboard 提示词，用于创作 10 秒的 Logo 动画，包含故障效果、霓虹灯光和数字噪点的特定时间节点，呈现赛博朋克美学。
+
+#### 📝 提示词
+
+```
+请参考上传的 Logo 图片，创作一段约 10 秒的未来感动态图形视频。
+
+0-1 秒：黑色背景上出现微弱的蓝色噪点、扫描线和数据粒子。
+
+1-2.5 秒：圆形 HUD、细长的发光线条和扫描环激活，开始绘制 Logo 的外轮廓。
+
+2.5-4 秒：通过线条绘制和故障重构，角色剪影逐渐显现。蓝光勾勒出头发和卡牌部分。
+
+4-5.5 秒：标题文字 "DEADMANSHAND" 从底部向上滑入。伴随轻微的故障效果、霓虹发光和数字噪点。
+
+5.5-7 秒：整个 Logo 完成，卡牌部分和外环瞬间强烈闪烁。
+
+7-8 秒：光芒减弱，呈现出完整的 Logo 静止画面。仅有细微的粒子和余晖在周围漂浮。
+
+黑色背景，蓝色霓虹，未来感 UI，赛博侦探，数字扑克，精致的 Logo 动画，动态图形，时尚，锐利，高质量。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bfc9d81757b99c0b3feaaff705c7120b/thumbnails/thumbnail.jpg" width="600" alt="未来感赛博朋克 Logo 动态图形">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3302)**
+
+**作者:** [noriyang@♠️AIart❤️poker](https://x.com/noriyang_crypt) | **来源:** [Link](https://x.com/noriyang_crypt/status/2044954257204666814) | **发布时间:** Apr 17, 2026
+
+---
+### 赛博朋克风格动态 Logo 展示
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 这是一个用于 Seedance 2.0 的提示词，旨在创作赛博朋克风格的 Logo 动画。它利用蓝噪声、HUD 元素和光粒子，在 10 秒内呈现角色与 Logo 的展示效果。
+
+#### 📝 提示词
+
+```
+参考上传的 Logo 图片，在黑色背景上创作一个具有未来感的 Logo 展示动画。以蓝噪声、扫描线、圆形 HUD 和扫描特效作为开场，Logo 外缘由发光线条勾勒而出。内部角色应从光粒子和线条中浮现，最终整个 Logo 以霓虹蓝色呈现并保持稳定。风格时尚、赛博、酷炫，采用动态图形风格，时长约 10 秒。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5ac7d33e093e00c50cde6f5e306aa554/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克风格动态 Logo 展示">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3301)**
+
+**作者:** [noriyang@♠️AIart❤️poker](https://x.com/noriyang_crypt) | **来源:** [Link](https://x.com/noriyang_crypt/status/2044952770248315181) | **发布时间:** Apr 17, 2026
+
+---
+### 橘猫大冒险：金字塔模拟
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个精心设计的 15 秒故事脚本，采用连续镜头拍摄，讲述了一只橘猫探险家在金字塔中的经历，最终发现这竟是美元钞票上的模拟场景。
+
+#### 📝 提示词
+
+```
+故事格式：15 秒 / 152 BPM / 单一连续镜头 / 3D 冒险喜剧 / 风格化古墓奇幻
+
+基调：紧张求生 → 疯狂机智 → 幽闭恐惧 → 荒诞宇宙反转
+
+主体：戴着粗犷探险帽、身穿棕色皮装的橘猫探险家，手持火把，腰间系着斧头；古老石棺；成群的黑色圣甲虫；身穿黑色西装、长着大黑眼睛的绿色外星人
+
+道具：火把、石制杠杆开关、石棺盖、简易木梯、爬行隧道、发光出口、金字塔顶端、绿色钞票
+
+环境：充满石棺的黑暗金字塔密室 → 狭窄的天花板隧道 → 金字塔顶峰 → 超现实缩放至货币世界
+
+色彩：深影金与余烬火光 → 尘土飞扬的棕色幽闭色调 → 明亮的沙漠阳光 → 平面绿色货币色调
+
+摄影：单一连续 24mm 追踪镜头，紧凑的室内运动，快速摇摄，垂直攀爬过渡，无缝从微距到广角的转换，无剪辑
+
+1 (0–2 秒) 被困密室：镜头紧紧围绕着昏暗金字塔房间里的橘猫探险家旋转，房间里堆满了石棺。他反复拍打一个石制开关。石门非但没有打开，反而向下研磨，彻底封死。
+
+对话 (猫)：“噢，拜托——按错按钮了？！”
+
+2 (2–3.5 秒) 快速扫描：他转身，火光在墙壁上闪烁。镜头随着他的目光向上倾斜——露出天花板上的一个小洞。他瞪大了眼睛。
+
+对话 (猫)：“好吧……执行 B 计划。”
+
+3 (3.5–6 秒) 秒速建造：他冲向石棺——猛地掀开多个盖子，木头碎裂。他用斧头快速劈砍，在动作中重塑碎片。镜头环绕，他以惊人的速度将它们拼成一个简易梯子。
+
+4 (6–7.5 秒) 攀爬与发射：他快速攀爬，梯子摇摇晃晃。到达顶部时，他用力一蹬——将自己向上发射进天花板的小洞里，勉强挤了进去。
+
+5 (7.5–9 秒) 幽闭爬行：镜头紧跟在他身后，穿过狭窄黑暗的隧道。火光变暗。前方，一个微弱的发光出口闪烁着。
+
+对话 (猫，吃力地)：“没错……绝对闹鬼。”
+
+6 (9–11 秒) 恐怖追逐：在他身后，成群的黑色圣甲虫涌入隧道——发出快速的咔哒声。他惊慌失措，加速向前爬行。
+
+对话 (猫)：“不不不不——！”
+
+7 (11–12 秒) 逃出生天：他冲出隧道，进入刺眼的阳光中——向前翻滚到巨大金字塔的顶端。沙漠风声呼啸。
+
+8 (12–13 秒) 高度揭秘：他站住，喘着气——然后向下看。镜头开始迅速向上拉升，展现出不可思议的比例。他的表情转为震惊。
+
+9 (13–14 秒) 现实反转：金字塔无缝变形为一个印刷符号——整个场景扁平化为一张绿色钞票的设计。猫震惊的脸变成了金字塔上方带有“100 USD”标记的风格化肖像。
+
+10 (14–15 秒) 最终笑点：镜头向后拉远
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db2111ab22c8a00da1f3bf44d5bdc952/thumbnails/thumbnail.jpg" width="600" alt="橘猫大冒险：金字塔模拟">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3296)**
+
+**作者:** [The Anxious Mind](https://x.com/drjoetw) | **来源:** [Link](https://x.com/drjoetw/status/2044941352421703944) | **发布时间:** Apr 17, 2026
+
+---
 ### 暗杀序列参数化提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2253,409 +2696,6 @@ B: 持盾且协同攻击的重甲守卫
 **作者:** [月真猫-tsukimao-](https://x.com/Atg_Tsukimao) | **来源:** [Link](https://x.com/Atg_Tsukimao/status/2043686015957975458) | **发布时间:** Apr 13, 2026
 
 ---
-### Q 版萤火虫动漫风格
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款超萌的 Q 版动漫风格提示词，用于生成《崩坏：星穹铁道》中角色“萤火虫”的视频内容。
-
-#### 📝 提示词
-
-```
-竖屏 9:16 15 秒，超萌 Q 版动漫风格，AI 生成 (AIGC)。《崩坏：星穹铁道》中可爱且比例夸张的 Q 版萤火虫
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/38adc66368d69bcfa4fa7cb1b7266b2a/thumbnails/thumbnail.jpg" width="600" alt="Q 版萤火虫动漫风格">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3038)**
-
-**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **来源:** [Link](https://x.com/Just_sharon7/status/2043675583956344881) | **发布时间:** Apr 13, 2026
-
----
-### 动作电影片尾演职员表序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Seedance 2.0 设计的创意提示词，用于生成动态且设计精美的动作电影片尾演职员表。
-
-#### 📝 提示词
-
-```
-动作电影的动画动态且炫酷的片尾演职员表，每个角色均由 "fofr" 完成，片尾演职员表在场景之间切换，不仅仅是滚动的字幕，而是设计精美的片尾演职员表序列
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ae556b52845d4cb236cf400e1294d906/thumbnails/thumbnail.jpg" width="600" alt="动作电影片尾演职员表序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3031)**
-
-**作者:** [fofr](https://x.com/fofrAI) | **来源:** [Link](https://x.com/fofrAI/status/2043667065668587928) | **发布时间:** Apr 13, 2026
-
----
-### 90 年代动漫拔剑放屁翻车现场
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个为 Seedance 2.0 设计的幽默视频提示词，描绘了一个 90 年代动漫风格的场景：角色试图拔出传说之剑，却在成功前发生了一场尴尬的意外。
-
-#### 📝 提示词
-
-```
-90 年代日本动漫风格。一名角色前来拔出传说之剑。他们摆好姿势，发表宏大的台词，拼尽全力大喊着拔剑，结果不小心放了一个屁，场面一度十分尴尬。镜头调度极佳，伴有风吹过的效果。接着他们又放了一个屁。随后陷入沉默，世界仿佛静止了一瞬，剑终于拔了出来，他们喊道：“耶！”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eda64a89d78e41d5da3b22b58a86fa05/thumbnails/thumbnail.jpg" width="600" alt="90 年代动漫拔剑放屁翻车现场">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3049)**
-
-**作者:** [ぽんず | AI映像](https://x.com/ponzponz15) | **来源:** [Link](https://x.com/ponzponz15/status/2043665983475433864) | **发布时间:** Apr 13, 2026
-
----
-### 中式点心店女孩角色
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 针对 Seedance 2.0 的详细角色描述，重点刻画特定的面部表情和肢体反应，以在 Q 版角色中营造出压迫感与恐惧感。
-
-#### 📝 提示词
-
-```
-主体：角色：一位年轻的中式点心店女孩，精致的 Q 版比例，五官细腻可爱但表情紧张，眉头微蹙，呼吸急促，带有明显的压迫感和一丝恐惧；短发微微外翘
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/56a93cf8ad82dae2e90368c303adddef/thumbnails/thumbnail.jpg" width="600" alt="中式点心店女孩角色">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3037)**
-
-**作者:** [Latte](https://x.com/0xbisc) | **来源:** [Link](https://x.com/0xbisc/status/2043653477952626820) | **发布时间:** Apr 13, 2026
-
----
-### 从日常生活到奇幻风格的商业广告提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一份全面的竖屏电视广告提示词，涵盖了真人实拍早晨日常与 2D 动画动作场景之间的转场，并以浪漫的夜晚场景作为结尾。
-
-#### 📝 提示词
-
-```
-在充满晨光的房间里，一个人滑稽地从床上跳起，睡眼惺忪地在洗手池边刷牙。在厨房被烤面包机吓了一跳后，他们迎着朝阳出门，空中浮现出“Good Morning”的字样。画面突然切换为 2D 动画风格，展现他们在城市中飞奔。回到真人实拍，他们以自信的姿态走进办公室。在昏暗的办公室里，他们疯狂敲击键盘，却对着错误界面感到绝望。再次转场至 2D 动画，他们与堆积如山的文件进行斗争。回到真人实拍，他们在戏剧性的红色聚光灯下，一脸得意地按下回车键。穿过灯火通明的公园回到家，他们感到如释重负。他们蜷缩在沙发上，最终躺进被窝。随着他们闭上双眼，房间变暗，“Good Night”的字样如星尘般消散。这是一个 15 秒的竖屏电视广告风格序列。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ad0a8daf184e4d4203b65132ece0092/thumbnails/thumbnail.jpg" width="600" alt="从日常生活到奇幻风格的商业广告提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3041)**
-
-**作者:** [空想写真家](https://x.com/KusoPhoto) | **来源:** [Link](https://x.com/KusoPhoto/status/2043645385135300726) | **发布时间:** Apr 13, 2026
-
----
-### 3D 卡通养蜂熊
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Seedance 2.0 设计的创意视频提示词，讲述了一只穿着养蜂服的熊在阿尔卑斯山与蜜蜂互动的场景。它利用 3D 卡通预设和特定的时间码动作来推动叙事。
-
-#### 📝 提示词
-
-```
-清晨的阳光。阿尔卑斯山。
-
-一只穿着养蜂服的熊掀开了蜂箱盖。
-
-[0-3s] 它向蜜蜂打招呼，“大家早上好”，“我是 Mike，我是你们的新产品经理”
-[6-9s] 蜜蜂们探出身子。它向前迈了一步
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b296ce400ca55fc6748ce06d67b9fc63/thumbnails/thumbnail.jpg" width="600" alt="3D 卡通养蜂熊">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3035)**
-
-**作者:** [ink404](https://x.com/sumi404_ai) | **来源:** [Link](https://x.com/sumi404_ai/status/2043634388286460102) | **发布时间:** Apr 13, 2026
-
----
-### 电影级男性商业广告 - 地铁场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是为 Seedance 2.0 制作的高端商业广告提示词的开场序列，重点展示了在混乱的地铁环境中，具有一致性特征的男性角色，并呈现出照片级的真实光影效果。
-
-#### 📝 提示词
-
-```
-一部高端电影级商业广告，全程由同一位男性角色出镜。照片级写实风格，4K 分辨率，浅景深，逼真的光影效果。
-
-0–2 秒：在拥挤、嘈杂的地铁中。混乱的环境，人群推搡移动。轻微的
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5e5095109bc9a98ab8c86c8201c214db/thumbnails/thumbnail.jpg" width="600" alt="电影级男性商业广告 - 地铁场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3211)**
-
-**作者:** [Pollo AI](https://x.com/itsPolloAI) | **来源:** [Link](https://x.com/itsPolloAI/status/2043632422437474562) | **发布时间:** Apr 13, 2026
-
----
-### 火星机甲格斗
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满动作感的提示词，描绘了一台敏捷的空中机甲降落在火星上，并对一台蜘蛛坦克施展毁灭性的武术打击。
-
-#### 📝 提示词
-
-```
-一台线条流畅、动作敏捷的空中机甲，尾部喷射着蓝色的光芒，从飞行状态平稳过渡，在尘土飞扬的红色火星战场上完成了一个极具张力的超级英雄式着陆。着陆瞬间，它无缝切换至近身格斗，向一台体型更大、外观方正的蜘蛛状敌方坦克施展了一记毁灭性的回旋踢。尘土激起巨大的云雾，阳光产生镜头光晕，宽银幕电影镜头突显了规模感与重量感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4457ee9ab26bf5ede2328bfdf3c755e/thumbnails/thumbnail.jpg" width="600" alt="火星机甲格斗">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3034)**
-
-**作者:** [Harboris](https://x.com/harboriis) | **来源:** [Link](https://x.com/harboriis/status/2043604006573133952) | **发布时间:** Apr 13, 2026
-
----
-### 第一人称视角：杭州用餐恶作剧
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Seedance 2.0 设计的详细第一人称视角视频提示词，包含角色互动以及在杭州西湖边对食物做出滑稽反应的场景。
-
-#### 📝 提示词
-
-```
-写实真人实拍，单镜头连续拍摄，全程第一人称 POV，无剪辑，无角度切换，无场景过渡，无蒙太奇，无闪切，无背景音乐，无字幕。仅包含两个角色：我（不可见的第一人称 POV）以及坐在我对面的 @ Image1。仅保留自然环境音：轻微的餐厅噪音、餐具声、远处的水声、微弱的人声、咀嚼声、吐痰声、漱口声以及我的笑声。
-
-场景：
-杭州西湖边的一张户外餐桌，靠近水边，平静的日光或柔和的午后光线。真实的手机拍摄质感，扎实的纹理，逼真的食物，真实的身体和手部动作，准确的筷子使用，准确的口型，准确的视线焦点。湖泊始终在画面一侧可见。
-
-角色：
-@ Image1 是唯一可见的人物。她可以在“微凶萌”和“软萌”之间无缝切换。口型同步、声音、表情和肢体语言保持完全一致。情感弧线：进食时欢快放松，随后感到震惊厌恶，最后是愤怒的尴尬。
-
-餐桌：
-桌上正好有 7 道菜。其中一道是 @ Image2 中展示的西湖醋鱼。@ Image1 正在愉快地吃米饭和其他菜肴，起初并未吃鱼。餐桌看起来很丰盛但布局清晰。在我要喂她之前，鱼这道菜始终清晰可见。
-
-镜头：
-整个视频均从我坐在桌对面的第一人称视角拍摄。我的手和筷子可能会自然地进入画面。仅有因呼吸和笑声引起的轻微手持晃动，绝不杂乱。没有第三人称镜头，没有反打镜头，没有俯拍镜头，没有切出画面。持续且可信的构图，画面中心为 @ Image1，并能看到部分湖景。
-
-动作：
-@ Image1 坐在我对面，愉快地从碗里吃饭，享受着除西湖醋鱼外的其他菜肴。她看起来明亮、俏皮、放松且可爱。
-
-从第一人称 POV 出发，我用筷子夹起一块鱼，慢慢伸向她。她立刻注意到了，出于信任，她身体前倾，开心地张开嘴，发出可爱的“啊呜”声吃下鱼肉。我轻轻地将筷子和手移出画面。
-
-她愉快地咀嚼了大约一秒钟，以为味道不错。随后味道袭来，她的表情瞬间转变为夸张但可信的厌恶。她的脸部转变为滑稽的“紫色厌恶”反应，同时保持写实的真人风格。她迅速转向湖边，伴随着连续的“呸、呸、呸”声将鱼吐出。从咀嚼到拒绝的动作快速、流畅且连续。
-
-在她开始吐出食物的瞬间，我以第一人称 POV 开始大笑，并在她整个反应过程中持续大笑。我的笑声听起来真实、愉悦且无法自控，来自镜头后方。镜头因笑声而轻微晃动。
-
-吐完后，@ Image1 厌恶地伸出舌头，立即抓起桌上的水。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/31fce9be3c01e3a8c88022accaf3b100/thumbnails/thumbnail.jpg" width="600" alt="第一人称视角：杭州用餐恶作剧">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3182)**
-
-**作者:** [Emily](https://x.com/IamEmily2050) | **来源:** [Link](https://x.com/IamEmily2050/status/2043601704734659070) | **发布时间:** Apr 13, 2026
-
----
-### 黑胶唱片到砂岩峡谷的转场
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的转场提示词，通过无缝的比例缩放，从唱机唱针的特写镜头平滑过渡到带有微缩人物的广阔沙漠景观。
-
-#### 📝 提示词
-
-```
-一只饱经风霜的手将唱机唱针放置在旋转的黑胶唱片上，温暖的金色光线，空气中漂浮着尘埃。镜头跟随唱针进入唱纹。唱纹扩展成广阔的砂岩峡谷。微缩的披风游牧民手持火把在其中穿行。唱针的阴影逐渐笼罩。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6485f8d6e038fc95e092212b1375438c/thumbnails/thumbnail.jpg" width="600" alt="黑胶唱片到砂岩峡谷的转场">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3036)**
-
-**作者:** [Yoni Attlan](https://x.com/Yoni_attlan) | **来源:** [Link](https://x.com/Yoni_attlan/status/2043596457970684239) | **发布时间:** Apr 13, 2026
-
----
-### 保时捷 911 GT3 RS 夜间街头竞速
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Seedance 2.0 设计的综合电影级视频提示词，旨在生成高速竞速场景。它包含了关于角色一致性、环境光效的详细说明，以及专业电影质感的逐镜头序列拆解。
-
-#### 📝 提示词
-
-```
-以保时捷 911 GT3 RS 为主角的电影级夜间街头竞速序列，由一名专注的女性车手驾驶（使用 Image1 作为面部参考）。在整个视频中，请务必保持与参考图像完全一致的面部特征。
-
-超写实视觉效果，车内与车外镜头之间过渡平滑。
-
-车手
-年轻女性车手，面部需与 Image1 完全匹配。面部在每一帧中都必须保持一致，不得出现变形或身份漂移。眼神犀利，表情沉着而富有攻击性，流露出一丝自信。仪表盘灯光与路过的街头霓虹灯自然地照亮了昏暗车厢内的面部。
-
-环境
-霓虹灯闪烁的密集城市夜景。湿润的沥青路面反射着粉色、蓝色和紫色的光芒。狭窄的高端城市街道、隧道以及玻璃建筑映照出飞驰的车辆。大气中的薄雾和轻微的路面水雾增强了真实感。
-
-镜头流动
-动态电影级运镜，镜头间无缝衔接：
-面部特写 → 肩部上方视角 → 微距细节 → 车外追踪 → 低机位地面视角。
-使用受控的快速平移、变速特效和自然的运动模糊，在强调速度感的同时保持主体清晰。
-
-序列
-0–2 秒
-女性车手面部的极致特写。双眼注视前方。一只手紧握方向盘。仪表盘的微光柔和地照亮她的脸庞。
-2–4 秒
-车内肩部上方视角，展现前方道路。随着车辆加速，霓虹灯的反射在挡风玻璃和她的脸上掠过。
-4–6 秒
-微距细节：她的手指按下驾驶模式选择器。快速切回她反应的眼神。发动机转速升高。
-6–8 秒
-车外侧面追踪镜头。保时捷 911 GT3 RS 强力起步，轮胎紧抓湿润的沥青路面。
-8–10 秒
-靠近车轮的低机位地面镜头。轮胎飞速旋转，倒影在湿润的道路上延伸。
-10–12 秒
-在狭窄的霓虹街道中高速穿行。在车外追逐镜头与车内专注面部特写之间进行快速电影级剪辑。
-
-视觉风格
-超写实电影级布光。车身和湿润路面上有强烈的霓虹反射。真实的车辆物理表现，精细的保时捷设计，自然的运动模糊以传达速度感。
-
-最终要求
-在所有帧中保持保时捷 911 GT3 RS 的外观一致，并确保面部身份与 Image1 稳定匹配。动作连贯流畅，无畸变，无面部变形，车辆设计无任何改变。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/14d12a116d2b7208a4a447803bbf3319/thumbnails/thumbnail.jpg" width="600" alt="保时捷 911 GT3 RS 夜间街头竞速">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3032)**
-
-**作者:** [Johnn](https://x.com/john_my07) | **来源:** [Link](https://x.com/john_my07/status/2043573765544808584) | **发布时间:** Apr 13, 2026
-
----
-### 冰雪公主变身战斗视频提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一段多镜头动作序列，从写实的战术风格开始，过渡到高饱和度的魔法奇幻风格。
-
-#### 📝 提示词
-
-```
-[镜头 1]
-- 时长：00:00 - 00:01
-- 镜头类型：广角转中景，手持追踪镜头
-- 摄像机运动：摄像机随角色向其走来而后退，速度适中，带有自然的手持呼吸感
-- 动作/表情：角色身穿休闲装，带着一只狗和道具枪。停下并摆出随意的准备姿势，神情放松且自信
-- 特效：顶部显示免责声明文字，自然光照明
-- 色调：冷灰色/白色，休闲且酷炫
-[镜头 2]
-- 时长：00:01 - 00:02
-- 镜头类型：中近景，固定镜头但带有手持感
-- 摄像机运动：固定，从镜头 1 快速剪辑以增强节奏感
-- 动作/表情：快速转身，专业地瞄准，眼神锐利专注，表情严肃
-- 特效：免责声明文字持续显示
-- 色调：延续冷色调，从休闲状态转变为紧张的战斗准备状态
-[镜头 3]
-- 时长：00:02 - 00:03
-- 镜头类型：特写，固定镜头
-- 摄像机运动：固定以营造射击前的紧张感
-- 动作/表情：聚焦于瞄准镜后的面部，双眼锁定目标，可见眨眼动作
-- 特效：免责声明文字持续显示
-- 色调：迷彩枪械与皮肤纹理之间的高对比度，紧张感达到极致
-[镜头 4]
-- 时长：00:03 - 00:04
-- 镜头类型：第一人称视角 (POV)，模拟瞄准镜变焦
-- 摄像机运动：快速推镜头以增强冲击力
-- 动作/表情：目标出现在瞄准镜中（变身后的主角身着蓝色礼服），神秘地微笑
-- 特效：瞄准镜 UI 叠加、暗角、数字变焦效果
-- 色调：从冷灰色转变为魔法蓝光，充满神秘与奇幻感
-[镜头 5]
-- 时长：00:04 - 00:09
-- 镜头类型：广角，略带低角度，缓慢拉镜头/平移
-- 摄像机运动：慢动作，营造宏大、时间静止的氛围
-- 动作/表情：完全变身为冰雪公主造型，手持水晶枪，悬浮在魔法空气中，神情骄傲而迷人
-- 特效：丰富的视觉特效 (VFX)、蓝色蝴蝶、漂浮粒子、魔法光效、慢动作
-- 色调：高饱和度的深蓝色与银色。从紧张感过渡到梦幻般、宏伟的女王气场。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/36577576d2adceb42e9b51f614ba1a29/thumbnails/thumbnail.jpg" width="600" alt="冰雪公主变身战斗视频提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3180)**
-
-**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2043545007718551683) | **发布时间:** Apr 13, 2026
-
----
-### 电影感冬季约会提示词
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个丰富且具描述性的提示词，用于生成浪漫的冬季场景，包含戴着猫耳连帽衫的角色在城市灯光下的画面，并附带详细的摄像机指令。
-
-#### 📝 提示词
-
-```
-一个 8K 高清电影感提示词。背景是冬季灯光璀璨的林荫大道，雪花纷飞，一位身穿红色猫耳连帽外套和黑色樱桃图案短裙的女性展现出迷人的姿态。通过超广角镜头的动态视角和流畅的运镜，她向镜头倾身，做出“娇俏可爱”的猫咪姿势并眨眼。毛绒的质感和美丽的背景虚化效果得到了细腻的刻画，最后以她调皮微笑、眼神向上流转的极致特写结束。一个充满流行感与浪漫气息的冬季场景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/932aa42b3d86bdb7eae04099afe2a34c/thumbnails/thumbnail.jpg" width="600" alt="电影感冬季约会提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3042)**
-
-**作者:** [空想写真家](https://x.com/KusoPhoto) | **来源:** [Link](https://x.com/KusoPhoto/status/2043524576244813853) | **发布时间:** Apr 13, 2026
-
----
-### 日本高中女生电影感序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Seedance 2.0 设计的多场景视频提示词，展示了一名女孩在厨房、出租车和机场航站楼等各种日常场景中的活动，并与 145 BPM 的节拍同步。
-
-#### 📝 提示词
-
-```
-格式：15 秒 / 145 BPM / 15 个节拍同步镜头 主体：日本美少女高中生。她拥有乌黑亮丽的秀发和可爱的面容。
-
-环境：公寓 → 浴室 → 厨房 → 出租车 → 机场航站楼 → 安检处 → 登机口 → 飞机
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8a22647e93a3f5367759ebd7fed5eead/thumbnails/thumbnail.jpg" width="600" alt="日本高中女生电影感序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3186)**
-
-**作者:** [eijo](https://x.com/eijo_AIart) | **来源:** [Link](https://x.com/eijo_AIart/status/2043502604886725035) | **发布时间:** Apr 13, 2026
-
----
-### 壮丽芭蕾与座头鲸提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Seedance 2.0 设计的高描述性提示词，描绘了一位芭蕾舞者在生物发光和飞鱼环绕中骑乘座头鲸破浪而出的场景。
-
-#### 📝 提示词
-
-```
-一段超写实、高强度的电影级视频。一头巨大的、布满藤壶的座头鲸从波涛汹涌的深蓝色海洋中猛然跃出，完成了一次宏大而扭曲的破浪，激起巨大的白色泡沫浪花直冲云霄。在鲸鱼背部的顶端，骑着一位身穿闪烁电光蓝芭蕾舞裙、充满竞技力量感的芭蕾舞者。她没有保持静止，而是借着鲸鱼向上的动能，在翻腾的深渊之上完成了一个壮观的、违背重力的凌空大跳（grand jeté）。突然，意想不到的转折发生了：当鲸鱼达到顶点时，破碎的水花猛然点亮了生物发光，一大群发光的霓虹粉色飞鱼从泡沫中喷涌而出，像箭一样在悬空的舞者周围穿梭。镜头放弃了缓慢的环绕，转为动感十足的快速甩镜头，追踪舞者穿过发光海浪的飞行轨迹，躲避飞鱼，随后在鲸鱼巨大的尾巴以毁灭性的力量拍击水面时，瞬间潜入水下。温暖的黄金时刻光线被地平线上突然划过的一道锯齿状紫色闪电戏剧性地刺破。音频包含震耳欲聋的碎浪轰鸣声、尖锐的雷鸣声、湿润翅膀混乱的拍打声，以及一段高昂、快节奏的管弦乐高潮，在镜头潜入水面之下时戛然而止。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/534693e94e4b4fde05289ba90ab859a2/thumbnails/thumbnail.jpg" width="600" alt="壮丽芭蕾与座头鲸提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3158)**
-
-**作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **来源:** [Link](https://x.com/IqraSaifiii/status/2043463569354998093) | **发布时间:** Apr 12, 2026
-
----
-### 吉卜力工作室风格动画场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的提示词，用于生成一部以吉卜力工作室电影艺术风格为特色的、关于老鼠角色的动画短片连续片段。
-
-#### 📝 提示词
-
-```
-你正在为一部名为“Pip's Adventure — Scene 1: The Threshold”的动画短片生成 9 个连续的视频片段。电影级质感，吉卜力工作室风格。这些片段构成了一个连续的故事——一只胆小的老鼠发现花园墙上有一道裂缝，并穿过裂缝走向未知。角色：Pip 是一只棕色的小田鼠，有着超大的耳朵、粉色的耳廓、白色的胸部斑块、大而深邃的眼睛以及粉色的鼻子。请在所有镜头中保持角色的一致性。全程采用黄金时刻的灯光效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f77dff5afef8fca72fa391fc06df17f/thumbnails/thumbnail.jpg" width="600" alt="吉卜力工作室风格动画场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3168)**
-
-**作者:** [Miku](https://x.com/miku_diffract) | **来源:** [Link](https://x.com/miku_diffract/status/2043456182434574753) | **发布时间:** Apr 12, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2717,6 +2757,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-18T05:57:12.461Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-18T09:13:57.018Z</sub>
 
 </div>
