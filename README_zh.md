@@ -361,415 +361,428 @@
 
 > 📝 按发布日期排序（最新优先）
 
-### Assassination Sequence Parametric Prompt
+### 暗杀序列参数化提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured parametric prompt for Seedance 2.0 involving an assassin and guards in a palace corridor, requiring a reference image for the main character.
+> 这是一个用于 Seedance 2.0 的结构化参数化提示词，场景设定为宫殿走廊中的刺客与守卫，需要提供主角的参考图像。
 
 #### 📝 提示词
 
 ```
-CHARACTERS:
-A: [ref_image] an assassin with a blade and fluid movement
-B: armored guards with shields and coordinated attacks
+角色：
+A: [ref_image] 一名手持利刃、动作流畅的刺客
+B: 持盾且协同攻击的重甲守卫
 
-ENVIRONMENT
-dimly lit palace corridor with pillars and polished stone floor
+环境
+光线昏暗的宫殿走廊，配有立柱和抛光石地板
 
-FIGHT PROFILE
-STYLE: elegant
-ENERGY: high
-WEAPONS: melee
-INTENT: assassination
+战斗配置
+风格：优雅
+能量：高
+武器：近战
+意图：暗杀
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c2c7267b1eff29f99d89470e88caafb/thumbnails/thumbnail.jpg" width="600" alt="Assassination Sequence Parametric Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0c2c7267b1eff29f99d89470e88caafb/thumbnails/thumbnail.jpg" width="600" alt="暗杀序列参数化提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3272)**
 
 **作者:** [Kōda](https://x.com/aimikoda) | **来源:** [Link](https://x.com/aimikoda/status/2044924236058255656) | **发布时间:** Apr 16, 2026
 
 ---
-### Complex Action Sequence with Transformations
+### 包含变换效果的复杂动作序列
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A highly detailed multi-phase video prompt for Seedance 2.0 that orchestrates character introductions, special effects, and cosmic transitions.
+> 这是一个为 Seedance 2.0 设计的高细节多阶段视频提示词，旨在编排角色登场、特效及宇宙级转场。
 
 #### 📝 提示词
 
 ```
-## Phase C (0.20s): Lantern Activation, Explosion, Panoramic View
-(0.07s) Instant cut to black. Fixed camera. Blackout where only human silhouettes are visible (silence before special move). A flower emblem (5 petals, red+gray, 40% width) appears in center, golden explosion light radiates in 8 directions. Vertical golden energy beam extends downward from emblem. Energy starts dispersing upward.
-(0.13s) Fixed camera (low angle). Lantern object displayed in center (hexagonal, red body with white emblem). Red light pillar extends to sky. Yellow/turquoise star particles. Pink-magenta clouds at bottom 30%. 2% zoom in.
-## Phase D (0.17s): Tilt Down, Character Manifestation
-(0.17s) Tilt down (60-80px/f). Moves from lantern top to medium close-up of faces in 5 frames. 3-person unit appears sequentially (waist -> torso -> face). Red glow recedes. Fog effect near waists. No zoom change.
-## Phase E (0.73s): Unit Intro, Charging Animation
-(0.27s) Fixed low angle. Gentle zoom (1-2px/f). Cool colors (navy base). 3 people in intro poses. Small movements (hands/neck). Golden shield pedestal recedes.
-(0.20s) Zoom continues. Transition to navy+purple. Yellow lightning effects on pedestal edge (3 to 6 bolts). Expressions turn combative.
-(0.26s) Rapid transition to purple->orange->red (Charge visualization). Close-up of faces (70% frame). Center character screams, side characters prepare attack. Color shift to red/orange complete.
-## Phase F (0.44s): Descending Attack, Landing Impact
-(0.24s) Instant cut to wide view. Ultra-fast zoom (10x in 8 frames). Characters in golden energy rings. Red speed lines. Light orb approaches rapidly. Lantern bottom covers 60% with motion blur, golden flames erupt (300px to 500px). Close-up on emblem. Giant fire fills bottom 40%, rainbow lens flare appears.
-(0.20s) Landing impact. Fixed camera (5-10px vibration). Golden fire fills bottom 50%, rainbow flare and chromatic aberration. Fire expands to 70%. 90%+ whiteout. Fire pillar (200px to 150px) through center, background turns purple-indigo.
-## Phase G (0.56s): Pillar Ascent, Cloud Breakthrough, Space Reach
-(0.16s) Tilt up + slight zoom out. Light pillar (100px to 60px) rises, rainbow stripes on sides. Pink-magenta sea of clouds. Pillar turns to rainbow trail. Screen fades to purple.
-(0.10s) Fixed camera. Purple fade clears to dark purple space. Pink-magenta clouds at bottom. Rainbow trail appears with light orb (40px) rising in an arc.
-(0.30s) Tilt up + slight zoom out. Light orb rises to space. Radial light rays (30px). Cross flare forms (100px horiz/80px vert). Reaches max size (300px/200px) with white core. Golden star particles float around.
-## Phase H (0.50s): Space Flight, Planet Collision
-(0.27s) Instant cut to wide space shot. Fixed camera. Stars scattered in dark purple/navy. Red giant planet bottom left, blue asteroid bottom right. Sun-like flare center left (500px). Flare shrinks. Comet shape (white core + orange/red tail) accelerates toward red planet (tail 100 to 200px).
-(0.23s) Slight zoom in. Silhouette visible in core. Comet approaches red planet atmosphere. Turquoise hexagonal frame with checkmark UI appears (glitch effect). Contact with planet rim light creates radial orange flares (6-8 lines).
+## C 阶段 (0.20s)：灯笼激活、爆炸、全景视图
+(0.07s) 瞬间切至黑屏。固定机位。黑屏中仅可见人物剪影（大招前的静默）。屏幕中心出现花朵徽章（5 片花瓣，红+灰色，占画面宽度 40%），金色爆炸光芒向 8 个方向辐射。垂直金色能量束从徽章向下延伸。能量开始向上方扩散。
+(0.13s) 固定机位（低角度）。灯笼物体显示在中心（六边形，红色主体配白色徽章）。红色光柱延伸至天空。黄色/青绿色星光粒子。底部 30% 为粉紫色云层。画面放大 2%。
+## D 阶段 (0.17s)：向下倾斜、角色显现
+(0.17s) 向下倾斜（60-80px/f）。在 5 帧内从灯笼顶部移动至面部的中景特写。3 人小组依次出现（腰部 -> 躯干 -> 面部）。红光消退。腰部附近有雾气效果。缩放比例不变。
+## E 阶段 (0.73s)：小队介绍、蓄力动画
+(0.27s) 固定低角度。缓慢缩放（1-2px/f）。冷色调（海军蓝基底）。3 人处于登场姿势。细微动作（手部/颈部）。金色盾牌底座后退。
+(0.20s) 继续缩放。转场至海军蓝+紫色。底座边缘出现黄色闪电特效（3 到 6 道）。表情转为战斗状态。
+(0.26s) 快速转场至紫色->橙色->红色（蓄力可视化）。面部特写（占画面 70%）。中心角色呐喊，两侧角色准备攻击。色调完全转为红/橙色。
+## F 阶段 (0.44s)：下落攻击、着陆冲击
+(0.24s) 瞬间切至广角。超快速缩放（8 帧内放大 10 倍）。角色处于金色能量环中。红色速度线。光球快速逼近。灯笼底部覆盖 60% 画面并带有动态模糊，金色火焰喷发（300px 至 500px）。徽章特写。巨大火焰填满底部 40%，出现彩虹色镜头光晕。
+(0.20s) 着陆冲击。固定机位（5-10px 震动）。金色火焰填满底部 50%，出现彩虹光晕和色差效果。火焰扩展至 70%。90% 以上画面白屏。光柱（200px 至 150px）穿过中心，背景变为紫靛色。
+## G 阶段 (0.56s)：光柱上升、穿云、抵达太空
+(0.16s) 向上倾斜 + 轻微缩小。光柱（100px 至 60px）上升，两侧带有彩虹条纹。粉紫色云海。光柱变为彩虹轨迹。画面淡出至紫色。
+(0.10s) 固定机位。紫色淡出后显现深紫色太空。底部有粉紫色云层。彩虹轨迹出现，光球（40px）呈弧线升起。
+(0.30s) 向上倾斜 + 轻微缩小。光球升至太空。径向光线（30px）。形成十字光晕（水平 100px/垂直 80px）。达到最大尺寸（300px/200px），核心为白色。金色星光粒子漂浮在周围。
+## H 阶段 (0.50s)：太空飞行、行星碰撞
+(0.27s) 瞬间切至广角太空镜头。固定机位。深紫色/海军蓝背景中散布着星星。左下角为红色巨行星，右下角为蓝色小行星。左侧中心有类似太阳的耀斑（500px）。耀斑缩小。彗星形状（白色核心 + 橙/红色尾迹）向红色行星加速（尾迹从 100px 延伸至 200px）。
+(0.23s) 轻微放大。核心处可见剪影。彗星接近红色行星大气层。出现带有勾选标记的青绿色六边形 UI（故障效果）。与行星边缘光接触产生径向橙色耀斑（6-8 条）。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/915203500649dbc28ed548255287a385/thumbnails/thumbnail.jpg" width="600" alt="Complex Action Sequence with Transformations">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/915203500649dbc28ed548255287a385/thumbnails/thumbnail.jpg" width="600" alt="包含变换效果的复杂动作序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3285)**
 
 **作者:** [ShadeLurk](https://x.com/ShadeLurk) | **来源:** [Link](https://x.com/ShadeLurk/status/2044898331323986358) | **发布时间:** Apr 16, 2026
 
 ---
-### Tokyo Café Barista Latte Art Close-up
+### 东京咖啡馆咖啡师拉花特写
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed close-up prompt of a Tokyo barista pouring steamed milk into coffee, emphasizing realistic textures, reflections, and cinematic lighting.
+> 一个关于东京咖啡师将热牛奶倒入咖啡的高细节特写提示词，强调逼真的质感、反射效果和电影级光影。
 
 #### 📝 提示词
 
 ```
-A barista in a small Tokyo café pours steamed milk into a dark espresso from 15cm height in one continuous motion. Milk stream hitting crema, creating a rosetta pattern, steam rising and curling in cold morning air, condensation on the ceramic cup, the barista's hand steady with visible tendons, apron fabric shifting, reflection of neon sign in the glass counter behind. Shallow focus pulls from the pour to the barista's concentrated eyes. Shot on Sony Venice, anamorphic lens, 4K, natural window light mixed with warm tungsten. Hyperrealistic, every droplet physically accurate.
+一位东京小咖啡馆的咖啡师从 15 厘米的高度一气呵成地将热牛奶倒入浓缩咖啡中。牛奶流冲击着咖啡油脂，形成拉花图案，蒸汽在清晨的冷空气中升腾缭绕，陶瓷杯上凝结着水珠，咖啡师的手稳健且青筋可见，围裙布料随动作起伏，身后的玻璃柜台映出霓虹灯的倒影。浅景深从倾倒的动作转移到咖啡师专注的眼神上。使用 Sony Venice 拍摄，变形镜头，4K 分辨率，自然窗光与温暖的钨丝灯光混合。超写实风格，每一滴水珠都符合物理真实。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73d43bf2daa6b013322a1ce294a2c29b/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Café Barista Latte Art Close-up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/73d43bf2daa6b013322a1ce294a2c29b/thumbnails/thumbnail.jpg" width="600" alt="东京咖啡馆咖啡师拉花特写">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3278)**
 
 **作者:** [AIM (ШІманія)](https://x.com/AImaniaChannel) | **来源:** [Link](https://x.com/AImaniaChannel/status/2044846721151443181) | **发布时间:** Apr 16, 2026
 
 ---
-### Plot to Megacity Construction Timelapse
+### 从空地到超级城市建设延时摄影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A timelapse prompt starting from an empty plot of land and showing the rapid vertical growth of a megacity, including construction phases and seasonal/day-night cycles.
+> 一个从空地开始的延时摄影提示词，展示了超级城市快速垂直生长的过程，包含施工阶段以及季节和昼夜交替循环。
 
 #### 📝 提示词
 
 ```
-Cinematic timelapse sequence, 16:9, 15 seconds. Opens with a wide aerial shot looking down at a completely empty flat plot of land — dirt, nothing around it, golden morning light. Time begins accelerating. Foundation crews arrive, concrete is poured, steel frames rise from the ground. Roads begin forming outward in every direction. Buildings grow upward at timelapse speed — first small structures, then mid-rise, then massive gleaming skyscrapers shooting upward around the original plot. Construction cranes everywhere, scaffolding appearing and disappearing. The city fills in — roads packed with traffic, bridges appearing over rivers, neighborhoods expanding to the horizon. Day and night cycle rapidly — golden days, vivid blue skies, then nights with thousands of city lights glowing, neon signs flickering on, headlights streaming through streets like rivers of light. Seasons shift — summer heat haze, autumn colors, winter snow dusting the rooftops, spring green returning. Final shot pulls back wide revealing a full glittering megacity stretching to every horizon, lights blazing, alive. Camera locked on the original empty plot the entire time — now buried deep in the heart of the city. Photorealistic, IMAX cinematic quality, ultra sharp, vivid colors throughout, dramatic lighting at every stage, epic scale, smooth continuous timelapse motion from first frame to last.
+电影级延时摄影序列，16:9，15 秒。开场为广角航拍镜头，俯瞰一片完全空旷的平坦土地——泥土覆盖，周围空无一物，沐浴在金色的晨光中。时间开始加速。地基施工队进场，混凝土浇筑，钢架拔地而起。道路开始向四面八方延伸。建筑物以延时速度向上生长——先是小型建筑，接着是中层建筑，随后巨大的闪亮摩天大楼在原址周围拔地而起。到处都是施工起重机，脚手架不断出现又消失。城市逐渐填满——道路上车水马龙，河流上架起桥梁，街区向地平线扩张。昼夜快速交替——金色的白昼，湛蓝的天空，随后是夜晚，成千上万的城市灯火闪烁，霓虹灯亮起，车灯如光之河流般穿梭在街道上。季节更替——夏季的热浪，秋天的色彩，冬季覆盖屋顶的积雪，春天的绿意回归。最终镜头拉远，展现出一座延伸至地平线、灯火辉煌、充满活力的超级城市。摄像机始终锁定在最初的空地上——如今它已深埋在城市中心。照片级真实感，IMAX 电影画质，超清晰，色彩鲜艳，每个阶段都有戏剧性的光影效果，宏大的规模，从第一帧到最后一帧平滑连续的延时运动。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3e207fe35b9804bf23e9a74b51bba8/thumbnails/thumbnail.jpg" width="600" alt="Plot to Megacity Construction Timelapse">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3e3e207fe35b9804bf23e9a74b51bba8/thumbnails/thumbnail.jpg" width="600" alt="从空地到超级城市建设延时摄影">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3275)**
 
 **作者:** [Changning Liu](https://x.com/ChangningL29508) | **来源:** [Link](https://x.com/ChangningL29508/status/2044842636956307509) | **发布时间:** Apr 16, 2026
 
 ---
-### Mother's Day Atmosphere Video Prompt
+### 母亲节氛围视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured prompt for Seedance 2.0 designed to create a continuous camera move through a sunrise garden setting.
+> 为 Seedance 2.0 设计的结构化提示词，旨在创作一段在日出花园场景中连续运镜的视频。
 
 #### 📝 提示词
 
 ```
-FORMAT: 15s / single continuous impossible camera move / no dialogue
+格式：15 秒 / 单一连续的非现实运镜 / 无对白
 
-STYLE: Early morning Mother’s Day atmosphere, soft golden sunrise, warm pastel tones, gentle natural light bloom, cozy suburban garden, cinematic depth of field, photorealistic 8K
+风格：清晨母亲节氛围，柔和的金色日出，温暖的柔和色调，温润的自然光晕，舒适的郊区花园，电影级景深，照片级真实感 8K
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f19e3bec6fe03b927c38efce132e9ff6/thumbnails/thumbnail.jpg" width="600" alt="Mother's Day Atmosphere Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f19e3bec6fe03b927c38efce132e9ff6/thumbnails/thumbnail.jpg" width="600" alt="母亲节氛围视频提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3270)**
 
 **作者:** [Alif Hossain](https://x.com/alifcoder) | **来源:** [Link](https://x.com/alifcoder/status/2044807378315641060) | **发布时间:** Apr 16, 2026
 
 ---
-### Taekwondo Cat Rooftop Chase
+### 跆拳道猫屋顶追逐战
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An action-comedy animation prompt featuring a sleepy orange cat in a taekwondo uniform who is chased across rooftops by a black cat master, with stylized motion and a single-take feel.
+> 一个动作喜剧动画提示词，讲述了一只穿着跆拳道服的瞌睡橘猫被黑猫大师在屋顶追逐的故事，具有风格化的动作和一镜到底的质感。
 
 #### 📝 提示词
 
 ```
-A sleepy orange cat in a crisp white taekwondo uniform dozes off in the middle of a disciplined dojo within the first two seconds, while rows of other cats practice punches with perfect focus, instantly creating a humorous hook, and the scene snaps into motion as a stern black cat master in a gray Taoist robe storms in and scolds him before grabbing a fly swatter and charging forward, turning the cartoon into a fast, one-take action-comedy chase that never cuts, flowing seamlessly from the dojo as the orange cat jolts awake and bolts toward the window, leaping out in panic as the master swings wildly behind him, transitioning onto tightly packed rooftops lined with hanging laundry fluttering in the wind, where the orange cat crashes through rows of clothes and suddenly pops out from behind them, startling a white cat in a pink dress who is calmly hanging laundry, causing her to gasp and lean backward mid-fall before the orange cat instinctively catches her and pulls her upright in one smooth motion, pausing just long enough to wink his left eye at her with playful charm before dashing off again as the black cat master bursts through the laundry lines in hot pursuit, the chase accelerating across rooftops with dynamic parkour leaps and sliding footwork before the orange cat dives down into a bustling marketplace below filled with animals, colorful stalls, and chaotic movement, where he quickly spots a rabbit hat vendor’s stand, grabs a wide conical hat to hide his face, then snatches a black leather jacket from a passing rabbit and throws it on in one fluid motion, blending instantly into the moving crowd and disappearing from sight just as the exhausted black cat master arrives moments later, panting heavily and scanning the area in frustration but unable to find him, and the entire sequence ends with the master facing the camera with a helpless sigh, all rendered in vibrant stylized animation with exaggerated motion, continuous camera flow, playful timing, and a strong emphasis on the uninterrupted single-take escape.
+一只穿着干练白色跆拳道服的瞌睡橘猫在最初的两秒钟内于纪律严明的道场中打瞌睡，而其他猫咪正全神贯注地练习出拳，瞬间营造出幽默的开场。随后场景迅速切换，一位身穿灰色道袍、神情严厉的黑猫大师冲进来训斥它，接着拿起苍蝇拍向前冲去，将动画变成了一场节奏极快、从不剪辑的一镜到底动作喜剧追逐戏。画面流畅地从道场过渡，橘猫惊醒并冲向窗户，在恐慌中跳了出去，而大师在身后疯狂挥舞。场景转至挂满随风飘动衣物的密集屋顶，橘猫撞穿一排排衣物后突然现身，惊吓到了正在从容晾衣、身穿粉色连衣裙的白猫，导致她惊呼并向后倾倒，橘猫本能地接住她并顺势将她拉正，在再次奔跑前，它俏皮地眨了眨左眼。黑猫大师冲破晾衣绳紧追不舍，追逐战在屋顶上加速，伴随着动态的跑酷跳跃和滑步，随后橘猫俯冲进下方挤满动物、色彩斑斓的摊位和混乱人流的繁华市场。它迅速发现了一个兔子帽摊位，抓起一顶宽大的斗笠遮住脸，接着从一只路过的兔子身上抢走一件黑色皮夹克并顺势穿上，瞬间融入移动的人群并消失在视野中。就在精疲力竭的黑猫大师赶到、气喘吁吁地扫视四周却一无所获时，整个序列以大师面对镜头无奈叹气结束。全片采用充满活力的风格化动画渲染，强调夸张的动作、连续的镜头流动、俏皮的节奏感以及不间断的一镜到底逃脱过程。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3ca6e4ca18c76aeacf2c53df32407c2/thumbnails/thumbnail.jpg" width="600" alt="Taekwondo Cat Rooftop Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f3ca6e4ca18c76aeacf2c53df32407c2/thumbnails/thumbnail.jpg" width="600" alt="跆拳道猫屋顶追逐战">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3274)**
 
 **作者:** [Al-Shamus](https://x.com/im_shahid7) | **来源:** [Link](https://x.com/im_shahid7/status/2044794456768151991) | **发布时间:** Apr 16, 2026
 
 ---
-### Ancient Indian Kingdom FPV
+### 古印度王国 FPV
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An immersive FPV flying prompt through the ancient Indian Matsya kingdom featuring historical architecture and bustling life.
+> 一段沉浸式的 FPV 飞行提示词，带你穿越古印度摩蹉国（Matsya Kingdom），领略历史建筑与繁华生活。
 
 #### 📝 提示词
 
 ```
-extremely fast-paced cinematic FPV flying through the ancient Indian Matsya Kingdom at sunrise, hyper-realistic, detailed sandstone palaces, grand forts, bustling markets, warriors in traditional armor, royal processions, temples with intricate carvings, flowing rivers and lush greenery, dynamic camera movements with rapid dives, sharp turns, epic scale, atmospheric depth, volumetric lighting, motion blur, high contrast, dramatic shadows, 8K realism, immersive storytelling, historical accuracy, cinematic color grading, intense energy, seamless continuous flight, breathtaking visuals
+极快节奏的电影级 FPV 飞行，日出时分穿越古印度摩蹉国，超写实，细节丰富的砂岩宫殿，宏伟的堡垒，熙熙攘攘的集市，身着传统盔甲的战士，皇家游行，雕刻精美的寺庙，流淌的河流与郁郁葱葱的植被，动态摄像机运动，包含快速俯冲、急转弯，史诗级规模，大气深度，体积光，运动模糊，高对比度，戏剧性阴影，8K 写实感，沉浸式叙事，历史准确性，电影级调色，强烈的能量感，无缝连续飞行，令人叹为观止的视觉效果
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f0e9ccd6505346b7ac7afd815a3d1e4/thumbnails/thumbnail.jpg" width="600" alt="Ancient Indian Kingdom FPV">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f0e9ccd6505346b7ac7afd815a3d1e4/thumbnails/thumbnail.jpg" width="600" alt="古印度王国 FPV">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3267)**
 
 **作者:** [Shushant Lakhyani](https://x.com/shushant_l) | **来源:** [Link](https://x.com/shushant_l/status/2044793134576775193) | **发布时间:** Apr 16, 2026
 
 ---
-### Graphite to Carbon Fiber Transformation
+### 从石墨到碳纤维的蜕变
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative transformation prompt for Seedance 2.0 that visualizes a pencil sketch turning into a 3D carbon fiber model with realistic physics and camera movement.
+> 这是一个为 Seedance 2.0 设计的创意转换提示词，旨在将铅笔素描可视化为具有真实物理效果和摄像机运动的 3D 碳纤维模型。
 
 #### 📝 提示词
 
 ```
-pencil sketch fades as 3d geometry rises eraser marks vanish, leaving real heat haze camera arcs from 2d lines to glossy finish
+铅笔素描逐渐淡去，3D 几何结构随之升起，橡皮擦痕迹消失，留下真实的热浪，摄像机从 2D 线条平滑过渡到光泽质感表面
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c28da1968a8a11fe5e646ed4b7fb7ca/thumbnails/thumbnail.jpg" width="600" alt="Graphite to Carbon Fiber Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c28da1968a8a11fe5e646ed4b7fb7ca/thumbnails/thumbnail.jpg" width="600" alt="从石墨到碳纤维的蜕变">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3277)**
 
 **作者:** [Far](https://x.com/FarAICoder) | **来源:** [Link](https://x.com/FarAICoder/status/2044777467903099316) | **发布时间:** Apr 16, 2026
 
 ---
-### Seedance 2.0 Beat-Synced Lifestyle Video Prompt
+### Seedance 2.0 节拍同步生活方式视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured video generation prompt for a 15-second beat-synced routine, transitioning between indoor lounge wear and outdoor professional attire across diverse environments like a metro station and a hallway.
+> 一个结构化的视频生成提示词，用于制作 15 秒的节拍同步短片，展示从居家休闲服到户外职业装的切换，场景涵盖地铁站和走廊等多种环境。
 
 #### 📝 提示词
 
 ```
-FORMAT: 15s / 145 BPM / 15 SHOTS / beat-synced routine\n\nSUBJECT: [@image1]\nWARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.\nENVIRONMENT: Tiny apartment, bright fridge glow, rain-dusted hallway, chrome metro, clean
+格式：15 秒 / 145 BPM / 15 个镜头 / 节拍同步短片
+
+主体：[@image1]
+服装：居家时穿着睡衣 T 恤和休闲短裤。户外穿着剪裁利落的夹克、修身上衣、长裤和系带皮鞋。
+环境：狭小的公寓、明亮的冰箱冷光、布满雨水的走廊、金属质感的地铁、整洁
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f03cccb7b0e4b2ccb2de8ccaf1f10fba/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Beat-Synced Lifestyle Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f03cccb7b0e4b2ccb2de8ccaf1f10fba/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 节拍同步生活方式视频提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3281)**
 
 **作者:** [James Begera](https://x.com/WA007) | **来源:** [Link](https://x.com/WA007/status/2044776852858794417) | **发布时间:** Apr 16, 2026
 
 ---
-### Rotating Sneaker Ad Sequence
+### 旋转运动鞋广告序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional product advertisement prompt for a pair of running shoes rotating in a studio, intended for high-quality video generation.
+> 一个专业的运动鞋产品广告提示词，旨在生成高质量的演播室旋转跑鞋视频。
 
 #### 📝 提示词
 
 ```
-An ad for a pair of running shoes, the sneakers are rotating on a pedestal in a dark studio while a mountain trail scene is projected onto them. Top-notch ad sound effects, No Monologue
+一个跑鞋广告，运动鞋在黑暗演播室的底座上旋转，同时将山间小径的场景投影在鞋身上。顶级广告音效，无独白
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/daf24125302b5a964bfc8f82af875418/thumbnails/thumbnail.jpg" width="600" alt="Rotating Sneaker Ad Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/daf24125302b5a964bfc8f82af875418/thumbnails/thumbnail.jpg" width="600" alt="旋转运动鞋广告序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3268)**
 
 **作者:** [Johnny Wang](https://x.com/JohnnyWang8802) | **来源:** [Link](https://x.com/JohnnyWang8802/status/2044732723122892884) | **发布时间:** Apr 16, 2026
 
 ---
-### Futuristic Alien Marketplace Prompt
+### 未来外星集市提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed structured prompt for a video scene involving a neon-lit alien market with specific merchant and robot actions.
+> 一份详细的结构化视频场景提示词，包含霓虹灯闪烁的外星集市以及特定的商贩和机器人动作。
 
 #### 📝 提示词
 
 ```
-[Scene] A busy futuristic alien marketplace with neon lights, holograms, and glowing plants.
-[Subject] Alien merchants selling glowing Alien food, robots moving through crowds.
-[Action] Trading and movement, robot carrying floating items passes, fruit sliced
+[场景] 一个繁忙的未来外星集市，充满霓虹灯、全息投影和发光植物。
+[主体] 售卖发光外星食物的外星商贩，在人群中穿梭的机器人。
+[动作] 交易与移动，携带悬浮物品的机器人经过，水果被切开
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19e1e159aaaf88e93e30175fa7c8821a/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Alien Marketplace Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19e1e159aaaf88e93e30175fa7c8821a/thumbnails/thumbnail.jpg" width="600" alt="未来外星集市提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3279)**
 
 **作者:** [Pollo AI](https://x.com/itsPolloAI) | **来源:** [Link](https://x.com/itsPolloAI/status/2044714907879505961) | **发布时间:** Apr 16, 2026
 
 ---
-### Stone Colossus Action Sequence
+### 石像巨人动作序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy, 15-second cinematic action prompt for Seedance 2.0 featuring a desert chase and a giant stone colossus.
+> 一段为 Seedance 2.0 设计的 15 秒高能电影级动作提示词，包含沙漠追逐和巨大石像巨人场景。
 
 #### 📝 提示词
 
 ```
-A 15-second cinematic action sequence that starts instantly with an epic ultra-wide shot of a gigantic stone colossus striding through a storm-covered desert while tiny riders race across the dunes below at full speed. The camera is already moving fast from the first frame, sweeping low and aggressive past shattered pillars and exploding sand. At 7 seconds enter dramatic slow motion as one rider launches off a dune and rides vertically across the colossus arm while pieces of ancient armor crack open and golden fire spills out from inside. Then snap back to full speed as the camera dives toward the monster’s face, where its eyes open to reveal an entire glowing city hidden within its skull.
+一段 15 秒的电影级动作序列，开场即呈现史诗般的超广角镜头：一个巨大的石像巨人正穿过风暴笼罩的沙漠，下方微小的骑手们在沙丘上全速驰骋。镜头从第一帧起就保持高速运动，以低角度且极具冲击力的方式掠过破碎的石柱和炸裂的沙尘。第 7 秒进入戏剧性的慢动作，一名骑手从沙丘上一跃而起，垂直冲上巨人的手臂，与此同时，古老的盔甲碎裂开来，金色的火焰从中喷涌而出。随后镜头瞬间恢复全速，俯冲向怪物的面部，其双眼睁开，露出隐藏在头骨内的一整座发光城市。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3dc1a3087474ee68b488d2990434082/thumbnails/thumbnail.jpg" width="600" alt="Stone Colossus Action Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3dc1a3087474ee68b488d2990434082/thumbnails/thumbnail.jpg" width="600" alt="石像巨人动作序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3273)**
 
 **作者:** [Al-Shamus](https://x.com/im_shahid7) | **来源:** [Link](https://x.com/im_shahid7/status/2044653299639652745) | **发布时间:** Apr 16, 2026
 
 ---
-### Coastal City Evolution 10,000-Year Timelapse
+### 沿海城市 10,000 年演变延时摄影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An ambitious timelapse video prompt depicting a coastal city's evolution through human history and into a sci-fi future in a single continuous forward dolly shot.
+> 一个雄心勃勃的延时摄影视频提示词，通过一个连续的向前推轨镜头，描绘了一座沿海城市从人类历史演变到科幻未来的过程。
 
 #### 📝 提示词
 
 ```
-[CINEMATIC SETUP]  Film Style: Photorealistic 8K, 65mm IMAX. One continuous forward dolly — no cuts. The camera glides steadily forward at chest height, as if walking through time, while the coastal landscape and city evolve dramatically around it over 10,000 years.  Lens: 24mm wide-angle, shallow horizon line with subtle sea mist and horizon glow.  Color Grade: Soft dawn blues to warm earth tones to fiery sunset oranges to cool neon cyans to sterile white-silver, each era bleeding smoothly into the next.  Lighting: Natural daylight shifting to torchlight, gaslight, electric grids, holographic glow, and finally starlight — the illumination evolves with human progress.  Camera: Constant slow forward dolly movement. No lateral pans, no tilts. Seamless transitions through shared elements: shoreline becomes harbor becomes docks becomes launch platforms.  [TIMELINE — CONTINUOUS FORWARD DOLLY]  0-2s: PREHISTORIC SETTLEMENT. Glide forward along a wild rocky coastline at dawn. Simple thatched huts and stone circles assemble from scattered boulders and driftwood. Small fishing boats carve from logs on the beach. Early humans tend fires as smoke rises; shellfish mounds grow beside the path.  2-4s: ANCIENT PORT. The shoreline hardens into wooden piers. Mud huts transform into whitewashed stone buildings with red-tiled roofs. A bustling ancient harbor forms with wooden sailing ships docking. Marble columns rise on both sides. Olive groves and vineyards bloom rapidly along the advancing path.  4-6s: MEDIEVAL TRADE CITY. Stone walls and wooden structures give way to fortified castles and Gothic cathedrals. Cobblestone streets lay themselves underfoot. Markets assemble with colorful tents and horse-drawn carts. A grand harbor expands with larger galleons; cranes hoist cargo as the camera passes through sea spray and lantern light.  6-8s: INDUSTRIAL HARBOR. Cobblestones become paved roads. Brick factories and iron bridges replace medieval spires. Steamships and early railways emerge along the waterfront. Smokestacks rise, billowing dark plumes that fade into the next era. Warehouses and cranes multiply on both sides.  8-10s: MODERN METROPOLIS. Industrial grit transforms into sleek concrete and steel. Skyscrapers shoot upward in glass and chrome. Multi-lane highways and suspension bridges span the harbor. Cars and trains streak by with motion blur. Neon signs and digital billboards ignite sequentially as the city pulses with energy.  10-13s: NEAR-FUTURE MEGACITY. Glass towers evolve into towering arcologies with vertical gardens and glowing energy shields. Flying vehicles and maglev pods weave overhead. Holographic advertisements float in the air. The harbor fills with autonomous ships and floating platforms. Bioluminescent lights and drone swarms illuminate the scene.  13-15s: SPACE COLONY LAUNCH. The dense cityscape parts to reveal vast launch complexes on reclaimed land. Massive orbital elevators and starships stand ready.
+[电影级设置] 影片风格：照片级真实感 8K，65mm IMAX。一个连续的向前推轨镜头——无剪辑。摄像机在胸部高度平稳地向前滑行，仿佛穿梭于时间之中，同时沿海景观和城市在 10,000 年间发生剧烈演变。镜头：24mm 广角，浅地平线，带有微妙的海雾和地平线光晕。调色：从柔和的黎明蓝到温暖的泥土色，再到火热的日落橙，接着是冷峻的霓虹青，最后是纯净的银白色，每个时代都平滑过渡到下一个时代。灯光：自然日光转变为火把光、煤气灯、电网、全息光，最后是星光——照明随着人类进步而演变。摄像机：持续缓慢的向前推轨运动。无横向平移，无俯仰。通过共享元素实现无缝过渡：海岸线变为港口，变为码头，再变为发射平台。
+
+[时间轴 — 连续向前推轨]
+0-2 秒：史前聚落。在黎明时分沿着原始的岩石海岸线向前滑行。简单的茅草屋和石圈由散落的巨石和浮木搭建而成。海滩上有用原木雕刻的小渔船。早期人类在火堆旁忙碌，烟雾升起；路径旁堆积着贝壳堆。
+2-4 秒：古代港口。海岸线硬化为木质码头。泥屋转变为带有红瓦屋顶的粉刷石建筑。一个繁华的古代港口形成，木制帆船在此停靠。大理石柱在两侧升起。橄榄树林和葡萄园沿着前进的路径迅速绽放。
+4-6 秒：中世纪贸易城市。石墙和木结构建筑让位于坚固的城堡和哥特式大教堂。鹅卵石街道在脚下铺就。市场由色彩鲜艳的帐篷和马车组成。一个宏伟的港口随着大型帆船的到来而扩张；当摄像机穿过海浪和灯笼光时，起重机正在吊装货物。
+6-8 秒：工业港口。鹅卵石变成了柏油路。砖砌工厂和铁桥取代了中世纪的尖塔。蒸汽船和早期铁路沿着水岸出现。烟囱耸立，冒出的浓烟逐渐消散并过渡到下一个时代。仓库和起重机在两侧不断增加。
+8-10 秒：现代大都市。工业的粗犷转变为光滑的混凝土和钢材。摩天大楼在玻璃和铬合金中拔地而起。多车道高速公路和悬索桥横跨港口。汽车和火车带着动态模糊呼啸而过。随着城市脉动，霓虹灯和数字广告牌依次点亮。
+10-13 秒：近未来超级城市。玻璃塔演变为带有垂直花园和发光能量护盾的巨型建筑。飞行载具和磁悬浮舱在头顶穿梭。全息广告漂浮在空中。港口挤满了自动驾驶船舶和浮动平台。生物发光灯和无人机群照亮了场景。
+13-15 秒：太空殖民地发射。密集的城市景观向两侧分开，露出填海造陆后的巨大发射综合体。巨大的轨道电梯和星际飞船蓄势待发。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0421aaeb584b248cef34b2757ad45eb4/thumbnails/thumbnail.jpg" width="600" alt="Coastal City Evolution 10,000-Year Timelapse">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0421aaeb584b248cef34b2757ad45eb4/thumbnails/thumbnail.jpg" width="600" alt="沿海城市 10,000 年演变延时摄影">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3276)**
 
 **作者:** [Changning Liu](https://x.com/ChangningL29508) | **来源:** [Link](https://x.com/ChangningL29508/status/2044633980763607473) | **发布时间:** Apr 16, 2026
 
 ---
-### Nostalgic Dream Meadow Sequence
+### 怀旧梦境草甸序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic and highly descriptive prompt for a surreal cinematic video featuring a young girl, memory echoes, and seasonal transitions in a golden meadow.
+> 一段富有诗意且极具描述性的提示词，用于创作一部超现实电影感视频，展现小女孩、记忆回响以及金色草甸上的季节更迭。
 
 #### 📝 提示词
 
 ```
-15-second cinematic video, vertical 9:16. A surreal golden meadow at sunset. A young girl (8–10 years old) standing barefoot in tall glowing grass. Liquid sunlight rays flow and bend around her like soft ribbons.
+15 秒电影感视频，竖屏 9:16。日落时分的超现实金色草甸。一位小女孩（8–10 岁）赤脚站在高耸发光的草丛中。液态阳光如柔软的丝带般在她身边流动并弯曲。
 
-Translucent memory echoes of the same girl appear around her — laughing, running, fading into glowing particles. Character face remains consistent, no morphing.
+她周围浮现出女孩本人半透明的记忆回响——欢笑、奔跑，随后消散成发光的微粒。角色面部保持一致，无变形。
 
-The environment blends two seasons in one frame — left side full of blooming spring flowers, right side with drifting autumn leaves moving gently in the wind.
+环境在同一画面中融合了两个季节——左侧盛开着春花，右侧飘落的秋叶在风中轻柔舞动。
 
-Camera: slow cinematic dolly-in, subtle handheld micro movement, shallow depth of field, smooth focus transitions, soft lens bloom, volumetric god rays, cinematic motion blur.
+摄像机：缓慢的电影感推镜头，微妙的手持微动，浅景深，平滑的焦点转换，柔和的镜头光晕，体积感耶稣光，电影级动态模糊。
 
-Style: nostalgic anime realism, ultra-detailed, soft film grain, 4K quality.
+风格：怀旧动漫写实风，超精细，柔和胶片颗粒，4K 画质。
 
-Color grading: warm golden tones, pastel pink highlights, deep blue shadows.
+调色：温暖的金色调，柔和的粉色高光，深邃的蓝色阴影。
 
-Lighting: soft natural sunset light with glowing edges and dreamy haze.
+光影：柔和的自然日落光，带有发光的边缘和梦幻般的薄雾。
 
-Audio: soft wind ambience, distant echoing laughter, light chimes, immersive spatial sound.
+音频：轻柔的风声氛围，远处回荡的笑声，清脆的风铃声，沉浸式空间音效。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3949ff1d43a8934cf878561d3f676ac/thumbnails/thumbnail.jpg" width="600" alt="Nostalgic Dream Meadow Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e3949ff1d43a8934cf878561d3f676ac/thumbnails/thumbnail.jpg" width="600" alt="怀旧梦境草甸序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3269)**
 
 **作者:** [Anissa](https://x.com/SimplyAnnisa) | **来源:** [Link](https://x.com/SimplyAnnisa/status/2044633855307768301) | **发布时间:** Apr 16, 2026
 
 ---
-### Time-Lapse City Evolution in 8K IMAX
+### 8K IMAX 城市演变延时摄影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic setup for a long-term time-lapse video showing a coastal city's evolution over 10,000 years using a continuous forward dolly movement and a 24mm lens.
+> 一个详细的电影级设置，用于拍摄长期的延时视频，展示一座沿海城市在 10,000 年间的演变过程，采用连续的前移推轨镜头和 24mm 镜头。
 
 #### 📝 提示词
 
 ```
-Film Style: Photorealistic 8K, 65mm IMAX. One continuous forward dolly — no cuts. The camera glides steadily forward at chest height, as if walking through time, while the coastal landscape and city evolve dramatically around it over 10,000 years. Lens: 24mm
+电影风格：照片级真实感 8K，65mm IMAX。一个连续的前移推轨镜头 —— 无剪辑。摄像机在胸部高度平稳地向前滑行，仿佛穿梭于时间之中，同时沿海景观和城市在 10,000 年间发生剧烈演变。镜头：24mm
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/076999a87e2142a66a8deac9daf39025/thumbnails/thumbnail.jpg" width="600" alt="Time-Lapse City Evolution in 8K IMAX">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/076999a87e2142a66a8deac9daf39025/thumbnails/thumbnail.jpg" width="600" alt="8K IMAX 城市演变延时摄影">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3283)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2044624650643329393) | **发布时间:** Apr 16, 2026
 
 ---
-### Seedance 2.0 Storyboard Narrative Prompt
+### Seedance 2.0 分镜叙事提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for Seedance 2.0 designed to translate a multi-panel storyboard into a cohesive short film styled after classic Shaw Brothers studio productions.
+> 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将多面板分镜转化为具有邵氏兄弟制片厂风格的连贯短片。
 
 #### 📝 提示词
 
 ```
-Reference the 9-panel storyboard in @ Image1, following the sequence from left to right, top to bottom, generate a short Liaozhai story in Shaw Brothers studio style.
+参考 @ Image1 中的 9 面板分镜，按照从左到右、从上到下的顺序，生成一个邵氏兄弟风格的聊斋短片。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bee7bb441717f0dea1f6ea7aead6ad7d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Storyboard Narrative Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bee7bb441717f0dea1f6ea7aead6ad7d/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 分镜叙事提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3282)**
 
 **作者:** [向阳乔木](https://x.com/vista8) | **来源:** [Link](https://x.com/vista8/status/2044606556042645512) | **发布时间:** Apr 16, 2026
 
 ---
-### Warehouse Action Sequence Prompt
+### 仓库动作序列提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex action choreography prompt for Seedance 2.0 featuring parkour, martial arts, and environmental interaction with cinematic editing.
+> 为 Seedance 2.0 设计的复杂动作编排提示词，包含跑酷、武术以及与环境交互的电影级剪辑效果。
 
 #### 📝 提示词
 
 ```
-Action sequence in a cluttered warehouse. Fighter dodges attacks using parkour moves, grabs a bamboo pole to counter multiple opponents, backflips off walls, and weaponizes surrounding props. Rapid cuts between punches, kicks, and comedic timing
+在杂乱的仓库中进行的动作序列。格斗者利用跑酷动作躲避攻击，抓起竹竿反击多名对手，从墙上后空翻，并利用周围的道具作为武器。镜头在拳击、踢腿和喜剧节奏之间快速切换。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79a68bf50ed0676cac18bd2d5b4cec34/thumbnails/thumbnail.jpg" width="600" alt="Warehouse Action Sequence Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/79a68bf50ed0676cac18bd2d5b4cec34/thumbnails/thumbnail.jpg" width="600" alt="仓库动作序列提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3284)**
 
 **作者:** [向阳乔木](https://x.com/vista8) | **来源:** [Link](https://x.com/vista8/status/2044605758231503127) | **发布时间:** Apr 16, 2026
 
 ---
-### Evolution of Civilization Video Prompt
+### 文明演进视频提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive narrative video prompt for Seedance 2.0 that visualizes the entire history of human civilization through a series of cinematic transitions.
+> 这是一份为 Seedance 2.0 设计的综合叙事视频提示词，通过一系列电影级的转场效果，生动呈现人类文明的完整历史。
 
 #### 📝 提示词
 
 ```
-"Every civilization begins with a dream." A single neuron firing → synapses connecting into a brain → a child's eye opening → hand drawing on cave wall → pyramid under construction → Renaissance city with domes and spires → industrial revolution with steam and gears → digital age with holographic displays → quantum realm with impossible architecture floating in space.
+“每一个文明都始于一个梦想。” 单个神经元放电 → 突触连接形成大脑 → 孩子睁开双眼 → 手在洞穴墙壁上作画 → 金字塔建造现场 → 拥有圆顶和尖塔的文艺复兴城市 → 蒸汽与齿轮驱动的工业革命 → 充满全息显示的数字时代 → 漂浮在太空中、拥有不可思议建筑的量子领域。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9e2fcf48c15d063a03726d0139c83d5/thumbnails/thumbnail.jpg" width="600" alt="Evolution of Civilization Video Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9e2fcf48c15d063a03726d0139c83d5/thumbnails/thumbnail.jpg" width="600" alt="文明演进视频提示词">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3286)**
 
 **作者:** [向阳乔木](https://x.com/vista8) | **来源:** [Link](https://x.com/vista8/status/2044603845683380400) | **发布时间:** Apr 16, 2026
 
 ---
-### Tropical Seaplane Aerial Adventure
+### 热带水上飞机空中探险
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An epic 14-second aerial video prompt for a yellow biplane flying over tropical lagoons and coral reefs, featuring high-speed water skimming and wildlife.
+> 一段 14 秒的史诗级空中视频提示词，展示一架黄色双翼飞机飞越热带泻湖和珊瑚礁，包含高速掠水飞行和野生动物场景。
 
 #### 📝 提示词
 
 ```
-Create a hyper-realistic, cinematic 14-second aerial adventure video in 4K, shot on RED camera with anamorphic lenses, vibrant color grading, golden sunlight, and crystal-clear turquoise water. Style: mix of National Geographic documentary and Hollywood action (think Top Gun meets Maldives travel film). Dynamic drone-style camera movement, motion blur on fast passes, lens flares, and sparkling water reflections. Location: pristine tropical island with vibrant coral reefs, white sand beaches, rocky outcrops, lush green jungle coastline, and distant mountains under a bright blue sky with scattered clouds.
-0-2 seconds: Sweeping high-angle aerial shot over a stunning turquoise lagoon. A bright yellow vintage seaplane (classic yellow biplane with floats) enters from the top right, flying low and steady just above the water. Camera tracks alongside it revealing intricate coral reef patterns below in shades of emerald, turquoise, and deep blue. Gentle waves lapping on sandy beaches and rocky shores.
-2-4 seconds: The yellow seaplane banks smoothly and descends lower. Camera follows from above as it flies directly over shallow coral heads. It skims extremely close to the water, starting to kick up a thin white water spray trail from its floats. Sunlight glinting off the wings and fuselage.
-4-6 seconds: Intense low-level pass. The seaplane touches the water surface at high speed, creating a massive explosive rooster tail of white spray and foam behind it. Camera dives closer, dynamic tracking shot from slightly behind and above, capturing the powerful water displacement and the plane’s reflection in the clear water. Motion blur on the spinning propeller.
-6-8 seconds: Close dramatic tracking shot from behind and slightly below the plane as it continues skimming and bouncing lightly on the water. Huge billowing white wake and spray arcs high into the air. The plane’s bright yellow color pops against the turquoise sea. Camera moves fluidly with the action, showing the intricate coral reef visible beneath the surface.
-8-10 seconds: The seaplane flies even lower, directly over a large school of black manta rays and stingrays gliding gracefully just below the surface. It continues carving a dramatic curving white water trail. Camera circles dynamically to show both the plane above and the rays below in the same frame. Intense speed and energy, water spray catching the sunlight.
-10-12 seconds: Wider epic shot as the seaplane pulls into a sweeping turn, still skimming the lagoon. Massive curving white wake trails behind it like a signature in the water. Camera pulls back to reveal more of the coastline — white sand beaches, black volcanic rocks, and dense green jungle. Multiple water splashes and spray explosions from the floats.
-12-14 seconds: Final majestic pull-back and climb shot. The yellow seaplane rises slightly while still low, flying parallel to the beautiful tropical islan
+创建一个超写实、电影级的 14 秒空中探险视频，4K 分辨率，使用 RED 摄影机搭配变形镜头拍摄，色彩鲜艳，呈现金色阳光和清澈见底的绿松石色海水。风格：融合《国家地理》纪录片与好莱坞动作大片（类似《壮志凌云》与马尔代夫旅游宣传片的结合）。动态无人机视角，快速掠过时的运动模糊，镜头光晕，以及波光粼粼的水面反射。地点：原始热带岛屿，拥有色彩斑斓的珊瑚礁、白沙滩、岩石露头、郁郁葱葱的绿色丛林海岸线，以及明亮蓝天下点缀着零星云朵的远山。
+0-2 秒：从高空俯瞰迷人的绿松石色泻湖。一架亮黄色的复古水上飞机（经典的黄色双翼飞机，带有浮筒）从右上角进入，低空平稳飞行。镜头跟随飞机，下方呈现出翡翠色、绿松石色和深蓝色的复杂珊瑚礁图案。沙滩和岩石海岸上拍打着轻柔的波浪。
+2-4 秒：黄色水上飞机平稳倾斜并降低高度。镜头从上方跟随，飞机直接飞越浅水珊瑚礁。它极度贴近水面飞行，浮筒开始激起一道细长的白色水雾轨迹。阳光在机翼和机身上闪烁。
+4-6 秒：激烈的低空掠过。水上飞机高速触碰水面，身后激起巨大的白色水花和泡沫。镜头拉近，从后上方进行动态追踪拍摄，捕捉强劲的水体位移和飞机在清澈水面上的倒影。旋转的螺旋桨带有运动模糊。
+6-8 秒：从飞机后下方进行近距离的戏剧性追踪拍摄，飞机继续掠水并轻微弹跳。巨大的白色尾迹和水雾高高溅起。飞机明亮的黄色在绿松石色的海面上格外醒目。镜头随动作流畅移动，展示水面下清晰可见的复杂珊瑚礁。
+8-10 秒：水上飞机飞得更低，直接飞越一大群在水面下优雅滑行的黑蝠鲼和黄貂鱼。它继续划出一道引人注目的弧形白色水迹。镜头动态环绕，在同一画面中同时展示上方的飞机和下方的鱼群。速度感与能量感十足，水雾在阳光下闪耀。
+10-12 秒：更广阔的史诗镜头，水上飞机转入一个大弧度转弯，继续掠过泻湖。巨大的弧形白色尾迹在水面上如同签名般延伸。镜头拉远，展现出更多的海岸线——白沙滩、黑色火山岩和茂密的绿色丛林。浮筒激起多次水花和水雾爆炸。
+12-14 秒：最后宏伟的拉远和爬升镜头。黄色水上飞机在保持低空的同时略微上升，与美丽的岛屿平行飞行。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a933f260085824db28bb81ab61d3ee4c/thumbnails/thumbnail.jpg" width="600" alt="Tropical Seaplane Aerial Adventure">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a933f260085824db28bb81ab61d3ee4c/thumbnails/thumbnail.jpg" width="600" alt="热带水上飞机空中探险">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3271)**
 
@@ -995,19 +1008,19 @@ Create a hyper-realistic, cinematic 14-second aerial adventure video in 4K, shot
 **作者:** [The Anxious Mind](https://x.com/drjoetw) | **来源:** [Link](https://x.com/drjoetw/status/2044431123711987712) | **发布时间:** Apr 15, 2026
 
 ---
-### Tokyo Tsunami Disaster Scene
+### 东京海啸灾难场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-intensity disaster movie prompt for Seedance 2.0, depicting a massive tsunami wave approaching the Tokyo skyline.
+> 一个为 Seedance 2.0 设计的高强度灾难电影提示词，描绘了巨大的海啸浪潮逼近东京天际线的场景。
 
 #### 📝 提示词
 
 ```
-A catastrophic 200-meter tsunami wall looms on the horizon beyond Tokyo's iconic skyline at dusk, Shot 1 — Wide establishing shot from a helicopter perspective, high above the city. The massive wave approaches in the distance, backlit by dying golden light,
+黄昏时分，一道 200 米高的灾难性海啸巨浪在东京标志性的天际线远方隐约浮现。镜头 1 — 从直升机视角拍摄的城市全景远景镜头。巨大的海浪在远处逼近，背景是即将消逝的金色余晖。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24896544a6a19c1834907ef08e45d378/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tsunami Disaster Scene">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/24896544a6a19c1834907ef08e45d378/thumbnails/thumbnail.jpg" width="600" alt="东京海啸灾难场景">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3287)**
 
@@ -1272,23 +1285,23 @@ A catastrophic 200-meter tsunami wall looms on the horizon beyond Tokyo's iconic
 **作者:** [RAVI KUMAR SAHU](https://x.com/RAVIKUMARSAHU78) | **来源:** [Link](https://x.com/RAVIKUMARSAHU78/status/2044093624934379613) | **发布时间:** Apr 14, 2026
 
 ---
-### Stylized 3D Character Beat-Synced Sequence
+### 风格化 3D 角色节拍同步序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot prompt for a 15-second stylized 3D sequence featuring a specific female character with a chaotic routine designed to be synced to a beat.
+> 一份详细的多镜头提示词，用于制作一段 15 秒的风格化 3D 序列，展示了一位具有混乱日常的特定女性角色，旨在与节拍同步。
 
 #### 📝 提示词
 
 ```
-FORMAT: 15s / 15 SHOTS / chaotic routine synced to beat 
+格式：15 秒 / 15 个镜头 / 与节拍同步的混乱日常 
 
-SUBJECT: Dark-skinned young female character, purple eyes, twin afro buns with purple beads, expressive face (based on reference image) 
+主体：深色皮肤的年轻女性角色，紫色眼睛，双非洲发髻配紫色珠子，表情丰富（基于参考图） 
 
-STYLE: High-end stylized 3D
+风格：高端风格化 3D
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d98d741d91a7c22e2e6bd3f28ba4fcf7/thumbnails/thumbnail.jpg" width="600" alt="Stylized 3D Character Beat-Synced Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d98d741d91a7c22e2e6bd3f28ba4fcf7/thumbnails/thumbnail.jpg" width="600" alt="风格化 3D 角色节拍同步序列">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3190)**
 
@@ -1352,19 +1365,19 @@ STYLE: High-end stylized 3D
 **作者:** [Shushant Lakhyani](https://x.com/shushant_l) | **来源:** [Link](https://x.com/shushant_l/status/2044068356236685728) | **发布时间:** Apr 14, 2026
 
 ---
-### Aviation Mystery Cinematic Teaser
+### 航空悬疑电影预告片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a suspenseful aviation teaser featuring contrasting shots of a peaceful night flight and a glitching radar screen.
+> 一个充满悬疑感的航空预告片提示词，通过宁静的夜间飞行与故障雷达屏幕的对比镜头呈现。
 
 #### 📝 提示词
 
 ```
-A dark, cinematic teaser inspired by an unexplained aviation mystery. Opening shot: a commercial airplane flying peacefully above dense clouds at night, faint cabin lights glowing. Cut to a close-up of a radar screen glitching, the signal flickering erratically.
+一部受未解航空谜团启发的暗黑风格电影预告片。开场镜头：一架商用飞机在夜晚平静地飞行在浓云之上，机舱内透出微弱的光芒。随后切换至雷达屏幕的特写，屏幕出现故障，信号闪烁不定。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8d7dc85eb251dc8483302b1c32a96e91/thumbnails/thumbnail.jpg" width="600" alt="Aviation Mystery Cinematic Teaser">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8d7dc85eb251dc8483302b1c32a96e91/thumbnails/thumbnail.jpg" width="600" alt="航空悬疑电影预告片">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3191)**
 
@@ -1435,19 +1448,19 @@ A dark, cinematic teaser inspired by an unexplained aviation mystery. Opening sh
 **作者:** [Kōda](https://x.com/aimikoda) | **来源:** [Link](https://x.com/aimikoda/status/2044057039182184853) | **发布时间:** Apr 14, 2026
 
 ---
-### Sorceress Sigil Battle
+### 女巫符文之战
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 12-shot action sequence prompt featuring a white-haired sorceress battling a shadow entity with magic sigils.
+> 这是一组包含 12 个镜头的超精细动作序列提示词，讲述了一位白发女巫利用魔法符文与暗影实体战斗的故事。
 
 #### 📝 提示词
 
 ```
-Shot 1 (00: 00–00:01) – MS, Dolly in + Whip Pan A white-haired sorceress stands in an ancient archive filled with hanging talismans and bells, painting a sigil. Dark mist erupts from the ground—she reacts instantly, dodging and countering with a sweeping brush strike. VFX: Distorted, pulsing shadow mist. SFX: Paper rustle, soft bells, low hum. Shot 2 (00: 01–00:02) – CU, Fast Push-in Her eyes glow. With a flick of her wrist, she draws sharp blue sigil strokes mid-air, forming blade-like trails. VFX: Intersecting cold-blue energy lines. SFX: Sharp air cuts, energy charge. Shot 3 (00: 02–00:03) – WS, Crane Up Talismans swirl violently. Layered circular sigils form beneath her feet. A shadow entity emerges but is blocked by the rotating barrier. VFX: Multi-layer rotating sigil rings, vortex of talismans. SFX: Deep resonance, swirling wind. Shot 4 (00: 03–00:04) – MFS, Orbit Tracking Scene shifts to a fractured sky. She steps on floating sigils; her brush extends into a glowing chain of runes that lashes toward the entity. VFX: Flickering rune-chain light. SFX: Air tearing, chain clinks. Shot 5 (00: 04–00:06) – LS, Chase Cam Amid storm clouds and a broken moon, she rides the rune chain through the air, pursuing the fleeing shadow. VFX: Rolling clouds, blue-white trails vs black mist. SFX: Roaring wind, distant thunder. Shot 6 (00: 06–00:07) – CU, Slide She taps nodes along the chain, activating hidden purple sigils that pulse with new energy. VFX: Sequential purple node illumination, pulse flow. SFX: Light clicks, energy hum. Shot 7 (00: 07–00:08) – MCU, Static She closes in and strikes the entity’s forehead. A burst of light—its body distorts, a complex seal appears on its chest. VFX: Purple-blue flash, rotating seal. SFX: Sharp burst, distorted screech. Shot 8 (00: 08–00:09) – WS, Dive Shot Both streak downward like meteors, piercing clouds toward an ancient stone altar. VFX: Comet-like light trails. SFX: Air screech, compression. Shot 9 (00: 09–00:10) – WS, Impact Static They crash. Dust erupts. She slams her hand down—radiating sigils crack across the ground. VFX: Glowing fractures spreading outward. SFX: Heavy impact, stone cracking. Shot 10 (00: 10–00:12) – LS, Pull Back A massive 3D sigil array rises, forming layered barriers that trap the entity at the center. She stands calmly outside. VFX: Expanding geometric barriers, drifting particles. SFX: Low steady resonance. Shot 11 (00: 12–00:13) – CU, Static She forms a hand seal and whispers: “Seal.” VFX: Light particles contract. SFX: Soft chant, energy tightening. Shot 12 (00: 13–00:15) – CU, Fade Out Eyes closed, she meditates as all light fades, leaving faint residual glow in silence. VFX: Light dissipates into darkness. SFX: Gentle wind, fading echo.
+镜头 1 (00: 00–00:01) – 中景，推镜头 + 甩镜头。一位白发女巫站在挂满符咒和铃铛的古老档案馆中，正在绘制符文。黑雾从地面喷涌而出——她瞬间做出反应，闪避并以扫笔反击。视觉特效：扭曲、脉动的暗影迷雾。音效：纸张摩擦声、轻柔的铃铛声、低沉的嗡嗡声。镜头 2 (00: 01–00:02) – 特写，快速推进。她的双眼闪烁光芒。手腕轻挥，她在半空中画出锋利的蓝色符文笔触，形成如刀刃般的轨迹。视觉特效：交错的冷蓝色能量线。音效：尖锐的破空声、能量充能声。镜头 3 (00: 02–00:03) – 远景，升降镜头。符咒剧烈旋转，层叠的圆形符文在她脚下形成。一个暗影实体出现，但被旋转的屏障挡住。视觉特效：多层旋转符文环、符咒漩涡。音效：深沉的共鸣声、旋风声。镜头 4 (00: 03–00:04) – 中全景，环绕追踪。场景切换至破碎的天空。她踏在漂浮的符文上；她的画笔延伸成一条发光的符文锁链，向实体抽去。视觉特效：闪烁的符文锁链光芒。音效：空气撕裂声、锁链碰撞声。镜头 5 (00: 04–00:06) – 全景，追逐镜头。在风暴云和破碎的月亮之间，她骑着符文锁链在空中穿行，追击逃窜的暗影。视觉特效：翻滚的云层、蓝白轨迹与黑色迷雾的对比。音效：呼啸的风声、远处的雷鸣。镜头 6 (00: 06–00:07) – 特写，滑动镜头。她轻点锁链上的节点，激活了隐藏的紫色符文，使其迸发出新的能量。视觉特效：连续的紫色节点照明、脉冲流。音效：轻微的点击声、能量嗡嗡声。镜头 7 (00: 07–00:08) – 中特写，固定镜头。她靠近并击中实体的额头。光芒迸发——实体身体扭曲，胸口出现一个复杂的封印。视觉特效：紫蓝色闪光、旋转的封印。音效：尖锐的爆裂声、扭曲的尖叫声。镜头 8 (00: 08–00:09) – 远景，俯冲镜头。两者如流星般向下俯冲，穿过云层直奔古老的石祭坛。视觉特效：彗星般的光迹。音效：空气尖啸声、压缩声。镜头 9 (00: 09–00:10) – 远景，撞击固定镜头。它们坠地，尘土飞扬。她猛地拍向地面——发光的符文裂纹在地面蔓延。视觉特效：向外扩散的发光裂纹。音效：沉重的撞击声、石头碎裂声。镜头 10 (00: 10–00:12) – 全景，拉镜头。一个巨大的 3D 符文阵升起，形成层叠的屏障，将实体困在中心。她冷静地站在屏障外。视觉特效：扩张的几何屏障、漂浮的粒子。音效：低沉稳定的共鸣声。镜头 11 (00: 12–00:13) – 特写，固定镜头。她结出手印并低语：“封印。”视觉特效：光粒子收缩。音效：轻柔的咒语声、能量收紧声。镜头 12 (00: 13–00:15) – 特写，淡出。她闭上双眼冥想，所有光芒消散，在寂静中留下微弱的余光。视觉特效：光芒消散于黑暗。音效：轻柔的风声、渐弱的回声。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8c93f03f6c9e2443767131cfad2a969/thumbnails/thumbnail.jpg" width="600" alt="Sorceress Sigil Battle">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8c93f03f6c9e2443767131cfad2a969/thumbnails/thumbnail.jpg" width="600" alt="女巫符文之战">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3189)**
 
@@ -2704,6 +2717,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-04-18T02:44:14.893Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-04-18T05:57:12.461Z</sub>
 
 </div>
