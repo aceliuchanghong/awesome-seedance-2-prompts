@@ -3062,6 +3062,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-21T13:45:32.520Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-04-21T17:19:03.573Z</sub>
 
 </div>
