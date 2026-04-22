@@ -70,7 +70,7 @@
 |--------|-------|
 | 📝 提示詞總數 | **2049** |
 | ⭐ 精選提示詞 | **6** |
-| 🔄 最後更新 | **2026-04-21** |
+| 🔄 最後更新 | **2026-04-22** |
 
 ---
 
@@ -3037,6 +3037,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-21T21:11:38.906Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-22T02:50:57.530Z</sub>
 
 </div>
