@@ -70,7 +70,7 @@ Neden galerimizi kullanmalısınız?
 |--------|-------|
 | 📝 Toplam İstem | **2154** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-04-24** |
+| 🔄 Son Güncelleme | **2026-04-25** |
 
 ---
 
@@ -3339,6 +3339,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-24T21:07:10.713Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-25T02:44:51.563Z</sub>
 
 </div>
