@@ -361,19 +361,29 @@
 
 > 📝 按發布日期排序（最新優先）
 
-### Cyberpunk Game Trailer Sequence
+### Cyberpunk 遊戲預告片序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An incredibly detailed prompt for a game trailer sequence including character design, UI interactions, and environment transitions from a white void to a cyberpunk city.
+> 一份極其詳盡的遊戲預告片序列提示詞，包含角色設計、UI 互動，以及從純白虛空到 Cyberpunk 城市的環境轉換。
 
 #### 📝 提示詞
 
 ```
-INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, shirtless, full chest and back tattoos, gold hoop earring, cigarette in mouth, black cybernetic prosthetic arms with cyan LED nodes at joints. Black shorts with white stripe, white socks, beige chunky sneakers. Seated cross-legged on white void floor.\nCINEMATIC SETUPOpens on clean white void environment with minimal game UI. Camera high angle looking down at character. Hyper-realistic CGI rendering, clean white background transitioning to dense cyberpunk favela environment.\nSEQUENCE [0s–15s]\n[0s–2s] High angle shot looking down. Character seated on white floor, looking up at camera with cigarette smoke rising. Game menu UI on left: START NEW GAME, CONTINUE highlighted, SETTINGS, EXIT GAME. Player profile top right showing INK_NOMAD LVL 23. A cursor clicks CONTINUE. The button pulses. Subtle bass hit.\n[2s–4s] Smooth zoom-in toward his left arm. UI panels slide in from left LEFT ARM EQUIPMENT panel appears. Selection highlights PHANTOM GRIP, then slides to CHRONOS CLAW. His left hand mechanically reconfigures fingers split apart, new claw-like digits lock into place, cyan LEDs pulse brighter. Stats bars animate on right panel. Servo click sounds.\n[4s–7s] Camera orbits smoothly around to his right side. New UI slides in ARMAMENT CUSTOMIZATION grid showing HAND, FOREARM, ELBOW, UPPER ARM components. Selection cycles through parts rapidly. His right arm disassembles section by section forearm plates detach, new plating slides on, elbow joint swaps, hand reconfigures with exposed wiring and pistons visible mid-swap. Each component locks with a mechanical snap. Tech Points counter ticks up.\n[7s–8.5s] Camera pulls back to medium shot. CONFIRM CONFIG button pulses. Click. All UI panels collapse inward. Character uncrosses legs, shifts position, now sitting relaxed, one knee up, cybernetic hand bringing cigarette to mouth. Smoke curls.\n[8.5s–10s] LOADING bar appears at bottom. Fills rapidly 0 to 100%. White environment begins darkening shadows creep in from edges, warm golden light bleeds through. The white void dissolves like fog burning off. Character starts standing up in one fluid motion.\n[10s–15s] Full environment loads around him as he rises to his feet. Dense cyberpunk favela materializes, neon signs flickering on, wet streets reflecting light, crowds populating, motorcycles, tangled power lines, stacked buildings climbing toward futuristic skyscrapers in the distance. Camera settles into third-person view behind him, showing his full tattooed back. HUD elements fade in, minimap top left, health bar, ammo counter bottom right. Quest marker appears. He takes a step forward into the street, puddle splashing under his shoe. Golden hour light cuts through the alley. Ambient city noise floods in, chatter, distant music, neon buzz.\nSTYLEHyper-realistic CGI. White void sections: clean, mini
+INK INDUSTRIES : 遊戲預告片
+角色：年輕運動型男性，深色捲髮，赤裸上身，胸部與背部滿佈紋身，戴著金色圓環耳環，嘴裡叼著香菸，黑色機械義肢手臂，關節處有青色 LED 節點。黑色短褲配白色條紋，白色襪子，米色厚底運動鞋。盤腿坐在純白虛空的地面上。
+電影級設定：開場為乾淨的純白虛空環境，帶有極簡的遊戲 UI。攝影機從高角度俯視角色。超寫實 CGI 渲染，乾淨的白色背景過渡到密集的 Cyberpunk 貧民窟環境。
+序列 [0s–15s]
+[0s–2s] 高角度俯視鏡頭。角色坐在白色地面上，抬頭看向鏡頭，香菸煙霧繚繞。左側遊戲選單 UI：開始新遊戲 (START NEW GAME)、繼續遊戲 (CONTINUE，已高亮)、設定 (SETTINGS)、退出遊戲 (EXIT GAME)。右上角玩家個人檔案顯示 INK_NOMAD LVL 23。游標點擊「繼續遊戲」。按鈕閃爍。伴隨細微的低音衝擊聲。
+[2s–4s] 平滑變焦至他的左臂。UI 面板從左側滑入，「左臂裝備」(LEFT ARM EQUIPMENT) 面板出現。選取項目高亮顯示「幻影之握」(PHANTOM GRIP)，隨後滑動至「時空之爪」(CHRONOS CLAW)。他的左手機械式地重新配置，手指分開，新的爪狀手指鎖定到位，青色 LED 燈閃爍得更亮。右側面板的數值條進行動畫演示。伴隨伺服馬達的點擊聲。
+[4s–7s] 攝影機平滑地繞至他的右側。新的 UI 滑入，「武裝自訂」(ARMAMENT CUSTOMIZATION) 網格顯示手部、前臂、手肘、上臂組件。選取項目快速循環切換零件。他的右臂逐節拆解，前臂護甲脫落，新的護甲滑入，手肘關節更換，手部重新配置，機械接線與活塞在更換過程中清晰可見。每個組件都伴隨機械扣合聲鎖定。科技點數計數器向上跳動。
+[7s–8.5s] 攝影機拉回至中景鏡頭。「確認配置」(CONFIRM CONFIG) 按鈕閃爍。點擊。所有 UI 面板向內收起。角色解開盤腿，變換姿勢，現在放鬆地坐著，單膝立起，機械手將香菸送至嘴邊。煙霧繚繞。
+[8.5s–10s] 載入條 (LOADING) 出現在底部。快速從 0% 填滿至 100%。白色環境開始變暗，陰影從邊緣蔓延，溫暖的金色光芒滲入。純白虛空像霧氣散去般消融。角色以流暢的動作起身。
+[10s–15s] 當他起身時，完整的環境在他周圍載入。密集的 Cyberpunk 貧民窟具象化，霓虹燈閃爍，濕潤的街道反射著光線，人群湧現，摩托車穿梭，雜亂的電線，堆疊的建築向上延伸至遠處的未來派摩天大樓。攝影機固定在他身後的第三人稱視角，展示他滿佈紋身的背部。HUD 元素淡入，左上角小地圖、生命值條、右下角彈藥計數器。任務標記出現。他向前邁步走入街道，鞋底濺起水窪。黃金時刻的光線穿透巷弄。環境城市噪音湧入，包含交談聲、遠處的音樂聲與霓虹燈的嗡嗡聲。
+風格：超寫實 CGI。白色虛空部分：乾淨、極簡
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2049004029406027776/img/63iQEZY863zeby2n.jpg" width="600" alt="Cyberpunk Game Trailer Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5ff995cbb318fc5346e2d5302daabb5/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk 遊戲預告片序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3795)**
 
@@ -392,7 +402,7 @@ INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, sh
 超細節夜店活動傳單，一位留著俐落長辮、塗抹大膽紅唇的黑人女性，以自信抬頭的強勢姿勢直視鏡頭，身穿飾有金鍊的合身黑色西裝外套，背後強烈的紅色輪廓光勾勒出發光邊緣，左前方有較強的主光。主體被剪裁至深牛血紅色紋理背景之上，帶有厚重的底片顆粒感與細微的煙霧朦朧感。她身後是巨大的「FRIDAY」字樣，採用高瘦壓縮的板狀襯線體，乳白色且帶有粗獷的磨損邊緣，部分被她的肩膀與頭髮遮擋。次要手寫標語「the night belongs to you」採用優雅的金色草寫。底部資訊區塊：「NOV 14 · 10PM · DOORS AT 9 · UPTOWN CLT」。散落的裝飾：小金色閃亮星星、一個圈起來的日期戳記、細金色塗鴉線條。色調嚴格限制為牛血紅、乳白、金、深黑。溫暖的電影級調色。4:5 垂直比例，2048x2560，夜店海報品質。負面提示：平滑的 AI 皮膚、通俗圖庫感、浮水印。僅動畫化背景與氛圍元素 —— 主體、排版與服裝保持完全鎖定。低透明度、夢幻般的緩慢煙霧在畫面下三分之一處她身後水平飄動。身後的紅色輪廓光在 5 秒內緩慢地脈動，忽明忽暗，如同緩慢的心跳。微小的金色閃光粒子從底部邊緣緩慢向上漂浮。底片顆粒自然閃爍。身後乳白色的「FRIDAY」字母帶有幾乎察覺不到的紋理閃爍。攝影機完全鎖定，無平移，無縮放。24fps，5 秒，電影級夜店氛圍。負面提示：主體移動、臉部改變、嘴唇移動、手部變形、文字扭曲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048910561543614464/img/S9gmIRtb0AVBW0Xz.jpg" width="600" alt="夜店傳單氛圍動畫">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac4aa8dd242046f292eab0e1333692ef/thumbnails/thumbnail.jpg" width="600" alt="夜店傳單氛圍動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3779)**
 
@@ -421,7 +431,7 @@ INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, sh
 最後場景：她站在朋友們中間，手捧鮮花與蛋糕，男友在旁溫柔微笑，蠟燭閃爍，她閉上眼睛許願。維持與參考圖片「SAME」的臉部一致性，電影級廣角鏡頭，夢幻氛圍，柔和散景，高端電影質感。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048908895943589888/pu/img/Ws4RqlP9dVwqLOZj.jpg" width="600" alt="電影感生日慶祝片段">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47f113f50f5bd3794cbd83d2bb99320b/thumbnails/thumbnail.jpg" width="600" alt="電影感生日慶祝片段">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3790)**
 
@@ -440,7 +450,7 @@ INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, sh
 中世紀圍城重構：騎士騎馬衝向城堡，但堡壘突然長出巨大的石腿並開始走開。無人機從上方俯衝拍攝，切換至地面跟拍鏡頭追隨奔馳的馬匹，切換至快速橫搖鏡頭捕捉城堡長出雙腿的瞬間，以荷蘭式傾斜角度拍攝士兵們難以置信地抬頭仰望的畫面。呈現 16mm 膠卷的顆粒質感，色調為柔和的大地色系。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2047874825801318401/img/t_ik5o167sCGrt-q.jpg" width="600" alt="移動城堡中世紀圍城提示詞">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5f084c25d3deadff043f45f12ecf2ed/thumbnails/thumbnail.jpg" width="600" alt="移動城堡中世紀圍城提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3765)**
 
@@ -459,7 +469,7 @@ INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, sh
 結合 <<<Image 3>>> 的每一幀來製作影片。這是一支全新高端品牌產品的預告片，主角為 @Image 2 的汽車，並掛有「智界 R7」的中文車牌。加入自然的攝影機晃動感。一位年輕的東亞女性 @Image 1 穿著 @Image 4。無背景音樂。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048867392692912129/img/3pMznb5wxvCxk9qn.jpg" width="600" alt="豪華汽車品牌預告片提示詞">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/faaac0a21a1cfda69d7dd9dff13675da/thumbnails/thumbnail.jpg" width="600" alt="豪華汽車品牌預告片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3792)**
 
@@ -478,7 +488,7 @@ INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, sh
 一段非常業餘的劣質影片，內容是一位女性拍攝另一位女性在 1980 年代的 Ferrari F40 上做瑜伽，她從車內進行拍攝並對現場進行評論
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048866767368531968/img/tbAImQ0cAwEMYfGt.jpg" width="600" alt="業餘視角 Ferrari 瑜伽課程">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/875d5dcb7759b833dacf4cccb8b0bea0/thumbnails/thumbnail.jpg" width="600" alt="業餘視角 Ferrari 瑜伽課程">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3773)**
 
@@ -507,26 +517,26 @@ INK INDUSTRIES : GAME TRAILER\nCHARACTERYoung athletic male, dark curly hair, sh
 流暢的連續動作，一致的載具識別度，無重新設計，受控的變形過程，逼真的機械運動，電影級規模。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048860480610144256/pu/img/Iav5S30mZmKrL1G7.jpg" width="600" alt="科幻列車變形">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed5634b6d83b3c1ab029fcfd8cdcab34/thumbnails/thumbnail.jpg" width="600" alt="科幻列車變形">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3778)**
 
 **作者:** [yopiwhs](https://x.com/Gwsubsa) | **來源:** [Link](https://x.com/Gwsubsa/status/2048860516899283220) | **發布時間:** Apr 27, 2026
 
 ---
-### Post-Apocalyptic Survival Evasion Prompt
+### 末日生存逃脫提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for Seedance 2.0 that describes a lone survivor navigating a derelict, vine-covered city, including specific camera movements and timing for a debris-sliding action sequence.
+> 這是一份為 Seedance 2.0 設計的高細節電影感提示詞，描述了一名孤獨的倖存者在廢棄且爬滿藤蔓的城市中穿梭的場景，包含具體的鏡頭運動以及碎片滑行動作序列的時間點。
 
 #### 📝 提示詞
 
 ```
-A lone male survivor in ragged camouflage gear hurries through the overgrown streets of a derelict post-apocalyptic city, vines reclaiming rusted skyscrapers and feral mutants howling in the fog. The ruins groan as unstable buildings tilt and radioactive storms brew on the skyline. At the 3-second mark, he slides under a falling girder toward a fortified bunker entrance. Camera follows low and gritty as embers from distant fires flicker in the twilight. He kicks through a barricade, seals the blast door, and arms a trap just as a pack of mutated beasts claws at the entrance behind him. Wasteland evasion, debris-dodging slide, overgrown urban run, gritty survival lighting, 4K.
+一名身穿破舊迷彩裝備的男性倖存者，正匆忙穿過末日後廢棄城市的雜草叢生街道，藤蔓爬滿了鏽跡斑斑的摩天大樓，霧氣中傳來變異野獸的嚎叫聲。廢墟在不穩定的建築傾斜中發出呻吟，放射性風暴在地平線上醞釀。在 3 秒處，他滑過一根倒塌的鋼樑，朝著堅固的碉堡入口衝去。鏡頭以低角度且充滿顆粒感的質感跟隨，遠處火光的餘燼在暮色中閃爍。他踢開路障，封死防爆門，並在身後一群變異野獸抓撓入口的同時佈下陷阱。荒原逃脫、躲避碎片滑行、城市廢墟奔跑、粗獷生存光影、4K。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048828272704729089/pu/img/O3QASLuLKluUX2Fg.jpg" width="600" alt="Post-Apocalyptic Survival Evasion Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4ece94112264773c142458df0fc54f09/thumbnails/thumbnail.jpg" width="600" alt="末日生存逃脫提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3783)**
 
@@ -609,7 +619,7 @@ A lone male survivor in ragged camouflage gear hurries through the overgrown str
 節奏極快的電影級 FPV 飛行，穿越古老的印度維達婆（Vidarbha）王國，畫面超寫實且細節豐富。開場以高速俯衝掠過蔥鬱的森林與河流，隨後進入一座宏偉的堡壘城市，映入眼簾的是砂岩宮殿、精緻的雕刻、熱鬧的市集以及皇家庭院。穿梭於擠滿商人、大象、馬匹與身著傳統服飾人群的狹窄街道。飛越擁有高聳塔樓（shikharas）的寺廟群，捕捉神聖的儀式與閃爍的油燈。動態攝影機運動結合急轉彎與快速的高度變化。黃金時刻的燈光灑下溫暖陽光，伴隨大氣霧氣與體積光效果。超細緻紋理、電影級景深與逼真的物理效果。史詩般的規模、沉浸式環境、戲劇性的陰影、充滿活力的大地色調，全程採用一鏡到底的 FPV 拍攝。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048779349638496256/img/cVzl1EJF2h850lJ5.jpg" width="600" alt="古印度王國 FPV 穿越飛行">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7be1ecebccb5a7b3ea5584c3f5b5d066/thumbnails/thumbnail.jpg" width="600" alt="古印度王國 FPV 穿越飛行">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3777)**
 
@@ -628,7 +638,7 @@ A lone male survivor in ragged camouflage gear hurries through the overgrown str
 目標：基於參考角色（@ [REFERENCE]），生成一段具有「角色初登場」氛圍的高品質電影級短片。要求：畫面中的每一秒都必須具備「敘事目的」，而不僅僅是視覺上的美觀。鏡頭語言應服務於角色塑造，而非單純的技術展示。角色必須具備「存在感」。請隱性完成：鏡頭構圖、場景調度、燈光動機以及情感節奏。最終效果參考：如同電影中的角色，讓觀眾從第一次亮相就印象深刻。請使用提供的角色設定圖作為唯一參考（@ [image1]）來生成電影級角色介紹影片。結構建議：從細節 → 身分 → 氣場 → 全貌揭露。讓角色動起來：在說話時與環境和道具進行自然互動、簡短而自然的肢體動作、微表情變化，且眼神與肢體語言都必須傳達出演技感。鏡頭控制：輕微推鏡、小幅跟拍、細膩的手持感；燈光保持電影級的一致性。最後以自信的中景或遠景收尾，以完整確立角色形象。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048771557259108353/img/5_P9RBycJJZVmBnD.jpg" width="600" alt="電影級角色介紹影片">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3aa829846087c83a7a25737c1a52e816/thumbnails/thumbnail.jpg" width="600" alt="電影級角色介紹影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3793)**
 
@@ -649,7 +659,7 @@ A lone male survivor in ragged camouflage gear hurries through the overgrown str
 鏡頭隨他一同向前推進進入戰鬥，穿梭於戰士之間，捕捉衝擊、鮮血、火花與飛濺的殘骸。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048771650129125376/pu/img/lc8dGjX3yrO3c_W3.jpg" width="600" alt="戰士戰鬥追蹤鏡頭">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c1e4f0fd2b52f5ef96b1840304527e2/thumbnails/thumbnail.jpg" width="600" alt="戰士戰鬥追蹤鏡頭">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3785)**
 
@@ -741,7 +751,7 @@ A lone male survivor in ragged camouflage gear hurries through the overgrown str
 專為高留存率優化的電影級病毒式敘事
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048770091358326784/pu/img/d82y6Yp8hRFwcyTv.jpg" width="600" alt="電影級奇幻巨龍短影音腳本">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2fb5b681044d5e16b72b895f5257dcf/thumbnails/thumbnail.jpg" width="600" alt="電影級奇幻巨龍短影音腳本">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3784)**
 
@@ -766,7 +776,7 @@ A lone male survivor in ragged camouflage gear hurries through the overgrown str
 最後畫面：吊橋消失在前方耀眼的陽光中。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048610244457291776/img/cG_eJ2bcb11W53t7.jpg" width="600" alt="未來感摩托車快遞員動作場景">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27f61a1600fc68bf34a1465973355371/thumbnails/thumbnail.jpg" width="600" alt="未來感摩托車快遞員動作場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3772)**
 
@@ -955,7 +965,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 音效：天空中的風吼聲、巨大的手掌撞擊轟鳴聲、沙塵爆炸聲、低沉的神聖迴音、傳送閃光聲、競技場觀眾從低語轉為歡呼、骨頭散落的叮噹聲、混亂的奔跑聲、快速踢擊的悶響、喜劇式的「咚」撞擊聲、最後的熱烈掌聲。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048765719027007488/img/Np0S2hunJV4IUkqJ.jpg" width="600" alt="神話動作喜劇：悟空貓">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72eae60cf53e4a2e4aa35d2a6158f0dd/thumbnails/thumbnail.jpg" width="600" alt="神話動作喜劇：悟空貓">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3781)**
 
@@ -974,7 +984,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 為一款受《The First Descendant》啟發的 3A 級 Unreal Engine 5 RPG 遊戲建立一個 [角色概念]。使用此角色圖像作為參考，製作一段特寫的即時角色動畫。[在此處加入您的角色動作設計。]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048747688754307072/img/XUfYxH-bi2uTilRz.jpg" width="600" alt="即時角色動畫工作流程">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a447579ef12c6ff2f6cc1477e9109b8c/thumbnails/thumbnail.jpg" width="600" alt="即時角色動畫工作流程">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3789)**
 
@@ -1031,7 +1041,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 1. 特寫：一名男子迅速拔出手槍並瞄準目標。 2. 射擊：開火動作，但未擊中目標，子彈飛過。 3. 保全反應：三名身穿西裝的保全迅速衝向該男子。 4. 制伏：保全抓住該男子，將其壓制在地並脫掉他的外套；動作緊張且快速。鏡頭：在特寫與中景之間切換，運用低角度與跟拍鏡頭以增強戰鬥張力，動作連貫。風格：寫實動作遊戲渲染風格。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048739036135919616/img/a7I71mo-ycSpw27F.jpg" width="600" alt="動作遊戲戰鬥序列">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a4d0c1de03693c884aa277a2df63e2a/thumbnails/thumbnail.jpg" width="600" alt="動作遊戲戰鬥序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3788)**
 
@@ -1050,7 +1060,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 極致電影感的奢華香水廣告，優雅的香水瓶置於黑色反光表面上，金色光束灑落，慢動作霧氣圍繞瓶身旋轉，玻璃細節與液體閃爍的微距鏡頭，戲劇性的攝影機推軌與旋轉，香水噴霧慢動作捕捉，高貴模特兒演繹時尚場景，流動的布料，輕柔微風，濃郁且充滿氛圍的燈光，漂浮的微粒，流暢的轉場，頂級香氛廣告美學，真實物理效果，照片級 4K 畫質，結尾處香水瓶發光的史詩級特寫鏡頭。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048703265106284544/pu/img/tbWCSawBWjRLAv17.jpg" width="600" alt="奢華香水電影感廣告">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7377ccd23e06680023541e1b9e2fb5a5/thumbnails/thumbnail.jpg" width="600" alt="奢華香水電影感廣告">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3787)**
 
@@ -1079,7 +1089,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 明亮的電影級燈光、舒適的家庭氛圍、逼真的食物質感、流暢的鏡頭運鏡、淺景深效果、愉悅的表情、超細緻 4K 視覺效果、溫馨動人的氛圍。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048685192571990016/img/MoK1DvpCVmeajVUo.jpg" width="600" alt="溫馨廚房烘焙場景">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c08a2651f3c51cc9c5610f5f8b313fba/thumbnails/thumbnail.jpg" width="600" alt="溫馨廚房烘焙場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3782)**
 
@@ -1098,7 +1108,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 一群年輕騎士騎著堅固的山地車在陡峭的草坡上疾馳，畫面呈現出超逼真的 GoPro 風格動作感。顆粒胎在岩石上彈跳，泥土向兩側飛濺，草皮在車輪下撕裂，騎士們展現出激進的騎行路線。鏡頭以動態追逐視角向前推進，在騎士間穿梭——鏈條轉動聲、輪胎摩擦聲，每輛車後方都揚起陣陣塵土。領先的騎士壓低身體貼近車架，手肘外張，隨著小徑逐漸收窄，前方是一處巨大的懸崖邊緣。風在頭盔通風口呼嘯。就在抵達邊緣前，折疊式碳纖維板從車架迅速彈出——鋒利的空氣動力學機翼伴隨著清脆的機械聲展開——座管下方的緊湊型火箭推進器噴發出藍白色的火焰，燒焦了下方的草地。騎士們加速衝刺，從懸崖邊緣一躍而下。當車輪離開地面，自行車轉入完全飛行狀態時，空氣中爆發出一聲音爆，輪輻在陽光下閃爍，宛如旋轉的光環。鏡頭跟隨：高速林道追逐視角 → 懸崖邊緣的急劇俯衝 → 展現廣闊深淵的驚心動魄自由落體視角 → 鎖定空中編隊滑翔的自行車，畫面平穩流暢。遠處下方，一座寧靜的村莊顯得渺小而遙遠。明亮的日光，飽和度鮮明的色彩，翠綠的山丘，湛藍的天空。輪輻和車架邊緣帶有強烈的動態模糊，真實的避震前叉壓縮感，推進器噴嘴處的熱浪扭曲，強烈的陽光在碳纖維管和拋光輪圈上形成鏡頭光暈，風將車衣吹得緊貼騎士身體，泥土和碎石在輪胎周圍凝固在半空中。電影質感，高速，動作冒險，照片級真實感。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048684247704342528/pu/img/E7GraHjPitQztQGw.jpg" width="600" alt="GoPro 風格 MTB 山地車極限運動飛行">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfe15f0de4aa872046d4b1a44a59b2e6/thumbnails/thumbnail.jpg" width="600" alt="GoPro 風格 MTB 山地車極限運動飛行">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3780)**
 
@@ -1146,7 +1156,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 製作一段 15 秒的電影感影片，捕捉 1980 年代懷舊風格的年輕女性日常生活。營造夢幻的復古氛圍，運用柔和的底片顆粒感、溫暖的金色陽光、粉彩色調以及細微的霓虹燈光點綴。造型需符合 80 年代正宗時尚——寬鬆牛仔外套、高腰牛仔褲、寬鬆襯衫、復古運動鞋、髮圈及大膽的飾品。開場呈現寧靜的早晨：她在一間灑滿柔和陽光的臥室中醒來，薄紗窗簾隨微風輕輕擺動。切換至她站在鏡子前隨意梳妝的畫面——輕抹化妝品、調整服裝，表情自然不做作。轉場至充滿活力的街道，背景有復古車輛與懷舊店面，她自信而從容地漫步其中。接著切換至她戴著耳機用卡帶播放器聽音樂的私密時刻，閉上雙眼，完全沉浸在音樂中。隨後進入溫馨的餐廳場景，她安靜地坐著喝飲料，陷入沉思。接著是無憂無慮的騎單車畫面，微風吹拂著她的秀髮，沐浴在金色陽光下。傍晚時分，展現她與朋友在溫暖夕陽下歡笑的場景，捕捉真實、自然的喜悅。結尾呈現寧靜的夜晚——她坐在窗邊，城市燈光柔和地閃爍，伴隨著淡淡的霓虹氛圍，映照出平靜且內省的情緒。運用流暢的運鏡，適時加入慢動作以強調情感亮點，並結合廣角鏡頭、特寫鏡頭與主觀視角（POV）。整體風格需聚焦於真實感、柔和光影以及連貫的懷舊基調。請避免出現任何文字、標誌或品牌標示。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048661096714969088/pu/img/VtbX4ojILhM37xBK.jpg" width="600" alt="1980 年代復古生活剪輯">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70e90dfd848023d799fcd12c4a527d5e/thumbnails/thumbnail.jpg" width="600" alt="1980 年代復古生活剪輯">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3776)**
 
@@ -1165,7 +1175,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 一名身穿校服的年輕女子站在明亮的學校走廊上。她伸出手，指尖凝聚出藍色的魔法能量，憑空召喚出一台巨大的金色自動販賣機。她運用同樣的魔法能量光束，從販賣機中取出一罐標註著「CREATIVE JUICE」的飲料。她打開罐子喝了一口，場景隨即瞬間轉換，她搖身一變成為在大型舞台上表演的耀眼流行巨星。她對著麥克風歌唱，身後是揮舞著螢光棒、歡呼雀躍的龐大觀眾群。舞台設計精緻，配有華麗的金色燈光與圓形裝飾。舞台前景展示著一罐巨大的「CREATIVE JUICE」。影片最後，畫面聚焦於這罐巨大的飲料，周圍環繞著「UNLEASH YOUR CREATIVITY」的字樣。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048643752550621184/pu/img/xlZGTbAnymxlb4pn.jpg" width="600" alt="神奇自動販賣機的華麗變身">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc4d26bcaa9f6dc5bc22032694e576a9/thumbnails/thumbnail.jpg" width="600" alt="神奇自動販賣機的華麗變身">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3774)**
 
@@ -1225,7 +1235,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 他衝向手提箱，同時另一顆子彈擊中他身後。
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048628631854043136/pu/img/F7UYdfNl3gmuCUNz.jpg" width="600" alt="聖保羅跑酷動作場景">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/592b42cbfbd20f100fa7b45f337fc8c4/thumbnails/thumbnail.jpg" width="600" alt="聖保羅跑酷動作場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3786)**
 
@@ -1261,7 +1271,7 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 音訊 (選填)：柔和的夜晚環境音，淡淡的背景音樂
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048625315212390401/pu/img/3wDlPYWAuaMOgw6x.jpg" width="600" alt="平靜日常作息敘事提示詞">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/554bd2391118e247e411a9e242926981/thumbnails/thumbnail.jpg" width="600" alt="平靜日常作息敘事提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3791)**
 
@@ -1340,26 +1350,26 @@ Seedance 2 | 15 秒電影級 AI 影片提示詞 | 1960 年代邵氏電影惡搞 
 結束
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048591880775159809/pu/img/sZik6_nHywtyGOEl.jpg" width="600" alt="超動態城市街頭風格影片提示詞">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86288a71abe2a868b61f8bbdf2d9dd5f/thumbnails/thumbnail.jpg" width="600" alt="超動態城市街頭風格影片提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3762)**
 
 **作者:** [K](https://x.com/ChillaiKalan__) | **來源:** [Link](https://x.com/ChillaiKalan__/status/2048592200389497206) | **發布時間:** Apr 27, 2026
 
 ---
-### Game UI Skill Selection Animation
+### 遊戲 UI 技能選擇動畫
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A structured prompt for Seedance 2.0 to generate a sophisticated game UI animation showing a skill being selected, complete with button scaling, glow effects, and energy ripples.
+> 這是一個為 Seedance 2.0 設計的結構化提示詞，用於生成精緻的遊戲 UI 動畫，展示技能被選中的過程，包含按鈕縮放、發光特效與能量漣漪。
 
 #### 📝 提示詞
 
 ```
-This is a skill-switching animation triggered by a game UI click. The starting state is the equipment interface, with 'Wind and Thunder Wings' currently selected. ——Trigger—— The user clicks the 'Great Geng Sword Array' skill button in the UI: The button produces feedback: slight scaling (sense of pressure), highlight glowing, energy ripples appearing, while the UI state transitions:
+這是一個由遊戲 UI 點擊觸發的技能切換動畫。初始狀態為裝備介面，當前選中「風雷之翼」。——觸發—— 使用者點擊 UI 中的「大庚劍陣」技能按鈕：按鈕產生回饋：輕微縮放（按壓感）、高光發亮、出現能量漣漪，同時 UI 狀態進行轉換：
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048576670660173824/img/zjc15VDuppJ2O-eT.jpg" width="600" alt="Game UI Skill Selection Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0fb7edc00a30039f2095dee465dcce/thumbnails/thumbnail.jpg" width="600" alt="遊戲 UI 技能選擇動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3794)**
 
@@ -1997,7 +2007,7 @@ Q 版動畫，超可愛，流暢的轉場，生動的臉部表情動畫，柔和
 兩人臉上掛著笑容在道路上奔跑。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048372612443893760/img/ZCCw6G6fpq0H1Atc.jpg" width="600" alt="火車上的蘑菇與花朵超能力">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d2dcae9334eb215d6ef301ea6bb5e72/thumbnails/thumbnail.jpg" width="600" alt="火車上的蘑菇與花朵超能力">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3728)**
 
@@ -2356,7 +2366,7 @@ BOLT 的胸前顯示「情感模組安裝中」。眼睛閃爍。他試著微笑
 重要規則：請勿顯示原始的網格佈局，請勿製作拼貼畫，請勿添加任何文字，請勿添加浮水印，請勿引入新人物，請勿讓他們看起來像時尚模特兒，請勿過度電影化，請勿讓運鏡過於平滑，請勿在不同鏡頭間改變他們的身分。保持親密、凌亂、浪漫且情感真實的氛圍。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048247446938263552/img/KKg0cs8BEWyHGxpD.jpg" width="600" alt="懷舊獨立流行樂風格 iPhone 音樂錄影帶">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fe3317aeb239aff67d01b8c526c8adf/thumbnails/thumbnail.jpg" width="600" alt="懷舊獨立流行樂風格 iPhone 音樂錄影帶">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3739)**
 
@@ -3691,6 +3701,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-28T06:54:14.960Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-28T10:30:38.994Z</sub>
 
 </div>

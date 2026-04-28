@@ -373,7 +373,7 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 INK INDUSTRIES : TRÁILER DEL JUEGO\nPERSONAJE: Joven atlético, cabello oscuro y rizado, sin camisa, tatuajes en todo el pecho y la espalda, pendiente de aro dorado, cigarrillo en la boca, brazos protésicos cibernéticos negros con nodos LED cian en las articulaciones. Pantalones cortos negros con raya blanca, calcetines blancos, zapatillas deportivas gruesas de color beige. Sentado con las piernas cruzadas en un suelo de vacío blanco.\nCONFIGURACIÓN CINEMATOGRÁFICA: Comienza en un entorno de vacío blanco limpio con una interfaz de juego mínima. Ángulo de cámara cenital mirando hacia el personaje. Renderizado CGI hiperrealista, fondo blanco limpio que transiciona a un entorno denso de favela cyberpunk.\nSECUENCIA [0s–15s]\n[0s–2s] Plano cenital mirando hacia abajo. Personaje sentado en el suelo blanco, mirando hacia la cámara con el humo del cigarrillo ascendiendo. Interfaz del menú del juego a la izquierda: START NEW GAME, CONTINUE resaltado, SETTINGS, EXIT GAME. Perfil del jugador en la parte superior derecha mostrando INK_NOMAD LVL 23. Un cursor hace clic en CONTINUE. El botón palpita. Golpe de bajo sutil.\n[2s–4s] Zoom suave hacia su brazo izquierdo. Los paneles de la interfaz se deslizan desde la izquierda, aparece el panel LEFT ARM EQUIPMENT. La selección resalta PHANTOM GRIP, luego se desliza hacia CHRONOS CLAW. Su mano izquierda se reconfigura mecánicamente, los dedos se separan, nuevos dígitos similares a garras se bloquean en su lugar, los LED cian palpitan con más brillo. Las barras de estadísticas se animan en el panel derecho. Sonidos de clic de servo.\n[4s–7s] La cámara orbita suavemente hacia su lado derecho. Nueva interfaz se desliza: cuadrícula de ARMAMENT CUSTOMIZATION que muestra componentes de HAND, FOREARM, ELBOW, UPPER ARM. La selección recorre las piezas rápidamente. Su brazo derecho se desmonta sección por sección: las placas del antebrazo se separan, nuevas placas se deslizan, la articulación del codo se intercambia, la mano se reconfigura con cableado expuesto y pistones visibles durante el cambio. Cada componente se bloquea con un chasquido mecánico. El contador de Tech Points aumenta.\n[7s–8.5s] La cámara retrocede a un plano medio. El botón CONFIRM CONFIG palpita. Clic. Todos los paneles de la interfaz se colapsan hacia adentro. El personaje descruza las piernas, cambia de posición, ahora sentado relajado, una rodilla levantada, la mano cibernética lleva el cigarrillo a la boca. El humo se enrosca.\n[8.5s–10s] Aparece una barra de LOADING en la parte inferior. Se llena rápidamente de 0 a 100%. El entorno blanco comienza a oscurecerse, las sombras se arrastran desde los bordes, una luz dorada cálida se filtra. El vacío blanco se disuelve como niebla disipándose. El personaje comienza a ponerse de pie en un movimiento fluido.\n[10s–15s] El entorno completo se carga a su alrededor mientras se pone de pie. Se materializa una densa favela cyberpunk, letreros de neón parpadeando, calles mojadas reflejando la luz, multitudes poblando el lugar, motocicletas, cables eléctricos enredados, edificios apilados que ascienden hacia rascacielos futuristas en la distancia. La cámara se establece en una vista en tercera persona detrás de él, mostrando toda su espalda tatuada. Los elementos del HUD se desvanecen, minimapa en la parte superior izquierda, barra de salud, contador de munición en la parte inferior derecha. Aparece un marcador de misión. Da un paso hacia la calle, un charco salpica bajo su zapato. La luz de la hora dorada atraviesa el callejón. El ruido ambiental de la ciudad inunda el lugar, charlas, música distante, zumbido de neón.\nESTILO: CGI hiperrealista. Secciones de vacío blanco: limpio, mini
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2049004029406027776/img/63iQEZY863zeby2n.jpg" width="600" alt="Secuencia de tráiler de juego Cyberpunk">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5ff995cbb318fc5346e2d5302daabb5/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de tráiler de juego Cyberpunk">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3795)**
 
@@ -392,7 +392,7 @@ INK INDUSTRIES : TRÁILER DEL JUEGO\nPERSONAJE: Joven atlético, cabello oscuro 
 Flyer de evento de discoteca hiperdetallado, una mujer negra con trenzas largas y elegantes y labial rojo intenso, fotografiada en una pose de poder con la barbilla en alto mirando directamente a la cámara, vistiendo un blazer negro entallado con cadena dorada, luz de contorno roja dramática desde atrás creando un borde brillante, luz principal más dura desde la parte frontal izquierda. Sujeto recortado sobre un fondo texturizado de color rojo sangre de buey profundo con grano de película intenso y una sutil neblina de humo. Detrás de ella, la palabra "FRIDAY" en letras grandes y condensadas tipo slab serif, color blanco crema con bordes desgastados, parcialmente oculta por sus hombros y cabello. Eslogan secundario en cursiva elegante dorada: "the night belongs to you". Bloque de información inferior: "NOV 14 · 10PM · DOORS AT 9 · UPTOWN CLT". Detalles dispersos: pequeñas estrellas brillantes doradas, un sello de fecha rodeado por un círculo, una línea de garabato dorada fina. Paleta estrictamente rojo sangre de buey, blanco crema, dorado y negro profundo. Gradación cinematográfica cálida. Formato vertical 4:5, 2048x2560, calidad de póster de club. Negativo: piel de IA suave, stock genérico, marcas de agua. Animar solo el fondo y los elementos atmosféricos: el sujeto, la tipografía y el atuendo permanecen completamente estáticos. Una neblina de humo de movimiento lento se desplaza horizontalmente por el tercio inferior del encuadre detrás de ella, de baja opacidad y aspecto onírico. La luz de contorno roja detrás de ella pulsa sutilmente, brillando más y luego menos una vez durante 5 segundos, como un latido lento. Pequeñas partículas de brillo dorado flotan lentamente hacia arriba desde el borde inferior. El grano de película parpadea de forma natural. Las letras color crema de "FRIDAY" detrás de ella tienen un brillo de textura casi imperceptible. Cámara totalmente fija, sin paneo ni zoom. 24 fps, 5 segundos, ambiente cinematográfico de discoteca. Negativo: sujeto moviéndose, rostro cambiando, labios moviéndose, manos deformándose, texto deformándose.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048910561543614464/img/S9gmIRtb0AVBW0Xz.jpg" width="600" alt="Animación atmosférica para flyer de discoteca">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ac4aa8dd242046f292eab0e1333692ef/thumbnails/thumbnail.jpg" width="600" alt="Animación atmosférica para flyer de discoteca">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3779)**
 
@@ -421,7 +421,7 @@ Entra su novio: un joven bien vestido con cabello oscuro cuidadosamente peinado,
 Escena final: ella está rodeada de amigos, sosteniendo el ramo y el pastel, su novio a su lado sonriendo suavemente, velas encendidas, ella cierra los ojos para pedir un deseo, MISMA consistencia facial, plano general cinematográfico, atmósfera de ensueño, luces bokeh suaves, aspecto de película de alta gama
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048908895943589888/pu/img/Ws4RqlP9dVwqLOZj.jpg" width="600" alt="Secuencia cinematográfica de celebración de cumpleaños">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/47f113f50f5bd3794cbd83d2bb99320b/thumbnails/thumbnail.jpg" width="600" alt="Secuencia cinematográfica de celebración de cumpleaños">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3790)**
 
@@ -440,7 +440,7 @@ Escena final: ella está rodeada de amigos, sosteniendo el ramo y el pastel, su 
 Asedio medieval reimaginado: Caballeros a caballo cargan hacia un castillo, pero la fortaleza de repente desarrolla enormes piernas de piedra y comienza a alejarse caminando. Toma de dron descendiendo desde arriba, corte a toma de seguimiento a nivel del suelo siguiendo a los caballos al galope, corte a barrido rápido (whip-pan) mientras emergen las piernas del castillo, ángulo holandés mientras los soldados miran hacia arriba con incredulidad. Textura de película de 16 mm granulada, tonos tierra apagados.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2047874825801318401/img/t_ik5o167sCGrt-q.jpg" width="600" alt="Prompt de asedio medieval a castillo andante">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b5f084c25d3deadff043f45f12ecf2ed/thumbnails/thumbnail.jpg" width="600" alt="Prompt de asedio medieval a castillo andante">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3765)**
 
@@ -459,7 +459,7 @@ Asedio medieval reimaginado: Caballeros a caballo cargan hacia un castillo, pero
 Combina cada fotograma de <<<Image 3>>> para crear un video. Este es un tráiler para un nuevo producto de marca de alta gama, que presenta el auto @Image 2 con la matrícula china 'Zhijie R7'. Movimiento natural de cámara. Una joven de Asia Oriental @Image 1 vistiendo @Image 4. Sin música de fondo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048867392692912129/img/3pMznb5wxvCxk9qn.jpg" width="600" alt="Prompt de video teaser para marca de autos de lujo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/faaac0a21a1cfda69d7dd9dff13675da/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video teaser para marca de autos de lujo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3792)**
 
@@ -478,7 +478,7 @@ Combina cada fotograma de <<<Image 3>>> para crear un video. Este es un tráiler
 Video de muy baja calidad con estilo amateur de una mujer grabando a otra haciendo yoga sobre un Ferrari F40 de los años 80; ella está grabando desde el interior del coche y comentando la escena
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048866767368531968/img/tbAImQ0cAwEMYfGt.jpg" width="600" alt="Sesión de yoga amateur POV en un Ferrari">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/875d5dcb7759b833dacf4cccb8b0bea0/thumbnails/thumbnail.jpg" width="600" alt="Sesión de yoga amateur POV en un Ferrari">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3773)**
 
@@ -507,26 +507,26 @@ La escena tiene lugar en una vía férrea abierta al atardecer con paisajes ampl
 movimiento continuo y fluido, identidad del vehículo consistente, sin rediseño, transformación controlada, movimiento mecánico realista, escala cinematográfica.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048860480610144256/pu/img/Iav5S30mZmKrL1G7.jpg" width="600" alt="Transformación de tren de ciencia ficción">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed5634b6d83b3c1ab029fcfd8cdcab34/thumbnails/thumbnail.jpg" width="600" alt="Transformación de tren de ciencia ficción">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3778)**
 
 **Autor:** [yopiwhs](https://x.com/Gwsubsa) | **Fuente:** [Link](https://x.com/Gwsubsa/status/2048860516899283220) | **Publicado:** Apr 27, 2026
 
 ---
-### Post-Apocalyptic Survival Evasion Prompt
+### Prompt de evasión para supervivencia postapocalíptica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for Seedance 2.0 that describes a lone survivor navigating a derelict, vine-covered city, including specific camera movements and timing for a debris-sliding action sequence.
+> Un prompt cinematográfico altamente detallado para Seedance 2.0 que describe a un superviviente solitario navegando por una ciudad abandonada y cubierta de enredaderas, incluyendo movimientos de cámara específicos y tiempos para una secuencia de acción de deslizamiento entre escombros.
 
 #### 📝 Prompt
 
 ```
-A lone male survivor in ragged camouflage gear hurries through the overgrown streets of a derelict post-apocalyptic city, vines reclaiming rusted skyscrapers and feral mutants howling in the fog. The ruins groan as unstable buildings tilt and radioactive storms brew on the skyline. At the 3-second mark, he slides under a falling girder toward a fortified bunker entrance. Camera follows low and gritty as embers from distant fires flicker in the twilight. He kicks through a barricade, seals the blast door, and arms a trap just as a pack of mutated beasts claws at the entrance behind him. Wasteland evasion, debris-dodging slide, overgrown urban run, gritty survival lighting, 4K.
+Un superviviente masculino solitario con equipo de camuflaje desgastado se apresura por las calles cubiertas de vegetación de una ciudad postapocalíptica abandonada, donde las enredaderas reclaman los rascacielos oxidados y mutantes salvajes aúllan en la niebla. Las ruinas crujen mientras los edificios inestables se inclinan y tormentas radiactivas se gestan en el horizonte. En el segundo 3, se desliza bajo una viga que cae hacia la entrada de un búnker fortificado. La cámara sigue un ángulo bajo y crudo mientras las brasas de incendios distantes parpadean en el crepúsculo. Patea una barricada, sella la puerta blindada y prepara una trampa justo cuando una manada de bestias mutadas araña la entrada detrás de él. Evasión en el páramo, deslizamiento esquivando escombros, carrera urbana entre vegetación, iluminación de supervivencia cruda, 4K.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048828272704729089/pu/img/O3QASLuLKluUX2Fg.jpg" width="600" alt="Post-Apocalyptic Survival Evasion Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4ece94112264773c142458df0fc54f09/thumbnails/thumbnail.jpg" width="600" alt="Prompt de evasión para supervivencia postapocalíptica">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3783)**
 
@@ -609,7 +609,7 @@ Locución: "Disponible ahora. Si puedes soportar el ruido."
 Vuelo FPV cinematográfico de ritmo extremadamente rápido a través del antiguo reino indio de Vidarbha, ultrarrealista y altamente detallado. Comienza con un picado aéreo de alta velocidad sobre exuberantes bosques verdes y ríos, luego adéntrate en una gran ciudad fortificada con palacios de arenisca, tallas intrincadas, mercados bulliciosos y patios reales. Deslízate por calles estrechas llenas de comerciantes, elefantes, caballos y personas con vestimentas tradicionales. Pasa sobre complejos de templos con imponentes shikharas, rituales sagrados y lámparas de aceite brillantes. Movimientos de cámara dinámicos con giros bruscos y cambios rápidos de altitud. Iluminación de hora dorada con luz solar cálida, neblina atmosférica e iluminación volumétrica. Texturas hiperdetalladas, profundidad de campo cinematográfica y física realista. Escala épica, entorno inmersivo, sombras dramáticas, paleta de colores tierra vibrantes, toma FPV continua en una sola secuencia
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048779349638496256/img/cVzl1EJF2h850lJ5.jpg" width="600" alt="Sobrevuelo FPV de un antiguo reino indio">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7be1ecebccb5a7b3ea5584c3f5b5d066/thumbnails/thumbnail.jpg" width="600" alt="Sobrevuelo FPV de un antiguo reino indio">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3777)**
 
@@ -628,7 +628,7 @@ Vuelo FPV cinematográfico de ritmo extremadamente rápido a través del antiguo
 Objetivo: Basándose en el personaje de referencia (@ [REFERENCE]), genere un clip cinematográfico de alta calidad con una sensación de 'debut de personaje'. Requisitos: Cada segundo del encuadre debe tener un 'propósito narrativo', no solo ser visualmente atractivo. El lenguaje de cámara debe servir para la construcción del personaje en lugar de exhibir técnicas. Los personajes deben tener 'peso de presencia'. Por favor, complete implícitamente: composición de plano, bloqueo, motivación de iluminación y ritmo emocional. Referencia del efecto final: Como un personaje de película que el público recuerda desde su primera aparición. Utilice la hoja de personaje proporcionada como única referencia (@ [image1]) para generar un video de presentación cinematográfica del personaje. Sugerencia estructural: De los detalles → identidad → presencia → revelación completa. Haga que el personaje se mueva: interacción natural con el entorno y los accesorios mientras habla, gestos cortos y naturales, cambios de microexpresiones, y tanto los ojos como el lenguaje corporal deben transmitir una sensación de actuación. Control de cámara: ligeros acercamientos (push-ins), seguimiento suave, sensación sutil de cámara en mano; la iluminación debe mantenerse constante a un nivel cinematográfico. Finalice con un plano medio o general seguro para establecer completamente al personaje.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048771557259108353/img/5_P9RBycJJZVmBnD.jpg" width="600" alt="Video de presentación cinematográfica de personaje">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3aa829846087c83a7a25737c1a52e816/thumbnails/thumbnail.jpg" width="600" alt="Video de presentación cinematográfica de personaje">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3793)**
 
@@ -649,7 +649,7 @@ Atraviesa las líneas enemigas, luchando sin detenerse, campo de batalla abierto
 Toma de seguimiento avanzando con él hacia el combate, la cámara pasa a través de los combatientes y los impactos, sangre, chispas y escombros volando hacia el encuadre.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048771650129125376/pu/img/lc8dGjX3yrO3c_W3.jpg" width="600" alt="Toma de seguimiento de batalla de guerrero">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c1e4f0fd2b52f5ef96b1840304527e2/thumbnails/thumbnail.jpg" width="600" alt="Toma de seguimiento de batalla de guerrero">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3785)**
 
@@ -730,7 +730,7 @@ libertad + poder + ascensión
 narrativa viral cinematográfica optimizada para la retención
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048770091358326784/pu/img/d82y6Yp8hRFwcyTv.jpg" width="600" alt="Reel de fantasía cinematográfica con dragones">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a2fb5b681044d5e16b72b895f5257dcf/thumbnails/thumbnail.jpg" width="600" alt="Reel de fantasía cinematográfica con dragones">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3784)**
 
@@ -755,7 +755,7 @@ Ella derrapa de lado y lanza a un dron por el borde.
 Cuadro final: el puente desaparece hacia la luz del sol al frente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048610244457291776/img/cG_eJ2bcb11W53t7.jpg" width="600" alt="Acción futurista de mensajero en motocicleta">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27f61a1600fc68bf34a1465973355371/thumbnails/thumbnail.jpg" width="600" alt="Acción futurista de mensajero en motocicleta">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3772)**
 
@@ -944,7 +944,7 @@ Guiña el ojo izquierdo: “Supongo que estoy absuelto.”
 SFX: Rugido del viento en el cielo, estruendo masivo de impacto de palma, explosión de arena, voz divina grave con eco, destello de teletransporte, murmullo de la multitud de la arena aumentando hasta los vítores, tintineo de huesos esparcidos, sonidos de revuelo caótico, golpes rápidos de patadas, impactos cómicos de “golpe seco”, aplausos finales rugientes.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048765719027007488/img/Np0S2hunJV4IUkqJ.jpg" width="600" alt="Comedia de acción mítica: Wukong Cat">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72eae60cf53e4a2e4aa35d2a6158f0dd/thumbnails/thumbnail.jpg" width="600" alt="Comedia de acción mítica: Wukong Cat">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3781)**
 
@@ -963,7 +963,7 @@ SFX: Rugido del viento en el cielo, estruendo masivo de impacto de palma, explos
 Crea un [concepto de personaje] para un RPG 3A en Unreal Engine 5 inspirado en The First Descendant. Usando esta imagen del personaje como referencia, crea una animación de personaje en vivo en primer plano. [Añade aquí el diseño de acción de tu personaje.]
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048747688754307072/img/XUfYxH-bi2uTilRz.jpg" width="600" alt="Flujo de trabajo para animación de personajes en vivo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a447579ef12c6ff2f6cc1477e9109b8c/thumbnails/thumbnail.jpg" width="600" alt="Flujo de trabajo para animación de personajes en vivo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3789)**
 
@@ -1020,7 +1020,7 @@ Una escena cinematográfica ultra detallada de un campo de batalla en una selva 
 1. Primer plano: Un hombre saca rápidamente una pistola y apunta al objetivo. 2. Disparo: Acción de disparar, pero falla el objetivo y la bala pasa de largo. 3. Reacción de seguridad: Tres guardias de seguridad con traje corren rápidamente hacia el hombre. 4. Sometimiento: Los guardias agarran al hombre, lo inmovilizan en el suelo y le quitan la chaqueta; el movimiento es tenso y rápido. Tomas: Alternancia entre primeros planos y planos medios, ángulos bajos/planos de seguimiento para realzar la tensión del combate, acción coherente. Estilo: Estilo de renderizado de juego de acción realista.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048739036135919616/img/a7I71mo-ycSpw27F.jpg" width="600" alt="Secuencia de combate de juego de acción">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a4d0c1de03693c884aa277a2df63e2a/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de combate de juego de acción">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3788)**
 
@@ -1039,7 +1039,7 @@ Una escena cinematográfica ultra detallada de un campo de batalla en una selva 
 Comercial de perfume de lujo ultracinematográfico, elegante frasco de perfume sobre una superficie negra reflectante, haces de luz dorada, niebla en cámara lenta girando alrededor del frasco, tomas macro de los detalles del cristal y el brillo del líquido, movimiento de cámara dolly y rotación dramática, atomización del perfume en cámara lenta, modelo glamurosa en una escena de alta costura, telas fluidas, viento suave, iluminación rica y atmosférica, partículas flotantes, transiciones fluidas, estética de anuncio de fragancia premium, física realista, 4K fotorrealista, toma épica del frasco de perfume brillando al final.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048703265106284544/pu/img/tbWCSawBWjRLAv17.jpg" width="600" alt="Comercial cinematográfico de perfume de lujo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7377ccd23e06680023541e1b9e2fb5a5/thumbnails/thumbnail.jpg" width="600" alt="Comercial cinematográfico de perfume de lujo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3787)**
 
@@ -1068,7 +1068,7 @@ Plano final: coloca con orgullo el pastel en la encimera, añade crema batida y 
 Iluminación cinematográfica brillante, ambiente familiar acogedor, texturas de comida realistas, movimiento de cámara suave, profundidad de campo reducida, expresiones alegres, visuales 4K ultra detallados, ambiente conmovedor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048685192571990016/img/MoK1DvpCVmeajVUo.jpg" width="600" alt="Escena acogedora de repostería en la cocina">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c08a2651f3c51cc9c5610f5f8b313fba/thumbnails/thumbnail.jpg" width="600" alt="Escena acogedora de repostería en la cocina">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3782)**
 
@@ -1087,7 +1087,7 @@ Iluminación cinematográfica brillante, ambiente familiar acogedor, texturas de
 Un grupo de jóvenes ciclistas desciende a toda velocidad por una empinada ladera cubierta de hierba en bicicletas de montaña resistentes, en una toma de acción hiperrealista al estilo GoPro. Los neumáticos con tacos rebotan contra las rocas, la tierra explota hacia los lados y la hierba se desgarra bajo las ruedas mientras los ciclistas trazan líneas agresivas. La cámara avanza rápidamente en un ángulo de persecución dinámico que se entrelaza entre los ciclistas: las cadenas zumban, los neumáticos derrapan y estelas de polvo se levantan detrás de cada bicicleta. El líder se adelanta con el cuerpo bajo sobre el cuadro y los codos abiertos, mientras el sendero se estrecha hacia el borde de un acantilado masivo. El viento aúlla a través de las ventilaciones de los cascos. Justo antes del borde, paneles de carbono plegados se despliegan desde el cuadro de la bicicleta; alas aerodinámicas delgadas como navajas se abren con un chasquido mecánico seco, y propulsores de cohetes compactos bajo el tubo del asiento se encienden en un estallido de llamas azules y blancas, quemando la hierba debajo. Los ciclistas se lanzan hacia adelante y despegan desde el borde del acantilado. Un estallido sónico atraviesa el aire mientras las ruedas abandonan el suelo y las bicicletas entran en pleno vuelo, con los radios capturando la luz del sol como halos giratorios. La cámara sigue: persecución a alta velocidad por el sendero → picado frontal brusco en el borde del acantilado → perspectiva de caída libre que revuelve el estómago mostrando el vasto vacío → estabilización suave que se fija en las bicicletas planeando en formación por el aire. Muy abajo, un pueblo tranquilo se ve pequeño y distante. Luz del día brillante, colores vivos y saturados, colinas verdes exuberantes, cielo azul despejado. Intenso desenfoque de movimiento en los radios y los bordes del cuadro, compresión realista de la horquilla de suspensión, efecto de calor por los propulsores, destellos de lente de luz solar dura sobre los tubos de carbono y las llantas pulidas, viento tirando de los maillots contra los cuerpos de los ciclistas, tierra y guijarros congelados en el aire alrededor de los neumáticos. Cinematográfico, alta velocidad, acción y aventura, fotorrealista.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048684247704342528/pu/img/E7GraHjPitQztQGw.jpg" width="600" alt="Acción de MTB estilo GoPro hacia el vuelo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dfe15f0de4aa872046d4b1a44a59b2e6/thumbnails/thumbnail.jpg" width="600" alt="Acción de MTB estilo GoPro hacia el vuelo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3780)**
 
@@ -1135,7 +1135,7 @@ Retraen el planeador y aterrizan con una rodada controlada en una azotea inferio
 Produce un video cinematográfico de 15 segundos que capture un día nostálgico en la vida de una mujer joven, inspirado en los años 80. Adopta una atmósfera retro de ensueño utilizando grano de película suave, luz solar cálida y dorada, tonos pastel y toques de iluminación de neón sutil. Vístela con moda auténtica de los 80: chaquetas de mezclilla oversize, jeans de cintura alta, camisas holgadas, zapatillas vintage, coleteros y accesorios llamativos. Comienza con un momento matutino sereno: ella despierta en un dormitorio suavemente iluminado por el sol, con cortinas transparentes balanceándose suavemente con la brisa. Cambia a una toma de ella frente a un espejo, preparándose de manera informal: aplicando maquillaje ligero, ajustando su atuendo con expresiones naturales y espontáneas. Transiciona a una escena callejera vibrante bordeada de autos antiguos y escaparates retro, donde camina con calma y confianza. Pasa a un momento íntimo en el que escucha música en un reproductor de casetes, con auriculares puestos, ojos cerrados y totalmente absorta en el sonido. Muévete hacia un entorno acogedor de cafetería donde ella se sienta tranquilamente con una bebida, perdida en sus pensamientos. Continúa con un paseo en bicicleta sin preocupaciones, con el viento fluyendo por su cabello, bañada por la luz solar dorada. Al caer la tarde, muéstrala riendo con amigos bajo un cálido atardecer, capturando una alegría genuina y espontánea. Termina con una escena nocturna pacífica: ella se sienta junto a una ventana, con las luces de la ciudad brillando suavemente con un ambiente de neón tenue, reflejando un estado de ánimo tranquilo e introspectivo. Utiliza movimientos de cámara fluidos, cámara lenta ocasional para resaltar momentos emocionales y una mezcla de planos generales, primeros planos y ángulos POV. Enfócate en la autenticidad, la iluminación suave y un tono nostálgico cohesivo en todo momento. Evita cualquier texto, logotipo o marca.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048661096714969088/pu/img/VtbX4ojILhM37xBK.jpg" width="600" alt="Montaje de estilo de vida retro de los años 80">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70e90dfd848023d799fcd12c4a527d5e/thumbnails/thumbnail.jpg" width="600" alt="Montaje de estilo de vida retro de los años 80">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3776)**
 
@@ -1154,7 +1154,7 @@ Produce un video cinematográfico de 15 segundos que capture un día nostálgico
 Una joven con uniforme escolar se encuentra en un pasillo bien iluminado. Extiende su mano, generando una energía mágica azul brillante que conjura una gran máquina expendedora dorada. Usando un rayo de la misma energía mágica, atrae hacia su mano una lata etiquetada como 'CREATIVE JUICE' desde la máquina. Abre la lata y bebe. De repente, la escena cambia y ahora ella es una glamurosa estrella del pop actuando en un escenario masivo. Canta frente a un micrófono, respaldada por una gran multitud que vitorea y sostiene varitas luminosas. El escenario presenta una elaborada iluminación dorada y diseños circulares. En primer plano del escenario, se exhibe una lata gigante de 'CREATIVE JUICE'. El video termina con una toma de la lata gigante rodeada por el texto 'UNLEASH YOUR CREATIVITY'.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048643752550621184/pu/img/xlZGTbAnymxlb4pn.jpg" width="600" alt="Transformación mágica en la máquina expendedora">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cc4d26bcaa9f6dc5bc22032694e576a9/thumbnails/thumbnail.jpg" width="600" alt="Transformación mágica en la máquina expendedora">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3774)**
 
@@ -1214,7 +1214,7 @@ Se gira bruscamente: ve un maletín grande de francotirador colocado bajo un tan
 Corre hacia él mientras otra bala impacta detrás de él.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048628631854043136/pu/img/F7UYdfNl3gmuCUNz.jpg" width="600" alt="Secuencia de acción de parkour en São Paulo">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/592b42cbfbd20f100fa7b45f337fc8c4/thumbnails/thumbnail.jpg" width="600" alt="Secuencia de acción de parkour en São Paulo">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3786)**
 
@@ -1250,7 +1250,7 @@ Movimiento: Natural, minimalista, realista
 Audio (opcional): Sonidos ambientales suaves de noche, música de fondo tenue
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048625315212390401/pu/img/3wDlPYWAuaMOgw6x.jpg" width="600" alt="Prompt narrativo para una rutina diaria tranquila">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/554bd2391118e247e411a9e242926981/thumbnails/thumbnail.jpg" width="600" alt="Prompt narrativo para una rutina diaria tranquila">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3791)**
 
@@ -1329,7 +1329,7 @@ Control establecido
 Fin
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2048591880775159809/pu/img/sZik6_nHywtyGOEl.jpg" width="600" alt="Prompt de video de streetwear urbano hiperdinámico">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/86288a71abe2a868b61f8bbdf2d9dd5f/thumbnails/thumbnail.jpg" width="600" alt="Prompt de video de streetwear urbano hiperdinámico">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3762)**
 
@@ -1348,7 +1348,7 @@ Fin
 Esta es una animación de cambio de habilidad activada por un clic en la interfaz de usuario del juego. El estado inicial es la interfaz de equipamiento, con 'Wind and Thunder Wings' seleccionado actualmente. ——Activador—— El usuario hace clic en el botón de habilidad 'Great Geng Sword Array' en la interfaz: El botón genera una respuesta: ligero escalado (sensación de presión), resaltado brillante, aparición de ondas de energía, mientras el estado de la interfaz realiza la transición:
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048576670660173824/img/zjc15VDuppJ2O-eT.jpg" width="600" alt="Animación de selección de habilidades en la interfaz de usuario del juego">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3d0fb7edc00a30039f2095dee465dcce/thumbnails/thumbnail.jpg" width="600" alt="Animación de selección de habilidades en la interfaz de usuario del juego">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3794)**
 
@@ -1987,7 +1987,7 @@ El coche sale volando y explota.
 Ambos corren por la carretera con sonrisas en sus rostros.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048372612443893760/img/ZCCw6G6fpq0H1Atc.jpg" width="600" alt="Superpoderes de setas y flores en un tren">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d2dcae9334eb215d6ef301ea6bb5e72/thumbnails/thumbnail.jpg" width="600" alt="Superpoderes de setas y flores en un tren">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3728)**
 
@@ -2346,7 +2346,7 @@ Estilo visual: fotografía espontánea de iPhone, nostalgia de carrete de fotos 
 Reglas importantes: no muestres la cuadrícula original, no crees un collage, no añadas texto, no añadas marcas de agua, no introduzcas personas nuevas, no hagas que parezcan modelos de moda, no lo hagas demasiado cinematográfico, no hagas que la cámara sea demasiado fluida, no cambies sus identidades entre tomas. Manténlo íntimo, desordenado, romántico y emocionalmente real.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2048247446938263552/img/KKg0cs8BEWyHGxpD.jpg" width="600" alt="Videoclip musical nostálgico de indie-pop grabado con iPhone">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9fe3317aeb239aff67d01b8c526c8adf/thumbnails/thumbnail.jpg" width="600" alt="Videoclip musical nostálgico de indie-pop grabado con iPhone">
 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=3739)**
 
@@ -3682,6 +3682,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-28T06:54:31.782Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-04-28T10:30:52.871Z</sub>
 
 </div>
