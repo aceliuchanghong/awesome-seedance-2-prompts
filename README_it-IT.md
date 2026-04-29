@@ -361,503 +361,503 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### Character Intro Motion Graphics Sequence
+### Sequenza di motion graphics per l'introduzione dei personaggi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex, multi-stage motion graphics prompt for introducing a team of characters with specific UI overlays and transitions, designed for the Seedance 2.0 model.
+> Un complesso prompt di motion graphics a più fasi per introdurre un team di personaggi con overlay dell'interfaccia utente e transizioni specifiche, progettato per il modello Seedance 2.0.
 
 #### 📝 Prompt
 
 ```
-Based on the three characters in the reference images. High definition, Unreal Engine rendering, cinematic quality, candy-colored palette, Japanese-style aesthetics, artistic, with strong sense of rhythm.
+Basato sui tre personaggi nelle immagini di riferimento. Alta definizione, rendering Unreal Engine, qualità cinematografica, palette dai colori vivaci, estetica in stile giapponese, artistico, con un forte senso del ritmo.
 
-0–2s: Empty scene, a small dot at the center, thin-line UI frame, subtle particles. Text: “STATUS: STANDBY” “SYSTEM: INIT”.
+0–2s: Scena vuota, un piccolo punto al centro, cornice dell'interfaccia a linee sottili, particelle sottili. Testo: “STATUS: STANDBY” “SYSTEM: INIT”.
 
-2–4s: The fox on the left from image2 appears, riding a hovering skateboard, waves toward the camera. Curved motion trails behind. Text: “ID: 01” “CODENAME: RED” “ROLE: TACTICIAN”.
+2–4s: Appare la volpe a sinistra dall'immagine2, su uno skateboard fluttuante, saluta verso la telecamera. Scie di movimento curve dietro di essa. Testo: “ID: 01” “CODENAME: RED” “ROLE: TACTICIAN”.
 
-4–6s: The rabbit on the right from image1 appears, swings a carrot weapon and takes a combat stance. Circular motion trails. Text: “ID: 02” “CODENAME: KANA” “ROLE: EXECUTIONER” “WEAPON: CARROT”.
+4–6s: Appare il coniglio a destra dall'immagine1, brandisce un'arma a forma di carota e assume una posizione di combattimento. Scie di movimento circolari. Testo: “ID: 02” “CODENAME: KANA” “ROLE: EXECUTIONER” “WEAPON: CARROT”.
 
-6–8s: The corgi from image3 appears, looks left and right, showing a simple, friendly smile. Concentric circle UI under its feet. Text: “ID: 03” “CODENAME: Arthur” “ROLE: COMMANDER”.
+6–8s: Appare il corgi dall'immagine3, guarda a destra e a sinistra, mostrando un sorriso semplice e amichevole. Interfaccia a cerchi concentrici sotto le sue zampe. Testo: “ID: 03” “CODENAME: Arthur” “ROLE: COMMANDER”.
 
-8–15s: The three characters align horizontally, from left to right: FIREBIRD, SAGE, MAD RABBIT. Snap alignment, unified circular platform beneath. Text: “SYSTEM SYNC COMPLETE” “UNIT READY”. Add UI overlay to each character: tracking frames, data bars, simplified charts. Text: “TRACKING” “ANALYSIS” “LOCKED”.
+8–15s: I tre personaggi si allineano orizzontalmente, da sinistra a destra: FIREBIRD, SAGE, MAD RABBIT. Allineamento a scatto, piattaforma circolare unificata sotto di loro. Testo: “SYSTEM SYNC COMPLETE” “UNIT READY”. Aggiungi overlay dell'interfaccia a ogni personaggio: frame di tracciamento, barre dati, grafici semplificati. Testo: “TRACKING” “ANALYSIS” “LOCKED”.
 
-Large title “CHAOS UNIT” appears, breaking into geometric fragments that expand outward. Text: “SYSTEM ERROR” “DATA BREAK”. The fragments then reassemble into “CHAOS UNIT”, centered layout with subtle circular guide lines. Text: “REBUILD COMPLETE” “SYSTEM ONLINE” “KANAWORKS_AI”.
+Appare il grande titolo “CHAOS UNIT”, che si frammenta in pezzi geometrici che si espandono verso l'esterno. Testo: “SYSTEM ERROR” “DATA BREAK”. I frammenti si ricompongono poi in “CHAOS UNIT”, layout centrato con sottili linee guida circolari. Testo: “REBUILD COMPLETE” “SYSTEM ONLINE” “KANAWORKS_AI”.
 
-Final frame: “CHAOS UNIT” at the top, the three characters standing side by side below, with a clean circular platform at the bottom. Text: “STATUS: LOCKED” “UNIT: ACTIVE”.
+Frame finale: “CHAOS UNIT” in alto, i tre personaggi in piedi fianco a fianco sotto, con una piattaforma circolare pulita in basso. Testo: “STATUS: LOCKED” “UNIT: ACTIVE”.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7697b00e2a3cb0ecb91273a772eda39/thumbnails/thumbnail.jpg" width="600" alt="Character Intro Motion Graphics Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7697b00e2a3cb0ecb91273a772eda39/thumbnails/thumbnail.jpg" width="600" alt="Sequenza di motion graphics per l'introduzione dei personaggi">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3818)**
 
 **Autore:** [KANA](https://x.com/KanaWorks_AI) | **Fonte:** [Link](https://x.com/KanaWorks_AI/status/2049281443956974029) | **Pubblicato:** Apr 29, 2026
 
 ---
-### Cinematic Marine Biologist Exploration
+### Esplorazione cinematografica di un biologo marino
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt for an underwater scene featuring a marine biologist discovering an ancient shipwreck in a coral reef.
+> Un prompt video cinematografico dettagliato per una scena subacquea che mostra un biologo marino alla scoperta di un antico relitto in una barriera corallina.
 
 #### 📝 Prompt
 
 ```
-A marine biologist in a sleek wetsuit swims through the vibrant coral reefs of the Great Barrier Reef. At the 3-second mark, he dives deeper to approach an ancient shipwreck. The camera follows him as schools of colorful fish dart around. He retrieves a mysterious artifact from the wreck just as a curious shark glides by.
-Underwater ruins, coral reef exploration, ancient artifact retrieval, marine life encounter, cinematic underwater lighting, 4K.
+Un biologo marino con una muta elegante nuota tra le vivaci barriere coralline della Grande Barriera Corallina. Al terzo secondo, si immerge più in profondità per avvicinarsi a un antico relitto. La telecamera lo segue mentre banchi di pesci colorati sfrecciano intorno. Recupera un misterioso artefatto dal relitto proprio mentre uno squalo curioso gli passa accanto.
+Rovine sottomarine, esplorazione della barriera corallina, recupero di antichi artefatti, incontro con la vita marina, illuminazione subacquea cinematografica, 4K.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4394ac601188eb66755d2c92451665c6/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Marine Biologist Exploration">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4394ac601188eb66755d2c92451665c6/thumbnails/thumbnail.jpg" width="600" alt="Esplorazione cinematografica di un biologo marino">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3817)**
 
 **Autore:** [LudovicCreator](https://x.com/LudovicCreator) | **Fonte:** [Link](https://x.com/LudovicCreator/status/2049190693550055726) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Magical Academy Storyboard Sequence
+### Sequenza di storyboard dell'Accademia Magica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed storyboard-style prompt for a cinematic sequence depicting a magical girl at an academy, covering arrival, discovery of power, and a magical duel.
+> Un prompt dettagliato in stile storyboard per una sequenza cinematografica che ritrae una ragazza magica in un'accademia, coprendo l'arrivo, la scoperta del potere e un duello magico.
 
 #### 📝 Prompt
 
 ```
-0s – 4s (Arrival at the Academy)
-A massive gothic magical academy appears above floating cliffs, surrounded by storm clouds and glowing runes. The girl walks through the grand iron gates. Her expression is calm but curious. Floating spell books drift around the entrance. Cinematic slow push-in shot, mist and dramatic lighting.
+0s – 4s (Arrivo all'Accademia)
+Un'imponente accademia magica gotica appare sopra scogliere fluttuanti, circondata da nuvole temporalesche e rune luminose. La ragazza cammina attraverso i grandi cancelli di ferro. La sua espressione è calma ma curiosa. Libri di incantesimi fluttuanti vanno alla deriva attorno all'ingresso. Ripresa cinematografica con zoom in lento, nebbia e illuminazione drammatica.
 
-4s – 8s (The Forbidden Core Reveal)
-Inside a grand hall, students channel elemental magic. The girl stands still as her “sealed magical core” reacts. Dark energy briefly flickers around her chest, but she doesn’t collapse like others would. The academy masters observe in shock. Close-up on her face with glowing rune reflections in her eyes.
+4s – 8s (La rivelazione del Nucleo Proibito)
+All'interno di una grande sala, gli studenti incanalano la magia elementale. La ragazza resta ferma mentre il suo "nucleo magico sigillato" reagisce. Un'energia oscura brilla brevemente attorno al suo petto, ma lei non crolla come farebbero gli altri. I maestri dell'accademia osservano scioccati. Primo piano sul suo viso con i riflessi delle rune luminose nei suoi occhi.
 
-8s – 12s (Soul-Binding Lesson)
-In a floating classroom, chains of light connect students’ souls to magical entities. The girl absorbs a forbidden spell instead of being harmed. The spell dissolves into her body safely. Books levitate violently around her. Slow-motion, cinematic orbit camera around her.
+8s – 12s (Lezione di legame dell'anima)
+In un'aula fluttuante, catene di luce collegano le anime degli studenti a entità magiche. La ragazza assorbe un incantesimo proibito invece di esserne danneggiata. L'incantesimo si dissolve nel suo corpo senza pericoli. I libri levitano violentemente attorno a lei. Rallentatore, cinepresa orbitale cinematografica attorno a lei.
 
-12s – 16s (Forbidden Power Awakens)
-A sudden magical duel breaks out. She steps forward and releases a silent wave of forbidden magic. Reality bends slightly around her. Runes explode into glowing fragments in the air. The academy freezes in awe as her power stabilizes. Final shot: her standing alone under floating spell books, softly glowing.
+12s – 16s (Il risveglio del potere proibito)
+Scoppia improvvisamente un duello magico. Lei si fa avanti e rilascia un'onda silenziosa di magia proibita. La realtà si piega leggermente attorno a lei. Le rune esplodono in frammenti luminosi nell'aria. L'accademia si blocca per lo stupore mentre il suo potere si stabilizza. Inquadratura finale: lei che sta sola sotto i libri di incantesimi fluttuanti, che brillano dolcemente.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c81825485052d7aff4ee2af086c7f307/thumbnails/thumbnail.jpg" width="600" alt="Magical Academy Storyboard Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c81825485052d7aff4ee2af086c7f307/thumbnails/thumbnail.jpg" width="600" alt="Sequenza di storyboard dell'Accademia Magica">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3823)**
 
 **Autore:** [Soulful Ai](https://x.com/soulful__ai) | **Fonte:** [Link](https://x.com/soulful__ai/status/2049186700199620777) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Traditional Dance Performance
+### Performance di danza tradizionale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for Seedance 2.0 to generate a graceful traditional dance based on choreography and identity reference images.
+> Un prompt video completo per Seedance 2.0 per generare un'aggraziata danza tradizionale basata su immagini di riferimento per la coreografia e l'identità.
 
 #### 📝 Prompt
 
 ```
-Use the first reference image as the exact choreography and motion-process guide. Use the second reference image as the identity reference for the adult woman dancer.
+Utilizza la prima immagine di riferimento come guida precisa per la coreografia e il movimento. Utilizza la seconda immagine di riferimento come riferimento per l'identità della ballerina adulta.
 
-Create a graceful traditional dance performance that follows all 16 illustrated steps in order, from the confident opening pose to the respectful closing pose. The dancer performs with poised posture, soft knee bends, precise cross steps, elegant wrist waves, curved fingers, shoulder accents, hip sways, flowing turns, and expressive selendang sweeps.
+Crea un'aggraziata performance di danza tradizionale che segua tutti i 16 passaggi illustrati in ordine, dalla posa di apertura sicura alla posa di chiusura rispettosa. La ballerina si esibisce con una postura composta, leggere flessioni delle ginocchia, passi incrociati precisi, eleganti movimenti dei polsi, dita curve, accenti delle spalle, oscillazioni dei fianchi, giri fluidi e movimenti espressivi del selendang.
 
-Keep the camera in a clean full-body cinematic frame, mostly front-facing, with slow controlled movement that supports the dance instead of distracting from it. During the left and right turns, allow a subtle circular camera drift, then return to a centered frontal composition. The dancer’s hands, feet, facial expression, and selendang fabric must remain visible throughout.
+Mantieni la telecamera su un'inquadratura cinematografica a figura intera pulita, prevalentemente frontale, con un movimento lento e controllato che supporti la danza senza distrarre. Durante i giri a destra e a sinistra, consenti un leggero spostamento circolare della telecamera, per poi tornare a una composizione frontale centrata. Le mani, i piedi, l'espressione facciale e il tessuto del selendang della ballerina devono rimanere visibili per tutta la durata.
 
-Use soft studio lighting, refined contrast, and a calm traditional performance atmosphere. The motion should feel smooth, rhythmic, respectful, and feminine, with the selendang floating naturally as the dancer glides forward and backward. End on a still closing pose with hands at the heart, peaceful smile, and elegant silence.
+Utilizza un'illuminazione da studio soffusa, un contrasto raffinato e un'atmosfera calma tipica di una performance tradizionale. Il movimento deve risultare fluido, ritmico, rispettoso e femminile, con il selendang che fluttua naturalmente mentre la ballerina scivola in avanti e all'indietro. Concludi con una posa finale statica con le mani al cuore, un sorriso sereno e un'elegante silenziosità.
 ```
 
-<img src="https://pbs.twimg.com/media/HHAdco5aQAAtTCa.jpg" width="600" alt="Traditional Dance Performance">
+<img src="https://pbs.twimg.com/media/HHAdco5aQAAtTCa.jpg" width="600" alt="Performance di danza tradizionale">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3810)**
 
 **Autore:** [Sydney](https://x.com/XSydneyFan) | **Fonte:** [Link](https://x.com/XSydneyFan/status/2049170241247449316) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Ancient Indian Kingdom FPV Video
+### Video FPV di un antico regno indiano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced FPV drone-style cinematic prompt depicting a mystical Indian kingdom with temples and jungles.
+> Un prompt cinematografico in stile drone FPV dal ritmo incalzante che ritrae un mistico regno indiano con templi e giungle.
 
 #### 📝 Prompt
 
 ```
-extremely fast-paced cinematic FPV flying through the ancient Indian Dandaka kingdom, dense mystical forests, towering sal and teak trees, tribal settlements, ancient ashrams, sages meditating, wildlife moving through fog, dramatic sunlight rays piercing canopy, rivers cutting through rugged terrain, ruined temples covered in vines, hyper-realistic textures, high-speed aerial dives and sharp turns, immersive depth, volumetric lighting, earthy tones, epic scale, realism, cinematic color grading, smooth stabilization, ultra-detailed environment, intense atmosphere
+volo FPV cinematografico estremamente veloce attraverso l'antico regno indiano di Dandaka, fitte foreste mistiche, imponenti alberi di sal e teak, insediamenti tribali, antichi ashram, saggi in meditazione, fauna selvatica che si muove tra la nebbia, drammatici raggi di sole che filtrano attraverso la volta arborea, fiumi che tagliano terreni accidentati, templi in rovina coperti di rampicanti, texture iperrealistiche, picchiate aeree ad alta velocità e curve strette, profondità immersiva, illuminazione volumetrica, toni della terra, scala epica, realismo, color grading cinematografico, stabilizzazione fluida, ambiente ultra-dettagliato, atmosfera intensa
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/146717bc1b96541c0da02f0ba053b9c3/thumbnails/thumbnail.jpg" width="600" alt="Ancient Indian Kingdom FPV Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/146717bc1b96541c0da02f0ba053b9c3/thumbnails/thumbnail.jpg" width="600" alt="Video FPV di un antico regno indiano">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3820)**
 
 **Autore:** [Shushant Lakhyani](https://x.com/shushant_l) | **Fonte:** [Link](https://x.com/shushant_l/status/2049141805233672529) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Toaster Rocket Jumpscare
+### Jumpscare del tostapane a razzo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a realistic home-video style shot of an old man being jumpscared by a toaster launching bread like a rocket.
+> Un prompt per un'inquadratura in stile video amatoriale realistico di un anziano spaventato da un tostapane che lancia il pane come un razzo.
 
 #### 📝 Prompt
 
 ```
-A realistic shot of an old man in a cozy kitchen being jumpscared when his toaster launches the bread five feet into the air like a rocket. Handheld "home video" style capturing his genuine look of shock and the bread hitting the ceiling.A realistic shot of an old man in a cozy kitchen being jumpscared when his toaster launches the bread five feet into the air like a rocket. Handheld "home video" style capturing his genuine look of shock and the bread hitting the ceiling.
+Un'inquadratura realistica di un anziano in una cucina accogliente che viene colto di sorpresa quando il suo tostapane lancia il pane a un metro e mezzo di altezza come un razzo. Stile "video amatoriale" girato a mano che cattura la sua espressione di vero shock e il pane che colpisce il soffitto. Un'inquadratura realistica di un anziano in una cucina accogliente che viene colto di sorpresa quando il suo tostapane lancia il pane a un metro e mezzo di altezza come un razzo. Stile "video amatoriale" girato a mano che cattura la sua espressione di vero shock e il pane che colpisce il soffitto.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbf9f399fd8f4905a62661966d937ba8/thumbnails/thumbnail.jpg" width="600" alt="Toaster Rocket Jumpscare">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbf9f399fd8f4905a62661966d937ba8/thumbnails/thumbnail.jpg" width="600" alt="Jumpscare del tostapane a razzo">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3831)**
 
 **Autore:** [Marin](https://x.com/MarinMethod) | **Fonte:** [Link](https://x.com/MarinMethod/status/2049140113343394003) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Wasteland Factory Chase
+### Inseguimento alla fabbrica nella terra desolata
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for a high-speed desert wasteland scene featuring a moving industrial factory on legs and a rebel bike chase.
+> Un prompt cinematografico per una scena ad alta velocità in una terra desolata, con una fabbrica industriale semovente su gambe meccaniche e un inseguimento in moto dei ribelli.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic desert horizon. A gigantic industrial factory moving on mechanical legs crosses the wasteland like a living city. Female rebel riding a fast bike toward it. Scrap armor forms from metal debris. Defense drones launch from the machine. Camera chases beside hoverbike at high speed. She jumps from bike onto a drone, smashes it, lands on the walking factory. Final frame: towering machine blocks the sun.
+Orizzonte desertico ultra-realistico. Una gigantesca fabbrica industriale che si muove su gambe meccaniche attraversa la terra desolata come una città vivente. Una ribelle in sella a una moto veloce si dirige verso di essa. Un'armatura di fortuna si forma dai detriti metallici. Droni di difesa vengono lanciati dalla macchina. La telecamera insegue la moto a levitazione ad alta velocità. Lei salta dalla moto su un drone, lo distrugge e atterra sulla fabbrica semovente. Inquadratura finale: l'imponente macchina oscura il sole.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c00999fd2444b7303984afe02b739e64/thumbnails/thumbnail.jpg" width="600" alt="Wasteland Factory Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c00999fd2444b7303984afe02b739e64/thumbnails/thumbnail.jpg" width="600" alt="Inseguimento alla fabbrica nella terra desolata">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3815)**
 
 **Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2049132779288322134) | **Pubblicato:** Apr 28, 2026
 
 ---
-### 3D Animated Boy Building Lego
+### Ragazzo in animazione 3D che costruisce Lego
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-shot video prompt in 3D animation style describing a boy carefully assembling Lego pieces in a room, featuring time-lapse effects.
+> Un prompt video multi-inquadratura in stile animazione 3D che descrive un ragazzo che assembla con cura pezzi Lego in una stanza, con effetti time-lapse.
 
 #### 📝 Prompt
 
 ```
-Scene: A boy in a room seriously assembling Lego blocks. The visual style is 3D animation with vibrant colors, smooth lines, full of childlike fun and vitality. A time-lapse effect is added to show the assembly process.
-Scene: Wide shot of the room, sunlight spilling onto the desk through the window. The boy sits at the desk focused on assembling Lego, with a serious expression. The camera slowly zooms in.
-Scene: Time-lapse effect showing the boy quickly snapping Lego pieces together, the blocks gradually taking shape in his hands. The camera switches to different angles.
-Scene: Close-up of hands, showing details of the boy skillfully assembling Lego, fingers moving nimbly. The camera follows the hand movements.
-Scene: Time-lapse effect continues showing the assembly process. The Lego creation becomes complete, and the boy's expression changes from focused to satisfied.
-Scene: The boy looks up with a satisfied smile. The camera pulls back to reveal the finished Lego masterpiece.
+Scena: Un ragazzo in una stanza che assembla seriamente dei mattoncini Lego. Lo stile visivo è un'animazione 3D dai colori vivaci e linee fluide, ricca di vitalità e divertimento infantile. Viene aggiunto un effetto time-lapse per mostrare il processo di assemblaggio.
+Scena: Inquadratura ampia della stanza, la luce del sole filtra dalla finestra sulla scrivania. Il ragazzo è seduto alla scrivania concentrato sull'assemblaggio dei Lego, con un'espressione seria. La telecamera zooma lentamente.
+Scena: Effetto time-lapse che mostra il ragazzo mentre incastra rapidamente i pezzi Lego; i mattoncini prendono forma gradualmente tra le sue mani. La telecamera cambia diverse angolazioni.
+Scena: Primo piano delle mani, che mostra i dettagli del ragazzo che assembla abilmente i Lego, con le dita che si muovono agilmente. La telecamera segue i movimenti delle mani.
+Scena: L'effetto time-lapse continua mostrando il processo di assemblaggio. La creazione Lego viene completata e l'espressione del ragazzo passa da concentrata a soddisfatta.
+Scena: Il ragazzo alza lo sguardo con un sorriso soddisfatto. La telecamera si allontana per rivelare il capolavoro Lego finito.
 
-Duration: 00:20
+Durata: 00:20
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2dba80d5da706c3ea078ed69096c67d3/thumbnails/thumbnail.jpg" width="600" alt="3D Animated Boy Building Lego">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2dba80d5da706c3ea078ed69096c67d3/thumbnails/thumbnail.jpg" width="600" alt="Ragazzo in animazione 3D che costruisce Lego">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3833)**
 
 **Autore:** [Alex Zhang](https://x.com/jojogh_007) | **Fonte:** [Link](https://x.com/jojogh_007/status/2049123558102810714) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Cinematic Emotional Face Close-up
+### Primo piano cinematografico di un volto emozionale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed technical prompt for Seedance 2.0 focusing on realistic skin textures and a series of complex emotional facial transitions.
+> Un prompt tecnico altamente dettagliato per Seedance 2.0, focalizzato su texture cutanee realistiche e una serie di complesse transizioni facciali emozionali.
 
 #### 📝 Prompt
 
 ```
-A realistic human face with highly detailed skin texture, pores, and micro-musculature. Scene: Tight portrait close-up against a dark, void-like background. Style: Cinematic realism, 35mm film aesthetic, shallow depth of field with soft bokeh, moody and introspective. Lighting: Dynamic emotional lighting that shifts in color temperature and direction to match the internal state. Audio: Ambient atmospheric drone, soft rhythmic breathing, subtle emotional orchestral swells. Avoid: Identity drift, jitter, distorted limbs, unnatural morphing artifacts. [0-3s] Camera: Slow, imperceptible push-in. Action: The face breaks into a genuine, soft smile; eyes crinkle at the corners and the cheeks lift. Lighting: Warm golden-hour glow, soft and frontal. Vfx: Subtle lens flare. [3-6s] Camera: Static extreme close-up. Action: The smile dissolves into a heavy, downward curve; eyes well up with glistening tears that catch the light, and the lower lip trembles. Lighting: Transition to a cool, melancholy blue wash from above. [6-9s] Camera: Controlled lateral pan. Action: The brow furrows deeply into a sharp V-shape; the jaw clenches visibly, and nostrils flare with rhythmic, heavy breathing. Lighting: Harsh, high-contrast red and orange side-lighting creating deep shadows. [9-12s] Camera: Subtle handheld micro-shake for tension. Action: The eyes snap wide, pupils dilating; the face pales as the muscles go taut, and the mouth hangs slightly open in a shallow gasp. Lighting: Dim, desaturated, flickering low-key light. [12-15s] Camera: Gentle pull-out to a medium close-up. Action: All tension drains from the face; the eyes slowly close, and the features settle into a mask of perfect, serene stillness. Lighting: Soft, diffused white light enveloping the subject like a halo.
+Un volto umano realistico con texture della pelle, pori e micro-muscolatura altamente dettagliati. Scena: Primo piano stretto su sfondo scuro, simile al vuoto. Stile: Realismo cinematografico, estetica da pellicola 35mm, profondità di campo ridotta con bokeh morbido, suggestivo e introspettivo. Illuminazione: Illuminazione emozionale dinamica che varia in temperatura di colore e direzione per adattarsi allo stato interiore. Audio: Drone atmosferico ambientale, respiro ritmico soffuso, sottili crescendo orchestrali emozionali. Da evitare: Deriva dell'identità, jitter, arti distorti, artefatti di morphing innaturali. [0-3s] Camera: Zoom in lento e impercettibile. Azione: Il volto si apre in un sorriso genuino e accennato; gli occhi si increspano agli angoli e le guance si sollevano. Illuminazione: Bagliore caldo dell'ora d'oro, morbido e frontale. Vfx: Sottile lens flare. [3-6s] Camera: Primo piano estremo statico. Azione: Il sorriso si dissolve in una curva pesante verso il basso; gli occhi si riempiono di lacrime lucenti che catturano la luce e il labbro inferiore trema. Illuminazione: Transizione verso un freddo blu malinconico proveniente dall'alto. [6-9s] Camera: Panoramica laterale controllata. Azione: La fronte si corruga profondamente in una forma a V netta; la mascella si contrae visibilmente e le narici si dilatano con un respiro ritmico e pesante. Illuminazione: Illuminazione laterale rossa e arancione, dura e ad alto contrasto, che crea ombre profonde. [9-12s] Camera: Sottile micro-vibrazione a mano per aumentare la tensione. Azione: Gli occhi si spalancano, le pupille si dilatano; il volto impallidisce mentre i muscoli si tendono e la bocca rimane leggermente aperta in un respiro affannato. Illuminazione: Luce soffusa, desaturata e tremolante a bassa intensità. [12-15s] Camera: Delicato zoom out verso un piano medio. Azione: Tutta la tensione svanisce dal volto; gli occhi si chiudono lentamente e i lineamenti si distendono in una maschera di perfetta e serena immobilità. Illuminazione: Luce bianca morbida e diffusa che avvolge il soggetto come un alone.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a47ba646e7cedd79363c861864b8714/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Emotional Face Close-up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a47ba646e7cedd79363c861864b8714/thumbnails/thumbnail.jpg" width="600" alt="Primo piano cinematografico di un volto emozionale">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3830)**
 
 **Autore:** [Ai Doctor](https://x.com/DoctorAmna11) | **Fonte:** [Link](https://x.com/DoctorAmna11/status/2049119918755283014) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Soul-Switching Mirror Magic Sequence
+### Sequenza magica dello specchio: lo scambio delle anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative video prompt describing a magical soul-switching event at a mirror, with specific camera instructions and emotional cues for each segment.
+> Un prompt video narrativo che descrive un magico evento di scambio di anime davanti a uno specchio, con istruzioni specifiche per la telecamera e spunti emotivi per ogni segmento.
 
 #### 📝 Prompt
 
 ```
-0s – 4s (Opening Mystery)
-A hidden magical kingdom under heavy rain at night. The girl stands beside a glowing water mirror in an ancient palace courtyard. Blue magical fog surrounds her. The water reflects faint glowing runes. She slowly reaches toward the reflection.
-Camera: Slow push-in close-up, cinematic depth of field
-Mood: Mysterious, calm tension, soft rain sounds
+0s – 4s (Mistero iniziale)
+Un regno magico nascosto sotto una pioggia battente durante la notte. La ragazza si trova accanto a uno specchio d'acqua luminescente nel cortile di un antico palazzo. Una nebbia magica blu la circonda. L'acqua riflette deboli rune luminose. Lei allunga lentamente la mano verso il riflesso.
+Camera: Lento push-in in primo piano, profondità di campo cinematografica
+Atmosfera: Misteriosa, tensione calma, suoni di pioggia leggera
 
-4s – 8s (Soul Switch Event)
-Her fingers touch the water reflection suddenly the surface shatters into glowing blue energy. A magical pulse spreads. Her eyes flash with light as her soul violently switches with the crown prince.
-Camera: Fast magical shockwave transition, close-up eye zoom
-VFX: Soul transfer glow, water turning into floating light particles
-Mood: Intense, dramatic awakening
+4s – 8s (Evento dello scambio dell'anima)
+Le sue dita toccano il riflesso nell'acqua e improvvisamente la superficie si frantuma in un'energia blu brillante. Un impulso magico si diffonde. I suoi occhi brillano di luce mentre la sua anima si scambia violentemente con quella del principe ereditario.
+Camera: Transizione rapida con onda d'urto magica, zoom in primo piano sugli occhi
+VFX: Bagliore del trasferimento dell'anima, acqua che si trasforma in particelle di luce fluttuanti
+Atmosfera: Intensa, risveglio drammatico
 
-8s – 12s (Living as the Prince)
-Now inside the crown prince’s body (her consciousness), she stands in a royal throne room. Nobles bow before her, unaware of the switch. She struggles to act like him while hiding panic. Subtle expressions of confusion and fear.
-Camera: Slow tracking shot through palace hall
-Lighting: Cold golden royal lighting with shadows
-Mood: Suspense, identity tension, hidden fear
+8s – 12s (Vivere come il principe)
+Ora nel corpo del principe ereditario (con la sua coscienza), lei si trova nella sala del trono reale. I nobili si inchinano al suo cospetto, ignari dello scambio. Lei fatica a comportarsi come lui cercando di nascondere il panico. Espressioni sottili di confusione e paura.
+Camera: Lento carrello attraverso la sala del palazzo
+Illuminazione: Fredda luce reale dorata con ombre
+Atmosfera: Suspense, tensione identitaria, paura nascosta
 
-12s – 16s (Hidden Truth + Cliffhanger)
-Back in the courtyard mirror, the prince (in her body) looks back at her real form from the reflection. The magical water starts cracking again, suggesting unstable soul connection. Blue energy rises violently.
+12s – 16s (Verità nascosta + Cliffhanger)
+Di nuovo nello specchio del cortile, il principe (nel corpo di lei) guarda la sua vera forma dal riflesso. L'acqua magica inizia a incrinarsi di nuovo, suggerendo una connessione instabile tra le anime. L'energia blu si solleva violentemente.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e614b54b8f60956db3cd9cb765db1d09/thumbnails/thumbnail.jpg" width="600" alt="Soul-Switching Mirror Magic Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e614b54b8f60956db3cd9cb765db1d09/thumbnails/thumbnail.jpg" width="600" alt="Sequenza magica dello specchio: lo scambio delle anime">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3824)**
 
 **Autore:** [Soulful Ai](https://x.com/soulful__ai) | **Fonte:** [Link](https://x.com/soulful__ai/status/2049094162134532477) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Animation transfer and camera tracking prompt
+### Prompt per il trasferimento di animazione e il tracciamento della telecamera
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for Seedance 2.0 that applies a specific motion reference to a character while maintaining fixed camera tracking.
+> Un prompt tecnico per Seedance 2.0 che applica un riferimento di movimento specifico a un personaggio mantenendo un tracciamento fisso della telecamera.
 
 #### 📝 Prompt
 
 ```
-apply the walking animation of @anim excatly as it is to @char7 . the camera tracks the character exactly in place, camera angle does not change
+applica l'animazione di camminata di @anim esattamente com'è a @char7. la telecamera segue il personaggio esattamente sul posto, l'angolazione della telecamera non cambia
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/089e7cd70d20131d6d1b44741520eaee/thumbnails/thumbnail.jpg" width="600" alt="Animation transfer and camera tracking prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/089e7cd70d20131d6d1b44741520eaee/thumbnails/thumbnail.jpg" width="600" alt="Prompt per il trasferimento di animazione e il tracciamento della telecamera">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3825)**
 
 **Autore:** [Olivio Sarikas](https://x.com/OlivioSarikas) | **Fonte:** [Link](https://x.com/OlivioSarikas/status/2049093762077630628) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Hunched Character Animation
+### Animazione di un personaggio curvo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Instruction for Seedance 2 to create an in-place walking animation for a specific character reference.
+> Istruzioni per Seedance 2 per creare un'animazione di camminata sul posto per uno specifico riferimento di personaggio.
 
 #### 📝 Prompt
 
 ```
-create a walking animation for this hunched over character. the character stays in place
+crea un'animazione di camminata per questo personaggio curvo. il personaggio rimane sul posto
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3d5dcaf102414a8cceca23d60b5c0d0/thumbnails/thumbnail.jpg" width="600" alt="Hunched Character Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3d5dcaf102414a8cceca23d60b5c0d0/thumbnails/thumbnail.jpg" width="600" alt="Animazione di un personaggio curvo">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3811)**
 
 **Autore:** [Olivio Sarikas](https://x.com/OlivioSarikas) | **Fonte:** [Link](https://x.com/OlivioSarikas/status/2049093747011670042) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Crimson Horizon Sci-Fi Cinematic Sequence
+### Sequenza cinematografica sci-fi Crimson Horizon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive 9-shot cinematic video sequence for a sci-fi film titled 'Crimson Horizon', detailing everything from a rocket launch to an eerie alien encounter on Mars.
+> Una sequenza video cinematografica completa di 9 inquadrature per un film di fantascienza intitolato 'Crimson Horizon', che descrive ogni dettaglio, dal lancio di un razzo a un inquietante incontro alieno su Marte.
 
 #### 📝 Prompt
 
 ```
-SHOT 1: Cinematic wide angle format — rocket launching into night sky, city lights below, clouds parting, stars above. Dark, dramatic, photorealistic.
+INQUADRATURA 1: Formato grandangolare cinematografico — razzo che si lancia nel cielo notturno, luci della città sottostanti, nuvole che si diradano, stelle sopra. Oscuro, drammatico, fotorealistico.
 
-SHOT 2: Medium two-shot format — man and woman in astronaut suits inside a dark capsule, Mars glowing red through the porthole behind them. Cinematic, intimate.
+INQUADRATURA 2: Formato medio a due figure — uomo e donna in tute da astronauta all'interno di una capsula oscura, Marte che brilla di rosso attraverso l'oblò alle loro spalle. Cinematografico, intimo.
 
-SHOT 3: Dramatic aerial format — descent capsule burning through Mars atmosphere, heat shield glowing orange, red desert surface rushing up below. Hyperrealistic.
+INQUADRATURA 3: Formato aereo drammatico — capsula di discesa che brucia attraversando l'atmosfera di Marte, scudo termico che brilla di arancione, superficie del deserto rosso che corre veloce sotto. Iperrealistico.
 
-SHOT 4: Ultra wide low angle format — two astronauts standing with backs to camera on Mars surface, vast red desert and amber sky stretching before them. Empty, eerie.
+INQUADRATURA 4: Formato ultra grandangolare dal basso — due astronauti in piedi di spalle alla telecamera sulla superficie di Marte, vasto deserto rosso e cielo ambrato che si estendono davanti a loro. Vuoto, inquietante.
 
-SHOT 5: Extreme close-up format — female astronaut's gloved hand tracing ancient carved symbols on a canyon wall, helmet lamp lighting the carvings, her eyes wide with fear.
+INQUADRATURA 5: Formato in primissimo piano — la mano guantata dell'astronauta donna che traccia antichi simboli incisi sulla parete di un canyon, la luce del casco che illumina le incisioni, i suoi occhi sbarrati dalla paura.
 
-SHOT 6: Tight close-up format — male astronaut's arm display glowing red reading "UNKNOWN", a massive dark shape looming behind him in the dust haze. Tense, cinematic.
+INQUADRATURA 6: Formato primo piano stretto — il display sul braccio dell'astronauta uomo che brilla di rosso con la scritta "UNKNOWN", un'enorme forma scura che incombe dietro di lui nella foschia di polvere. Teso, cinematografico.
 
-SHOT 7: Extreme wide format — colossal dark horned creature emerging from a dust storm, violet glowing eyes, two tiny astronauts dwarfed at the bottom of the frame. Cinematic horror.
+INQUADRATURA 7: Formato panoramico estremo — colossale creatura scura cornuta che emerge da una tempesta di polvere, occhi viola brillanti, due minuscoli astronauti rimpiccioliti in fondo all'inquadratura. Horror cinematografico.
 
-SHOT 8: Locked macro format — creature's enormous purple glowing eye filling the entire frame, two astronaut silhouettes reflected in the iris. Pure black background. Photorealistic.
+INQUADRATURA 8: Formato macro fisso — l'enorme occhio viola brillante della creatura che riempie l'intera inquadratura, le sagome dei due astronauti riflesse nell'iride. Sfondo nero puro. Fotorealistico.
 
-SHOT 9: Title card format — pure black background, bold cracked text reads CRIMSON HORIZON, tagline below: "They came searching for life. Life was already waiting."
+INQUADRATURA 9: Formato titolo — sfondo nero puro, testo audace e crepato che recita CRIMSON HORIZON, tagline sottostante: "Sono venuti in cerca di vita. La vita stava già aspettando."
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7d9d956d3e812f4f99cf99e0552382/thumbnails/thumbnail.jpg" width="600" alt="Crimson Horizon Sci-Fi Cinematic Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7d9d956d3e812f4f99cf99e0552382/thumbnails/thumbnail.jpg" width="600" alt="Sequenza cinematografica sci-fi Crimson Horizon">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3813)**
 
 **Autore:** [wonder](https://x.com/WonderBoy023) | **Fonte:** [Link](https://x.com/WonderBoy023/status/2049086862858367347) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Beat-Synced Outfit Transformation Dance
+### Danza con trasformazione dell'outfit sincronizzata al ritmo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Seedance 2.0 that coordinates a character dance following breakdown frames while performing a beat-synced outfit change.
+> Un prompt per Seedance 2.0 che coordina la danza di un personaggio seguendo i fotogrammi di scomposizione, eseguendo al contempo un cambio d'abito sincronizzato al ritmo.
 
 #### 📝 Prompt
 
 ```
-Have the character from Image 1 perform the dance based on the breakdown in Image 3. During the performance, include a beat-synced transformation into the character from Image 2. After the transformation, the character from Image 2 continues and completes the remaining dance steps from Image 3. Emphasize precise beat matching with the music
+Fai eseguire al personaggio dell'Immagine 1 la danza basata sulla scomposizione dell'Immagine 3. Durante l'esibizione, includi una trasformazione sincronizzata al ritmo nel personaggio dell'Immagine 2. Dopo la trasformazione, il personaggio dell'Immagine 2 continua e completa i restanti passi di danza dell'Immagine 3. Enfatizza la precisione della sincronizzazione con il ritmo della musica.
 ```
 
-<img src="https://pbs.twimg.com/media/HG_FqHJboAA5vAe.jpg" width="600" alt="Beat-Synced Outfit Transformation Dance">
+<img src="https://pbs.twimg.com/media/HG_FqHJboAA5vAe.jpg" width="600" alt="Danza con trasformazione dell'outfit sincronizzata al ritmo">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3814)**
 
 **Autore:** [Kashberg](https://x.com/Kashberg_0) | **Fonte:** [Link](https://x.com/Kashberg_0/status/2049074008730247669) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Vintage Disney Style Pirate Crocodile Animation
+### Animazione di un coccodrillo pirata in stile Disney vintage
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-scene narrative prompt for a classic vintage Disney-style animation featuring a crocodile pirate and bird pirates on a ship.
+> Un prompt narrativo multi-scena per un'animazione nel classico stile Disney vintage, con protagonista un coccodrillo pirata e uccelli pirata su una nave.
 
 #### 📝 Prompt
 
 ```
-Classic vintage Disney animation style. Scene 1: On a pirate ship sailing on the sea, a fat and sinister crocodile pirate stands at the end of a plank. Three bird pirates are watching on the ship, while another bird pirate stands at the beginning of the plank, pointing a sword at the crocodile pirate. The crocodile pirate is wearing a sleeveless tight suit and is muscular. He looks at the bird pirates provocatively. Although he is a bit overwhelmed, he does not intend to give up. The bird pirates look at the crocodile pirate with evil smiles. The atmosphere is tense, and the bird pirates hope the crocodile pirate will jump off the plank into the sea below. Scene 2: The bird pirate says it's all over. He slams the plank with his claw, and the plank shakes. The crocodile pirate loses his balance and falls off the plank. Scene 3: The bird pirates let out evil laughter, but then discover that the crocodile pirate did not fall. Instead, he is grabbing the end of the plank with one hand, his arm stretched straight. Scene 4: Close-up of the crocodile pirate's upper body. A bird pirate leans down with a sly smile, reaches out a feather, and points it at the armpit of the arm the crocodile pirate is using to grab the plank, saying: "It's time to laugh out loud." Scene 5: Close-up of the feather wriggling in the crocodile's armpit, accompanied by funny sound effects. At the same time, we hear the crocodile chuckling. Scene 6: The camera focuses on the upper body of the crocodile hanging in the air, smirking, eyes closed, letting out a muffled laugh as the feather continues to tickle its armpit. Scene 7: The camera sweeps across the crocodile pirate's whole body; the bird pirate continues to tickle his armpit, and soon the crocodile pirate starts laughing out loud. Scene 8: The bird continues to tickle the crocodile pirate's armpit, making him laugh hysterically. Suddenly, the crocodile pirate laughs so hard that he lets go of the plank and falls into the sea. The bird pirate finally lets out a sly chuckle, with a satisfied smile on his face, and stands back on the plank. English voiceover.
+Classico stile di animazione Disney vintage. Scena 1: Su una nave pirata che solca il mare, un coccodrillo pirata grasso e sinistro si trova all'estremità di un'asse. Tre uccelli pirata osservano dalla nave, mentre un altro uccello pirata si trova all'inizio dell'asse, puntando una spada contro il coccodrillo pirata. Il coccodrillo pirata indossa una tuta attillata senza maniche ed è muscoloso. Guarda gli uccelli pirata in modo provocatorio. Sebbene sia un po' in difficoltà, non ha intenzione di arrendersi. Gli uccelli pirata guardano il coccodrillo pirata con sorrisi malvagi. L'atmosfera è tesa e gli uccelli pirata sperano che il coccodrillo pirata salti dall'asse nel mare sottostante. Scena 2: L'uccello pirata dice che è finita. Colpisce l'asse con l'artiglio e l'asse trema. Il coccodrillo pirata perde l'equilibrio e cade dall'asse. Scena 3: Gli uccelli pirata scoppiano in una risata malvagia, ma poi scoprono che il coccodrillo pirata non è caduto. Invece, si sta aggrappando all'estremità dell'asse con una mano, con il braccio teso. Scena 4: Primo piano della parte superiore del corpo del coccodrillo pirata. Un uccello pirata si sporge con un sorriso astuto, allunga una piuma e la punta verso l'ascella del braccio che il coccodrillo pirata sta usando per reggersi all'asse, dicendo: "È ora di ridere a crepapelle". Scena 5: Primo piano della piuma che si agita nell'ascella del coccodrillo, accompagnata da divertenti effetti sonori. Allo stesso tempo, sentiamo il coccodrillo ridacchiare. Scena 6: La telecamera si concentra sulla parte superiore del corpo del coccodrillo sospeso in aria, che sogghigna, con gli occhi chiusi, emettendo una risata soffocata mentre la piuma continua a solleticargli l'ascella. Scena 7: La telecamera inquadra l'intero corpo del coccodrillo pirata; l'uccello pirata continua a solleticargli l'ascella e presto il coccodrillo pirata inizia a ridere a crepapelle. Scena 8: L'uccello continua a solleticare l'ascella del coccodrillo pirata, facendolo ridere istericamente. Improvvisamente, il coccodrillo pirata ride così forte che lascia la presa sull'asse e cade in mare. L'uccello pirata emette finalmente una risatina astuta, con un sorriso soddisfatto sul volto, e torna in piedi sull'asse. Voce fuori campo in inglese.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3db7bf471d6244585f772e001af0c625/thumbnails/thumbnail.jpg" width="600" alt="Vintage Disney Style Pirate Crocodile Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3db7bf471d6244585f772e001af0c625/thumbnails/thumbnail.jpg" width="600" alt="Animazione di un coccodrillo pirata in stile Disney vintage">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3812)**
 
 **Autore:** [migrok](https://x.com/migrok293703) | **Fonte:** [Link](https://x.com/migrok293703/status/2049073744346239415) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Cinematic vampire alley fight sequence
+### Sequenza cinematografica di combattimento tra vampiri in un vicolo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive action prompt for a short film scene involving dynamic camera movements and high-speed combat in a neon-lit alley.
+> Un prompt d'azione completo per una scena di cortometraggio che coinvolge movimenti di camera dinamici e combattimenti ad alta velocità in un vicolo illuminato dai neon.
 
 #### 📝 Prompt
 
 ```
-Draev stands in the center of the neon-lit alley, surrounded by multiple vampires positioned on rooftops and street level.
+Draev si trova al centro del vicolo illuminato dai neon, circondato da diversi vampiri posizionati sui tetti e a livello della strada.
 
-The vampires attack simultaneously.
-Draev reacts instantly with superhuman speed.
+I vampiri attaccano simultaneamente.
+Draev reagisce istantaneamente con una velocità sovrumana.
 
-He dodges the first attacker with a fast sidestep and counters with a brutal punch, sending the vampire crashing into a wall.
+Schiva il primo attaccante con un rapido passo laterale e risponde con un pugno brutale, facendo schiantare il vampiro contro un muro.
 
-Second vampire lunges from above Draev jumps unnaturally high, grabs him mid-air, and slams him into the ground.
+Il secondo vampiro si avventa dall'alto; Draev salta in modo innaturale, lo afferra a mezz'aria e lo scaraventa a terra.
 
-Impact creates a small shockwave on the wet street.
-The defeated vampire rapidly disintegrates into ash and particles.
+L'impatto crea una piccola onda d'urto sulla strada bagnata.
+Il vampiro sconfitto si disintegra rapidamente in cenere e particelle.
 
-Camera moves dynamically:
-starts frontal wide shot transitions into fast tracking side movement then switches to over-the-shoulder following Draev More vampires rush in.
+La camera si muove in modo dinamico:
+inizia con un campo lungo frontale, passa a un veloce movimento di tracking laterale, per poi passare a un'inquadratura sopra la spalla che segue Draev. Altri vampiri si precipitano all'attacco.
 
-Draev performs a fast acrobatic kick hitting two enemies at once.
+Draev esegue un rapido calcio acrobatico colpendo due nemici contemporaneamente.
 
-One vampire is thrown into neon signs, sparks and electricity burst.
+Un vampiro viene scagliato contro le insegne al neon, provocando scintille ed elettricità.
 
-Another gets grabbed by the throat — Draev lifts him with one hand and crushes him, turning him into ash.
-Rain reacts to movement, splashes intensify with impacts.
+Un altro viene afferrato per la gola: Draev lo solleva con una mano e lo schiaccia, trasformandolo in cenere.
+La pioggia reagisce al movimento, gli schizzi si intensificano con gli impatti.
 
-Final moment:
-Draev stands still in the center, surrounded by falling ash, breathing slightly, eyes glowing red.
-Remaining vampires hesitate, stepping back in fear. No music
+Momento finale:
+Draev resta immobile al centro, circondato dalla cenere che cade, respirando leggermente, con gli occhi che brillano di rosso.
+I vampiri rimasti esitano, indietreggiando per la paura. Nessuna musica
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e665ecf343c35d97dd64e3b930a96fa5/thumbnails/thumbnail.jpg" width="600" alt="Cinematic vampire alley fight sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e665ecf343c35d97dd64e3b930a96fa5/thumbnails/thumbnail.jpg" width="600" alt="Sequenza cinematografica di combattimento tra vampiri in un vicolo">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3828)**
 
 **Autore:** [Cortex Visual ・ AI Movies](https://x.com/Cortex__Visual) | **Fonte:** [Link](https://x.com/Cortex__Visual/status/2049070872426688714) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Cinematic Dragon Interaction & Flight
+### Interazione cinematografica e volo con il drago
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed storyboard-style prompt for a video featuring a woman's emotional interaction with a dragon followed by a cinematic flight sequence.
+> Un prompt dettagliato in stile storyboard per un video che mostra l'emozionante interazione di una donna con un drago, seguita da una sequenza di volo cinematografica.
 
 #### 📝 Prompt
 
 ```
-STYLE Handheld + aerial camera blend Soft motion blur (only during fast transitions) Teal–orange cinematic grade Cool tones during dragon moments, warm tones at emotional peak ⏱ TIMELINE (15s) 0–2s (HOOK) Close-up on woman standing at a cliff Wind moving through hair A giant shadow passes over her → she slowly turns Low rumble builds tension 2–5s (CONNECTION) Dragon lands behind her with heavy presence It lowers its head slowly She hesitates, then touches its face Wind + dust particles react subtly Quiet emotional moment (no aggression) 5–8s (TAKEOFF) She climbs onto its back Dragon launches powerfully into the sky Camera follows upward, slight rotation Clouds rush past, strong sense of speed 8–12s (FLIGHT SEQUENCE) Fast but controlled cuts: Flying through clouds Passing mountain peaks Close-up of wings moving Her expression shifting to awe Wide aerial shot showing scale 12–15s (FINAL MOMENT) Above the clouds in golden light Dragon slows and stabilizes She stands confidently on its back Wide cinematic shot → calm, powerful ending
+STILE Mix di riprese a mano e aeree Sfocatura di movimento morbida (solo durante le transizioni rapide) Color grading cinematografico teal-orange Toni freddi durante i momenti con il drago, toni caldi durante il picco emotivo ⏱ TIMELINE (15s) 0–2s (HOOK) Primo piano di una donna in piedi su una scogliera Il vento le muove i capelli Un'ombra gigantesca le passa sopra → lei si gira lentamente Un rombo cupo crea tensione 2–5s (CONNESSIONE) Il drago atterra dietro di lei con una presenza imponente Abbassa lentamente la testa Lei esita, poi gli tocca il muso Vento + particelle di polvere reagiscono in modo sottile Momento emotivo silenzioso (nessuna aggressività) 5–8s (DECOLLO) Lei sale sul dorso Il drago si lancia con potenza verso il cielo La telecamera segue verso l'alto, leggera rotazione Le nuvole scorrono veloci, forte senso di velocità 8–12s (SEQUENZA DI VOLO) Tagli rapidi ma controllati: Volo tra le nuvole Superamento delle vette montuose Primo piano del movimento delle ali La sua espressione passa allo stupore Ampia ripresa aerea che mostra la scala 12–15s (MOMENTO FINALE) Sopra le nuvole nella luce dorata Il drago rallenta e si stabilizza Lei sta in piedi con sicurezza sul suo dorso Ampia ripresa cinematografica → finale calmo e potente
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f72b7a26635bdf580a2899bf2682f7f6/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragon Interaction & Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f72b7a26635bdf580a2899bf2682f7f6/thumbnails/thumbnail.jpg" width="600" alt="Interazione cinematografica e volo con il drago">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3821)**
 
 **Autore:** [simply](https://x.com/kingofdairyque) | **Fonte:** [Link](https://x.com/kingofdairyque/status/2049052738924023976) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Cinematic East Asian Woman Hand Dance
+### Danza delle mani cinematografica di donna dell'Asia orientale
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed multi-shot cinematic video prompt for a stylized hand dance, featuring time-coded instructions for camera movement and character actions.
+> Un prompt video cinematografico multi-inquadratura altamente dettagliato per una danza delle mani stilizzata, che include istruzioni con codice temporale per i movimenti della telecamera e le azioni del personaggio.
 
 #### 📝 Prompt
 
 ```
-1 0-3s Extreme close-up of the face, exquisite and three-dimensional features, cold and elegant eyes locked on the lens, sword dance opening pose: hands quickly swipe from both sides of the cheeks to a fixed point in front of the chest, clean fingertip movements. 15-second vertical screen 9:16, 24fps, 8K ultra-high definition, realistic movie texture, stable screen without flicker. Top-tier East Asian young female, exquisite features, delicate and transparent skin with natural luster, clear and bright atmosphere makeup, distinct hair strands. Cold and confident gaze locked on the lens throughout, hands quickly swiping from cheeks to chest, clean sword dance hand gestures, clear fingertip details. Soft ring light, soft facial light and shadow without dead blacks, clear and bright eye light, camera moves forward slightly at a uniform speed, subject always in the center of the frame, first-person interaction, natural color saturation, full of details. Cold impact, strong freeze frame at the first heavy drum beat, hand gestures perfectly match the beat.
+1 0-3s Primissimo piano del volto, lineamenti squisiti e tridimensionali, sguardo freddo ed elegante fisso sull'obiettivo, posa iniziale della danza della spada: le mani scorrono rapidamente da entrambi i lati delle guance fino a un punto fisso davanti al petto, movimenti delle dita puliti. Schermo verticale 9:16 da 15 secondi, 24fps, 8K ad altissima definizione, texture cinematografica realistica, immagine stabile senza sfarfallio. Giovane donna dell'Asia orientale di alto livello, lineamenti squisiti, pelle delicata e trasparente con lucentezza naturale, trucco luminoso e chiaro, ciocche di capelli distinte. Sguardo freddo e sicuro fisso sull'obiettivo per tutta la durata, mani che scorrono rapidamente dalle guance al petto, gesti della danza della spada puliti, dettagli nitidi delle punte delle dita. Luce anulare morbida, luci e ombre del volto soffuse senza neri assoluti, luce negli occhi chiara e brillante, la telecamera avanza leggermente a velocità costante, soggetto sempre al centro dell'inquadratura, interazione in prima persona, saturazione del colore naturale, ricca di dettagli. Impatto freddo, forte fermo immagine al primo colpo di tamburo pesante, gesti delle mani perfettamente sincronizzati con il ritmo.
 
-2 3-6s Medium close-up of the upper body, showing shoulder and neck lines and smooth arms, core sword dance cutting hand gestures, combined with shoulder rhythmic beats, body swaying slightly left and right, eyes never leaving the lens. Vertical screen 9:16, 24fps, 8K, realistic texture, stable screen. Young woman with smooth and tight body lines, superior shoulder and neck lines, wearing a slim black short top, coherent and smooth movements, core sword dance hand gestures, matching shoulder rhythmic beats, body swaying slightly with the rhythm, eyes always locked on the lens. Warm atmosphere light, distinct levels of light and dark, camera moves horizontally slowly, subject in the center throughout, no distortion, no lag in movement. Sharp beats, rhythmic progression with 3 consecutive light drum beats, each hand movement precisely hitting the beat.
+2 3-6s Mezzo primo piano della parte superiore del corpo, che mostra la linea di spalle e collo e le braccia levigate, gesti principali della danza della spada, combinati con battiti ritmici delle spalle, corpo che oscilla leggermente a destra e a sinistra, occhi che non lasciano mai l'obiettivo. Schermo verticale 9:16, 24fps, 8K, texture realistica, immagine stabile. Giovane donna con linee del corpo levigate e toniche, linea di spalle e collo superiore, indossa un top corto nero aderente, movimenti coerenti e fluidi, gesti principali della danza della spada, in sintonia con i battiti ritmici delle spalle, corpo che oscilla leggermente con il ritmo, occhi sempre fissi sull'obiettivo. Luce d'atmosfera calda, livelli distinti di luci e ombre, la telecamera si muove orizzontalmente lentamente, soggetto sempre al centro, nessuna distorsione, nessun ritardo nei movimenti. Battiti netti, progressione ritmica con 3 colpi di tamburo leggeri consecutivi, ogni movimento della mano colpisce il ritmo con precisione.
 
-3 6-9s Full-body wide shot, fully displaying superior body proportions and dance rhythm, iconic sword dance double-hand circling + body wave combination, small steps matching the beat, movements stretched and powerful. Vertical screen 9:16, 24fps, 8K, realistic movie texture, stable screen without shaking. Female with superior head-to-body ratio, tight waist and abdominal lines, long legs, wearing slim high-waisted black pants, smooth and coherent movements without lag, iconic sword dance circling + body wave, small footsteps matching the rhythm, stretched and powerful movements. Modern minimalist luxury white background wall, soft top light + side light compensation, rich light and shadow layers, camera slowly and uniformly pulls back, subject remains in the center throughout, no clipping or deformation. Grand and elegant, full of rhythm at the heavy drum burst point, wave movement peak precisely hits the heavy drum.
+3 6-9s Campo lungo a figura intera, che mostra pienamente le proporzioni corporee superiori e il ritmo della danza, combinazione iconica di cerchi con entrambe le mani + ondeggiamento del corpo, piccoli passi in sintonia con il ritmo, movimenti distesi e potenti. Schermo verticale 9:16, 24fps, 8K, texture cinematografica realistica, immagine stabile senza tremolii. Donna con un rapporto testa-corpo superiore, vita e addome tonici, gambe lunghe, indossa pantaloni neri a vita alta aderenti, movimenti fluidi e coerenti senza ritardi, iconico cerchio della danza della spada + ondeggiamento del corpo, piccoli passi in sintonia con il ritmo, movimenti distesi e potenti. Parete di fondo bianca dal design moderno e minimalista, luce superiore soffusa + compensazione con luce laterale, ricchi strati di luci e ombre, la telecamera si allontana lentamente e uniformemente, il soggetto rimane sempre al centro, nessun taglio o deformazione. Grandioso ed elegante, pieno di ritmo nel punto di esplosione del tamburo pesante, il picco del movimento ondulatorio colpisce il tamburo pesante con precisione.
 
-4 9-12s Local close-up of hands + waist and hips, sword dance fingertip fixed-point details, matching slight waist and hip swaying, highlighting body curves and gesture details, clean and precise movements. Vertical screen 9:16, 24fps, 8K, realistic texture, stable screen. Fingertip detail movements, long and slender fingers, clean and exquisite nails, matching rhythmic waist and hip swaying, tight and smooth waist and abdominal lines, precise and sharp movements. Soft side light outlines the body, camera moves slightly following hand movements, focus always on gestures and body lines, clear picture without blurring. Detailed and high-end texture with consecutive light drum beats, each fingertip movement hitting the beat.
+4 9-12s Primo piano locale di mani + vita e fianchi, dettagli del punto fisso delle punte delle dita nella danza della spada, abbinato a un leggero ondeggiamento di vita e fianchi, che evidenzia le curve del corpo e i dettagli dei gesti, movimenti puliti e precisi. Schermo verticale 9:16, 24fps, 8K, texture realistica, immagine stabile. Movimenti dettagliati delle punte delle dita, dita lunghe e affusolate, unghie pulite e curate, abbinate all'ondeggiamento ritmico di vita e fianchi, linea di vita e addome tonica e levigata, movimenti precisi e netti. La luce laterale soffusa delinea il corpo, la telecamera si muove leggermente seguendo i movimenti delle mani, focus sempre sui gesti e sulle linee del corpo, immagine nitida senza sfocature. Texture dettagliata e di alta qualità con colpi di tamburo leggeri consecutivi, ogni movimento della punta delle dita colpisce il ritmo.
 
-5 12-15s Quick zoom from full body back to upper body + face close-up, sword dance closing pose, eyebrow raise + confident smile, eyes locked on the lens throughout, clean ending. Vertical screen 9:16, 24fps, 8K, realistic movie texture, stable screen without flicker. Top-tier beauty and figure, closing sword dance pose, hands sharply fixed in front of the chest, confident smile, eyes locked on the lens, clean ending. Soft ring light, soft facial light and shadow, camera quickly and uniformly zooms from full body to face close-up, final frame frozen on the face, subject always in the center, no distortion, coherent movement. Explosive ending with full memory points at the last heavy drum beat, pose synchronized with the drum, frozen for 3 frames.
+5 12-15s Zoom rapido dalla figura intera al primo piano della parte superiore del corpo + volto, posa finale della danza della spada, sollevamento delle sopracciglia + sorriso sicuro, occhi fissi sull'obiettivo per tutta la durata, finale pulito. Schermo verticale 9:16, 24fps, 8K, texture cinematografica realistica, immagine stabile senza sfarfallio. Bellezza e figura di alto livello, posa finale della danza della spada, mani fissate bruscamente davanti al petto, sorriso sicuro, occhi fissi sull'obiettivo, finale pulito. Luce anulare morbida, luci e ombre del volto soffuse, la telecamera esegue uno zoom rapido e uniforme dalla figura intera al primo piano del volto, fotogramma finale congelato sul volto, soggetto sempre al centro, nessuna distorsione, movimento coerente. Finale esplosivo con punti di memoria pieni all'ultimo colpo di tamburo pesante, posa sincronizzata con il tamburo, congelata per 3 fotogrammi.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b2699622675dd4b8b24808a1d7c4a34/thumbnails/thumbnail.jpg" width="600" alt="Cinematic East Asian Woman Hand Dance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b2699622675dd4b8b24808a1d7c4a34/thumbnails/thumbnail.jpg" width="600" alt="Danza delle mani cinematografica di donna dell'Asia orientale">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3832)**
 
 **Autore:** [阿绎 AYi](https://x.com/AYi_AInotes) | **Fonte:** [Link](https://x.com/AYi_AInotes/status/2049047545435889883) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Sequence and Movement Instruction for Martial Arts Video
+### Istruzioni per sequenza e movimento in un video di arti marziali
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Seedance 2.0 that instructs the model to animate a sequence based on a character sheet, focusing on specific movements and steps.
+> Un prompt video per Seedance 2.0 che istruisce il modello ad animare una sequenza basata su un character sheet, concentrandosi su movimenti e passaggi specifici.
 
 #### 📝 Prompt
 
 ```
-[STYLE] Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic. [LAYOUT] 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes. [CHARACTER] image1 (the same character appears consistently in all panels) [PANEL STRUCTURE – per cell] Top-left: bold number badge + English title text Center: full-body character pose illustration Bottom-left: English description text (3–4 lines) Overlay: directional arrows indicating movement [ARROWS / MOTION INDICATORS] Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction. [RENDERING STYLE] Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality. [NEGATIVE] No background scenery, no color tones, no additional characters, no complex background. Create img2 that follows the exact sequence and movements from steps 1–16 shown in img1. The music should be aud1. There should be no dialogue, text, or narration.
+[STILE] Illustrazione monocromatica in scala di grigi, personaggio renderizzato in 3D, foglio di riferimento didattico pulito, sfondo bianco, layout a griglia in stile fumetto, estetica da diagramma tecnico. [LAYOUT] Layout a griglia 4×4 con un totale di 16 riquadri. Ogni riquadro è separato da sottili linee di bordo nere. Le celle sono numerate da 1 a 16, con dimensioni dei riquadri coerenti. [PERSONAGGIO] image1 (lo stesso personaggio appare in modo coerente in tutti i riquadri) [STRUTTURA DEL RIQUADRO – per cella] In alto a sinistra: badge con numero in grassetto + titolo in inglese. Al centro: illustrazione del personaggio a figura intera. In basso a sinistra: testo descrittivo in inglese (3–4 righe). Sovrapposizione: frecce direzionali che indicano il movimento. [FRECCE / INDICATORI DI MOVIMENTO] Frecce curve, frecce dritte e indicatori di rotazione circolare posizionati attorno al personaggio per mostrare il flusso e la direzione del movimento. [STILE DI RENDERIZZAZIONE] Stile scolpito in 3D altamente dettagliato, illuminazione da studio morbida, ombre sottili, nessun colore, ombreggiatura in scala di grigi, linee pulite, qualità da concept art di gioco. [NEGATIVO] Nessuno scenario di sfondo, nessuna tonalità di colore, nessun personaggio aggiuntivo, nessuno sfondo complesso. Crea img2 che segua l'esatta sequenza e i movimenti dai passaggi 1–16 mostrati in img1. La musica deve essere aud1. Non devono esserci dialoghi, testo o narrazione.
 ```
 
-<img src="https://pbs.twimg.com/media/HG-sP7Lb0AEmlWA.jpg" width="600" alt="Sequence and Movement Instruction for Martial Arts Video">
+<img src="https://pbs.twimg.com/media/HG-sP7Lb0AEmlWA.jpg" width="600" alt="Istruzioni per sequenza e movimento in un video di arti marziali">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3822)**
 
 **Autore:** [Aijaz](https://x.com/iamsofiaijaz) | **Fonte:** [Link](https://x.com/iamsofiaijaz/status/2049045776001564680) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Ancient Guardian Dragon Rescue
+### Salvataggio dell'Antico Drago Guardiano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for a story about a girl in a rainy village saved by an emerging dragon, focusing on VFX and atmospheric sound.
+> Un prompt cinematografico dettagliato multi-inquadratura per una storia su una ragazza in un villaggio piovoso salvata da un drago che emerge, con focus su VFX e sound design d'atmosfera.
 
 #### 📝 Prompt
 
 ```
-Shot 1 (00:00–00:02) – WS, Rainy Night, Forward Tracking. A narrow, ancient village alley drenched in relentless rain. Water streams down slanted rooftops and floods uneven stone pathways, reflecting flickering lantern light. A young girl runs barefoot through the water, her soaked dress clinging to her as she struggles to keep balance. Behind her, shadowy figures move unnaturally—distorted, stretching and glitching with each lightning flash as they close in. VFX: Heavy rain simulation, reflective wet surfaces, lightning illuminating distorted shadows. SFX: Thunder cracks, rapid splashing footsteps, howling wind. Shot 2 (00:02–00:04) – CU, Panic Fall, Slight Handheld Shake. She suddenly slips and crashes onto the wet stone. Water splashes outward. Close on her face—rain mixes with tears, her breath sharp and uneven. Her trembling hands push against the ground as she tries to move back, eyes locked on the approaching darkness. VFX: Detailed splash simulation, motion blur, lens water droplets. SFX: Intensifying heartbeat, heavy breathing, rain striking surfaces. Shot 3 (00:04–00:06) – LS, Violent Ground Eruption. The ground beneath the shadows fractures violently. Stone explodes upward in a powerful shockwave, sending debris and water into the air. A massive dragon bursts from below—its body dark and armored, faint glowing veins pulsing beneath its scales. It rises between the girl and the shadows, instantly scattering them into fragments of darkness. VFX: Ground destruction, flying debris, glowing cracks, volumetric dust. SFX: Deep impact boom, layered dragon roar with sub-bass rumble. Shot 4 (00:06–00:08) – CU, Emotional Realization, Slow Push-In. The girl freezes, looking up. Her fear begins to fade. Lightning briefly illuminates the dragon’s face—its glowing eye calm, focused. The reflection of that eye fills hers. The rain appears to slow slightly in this moment. VFX: Eye reflection detail, subtle slow-motion rain, soft glow from dragon’s eye. SFX: Thunder fades into low ambient tone, rain softens. Shot 5 (00:08–00:11) – MS, Gentle Interaction, Static Frame. The dragon slowly lowers its massive head toward her, movements controlled and careful. It gently nudges her shoulder. Water droplets slide across its scales, glowing faintly as they fall. She hesitates, then slowly lifts her hand toward it, tension leaving her body. VFX: Subtle bioluminescent pulses under scales, detailed water interaction. SFX: Deep calm breathing, soft ambient hum. Shot 6 (00:11–00:13) – LS, Protective Wing Expansion. The dragon spreads its massive wings wide, forming a protective barrier around her. Rain violently hits the outer surface of the wings, but inside the space becomes still—dry, warm, and silent. The contrast between chaos outside and calm inside is immediate and striking. VFX: Rain deflection on wings, cold blue tones outside vs warm
+Inquadratura 1 (00:00–00:02) – Campo Lungo (WS), Notte piovosa, Carrellata in avanti. Uno stretto vicolo di un antico villaggio inondato da una pioggia incessante. L'acqua scorre lungo i tetti inclinati e allaga i sentieri di pietra irregolari, riflettendo la luce tremolante delle lanterne. Una ragazzina corre a piedi nudi nell'acqua, il vestito inzuppato le si attacca addosso mentre lotta per mantenere l'equilibrio. Dietro di lei, figure oscure si muovono in modo innaturale: distorte, si allungano e sfarfallano a ogni lampo mentre si avvicinano. VFX: Simulazione di pioggia battente, superfici bagnate riflettenti, fulmini che illuminano ombre distorte. SFX: Tuoni, passi veloci che sguazzano, vento ululante. Inquadratura 2 (00:02–00:04) – Primo Piano (CU), Caduta nel panico, Leggera vibrazione a mano. All'improvviso scivola e cade sulla pietra bagnata. L'acqua schizza ovunque. Primo piano sul suo volto: la pioggia si mescola alle lacrime, il respiro è affannoso e irregolare. Le mani tremanti spingono contro il terreno mentre cerca di indietreggiare, gli occhi fissi sull'oscurità che avanza. VFX: Simulazione dettagliata degli schizzi, motion blur, gocce d'acqua sulla lente. SFX: Battito cardiaco che si intensifica, respiro pesante, pioggia che colpisce le superfici. Inquadratura 3 (00:04–00:06) – Campo Lungo (LS), Eruzione violenta del suolo. Il terreno sotto le ombre si frattura violentemente. La pietra esplode verso l'alto in una potente onda d'urto, scagliando detriti e acqua nell'aria. Un enorme drago emerge dal sottosuolo: il suo corpo è scuro e corazzato, con deboli vene luminose che pulsano sotto le scaglie. Si erge tra la ragazza e le ombre, disperdendole istantaneamente in frammenti di oscurità. VFX: Distruzione del suolo, detriti volanti, crepe luminose, polvere volumetrica. SFX: Boato d'impatto profondo, ruggito del drago stratificato con rombo sub-basso. Inquadratura 4 (00:06–00:08) – Primo Piano (CU), Realizzazione emotiva, Lento zoom in. La ragazza si blocca, guardando in alto. La sua paura inizia a svanire. Un lampo illumina brevemente il volto del drago: il suo occhio luminoso è calmo, concentrato. Il riflesso di quell'occhio riempie il suo. La pioggia sembra rallentare leggermente in questo momento. VFX: Dettaglio del riflesso nell'occhio, pioggia in slow-motion sottile, bagliore soffuso dall'occhio del drago. SFX: Il tuono sfuma in un tono ambientale basso, la pioggia si attenua. Inquadratura 5 (00:08–00:11) – Mezza Figura (MS), Interazione gentile, Inquadratura statica. Il drago abbassa lentamente la sua testa massiccia verso di lei, con movimenti controllati e cauti. Le dà un leggero colpetto sulla spalla. Gocce d'acqua scivolano lungo le sue scaglie, brillando debolmente mentre cadono. Lei esita, poi solleva lentamente la mano verso di lui, la tensione abbandona il suo corpo. VFX: Sottili impulsi bioluminescenti sotto le scaglie, interazione dettagliata con l'acqua. SFX: Respiro profondo e calmo, ronzio ambientale soffuso. Inquadratura 6 (00:11–00:13) – Campo Lungo (LS), Apertura protettiva delle ali. Il drago spiega le sue ali massicce, formando una barriera protettiva attorno a lei. La pioggia colpisce violentemente la superficie esterna delle ali, ma all'interno lo spazio diventa immobile: asciutto, caldo e silenzioso. Il contrasto tra il caos esterno e la calma interna è immediato e sorprendente. VFX: Deflessione della pioggia sulle ali, toni blu freddi all'esterno contro il caldo all'interno.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d35c93cc1d6ab0a8eff2a68e6d701b/thumbnails/thumbnail.jpg" width="600" alt="Ancient Guardian Dragon Rescue">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d35c93cc1d6ab0a8eff2a68e6d701b/thumbnails/thumbnail.jpg" width="600" alt="Salvataggio dell'Antico Drago Guardiano">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3827)**
 
 **Autore:** [Jasmine Ai](https://x.com/jasminekhan90_) | **Fonte:** [Link](https://x.com/jasminekhan90_/status/2049038597333090769) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Viral K-pop Dance Choreography
+### Coreografia di danza K-pop virale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Seedance 2.0 to animate a character performing a dance based on a 16-panel storyboard reference.
+> Un prompt dettagliato per Seedance 2.0 per animare un personaggio che esegue una danza basata su uno storyboard di riferimento a 16 riquadri.
 
 #### 📝 Prompt
 
 ```
-viral kpop dance. Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic. [LAYOUT] 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes. [CHARACTER] image1 (the same character appears consistently in all panels) [PANEL STRUCTURE – per cell] Top-left: bold number badge + English title text Center: full-body character pose illustration Bottom-left: English description text (3–4 lines) Overlay: directional arrows indicating movement [ARROWS / MOTION INDICATORS] Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction. [RENDERING STYLE] Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality. [NEGATIVE] No background scenery, no color tones, no additional characters, no complex background. Use the attached image as reference. Use the attached image as reference. Create a dance video that follows the exact sequence and movements from steps 1–16 shown in the attached image. The music should be a trending tiktok song. There should be no dialogue, text, or narration. she is wearing a casual tank top with sweatpants and sneakers.
+danza kpop virale. Illustrazione monocromatica in scala di grigi, personaggio renderizzato in 3D, foglio di riferimento didattico pulito, sfondo bianco, layout a griglia in stile fumetto, estetica da diagramma tecnico. [LAYOUT] Layout a griglia 4×4 con un totale di 16 riquadri. Ogni riquadro è separato da sottili linee di bordo nere. Le celle sono numerate da 1 a 16, con dimensioni dei riquadri coerenti. [PERSONAGGIO] image1 (lo stesso personaggio appare in modo coerente in tutti i riquadri) [STRUTTURA DEL RIQUADRO – per cella] In alto a sinistra: badge con numero in grassetto + titolo in inglese. Al centro: illustrazione del personaggio a figura intera. In basso a sinistra: testo descrittivo in inglese (3–4 righe). Sovrapposizione: frecce direzionali che indicano il movimento. [FRECCE / INDICATORI DI MOVIMENTO] Frecce curve, frecce dritte e indicatori di rotazione circolare posizionati attorno al personaggio per mostrare il flusso e la direzione del movimento. [STILE DI RENDERING] Stile scolpito in 3D altamente dettagliato, illuminazione da studio morbida, ombre sottili, nessun colore, ombreggiatura in scala di grigi, linee pulite, qualità da concept art di gioco. [NEGATIVO] Nessuno scenario di sfondo, nessuna tonalità di colore, nessun personaggio aggiuntivo, nessuno sfondo complesso. Usa l'immagine allegata come riferimento. Usa l'immagine allegata come riferimento. Crea un video di danza che segua l'esatta sequenza e i movimenti dai passaggi 1–16 mostrati nell'immagine allegata. La musica dovrebbe essere una canzone di tendenza su TikTok. Non ci devono essere dialoghi, testo o narrazione. Indossa una canotta casual con pantaloni della tuta e scarpe da ginnastica.
 ```
 
-<img src="https://pbs.twimg.com/media/HG-JpHkbUAA2B08.jpg" width="600" alt="Viral K-pop Dance Choreography">
+<img src="https://pbs.twimg.com/media/HG-JpHkbUAA2B08.jpg" width="600" alt="Coreografia di danza K-pop virale">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3809)**
 
@@ -883,281 +883,281 @@ INK INDUSTRIES : TRAILER DI GIOCO\nPERSONAGGIO: Giovane uomo atletico, capelli s
 **Autore:** [Larus Canus](https://x.com/MrLarus) | **Fonte:** [Link](https://x.com/MrLarus/status/2049004278908330226) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Forbidden City Cat Satire
+### Satira sui gatti nella Città Proibita
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex dark comedy prompt for Seedance 2.0 featuring an orange cat official and a hyena emperor in a satirical Qing dynasty setting.
+> Un complesso prompt di dark comedy per Seedance 2.0 con protagonista un gatto funzionario arancione e un imperatore iena in un'ambientazione satirica della dinastia Qing.
 
 #### 📝 Prompt
 
 ```
-STORY FORMAT: 15s / 150 BPM / MULTI-CUT / American dark comedy with exaggerated imperial satire / slapstick timing and punchline ending
-TONE: tense accusation → rising absurdity → chaotic reveal → shameless comedic payoff
-SETTING: Grand hall of the Forbidden City, massive golden throne room, rich red and gold tones, dramatic lighting, echoing atmosphere, ceremonial yet absurd
-CHARACTERS:
-Orange cat official: wearing Qing dynasty court robes and an official hat, a long orange queue braid trailing behind, belly comically round as if hiding something, cautious and visibly nervous
-Hyena emperor: dressed in extravagant Qing imperial robes with a golden crown, domineering presence, easily irritated, dramatic temper
-White rabbit maids: wearing Qing palace maid outfits, purple eyeshadow, bright red lips, each holding feather fans, fanning the emperor in synchronized rhythm
-Gray rabbit guards: standing on both sides of the hall, stern expressions, wearing palace guard uniforms, holding long wooden staffs
-CAMERA STYLE: dramatic push-ins, snap zooms, symmetrical wide shots, rapid reaction cuts, exaggerated sound cues, slight handheld shake for comedic tension
-SCENE
+FORMATO STORIA: 15s / 150 BPM / MULTI-CUT / Dark comedy americana con satira imperiale esagerata / tempismo slapstick e finale a effetto
+TONO: accusa tesa → assurdità crescente → rivelazione caotica → conclusione comica spudorata
+AMBIENTAZIONE: Sala grande della Città Proibita, enorme sala del trono dorata, ricche tonalità di rosso e oro, illuminazione drammatica, atmosfera riecheggiante, cerimoniale ma assurda
+PERSONAGGI:
+Gatto funzionario arancione: indossa abiti di corte della dinastia Qing e un cappello ufficiale, una lunga treccia arancione che trascina dietro, pancia comicamente rotonda come se nascondesse qualcosa, cauto e visibilmente nervoso
+Imperatore iena: vestito con stravaganti abiti imperiali Qing con una corona d'oro, presenza dominante, facilmente irritabile, temperamento drammatico
+Ancelle coniglio bianco: indossano abiti da ancella del palazzo Qing, ombretto viola, labbra rosso acceso, ognuna tiene ventagli di piume, sventolando l'imperatore con ritmo sincronizzato
+Guardie coniglio grigio: in piedi su entrambi i lati della sala, espressioni severe, indossano uniformi da guardia del palazzo, tengono lunghi bastoni di legno
+STILE CAMERA: push-in drammatici, snap zoom, inquadrature ampie simmetriche, tagli di reazione rapidi, segnali sonori esagerati, leggero tremolio a mano per tensione comica
+SCENA
 0–2s
-Wide symmetrical shot: The massive throne hall
-The hyena emperor sits high on the throne, being fanned by rows of white rabbit maids
-A plate of apples rests beside him
-Guards line both sides like statues
-The orange cat carefully walks in, tiny footsteps echoing loudly
+Inquadratura ampia simmetrica: L'enorme sala del trono
+L'imperatore iena siede in alto sul trono, sventolato da file di ancelle coniglio bianco
+Un piatto di mele riposa accanto a lui
+Le guardie si allineano su entrambi i lati come statue
+Il gatto arancione entra con cautela, i piccoli passi rimbombano forte
 2–4s
-Sudden snap zoom to emperor
-Hyena SLAMS armrest
-Hyena (furious):
-“Speak! Why did you sneak into the imperial harem?!”
-Echo effect fills the hall
+Improvviso snap zoom sull'imperatore
+L'iena sbatte il bracciolo
+Iena (furiosa):
+“Parla! Perché ti sei intrufolato nell'harem imperiale?!”
+L'effetto eco riempie la sala
 4–6s
-Cut to orange cat
-He instantly drops to his knees, trembling
-Orange cat (panicked):
-“I heard someone screaming for help!”
+Taglio sul gatto arancione
+Si inginocchia istantaneamente, tremando
+Gatto arancione (nel panico):
+“Ho sentito qualcuno gridare aiuto!”
 6–7s
-Beat
-Cut to emperor’s face slowly twisting in rage
-Hyena (shouting):
-“That is an obvious lie!”
+Pausa
+Taglio sul volto dell'imperatore che si contrae lentamente di rabbia
+Iena (gridando):
+“Questa è un'evidente bugia!”
 7–8s
-In one swift motion, he grabs an apple and HURLS it
-Sound: WHOOSH
+Con un movimento rapido, afferra una mela e la SCAGLIA
+Suono: WHOOSH
 8–9s
-Slow motion: apple flying through the air
-Orange cat’s eyes widen
-He suddenly raises one hand
-SNATCHES it cleanly
-Perfect catch
+Slow motion: la mela vola nell'aria
+Gli occhi del gatto arancione si spalancano
+Improvvisamente alza una mano
+La AFFERRA nettamente
+Presa perfetta
 9–11s
-Silence
-Everyone freezes
-Then
-Orange cat awkwardly smiles
-He slowly reaches inside his robe
+Silenzio
+Tutti si bloccano
+Poi
+Il gatto arancione sorride goffamente
+Si infila lentamente la mano nella tunica
 11–13s
-He pulls out
-A PARROT
-The parrot flaps slightly, completely alive
-Parrot (loud, repetitive):
-“Help! Help! Help!”
-Beat
-13–15s FINAL PAYOFF
-Cut to wide shot
-The entire hall ERUPTS in laughter
-White rabbit maids bend over laughing, fans shaking
-Gray guards struggle to stay serious but break
-Even the emperor leans back laughing uncontrollably
-Hyena (laughing hard):
-“You smuggled THAT into the harem?!”
-Orange cat turns to camera, dead serious
-Orange cat:
-“I told you… I wasn’t lying.”
-Freeze-frame energy
-Background laughter echoes as the scene ends
+Estrae
+UN PAPPAGALLO
+Il pappagallo sbatte leggermente le ali, completamente vivo
+Pappagallo (ad alta voce, ripetitivo):
+“Aiuto! Aiuto! Aiuto!”
+Pausa
+13–15s CONCLUSIONE FINALE
+Taglio su inquadratura ampia
+L'intera sala ESPLODE in una risata
+Le ancelle coniglio bianco si piegano dalle risate, i ventagli tremano
+Le guardie grigie lottano per rimanere serie ma cedono
+Anche l'imperatore si appoggia allo schienale ridendo in modo incontrollabile
+Iena (ridendo forte):
+“Hai contrabbandato QUELLO nell'harem?!”
+Il gatto arancione si gira verso la telecamera, serissimo
+Gatto arancione:
+“Te l'avevo detto… non stavo mentendo.”
+Effetto freeze-frame
+Le risate in sottofondo riecheggiano mentre la scena finisce
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0279a674ce138ab5a0a6f020a7273d89/thumbnails/thumbnail.jpg" width="600" alt="Forbidden City Cat Satire">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0279a674ce138ab5a0a6f020a7273d89/thumbnails/thumbnail.jpg" width="600" alt="Satira sui gatti nella Città Proibita">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3816)**
 
 **Autore:** [The Anxious Mind](https://x.com/drjoetw) | **Fonte:** [Link](https://x.com/drjoetw/status/2048996625654354333) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Retro HK Wuxia Film Aesthetic
+### Estetica dei film Wuxia retrò di Hong Kong
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A complex multi-part video prompt recreating 80s-90s Hong Kong Wuxia film aesthetics, featuring a character transformation from a cat to a human with stylized shots.
+> Un complesso prompt video in più parti che ricrea l'estetica dei film Wuxia di Hong Kong degli anni '80-'90, caratterizzato dalla trasformazione di un personaggio da gatto a essere umano con inquadrature stilizzate.
 
 #### 📝 Prompt
 
 ```
-core_style: 80s-90s Shaw Brothers film style, early Hong Kong Wuxia drama aesthetics, nostalgic Chinese Wuxia movies, vintage TV quality, warm tones with high saturation palette, retro film grain texture, slight Technicolor chromatic aberration, classic studio backdrop feel, soft stage lighting. visual_quality: 35mm film photography, physical film defects, vintage film texture, subtle chromatic dispersion, soft focus effect, slight light flicker, strong bloom on highlight surfaces. character_modeling: female_character - classic 80s period drama makeup, black eyeliner, peach-pink lip balm, exquisite braids with pink ribbons and flower accessories, traditional light blue and white Hanfu with floral embroidery and silk texture. male_character - classic Wuxia young scholar appearance, long hair tied with a white ribbon at the waist, signature sideburns, clean-shaven face, pure white scholar/knight robe. script_and_storyboard: logic - sitcom editing logic with early physical transition effects. scenes: shot_1, [Close-up, a young woman looks affectionately at a black and white cow cat on a wooden table. Dialogue: 'If only you could turn into a handsome guy.'] shot_2, [Medium shot, the cow cat is licking its paws, then a burst of retro white physical smoke effect erupts in the center of the screen.] shot_3, [Transformation, smoke clears, a handsome man in white robes appears where the cat was.] shot_4, [Over-the-shoulder shot, the woman looks surprised and happy, reaching out to touch the man's shoulder or chest. Dialogue: 'Wow, you really became a handsome guy!'] shot_5, [Medium shot, the man has a serious expression, gesturing with orchid fingers and speaking in a charming tone. Dialogue: 'Did you forget you already neutered me? I've changed now, I'm your sister!'] shot_6, [Close-up, the woman is stunned in place, expression shocked. Dialogue: 'Ah!?'] audio_and_post_production: 'Puff' transformation sound effect, nostalgic Hong Kong background music, AI voiceover with 'old movie' or 'TVB dubbing style' accent, duration 00:30.
+core_style: stile cinematografico Shaw Brothers anni '80-'90, estetica dei primi drammi Wuxia di Hong Kong, film Wuxia cinesi nostalgici, qualità televisiva vintage, toni caldi con tavolozza ad alta saturazione, texture a grana di pellicola retrò, leggera aberrazione cromatica Technicolor, atmosfera classica da set in studio, illuminazione di scena soffusa. visual_quality: fotografia su pellicola 35mm, difetti fisici della pellicola, texture cinematografica vintage, sottile dispersione cromatica, effetto soft focus, leggero sfarfallio della luce, forte effetto bloom sulle superfici illuminate. character_modeling: female_character - trucco classico dei drammi d'epoca anni '80, eyeliner nero, balsamo labbra color pesca-rosa, trecce raffinate con nastri rosa e accessori floreali, tradizionale Hanfu bianco e azzurro con ricami floreali e texture in seta. male_character - aspetto classico del giovane studioso Wuxia, capelli lunghi legati con un nastro bianco in vita, basette caratteristiche, viso rasato, veste da studioso/cavaliere bianco puro. script_and_storyboard: logic - logica di montaggio da sitcom con effetti di transizione fisici d'epoca. scenes: shot_1, [Primo piano, una giovane donna guarda con affetto un gatto bianco e nero su un tavolo di legno. Dialogo: 'Se solo potessi trasformarti in un bel ragazzo.'] shot_2, [Mezza figura, il gatto si lecca le zampe, poi un'esplosione di fumo fisico bianco in stile retrò erompe al centro dello schermo.] shot_3, [Trasformazione, il fumo si dirada, un bell'uomo in vesti bianche appare dove c'era il gatto.] shot_4, [Inquadratura sopra la spalla, la donna appare sorpresa e felice, allungando la mano per toccare la spalla o il petto dell'uomo. Dialogo: 'Wow, sei diventato davvero un bel ragazzo!'] shot_5, [Mezza figura, l'uomo ha un'espressione seria, gesticola con le dita a orchidea e parla con tono affascinante. Dialogo: 'Ti sei dimenticata che mi hai già castrato? Sono cambiato ora, sono tua sorella!'] shot_6, [Primo piano, la donna è immobile, espressione scioccata. Dialogo: 'Ah!?'] audio_and_post_production: effetto sonoro di trasformazione 'Puff', musica di sottofondo nostalgica di Hong Kong, voce fuori campo AI con accento da 'vecchio film' o 'stile doppiaggio TVB', durata 00:30.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/08b292a22998460684d2d5e56c3b6014/thumbnails/thumbnail.jpg" width="600" alt="Retro HK Wuxia Film Aesthetic">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/08b292a22998460684d2d5e56c3b6014/thumbnails/thumbnail.jpg" width="600" alt="Estetica dei film Wuxia retrò di Hong Kong">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3834)**
 
 **Autore:** [Alex Zhang](https://x.com/jojogh_007) | **Fonte:** [Link](https://x.com/jojogh_007/status/2048969153202307329) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Cinematic Route Navigation Guide
+### Guida alla navigazione cinematografica del percorso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured multi-scene prompt designed for Seedance to create a consistent walking navigation video featuring a recurring tour guide character and smooth transitions between real-world locations.
+> Un prompt strutturato a più scene progettato per Seedance per creare un video di navigazione a piedi coerente, con un personaggio guida ricorrente e transizioni fluide tra luoghi del mondo reale.
 
 #### 📝 Prompt
 
 ```
-Create a 5-second cinematic route-guide clip for a walking navigation video.
+Crea una clip cinematografica di 5 secondi come guida al percorso per un video di navigazione a piedi.
 
-Continuity:
-This is scene {N} of 5 in a route from North Avenue MARTA Station to Coda Tech Square in Atlanta.
-The guide is the same stylish female tour guide in every scene: black sunglasses, sleeveless cream belted dress, brown leather belt, tour lanyard, small shoulder bag, brown hair tied back, confident warm expression.
-She appears on the sidewalk or plaza only, never in traffic lanes.
+Continuità:
+Questa è la scena {N} di 5 di un percorso dalla stazione MARTA di North Avenue al Coda Tech Square di Atlanta.
+La guida è la stessa elegante tour leader in ogni scena: occhiali da sole neri, abito smanicato color crema con cintura, cintura in pelle marrone, cordino da tour, piccola borsa a tracolla, capelli castani raccolti, espressione sicura e cordiale.
+Appare solo sul marciapiede o in piazza, mai nelle corsie del traffico.
 
-Scene role:
+Ruolo della scena:
 {route_step}
 
-Starting frame:
-Use the supplied Street View image as the real-world location reference. Preserve the recognizable street layout, building massing, sidewalk direction, signage, and lighting.
+Fotogramma iniziale:
+Utilizza l'immagine di Street View fornita come riferimento per la posizione nel mondo reale. Preserva il layout stradale riconoscibile, la volumetria degli edifici, la direzione del marciapiede, la segnaletica e l'illuminazione.
 
-Action:
-The guide is already in frame, slightly ahead of the viewer. She turns toward the camera, gestures toward the next walking direction, then begins to lead the viewer forward.
+Azione:
+La guida è già nell'inquadratura, leggermente davanti allo spettatore. Si gira verso la telecamera, indica la direzione successiva da percorrere, quindi inizia a guidare lo spettatore in avanti.
 
-Camera:
-Smooth handheld walking pace, slight forward push-in, no jumpy zooms, no orbit. Keep horizon stable. The final second should frame the direction of the next scene so the edit can cut naturally.
+Telecamera:
+Ripresa fluida a mano a passo d'uomo, leggero movimento in avanti, nessuno zoom a scatti, nessuna rotazione. Mantieni l'orizzonte stabile. L'ultimo secondo dovrebbe inquadrare la direzione della scena successiva in modo che il montaggio possa staccare naturalmente.
 
-End frame:
-End with the camera facing {next_direction_or_landmark}, with the guide near the edge of frame pointing forward.
+Fotogramma finale:
+Termina con la telecamera rivolta verso {next_direction_or_landmark}, con la guida vicino al bordo dell'inquadratura che indica in avanti.
 
-Restrictions:
-Do not invent a different city, indoor location, parking lot, or tourist group. Do not place the guide in the road. Do not block crosswalks, street signs, building entrances, or the Coda facade.
+Restrizioni:
+Non inventare una città diversa, luoghi al chiuso, parcheggi o gruppi di turisti. Non posizionare la guida sulla strada. Non bloccare strisce pedonali, segnali stradali, ingressi di edifici o la facciata del Coda.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49a08d9ecf7257120711ce6d7b158073/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Route Navigation Guide">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49a08d9ecf7257120711ce6d7b158073/thumbnails/thumbnail.jpg" width="600" alt="Guida alla navigazione cinematografica del percorso">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3835)**
 
 **Autore:** [Michael Guo](https://x.com/Michaelzsguo) | **Fonte:** [Link](https://x.com/Michaelzsguo/status/2048966649982669053) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Luxury Supercar Cinematic Narrative
+### Narrativa cinematografica di una supercar di lusso
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot cinematic prompt for Seedance 2.0 involving a stylish man, Dobermans, and a vintage supercar in a misty mountain setting.
+> Un prompt cinematografico multi-inquadratura altamente dettagliato per Seedance 2.0 che coinvolge un uomo elegante, Dobermann e una supercar d'epoca in un ambiente montano nebbioso.
 
 #### 📝 Prompt
 
 ```
-Global Intent: Quiet Luxury with an aggressive edge. A stylish man with Dobermans and a classic dark blue vintage supercar journeys through misty mountains to an epic coast. Deep, saturated color palette: dark blue, matte black, foggy gray. The pacing is driven by a slow, heavy trap beat with deep 808 bass, featuring rhythmic cinematic cuts.
+Intento globale: Lusso discreto con un tocco aggressivo. Un uomo elegante con Dobermann e una classica supercar d'epoca blu scuro viaggia attraverso montagne nebbiose verso una costa epica. Palette di colori profondi e saturi: blu scuro, nero opaco, grigio nebbia. Il ritmo è guidato da un beat trap lento e pesante con bassi 808 profondi, caratterizzato da tagli cinematografici ritmati.
 
-SEQUENCE LIST:
+ELENCO SEQUENZE:
 
-SHOT 1 (0-1.5s) Medium Shot
+INQUADRATURA 1 (0-1.5s) Piano medio
 
-• camera_motion: push in
+• camera_motion: zoom in
 
-• core_action: Front of a modern matte black house. A stylish man in effortlessly expensive dark clothing stands motionless, holding three perfect Dobermans on thick leather leashes. Behind them sits a classic dark blue vintage supercar. confident movement, grounded interaction, authentic human behavior patterns. Audio: Quiet engine idling, trap beat intro.
+• core_action: Fronte di una moderna casa nera opaca. Un uomo elegante con abiti scuri costosi e disinvolti sta immobile, tenendo tre Dobermann perfetti al guinzaglio di cuoio spesso. Dietro di loro si trova una classica supercar d'epoca blu scuro. Movimento sicuro, interazione solida, pattern di comportamento umano autentici. Audio: Motore che gira al minimo, intro del beat trap.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 2 (1.5-2.5s) Extreme Close-Up
+INQUADRATURA 2 (1.5-2.5s) Primissimo piano
 
-• camera_motion: static shot
+• camera_motion: inquadratura statica
 
-• core_action: Macro of the man's face. He slowly lowers his sunglasses, staring directly into the lens with absolute confidence, revealing diamond grillz catching the light. confident movement, slow and deliberate movement. Audio: First heavy 808 bass hit.
+• core_action: Macro del volto dell'uomo. Abbassa lentamente gli occhiali da sole, fissando direttamente l'obiettivo con assoluta sicurezza, rivelando grillz di diamanti che catturano la luce. Movimento sicuro, lento e deliberato. Audio: Primo colpo pesante di basso 808.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 3 (2.5-4s) Close-Up
+INQUADRATURA 3 (2.5-4s) Primo piano
 
-• camera_motion: static shot
+• camera_motion: inquadratura statica
 
-• core_action: The head of one Doberman. The dog aggressively barks and bares its teeth in slight slow motion, saliva flying. energetic movement, realistic physics. Audio: Muffled, bass-heavy dog bark syncing seamlessly with the beat.
+• core_action: La testa di un Dobermann. Il cane abbaia aggressivamente e mostra i denti in un leggero rallentatore, con la saliva che vola. Movimento energico, fisica realistica. Audio: Abbaio del cane attutito e ricco di bassi, sincronizzato perfettamente con il beat.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 4 (4-5s) Medium Shot
+INQUADRATURA 4 (4-5s) Piano medio
 
-• camera_motion: static shot
+• camera_motion: inquadratura statica
 
-• core_action: Next to the supercar. The man pulls open the heavy car door. A Doberman elegantly and quickly leaps onto the vibrant red leather passenger seat. fluid movement, authentic momentum conservation. Audio: Heavy car door CLICK-CLUNK.
+• core_action: Accanto alla supercar. L'uomo apre la pesante portiera dell'auto. Un Dobermann salta elegantemente e rapidamente sul vibrante sedile del passeggero in pelle rossa. Movimento fluido, autentica conservazione della quantità di moto. Audio: Pesante CLICK-CLUNK della portiera dell'auto.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 5 (5-6.5s) Macro Shot
+INQUADRATURA 5 (5-6.5s) Macro
 
-• camera_motion: push in
+• camera_motion: zoom in
 
-• core_action: The supercar's hood. The pop-up headlights sharply snap open, instantly illuminating the frame with a piercing, bright yellow beam. mechanical precision, rigid body movement. Audio: Mechanical WHIRR and explosive engine roar on startup.
+• core_action: Il cofano della supercar. I fari a scomparsa si aprono bruscamente, illuminando istantaneamente l'inquadratura con un fascio di luce gialla penetrante. Precisione meccanica, movimento rigido della carrozzeria. Audio: Ronzio meccanico e ruggito esplosivo del motore all'avvio.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 6 (6.5-8s) Wide Shot
+INQUADRATURA 6 (6.5-8s) Campo lungo
 
-• camera_motion: tracking shot
+• camera_motion: carrellata
 
-• core_action: Winding mountain road engulfed in dense fog. The dark blue supercar aggressively drifts through a sharp hairpin turn, leaving a thick trail of tire smoke. realistic physics governing all actions, volumetric smoke flow, authentic momentum conservation. Audio: Tire SCREECH perfectly pitched to the track's high frequencies.
+• core_action: Strada di montagna tortuosa avvolta in una fitta nebbia. La supercar blu scuro derapa aggressivamente attraverso un tornante stretto, lasciando una spessa scia di fumo di pneumatici. Fisica realistica che governa tutte le azioni, flusso di fumo volumetrico, autentica conservazione della quantità di moto. Audio: Stridio di pneumatici perfettamente intonato sulle alte frequenze del brano.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 7 (8-9.5s) Medium Shot
+INQUADRATURA 7 (8-9.5s) Piano medio
 
-• camera_motion: static shot
+• camera_motion: inquadratura statica
 
-• core_action: Interior of the supercar. The man calmly steers with one hand. The Doberman sits in the passenger seat, its head sticking out the window, ears violently flapping in the rushing wind. wind interaction dynamics, natural movement. Audio: Heavy wind noise, muffled interior engine roar.
+• core_action: Interno della supercar. L'uomo guida con calma con una mano. Il Dobermann siede sul sedile del passeggero, con la testa fuori dal finestrino e le orecchie che sbattono violentemente nel vento impetuoso. Dinamiche di interazione con il vento, movimento naturale. Audio: Forte rumore del vento, ruggito attutito del motore all'interno.
 
-(CUT TO)
+(STACCO SU)
 
-SHOT 8 (9.5-11.5s) Wide Shot
+INQUADRATURA 8 (9.5-11.5s) Campo lungo
 
-• camera_motion: tracking shot
+• camera_motion: carrellata
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e8983364a95fe333f0f88bd1085a0e8/thumbnails/thumbnail.jpg" width="600" alt="Luxury Supercar Cinematic Narrative">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e8983364a95fe333f0f88bd1085a0e8/thumbnails/thumbnail.jpg" width="600" alt="Narrativa cinematografica di una supercar di lusso">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3819)**
 
 **Autore:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **Fonte:** [Link](https://x.com/ivanka_humeniuk/status/2048962364083691774) | **Pubblicato:** Apr 28, 2026
 
 ---
-### Cinematic Music Podcast and Guitar Technique
+### Podcast di musica cinematografica e tecnica chitarristica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An advanced cinematic prompt for generating a 4K music podcast video, with specific focus on guitar technique, pinch harmonics, and studio aesthetics.
+> Un prompt cinematografico avanzato per generare un video podcast musicale in 4K, con un focus specifico sulla tecnica chitarristica, i pinch harmonic e l'estetica da studio.
 
 #### 📝 Prompt
 
 ```
-**Cinematic Truth Source & Setup**  
-Professional music podcast video production, shot on Sony FX6 cinema camera in 4K DCI, anamorphic lenses with natural breathing and subtle flare, controlled studio lighting using ARRI Skypanels and practical LED backlights, clean broadcast color science with warm highlights and rich mid-tones exactly like high-end Netflix music documentaries. Realistic 24fps motion, light film grain, zero stylization.
+**Fonte di verità cinematografica e setup**
+Produzione video professionale per podcast musicale, girato con cinepresa Sony FX6 in 4K DCI, lenti anamorfiche con naturale breathing e flare sottile, illuminazione da studio controllata tramite ARRI Skypanel e retroilluminazione LED pratica, color science broadcast pulita con alte luci calde e ricchi toni medi, esattamente come nei documentari musicali di fascia alta di Netflix. Movimento realistico a 24fps, leggera grana cinematografica, zero stilizzazione.
 
-** Image Reference & Legend**  
-No external image reference supplied. Original generation locked to user character tagged @character on frame 0. Exact black electric guitar (Stratocaster style with whammy bar) must remain 100% consistent in shape, color, and wear. Back wall behind character locked with large professional podcast branding text “StudioName" in bold modern sans-serif font, subtly backlit with soft neon glow. No deviation allowed on character identity @character , guitar model/design/colors, or background text.
+**Riferimento immagine e legenda**
+Nessun riferimento immagine esterno fornito. Generazione originale bloccata sul personaggio utente taggato @character al frame 0. L'esatta chitarra elettrica nera (stile Stratocaster con leva del vibrato) deve rimanere coerente al 100% per forma, colore e usura. Parete di fondo dietro il personaggio bloccata con il grande testo del brand del podcast professionale “StudioName” in font sans-serif moderno e audace, sottilmente retroilluminato con un morbido bagliore al neon. Non è consentita alcuna deviazione sull'identità del personaggio @character, sul modello/design/colori della chitarra o sul testo di sfondo.
 
-** Timeline (Second-by-Second)**  
-0-3s: Medium close-up handheld camera on guitarist seated in modern podcast studio, microphone visible stage left. Left hand frets high note on 3rd string while right hand picks aggressively; camera slowly pushes in toward guitar neck. Pinch harmonic executed at 2.2s — thumb edge lightly touches string node creating exact “nguik” squealing overtone with natural string vibration and slight whammy bar dive. Back wall clearly shows large “StudioName” podcast name text. Studio monitors in background show faint reflection of hands.  
+**Timeline (secondo per secondo)**
+0-3s: Primo piano medio a mano libera sul chitarrista seduto in un moderno studio di podcast, microfono visibile a sinistra. La mano sinistra preme una nota alta sulla terza corda mentre la mano destra plettra in modo aggressivo; la telecamera si avvicina lentamente verso il manico della chitarra. Pinch harmonic eseguito a 2.2s: il bordo del pollice tocca leggermente il nodo della corda creando l'esatto armonico stridente “nguik” con vibrazione naturale della corda e leggero dive con la leva del vibrato. La parete di fondo mostra chiaramente il grande testo del podcast “StudioName”. I monitor da studio sullo sfondo mostrano un tenue riflesso delle mani.
 
-3-7s: Cut to tighter ECU on right hand performing rapid pinch-harmonic technique; strings visibly bend and ring with realistic metallic sustain and micro-vibrato. Left hand shifts positions smoothly, forearm muscles tensing naturally. Camera dollies left in slow arc revealing podcast microphone and back wall “StudioName” branding.  
+3-7s: Taglio su un ECU (Extreme Close-Up) più stretto sulla mano destra che esegue la rapida tecnica del pinch-harmonic; le corde si piegano visibilmente e risuonano con un sustain metallico realistico e micro-vibrato. La mano sinistra cambia posizione fluidamente, i muscoli dell'avambraccio si tendono naturalmente. La telecamera esegue una carrellata verso sinistra in un arco lento rivelando il microfono del podcast e il branding “StudioName” sulla parete di fondo.
 
-7-11s: Camera pulls back to medium shot as guitarist sustains final high-pitched “nguik” harmonic, letting it feedback naturally through amp. Head nods slightly in time. Background podcast setup with “StudioName” wall text stays in soft focus.  
+7-11s: La telecamera si allontana in un piano medio mentre il chitarrista sostiene l'ultimo armonico acuto “nguik”, lasciandolo andare in feedback naturale attraverso l'amplificatore. La testa annuisce leggermente a tempo. Il setup del podcast sullo sfondo con il testo “StudioName” sulla parete rimane leggermente fuori fuoco.
 
-11-15s: Final wide push-in as guitarist releases note, right hand lifts off strings cleanly, left hand relaxes on fretboard. Guitarist glances toward camera with professional nod. Full back wall “StudioName” podcast branding remains visible. Natural string decay and light body movement throughout.
+11-15s: Zoom in finale mentre il chitarrista rilascia la nota, la mano destra si solleva dalle corde in modo pulito, la mano sinistra si rilassa sulla tastiera. Il chitarrista guarda verso la telecamera con un cenno professionale. Il branding del podcast “StudioName” sull'intera parete di fondo rimane visibile. Decadimento naturale della corda e leggero movimento del corpo durante tutta la sequenza.
 
-** Style, Quality Boosters & Negative Prompts**  
-Ultra-realistic guitar physics with accurate string tension, pinch-harmonic squeal, and natural sustain; perfect finger synchronization and skin texture; natural motion blur on picking hand; professional color grading with high dynamic range and subtle lens breathing. Strict negatives: no extra limbs, no deformed fingers or hands, no rubbe
+**Stile, potenziatori di qualità e prompt negativi**
+Fisica della chitarra ultra-realistica con tensione delle corde accurata, stridio del pinch-harmonic e sustain naturale; perfetta sincronizzazione delle dita e texture della pelle; motion blur naturale sulla mano che plettra; color grading professionale con alta gamma dinamica e sottile lens breathing. Negativi rigorosi: niente arti extra, niente dita o mani deformate, niente gomma.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4515f4f328539e1ded2cc32f4ce63e7/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Music Podcast and Guitar Technique">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4515f4f328539e1ded2cc32f4ce63e7/thumbnails/thumbnail.jpg" width="600" alt="Podcast di musica cinematografica e tecnica chitarristica">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3826)**
 
 **Autore:** [TheYudayVerse](https://x.com/yuday9909) | **Fonte:** [Link](https://x.com/yuday9909/status/2048949262109880363) | **Pubblicato:** Apr 28, 2026
 
 ---
-### A Decade of Refinement Glow-Up
+### Un decennio di evoluzione: il glow-up
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A transformation prompt for Seedance 2.0 showing a man's transition from a casual 2016 setting to a luxurious 2026 Dubai lifestyle while maintaining character consistency.
+> Un prompt di trasformazione per Seedance 2.0 che mostra il passaggio di un uomo da un contesto casual del 2016 a uno stile di vita lussuoso a Dubai nel 2026, mantenendo la coerenza del personaggio.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second ultra-realistic cinematic transformation video using the exact same man from the uploaded reference image. Maintain perfect face consistency, same hairstyle, facial features, identity, and body proportions throughout. No face change. Concept: “2026 is the new 2016” nostalgia-to-luxury glow-up. Scene 1: 2016 version — simple casual clothes, basic hairstyle, walking alone on a normal street, warm nostalgic colors, old Instagram aesthetic, simple life, no luxury. Scene 2: Flashback cuts — old bike ride, cheap café alone, late-night dreams, city lights, silent ambition in his eyes. Scene 3: Strong transition — speed-ramp effect, screen crack cinematic transition, time shifts from 2016 to 2026, luxury watch appears, black suit transformation begins. Scene 4: 2026 version — walking confidently in Dubai downtown, luxury black suit, sunglasses, expensive watch, black luxury car behind him, people turn and stare. Scene 5: Hero shot — rooftop skyline at sunset, slow motion, wind moving, camera rotating around him, strong eye contact, main character energy. Final scene: cinematic ending with the feeling “Same Man. Different Era.” Style: hyper-realistic, Netflix-level production, luxury transformation, dramatic lighting, viral Instagram reel style, strong masculine aura, editorial fashion visuals, 4K ultra realism, emotional and powerful storytelling.
+Crea un video cinematografico ultra-realistico di 15 secondi utilizzando lo stesso uomo dell'immagine di riferimento caricata. Mantieni una perfetta coerenza del volto, stessa acconciatura, tratti somatici, identità e proporzioni corporee per tutta la durata. Nessun cambiamento del volto. Concept: "Il 2026 è il nuovo 2016", un glow-up che passa dalla nostalgia al lusso. Scena 1: Versione 2016 — abbigliamento casual semplice, acconciatura basica, cammina da solo su una strada comune, colori caldi e nostalgici, estetica da vecchio Instagram, vita semplice, nessun lusso. Scena 2: Flashback — giro in bicicletta, caffè economico da solo, sogni a tarda notte, luci della città, ambizione silenziosa nei suoi occhi. Scena 3: Transizione forte — effetto speed-ramp, transizione cinematografica con schermo che si incrina, il tempo passa dal 2016 al 2026, appare un orologio di lusso, inizia la trasformazione in abito nero. Scena 4: Versione 2026 — cammina con sicurezza nel centro di Dubai, abito nero di lusso, occhiali da sole, orologio costoso, auto di lusso nera alle sue spalle, le persone si voltano a guardarlo. Scena 5: Hero shot — skyline dal tetto al tramonto, slow motion, vento che muove i capelli, cinepresa che ruota attorno a lui, forte contatto visivo, energia da protagonista. Scena finale: chiusura cinematografica con il messaggio "Stesso uomo. Era diversa.". Stile: iper-realistico, produzione di livello Netflix, trasformazione di lusso, illuminazione drammatica, stile reel di Instagram virale, forte aura maschile, immagini di moda editoriale, ultra-realismo 4K, narrazione emozionante e potente.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2d6d15cbc6ef4d4d4c8c9a7de7007d7/thumbnails/thumbnail.jpg" width="600" alt="A Decade of Refinement Glow-Up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2d6d15cbc6ef4d4d4c8c9a7de7007d7/thumbnails/thumbnail.jpg" width="600" alt="Un decennio di evoluzione: il glow-up">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=3829)**
 
@@ -3474,6 +3474,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-04-29T10:23:49.045Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-04-29T14:14:26.214Z</sub>
 
 </div>

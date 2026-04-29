@@ -361,503 +361,503 @@
 
 > 📝 按發布日期排序（最新優先）
 
-### Character Intro Motion Graphics Sequence
+### 角色介紹動態圖形序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex, multi-stage motion graphics prompt for introducing a team of characters with specific UI overlays and transitions, designed for the Seedance 2.0 model.
+> 這是一個為 Seedance 2.0 模型設計的複雜多階段動態圖形提示詞，用於介紹一組角色，並包含特定的 UI 疊加層與轉場效果。
 
 #### 📝 提示詞
 
 ```
-Based on the three characters in the reference images. High definition, Unreal Engine rendering, cinematic quality, candy-colored palette, Japanese-style aesthetics, artistic, with strong sense of rhythm.
+基於參考圖片中的三個角色。高畫質，Unreal Engine 渲染，電影級質感，糖果色調，日系美學，藝術感，具備強烈的節奏感。
 
-0–2s: Empty scene, a small dot at the center, thin-line UI frame, subtle particles. Text: “STATUS: STANDBY” “SYSTEM: INIT”.
+0–2 秒：空場景，中心有一個小點，細線 UI 邊框，細微粒子效果。文字：「STATUS: STANDBY」「SYSTEM: INIT」。
 
-2–4s: The fox on the left from image2 appears, riding a hovering skateboard, waves toward the camera. Curved motion trails behind. Text: “ID: 01” “CODENAME: RED” “ROLE: TACTICIAN”.
+2–4 秒：圖片 2 中左側的狐狸出現，踩著懸浮滑板，向鏡頭揮手。身後帶有曲線運動軌跡。文字：「ID: 01」「CODENAME: RED」「ROLE: TACTICIAN」。
 
-4–6s: The rabbit on the right from image1 appears, swings a carrot weapon and takes a combat stance. Circular motion trails. Text: “ID: 02” “CODENAME: KANA” “ROLE: EXECUTIONER” “WEAPON: CARROT”.
+4–6 秒：圖片 1 中右側的兔子出現，揮舞胡蘿蔔武器並擺出戰鬥姿勢。帶有圓形運動軌跡。文字：「ID: 02」「CODENAME: KANA」「ROLE: EXECUTIONER」「WEAPON: CARROT」。
 
-6–8s: The corgi from image3 appears, looks left and right, showing a simple, friendly smile. Concentric circle UI under its feet. Text: “ID: 03” “CODENAME: Arthur” “ROLE: COMMANDER”.
+6–8 秒：圖片 3 中的柯基出現，左右張望，露出簡單友善的微笑。腳下有同心圓 UI。文字：「ID: 03」「CODENAME: Arthur」「ROLE: COMMANDER」。
 
-8–15s: The three characters align horizontally, from left to right: FIREBIRD, SAGE, MAD RABBIT. Snap alignment, unified circular platform beneath. Text: “SYSTEM SYNC COMPLETE” “UNIT READY”. Add UI overlay to each character: tracking frames, data bars, simplified charts. Text: “TRACKING” “ANALYSIS” “LOCKED”.
+8–15 秒：三個角色水平排列，從左至右分別為：FIREBIRD、SAGE、MAD RABBIT。快速對齊，腳下出現統一的圓形平台。文字：「SYSTEM SYNC COMPLETE」「UNIT READY」。為每個角色添加 UI 疊加層：追蹤框、數據條、簡化圖表。文字：「TRACKING」「ANALYSIS」「LOCKED」。
 
-Large title “CHAOS UNIT” appears, breaking into geometric fragments that expand outward. Text: “SYSTEM ERROR” “DATA BREAK”. The fragments then reassemble into “CHAOS UNIT”, centered layout with subtle circular guide lines. Text: “REBUILD COMPLETE” “SYSTEM ONLINE” “KANAWORKS_AI”.
+出現大標題「CHAOS UNIT」，隨後碎裂成向外擴散的幾何碎片。文字：「SYSTEM ERROR」「DATA BREAK」。碎片隨後重組成「CHAOS UNIT」，置中排版並帶有細微的圓形引導線。文字：「REBUILD COMPLETE」「SYSTEM ONLINE」「KANAWORKS_AI」。
 
-Final frame: “CHAOS UNIT” at the top, the three characters standing side by side below, with a clean circular platform at the bottom. Text: “STATUS: LOCKED” “UNIT: ACTIVE”.
+最後畫面：上方顯示「CHAOS UNIT」，下方為並排站立的三個角色，底部有一個乾淨的圓形平台。文字：「STATUS: LOCKED」「UNIT: ACTIVE」。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7697b00e2a3cb0ecb91273a772eda39/thumbnails/thumbnail.jpg" width="600" alt="Character Intro Motion Graphics Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7697b00e2a3cb0ecb91273a772eda39/thumbnails/thumbnail.jpg" width="600" alt="角色介紹動態圖形序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3818)**
 
 **作者:** [KANA](https://x.com/KanaWorks_AI) | **來源:** [Link](https://x.com/KanaWorks_AI/status/2049281443956974029) | **發布時間:** Apr 29, 2026
 
 ---
-### Cinematic Marine Biologist Exploration
+### 電影級海洋生物學家探索
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic video prompt for an underwater scene featuring a marine biologist discovering an ancient shipwreck in a coral reef.
+> 一份詳細的電影級影片提示詞，描繪海洋生物學家在珊瑚礁中發現古代沉船的水下場景。
 
 #### 📝 提示詞
 
 ```
-A marine biologist in a sleek wetsuit swims through the vibrant coral reefs of the Great Barrier Reef. At the 3-second mark, he dives deeper to approach an ancient shipwreck. The camera follows him as schools of colorful fish dart around. He retrieves a mysterious artifact from the wreck just as a curious shark glides by.
-Underwater ruins, coral reef exploration, ancient artifact retrieval, marine life encounter, cinematic underwater lighting, 4K.
+一位身穿流線型潛水衣的海洋生物學家，正穿梭於大堡礁充滿活力的珊瑚礁群中。在第 3 秒時，他向深處潛入，靠近一艘古代沉船。攝影機跟隨他的腳步，捕捉周圍成群結隊、穿梭往來的彩色魚類。就在一隻好奇的鯊魚滑過身旁時，他從沉船中取回了一件神秘的文物。
+水下遺跡、珊瑚礁探索、古代文物取回、海洋生物邂逅、電影級水下光影、4K。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4394ac601188eb66755d2c92451665c6/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Marine Biologist Exploration">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4394ac601188eb66755d2c92451665c6/thumbnails/thumbnail.jpg" width="600" alt="電影級海洋生物學家探索">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3817)**
 
 **作者:** [LudovicCreator](https://x.com/LudovicCreator) | **來源:** [Link](https://x.com/LudovicCreator/status/2049190693550055726) | **發布時間:** Apr 28, 2026
 
 ---
-### Magical Academy Storyboard Sequence
+### 魔法學院分鏡腳本序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed storyboard-style prompt for a cinematic sequence depicting a magical girl at an academy, covering arrival, discovery of power, and a magical duel.
+> 一份詳細的 storyboard 風格提示詞，用於描繪一位魔法少女在學院中的電影級序列，涵蓋抵達、力量覺醒以及魔法決鬥。
 
 #### 📝 提示詞
 
 ```
-0s – 4s (Arrival at the Academy)
-A massive gothic magical academy appears above floating cliffs, surrounded by storm clouds and glowing runes. The girl walks through the grand iron gates. Her expression is calm but curious. Floating spell books drift around the entrance. Cinematic slow push-in shot, mist and dramatic lighting.
+0s – 4s（抵達學院）
+一座宏偉的哥德式魔法學院出現在漂浮的懸崖之上，周圍環繞著風暴雲層與發光的符文。少女穿過巨大的鐵門，表情冷靜但充滿好奇。漂浮的咒語書在入口處四處飄動。電影級慢速推軌鏡頭，伴隨薄霧與戲劇性的光影。
 
-4s – 8s (The Forbidden Core Reveal)
-Inside a grand hall, students channel elemental magic. The girl stands still as her “sealed magical core” reacts. Dark energy briefly flickers around her chest, but she doesn’t collapse like others would. The academy masters observe in shock. Close-up on her face with glowing rune reflections in her eyes.
+4s – 8s（禁忌核心揭秘）
+在大廳內，學生們正在引導元素魔法。少女靜靜地站著，她體內的「封印魔法核心」產生了反應。黑暗能量在她胸口短暫閃爍，但她並未像其他人那樣倒下。學院大師們震驚地注視著這一幕。特寫鏡頭捕捉她的臉龐，眼中映照出發光的符文倒影。
 
-8s – 12s (Soul-Binding Lesson)
-In a floating classroom, chains of light connect students’ souls to magical entities. The girl absorbs a forbidden spell instead of being harmed. The spell dissolves into her body safely. Books levitate violently around her. Slow-motion, cinematic orbit camera around her.
+8s – 12s（靈魂連結課程）
+在漂浮的教室裡，光之鎖鏈將學生的靈魂與魔法實體連結起來。少女吸收了一道禁忌咒語，而非受到傷害。咒語安全地融入她的體內。書本在她周圍劇烈地懸浮。慢動作，電影級環繞鏡頭圍繞著她拍攝。
 
-12s – 16s (Forbidden Power Awakens)
-A sudden magical duel breaks out. She steps forward and releases a silent wave of forbidden magic. Reality bends slightly around her. Runes explode into glowing fragments in the air. The academy freezes in awe as her power stabilizes. Final shot: her standing alone under floating spell books, softly glowing.
+12s – 16s（禁忌力量覺醒）
+一場突如其來的魔法決鬥爆發。她向前邁步，釋放出一波無聲的禁忌魔法。現實在她周圍微微扭曲。符文在空中炸裂成發光的碎片。學院因她的力量穩定下來而震驚地凝固。最後鏡頭：她獨自站在漂浮的咒語書下，散發著柔和的光芒。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c81825485052d7aff4ee2af086c7f307/thumbnails/thumbnail.jpg" width="600" alt="Magical Academy Storyboard Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c81825485052d7aff4ee2af086c7f307/thumbnails/thumbnail.jpg" width="600" alt="魔法學院分鏡腳本序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3823)**
 
 **作者:** [Soulful Ai](https://x.com/soulful__ai) | **來源:** [Link](https://x.com/soulful__ai/status/2049186700199620777) | **發布時間:** Apr 28, 2026
 
 ---
-### Traditional Dance Performance
+### 傳統舞蹈表演
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for Seedance 2.0 to generate a graceful traditional dance based on choreography and identity reference images.
+> 這是一份為 Seedance 2.0 設計的綜合影片提示詞，旨在根據編舞與身份參考圖，生成優雅的傳統舞蹈。
 
 #### 📝 提示詞
 
 ```
-Use the first reference image as the exact choreography and motion-process guide. Use the second reference image as the identity reference for the adult woman dancer.
+請使用第一張參考圖作為編舞與動作流程的精確指南。使用第二張參考圖作為成年女性舞者的身份參考。
 
-Create a graceful traditional dance performance that follows all 16 illustrated steps in order, from the confident opening pose to the respectful closing pose. The dancer performs with poised posture, soft knee bends, precise cross steps, elegant wrist waves, curved fingers, shoulder accents, hip sways, flowing turns, and expressive selendang sweeps.
+請創作一場優雅的傳統舞蹈表演，並依序遵循圖示中的所有 16 個步驟，從自信的開場姿勢到恭敬的結束姿勢。舞者需展現端莊的體態、柔和的屈膝、精準的交叉步、優雅的腕部擺動、彎曲的手指、肩部動作、臀部搖擺、流暢的轉身以及富有表現力的披肩（selendang）揮動。
 
-Keep the camera in a clean full-body cinematic frame, mostly front-facing, with slow controlled movement that supports the dance instead of distracting from it. During the left and right turns, allow a subtle circular camera drift, then return to a centered frontal composition. The dancer’s hands, feet, facial expression, and selendang fabric must remain visible throughout.
+請保持鏡頭為乾淨的全身電影級構圖，以正面為主，並配合緩慢且受控的鏡頭運動，以輔助舞蹈而非造成干擾。在左右轉身時，可允許鏡頭進行細微的環繞漂移，隨後回到置中的正面構圖。舞者的手部、腳部、面部表情以及披肩布料必須全程保持可見。
 
-Use soft studio lighting, refined contrast, and a calm traditional performance atmosphere. The motion should feel smooth, rhythmic, respectful, and feminine, with the selendang floating naturally as the dancer glides forward and backward. End on a still closing pose with hands at the heart, peaceful smile, and elegant silence.
+請使用柔和的攝影棚燈光、精緻的對比度，並營造平靜的傳統表演氛圍。動作應流暢、有節奏感、莊重且具備女性柔美，當舞者前後滑步時，披肩應自然飄動。最後以雙手合十於心口、平靜的微笑以及優雅的靜止姿勢作為結尾。
 ```
 
-<img src="https://pbs.twimg.com/media/HHAdco5aQAAtTCa.jpg" width="600" alt="Traditional Dance Performance">
+<img src="https://pbs.twimg.com/media/HHAdco5aQAAtTCa.jpg" width="600" alt="傳統舞蹈表演">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3810)**
 
 **作者:** [Sydney](https://x.com/XSydneyFan) | **來源:** [Link](https://x.com/XSydneyFan/status/2049170241247449316) | **發布時間:** Apr 28, 2026
 
 ---
-### Ancient Indian Kingdom FPV Video
+### 古印度王國 FPV 影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced FPV drone-style cinematic prompt depicting a mystical Indian kingdom with temples and jungles.
+> 這是一個節奏明快的 FPV 無人機風格電影感提示詞，描繪了充滿神秘色彩的印度王國，包含寺廟與叢林場景。
 
 #### 📝 提示詞
 
 ```
-extremely fast-paced cinematic FPV flying through the ancient Indian Dandaka kingdom, dense mystical forests, towering sal and teak trees, tribal settlements, ancient ashrams, sages meditating, wildlife moving through fog, dramatic sunlight rays piercing canopy, rivers cutting through rugged terrain, ruined temples covered in vines, hyper-realistic textures, high-speed aerial dives and sharp turns, immersive depth, volumetric lighting, earthy tones, epic scale, realism, cinematic color grading, smooth stabilization, ultra-detailed environment, intense atmosphere
+極快節奏的電影感 FPV 飛行，穿梭於古印度丹達卡 (Dandaka) 王國，茂密的神秘森林，高聳的娑羅樹與柚木，部落聚落，古老修行處，聖人在冥想，野生動物在霧中穿梭，戲劇性的陽光穿透樹冠，河流切割崎嶇地形，被藤蔓覆蓋的廢棄寺廟，超逼真紋理，高速空中俯衝與急轉彎，沉浸式深度，體積光，大地色調，史詩級規模，寫實主義，電影級調色，平滑穩定，超細節環境，強烈氛圍
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/146717bc1b96541c0da02f0ba053b9c3/thumbnails/thumbnail.jpg" width="600" alt="Ancient Indian Kingdom FPV Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/146717bc1b96541c0da02f0ba053b9c3/thumbnails/thumbnail.jpg" width="600" alt="古印度王國 FPV 影片">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3820)**
 
 **作者:** [Shushant Lakhyani](https://x.com/shushant_l) | **來源:** [Link](https://x.com/shushant_l/status/2049141805233672529) | **發布時間:** Apr 28, 2026
 
 ---
-### Toaster Rocket Jumpscare
+### 烤麵包機火箭驚嚇
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a realistic home-video style shot of an old man being jumpscared by a toaster launching bread like a rocket.
+> 一個關於老人在廚房被烤麵包機像火箭般彈出的麵包嚇到的真實家庭錄影風格提示詞。
 
 #### 📝 提示詞
 
 ```
-A realistic shot of an old man in a cozy kitchen being jumpscared when his toaster launches the bread five feet into the air like a rocket. Handheld "home video" style capturing his genuine look of shock and the bread hitting the ceiling.A realistic shot of an old man in a cozy kitchen being jumpscared when his toaster launches the bread five feet into the air like a rocket. Handheld "home video" style capturing his genuine look of shock and the bread hitting the ceiling.
+一個真實的鏡頭，拍攝一位老人在溫馨的廚房裡，被烤麵包機將麵包像火箭一樣彈射到五英尺高空而嚇了一跳。手持「家庭錄影」風格，捕捉他真實的驚嚇表情以及麵包撞擊天花板的瞬間。一個真實的鏡頭，拍攝一位老人在溫馨的廚房裡，被烤麵包機將麵包像火箭一樣彈射到五英尺高空而嚇了一跳。手持「家庭錄影」風格，捕捉他真實的驚嚇表情以及麵包撞擊天花板的瞬間。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbf9f399fd8f4905a62661966d937ba8/thumbnails/thumbnail.jpg" width="600" alt="Toaster Rocket Jumpscare">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fbf9f399fd8f4905a62661966d937ba8/thumbnails/thumbnail.jpg" width="600" alt="烤麵包機火箭驚嚇">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3831)**
 
 **作者:** [Marin](https://x.com/MarinMethod) | **來源:** [Link](https://x.com/MarinMethod/status/2049140113343394003) | **發布時間:** Apr 28, 2026
 
 ---
-### Wasteland Factory Chase
+### 荒原工廠追逐戰
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for a high-speed desert wasteland scene featuring a moving industrial factory on legs and a rebel bike chase.
+> 這是一個電影級的提示詞，用於描繪一場發生在沙漠荒原的高速追逐場景，包含一座靠機械腿移動的工業工廠以及反抗軍的機車追逐。
 
 #### 📝 提示詞
 
 ```
-Ultra-realistic desert horizon. A gigantic industrial factory moving on mechanical legs crosses the wasteland like a living city. Female rebel riding a fast bike toward it. Scrap armor forms from metal debris. Defense drones launch from the machine. Camera chases beside hoverbike at high speed. She jumps from bike onto a drone, smashes it, lands on the walking factory. Final frame: towering machine blocks the sun.
+超寫實沙漠地平線。一座巨大的工業工廠靠著機械腿在荒原上移動，宛如一座活生生的城市。一名女性反抗軍騎著高速機車朝它駛去。廢鐵碎片組成了裝甲。防禦無人機從機器中發射。鏡頭以高速在懸浮機車旁追拍。她從機車跳上無人機，將其擊碎，隨後降落在移動的工廠上。最後一幕：高聳的機器遮住了太陽。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c00999fd2444b7303984afe02b739e64/thumbnails/thumbnail.jpg" width="600" alt="Wasteland Factory Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c00999fd2444b7303984afe02b739e64/thumbnails/thumbnail.jpg" width="600" alt="荒原工廠追逐戰">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3815)**
 
 **作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **來源:** [Link](https://x.com/AllaAisling/status/2049132779288322134) | **發布時間:** Apr 28, 2026
 
 ---
-### 3D Animated Boy Building Lego
+### 3D 動畫男孩拼裝 Lego
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-shot video prompt in 3D animation style describing a boy carefully assembling Lego pieces in a room, featuring time-lapse effects.
+> 這是一個 3D 動畫風格的多鏡頭影片提示詞，描述一名男孩在房間裡專注地拼裝 Lego 積木，並結合了縮時攝影效果。
 
 #### 📝 提示詞
 
 ```
-Scene: A boy in a room seriously assembling Lego blocks. The visual style is 3D animation with vibrant colors, smooth lines, full of childlike fun and vitality. A time-lapse effect is added to show the assembly process.
-Scene: Wide shot of the room, sunlight spilling onto the desk through the window. The boy sits at the desk focused on assembling Lego, with a serious expression. The camera slowly zooms in.
-Scene: Time-lapse effect showing the boy quickly snapping Lego pieces together, the blocks gradually taking shape in his hands. The camera switches to different angles.
-Scene: Close-up of hands, showing details of the boy skillfully assembling Lego, fingers moving nimbly. The camera follows the hand movements.
-Scene: Time-lapse effect continues showing the assembly process. The Lego creation becomes complete, and the boy's expression changes from focused to satisfied.
-Scene: The boy looks up with a satisfied smile. The camera pulls back to reveal the finished Lego masterpiece.
+場景：一名男孩在房間裡認真地拼裝 Lego 積木。視覺風格為 3D 動畫，色彩鮮豔、線條流暢，充滿童趣與活力。加入縮時攝影效果來呈現拼裝過程。
+場景：房間的全景鏡頭，陽光透過窗戶灑在書桌上。男孩坐在桌前專注地拼裝 Lego，表情嚴肅。鏡頭緩慢推進。
+場景：縮時攝影效果顯示男孩快速地將 Lego 積木拼在一起，積木在他手中逐漸成形。鏡頭切換至不同角度。
+場景：手部特寫，展示男孩靈巧地拼裝 Lego 的細節，手指靈活移動。鏡頭跟隨手部動作。
+場景：縮時攝影效果持續呈現拼裝過程。Lego 作品完成，男孩的表情從專注轉為滿足。
+場景：男孩抬頭露出滿足的微笑。鏡頭拉遠，展示完成的 Lego 傑作。
 
-Duration: 00:20
+時長：00:20
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2dba80d5da706c3ea078ed69096c67d3/thumbnails/thumbnail.jpg" width="600" alt="3D Animated Boy Building Lego">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2dba80d5da706c3ea078ed69096c67d3/thumbnails/thumbnail.jpg" width="600" alt="3D 動畫男孩拼裝 Lego">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3833)**
 
 **作者:** [Alex Zhang](https://x.com/jojogh_007) | **來源:** [Link](https://x.com/jojogh_007/status/2049123558102810714) | **發布時間:** Apr 28, 2026
 
 ---
-### Cinematic Emotional Face Close-up
+### 電影級情感臉部特寫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed technical prompt for Seedance 2.0 focusing on realistic skin textures and a series of complex emotional facial transitions.
+> 這是一個為 Seedance 2.0 設計的高細節技術提示詞，專注於逼真的皮膚紋理與一系列複雜的情感臉部轉換。
 
 #### 📝 提示詞
 
 ```
-A realistic human face with highly detailed skin texture, pores, and micro-musculature. Scene: Tight portrait close-up against a dark, void-like background. Style: Cinematic realism, 35mm film aesthetic, shallow depth of field with soft bokeh, moody and introspective. Lighting: Dynamic emotional lighting that shifts in color temperature and direction to match the internal state. Audio: Ambient atmospheric drone, soft rhythmic breathing, subtle emotional orchestral swells. Avoid: Identity drift, jitter, distorted limbs, unnatural morphing artifacts. [0-3s] Camera: Slow, imperceptible push-in. Action: The face breaks into a genuine, soft smile; eyes crinkle at the corners and the cheeks lift. Lighting: Warm golden-hour glow, soft and frontal. Vfx: Subtle lens flare. [3-6s] Camera: Static extreme close-up. Action: The smile dissolves into a heavy, downward curve; eyes well up with glistening tears that catch the light, and the lower lip trembles. Lighting: Transition to a cool, melancholy blue wash from above. [6-9s] Camera: Controlled lateral pan. Action: The brow furrows deeply into a sharp V-shape; the jaw clenches visibly, and nostrils flare with rhythmic, heavy breathing. Lighting: Harsh, high-contrast red and orange side-lighting creating deep shadows. [9-12s] Camera: Subtle handheld micro-shake for tension. Action: The eyes snap wide, pupils dilating; the face pales as the muscles go taut, and the mouth hangs slightly open in a shallow gasp. Lighting: Dim, desaturated, flickering low-key light. [12-15s] Camera: Gentle pull-out to a medium close-up. Action: All tension drains from the face; the eyes slowly close, and the features settle into a mask of perfect, serene stillness. Lighting: Soft, diffused white light enveloping the subject like a halo.
+一張逼真的人臉，具有高度細節的皮膚紋理、毛孔和微表情肌肉。場景：針對深色虛空背景的緊湊肖像特寫。風格：電影級寫實主義、35mm 膠片美學、淺景深搭配柔和散景，氛圍感強且具內省感。燈光：動態情感燈光，隨內在狀態改變色溫與方向。音訊：環境氛圍低頻音、柔和的規律呼吸聲、細微的情感管弦樂起伏。避免：身份漂移、抖動、肢體扭曲、不自然的變形偽影。[0-3s] 攝影機：緩慢、難以察覺的推進。動作：臉部綻放出真誠、柔和的微笑；眼角產生皺紋，臉頰上揚。燈光：溫暖的黃金時刻光芒，柔和的正面光。視覺特效：細微的鏡頭光暈。[3-6s] 攝影機：靜態極致特寫。動作：笑容消散轉為沉重的下垂曲線；眼眶湧出閃爍的淚水並捕捉光線，下唇顫抖。燈光：過渡為從上方照射的冷冽憂鬱藍色調。[6-9s] 攝影機：受控的橫向平移。動作：眉頭深鎖成銳利的 V 字型；下顎明顯緊咬，鼻翼隨規律且沉重的呼吸而張合。燈光：強烈、高對比的紅橙色側光，營造出深邃陰影。[9-12s] 攝影機：細微的手持微震以增加張力。動作：雙眼猛然睜大，瞳孔放大；臉色蒼白，肌肉緊繃，嘴巴微張，呈現淺淺的喘息。燈光：昏暗、低飽和度、閃爍的低調光。[12-15s] 攝影機：輕柔拉遠至中景特寫。動作：臉部所有張力消散；雙眼緩緩閉上，五官沉澱為完美、寧靜的平靜面容。燈光：柔和的漫射白光，如光環般籠罩主體。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a47ba646e7cedd79363c861864b8714/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Emotional Face Close-up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4a47ba646e7cedd79363c861864b8714/thumbnails/thumbnail.jpg" width="600" alt="電影級情感臉部特寫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3830)**
 
 **作者:** [Ai Doctor](https://x.com/DoctorAmna11) | **來源:** [Link](https://x.com/DoctorAmna11/status/2049119918755283014) | **發布時間:** Apr 28, 2026
 
 ---
-### Soul-Switching Mirror Magic Sequence
+### 靈魂互換鏡面魔法序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative video prompt describing a magical soul-switching event at a mirror, with specific camera instructions and emotional cues for each segment.
+> 一段敘事性影片提示詞，描述了鏡子前的魔法靈魂互換事件，並為每個片段提供了具體的鏡頭指令與情感提示。
 
 #### 📝 提示詞
 
 ```
-0s – 4s (Opening Mystery)
-A hidden magical kingdom under heavy rain at night. The girl stands beside a glowing water mirror in an ancient palace courtyard. Blue magical fog surrounds her. The water reflects faint glowing runes. She slowly reaches toward the reflection.
-Camera: Slow push-in close-up, cinematic depth of field
-Mood: Mysterious, calm tension, soft rain sounds
+0s – 4s（開場懸疑）
+夜晚，大雨滂沱下隱藏的魔法王國。女孩站在古老宮殿庭院中一面發光的鏡面水池旁。藍色的魔法霧氣環繞著她。水面映照出微弱的發光符文。她緩緩向倒影伸出手。
+鏡頭：緩慢推進特寫，電影級景深
+氛圍：神秘、平靜的緊張感、柔和的雨聲
 
-4s – 8s (Soul Switch Event)
-Her fingers touch the water reflection suddenly the surface shatters into glowing blue energy. A magical pulse spreads. Her eyes flash with light as her soul violently switches with the crown prince.
-Camera: Fast magical shockwave transition, close-up eye zoom
-VFX: Soul transfer glow, water turning into floating light particles
-Mood: Intense, dramatic awakening
+4s – 8s（靈魂互換事件）
+她的手指觸碰水面，瞬間水面破碎成發光的藍色能量。一股魔法脈衝擴散開來。她的雙眼閃爍光芒，靈魂與皇太子發生了劇烈的互換。
+鏡頭：快速魔法衝擊波轉場，眼睛特寫變焦
+VFX：靈魂轉移光芒，水流化作漂浮的光粒子
+氛圍：強烈、戲劇性的覺醒
 
-8s – 12s (Living as the Prince)
-Now inside the crown prince’s body (her consciousness), she stands in a royal throne room. Nobles bow before her, unaware of the switch. She struggles to act like him while hiding panic. Subtle expressions of confusion and fear.
-Camera: Slow tracking shot through palace hall
-Lighting: Cold golden royal lighting with shadows
-Mood: Suspense, identity tension, hidden fear
+8s – 12s（以皇太子身分生活）
+現在（她的意識）進入了皇太子的身體，她站在皇家大殿中。貴族們在她面前鞠躬，卻未察覺互換的事實。她努力模仿他的舉止，同時掩飾內心的恐慌。表情細微地流露出困惑與恐懼。
+鏡頭：穿過宮殿大廳的緩慢跟拍
+燈光：帶有陰影的冷色調皇家金光
+氛圍：懸疑、身分危機、隱藏的恐懼
 
-12s – 16s (Hidden Truth + Cliffhanger)
-Back in the courtyard mirror, the prince (in her body) looks back at her real form from the reflection. The magical water starts cracking again, suggesting unstable soul connection. Blue energy rises violently.
+12s – 16s（隱藏真相 + 懸念結尾）
+回到庭院的鏡面水池，皇太子（在她的身體裡）從倒影中回望她真實的軀體。魔法水面再次開始龜裂，暗示著靈魂連結的不穩定。藍色能量劇烈升騰。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e614b54b8f60956db3cd9cb765db1d09/thumbnails/thumbnail.jpg" width="600" alt="Soul-Switching Mirror Magic Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e614b54b8f60956db3cd9cb765db1d09/thumbnails/thumbnail.jpg" width="600" alt="靈魂互換鏡面魔法序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3824)**
 
 **作者:** [Soulful Ai](https://x.com/soulful__ai) | **來源:** [Link](https://x.com/soulful__ai/status/2049094162134532477) | **發布時間:** Apr 28, 2026
 
 ---
-### Animation transfer and camera tracking prompt
+### 動畫遷移與攝影機追蹤提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for Seedance 2.0 that applies a specific motion reference to a character while maintaining fixed camera tracking.
+> 適用於 Seedance 2.0 的技術提示詞，可在維持固定攝影機追蹤的同時，將特定的動作參考應用於角色。
 
 #### 📝 提示詞
 
 ```
-apply the walking animation of @anim excatly as it is to @char7 . the camera tracks the character exactly in place, camera angle does not change
+將 @anim 的行走動畫精確地應用於 @char7 。攝影機需精確地追蹤該角色並保持在原位，攝影機角度不得改變
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/089e7cd70d20131d6d1b44741520eaee/thumbnails/thumbnail.jpg" width="600" alt="Animation transfer and camera tracking prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/089e7cd70d20131d6d1b44741520eaee/thumbnails/thumbnail.jpg" width="600" alt="動畫遷移與攝影機追蹤提示詞">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3825)**
 
 **作者:** [Olivio Sarikas](https://x.com/OlivioSarikas) | **來源:** [Link](https://x.com/OlivioSarikas/status/2049093762077630628) | **發布時間:** Apr 28, 2026
 
 ---
-### Hunched Character Animation
+### 駝背角色動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Instruction for Seedance 2 to create an in-place walking animation for a specific character reference.
+> 關於使用 Seedance 2 為特定角色參考建立原地行走動畫的指令。
 
 #### 📝 提示詞
 
 ```
-create a walking animation for this hunched over character. the character stays in place
+為這個駝背的角色建立一個行走動畫。角色保持在原地不動
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3d5dcaf102414a8cceca23d60b5c0d0/thumbnails/thumbnail.jpg" width="600" alt="Hunched Character Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3d5dcaf102414a8cceca23d60b5c0d0/thumbnails/thumbnail.jpg" width="600" alt="駝背角色動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3811)**
 
 **作者:** [Olivio Sarikas](https://x.com/OlivioSarikas) | **來源:** [Link](https://x.com/OlivioSarikas/status/2049093747011670042) | **發布時間:** Apr 28, 2026
 
 ---
-### Crimson Horizon Sci-Fi Cinematic Sequence
+### Crimson Horizon 科幻電影序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive 9-shot cinematic video sequence for a sci-fi film titled 'Crimson Horizon', detailing everything from a rocket launch to an eerie alien encounter on Mars.
+> 為名為「Crimson Horizon」的科幻電影製作的 9 鏡頭完整電影影片序列，詳細描述了從火箭發射到火星上令人毛骨悚然的外星遭遇等所有場景。
 
 #### 📝 提示詞
 
 ```
-SHOT 1: Cinematic wide angle format — rocket launching into night sky, city lights below, clouds parting, stars above. Dark, dramatic, photorealistic.
+鏡頭 1：電影級廣角格式 — 火箭發射升入夜空，下方是城市燈光，雲層散開，繁星點點。黑暗、戲劇性、照片級真實感。
 
-SHOT 2: Medium two-shot format — man and woman in astronaut suits inside a dark capsule, Mars glowing red through the porthole behind them. Cinematic, intimate.
+鏡頭 2：中景雙人鏡頭格式 — 一男一女身穿太空衣坐在黑暗的太空艙內，身後的舷窗外火星閃爍著紅光。電影感、親密感。
 
-SHOT 3: Dramatic aerial format — descent capsule burning through Mars atmosphere, heat shield glowing orange, red desert surface rushing up below. Hyperrealistic.
+鏡頭 3：戲劇性航拍格式 — 降落艙穿過火星大氣層燃燒，隔熱罩發出橘色光芒，下方紅色沙漠地表急速逼近。超寫實。
 
-SHOT 4: Ultra wide low angle format — two astronauts standing with backs to camera on Mars surface, vast red desert and amber sky stretching before them. Empty, eerie.
+鏡頭 4：超廣角低角度格式 — 兩名太空人背對鏡頭站在火星表面，廣闊的紅色沙漠與琥珀色天空在眼前延伸。空曠、詭異。
 
-SHOT 5: Extreme close-up format — female astronaut's gloved hand tracing ancient carved symbols on a canyon wall, helmet lamp lighting the carvings, her eyes wide with fear.
+鏡頭 5：極致特寫格式 — 女性太空人戴著手套的手撫摸著峽谷岩壁上古老的雕刻符號，頭盔燈照亮了雕刻，她的雙眼因恐懼而睜大。
 
-SHOT 6: Tight close-up format — male astronaut's arm display glowing red reading "UNKNOWN", a massive dark shape looming behind him in the dust haze. Tense, cinematic.
+鏡頭 6：緊湊特寫格式 — 男性太空人手臂上的顯示器閃爍著紅光，顯示「UNKNOWN」（未知），塵霧中一個巨大的黑色身影在他身後隱約浮現。緊張、電影感。
 
-SHOT 7: Extreme wide format — colossal dark horned creature emerging from a dust storm, violet glowing eyes, two tiny astronauts dwarfed at the bottom of the frame. Cinematic horror.
+鏡頭 7：極致廣角格式 — 巨大的黑色長角生物從沙塵暴中現身，紫色的眼睛發著光，兩名渺小的太空人在畫面底部顯得微不足道。電影恐怖感。
 
-SHOT 8: Locked macro format — creature's enormous purple glowing eye filling the entire frame, two astronaut silhouettes reflected in the iris. Pure black background. Photorealistic.
+鏡頭 8：固定微距格式 — 生物巨大的紫色發光眼睛填滿整個畫面，虹膜中反射出兩名太空人的剪影。純黑色背景。照片級真實感。
 
-SHOT 9: Title card format — pure black background, bold cracked text reads CRIMSON HORIZON, tagline below: "They came searching for life. Life was already waiting."
+鏡頭 9：標題卡格式 — 純黑色背景，粗體裂紋文字寫著 CRIMSON HORIZON，下方標語：「他們前來尋找生命。而生命早已在等待。」
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7d9d956d3e812f4f99cf99e0552382/thumbnails/thumbnail.jpg" width="600" alt="Crimson Horizon Sci-Fi Cinematic Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff7d9d956d3e812f4f99cf99e0552382/thumbnails/thumbnail.jpg" width="600" alt="Crimson Horizon 科幻電影序列">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3813)**
 
 **作者:** [wonder](https://x.com/WonderBoy023) | **來源:** [Link](https://x.com/WonderBoy023/status/2049086862858367347) | **發布時間:** Apr 28, 2026
 
 ---
-### Beat-Synced Outfit Transformation Dance
+### 節拍同步換裝舞蹈
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for Seedance 2.0 that coordinates a character dance following breakdown frames while performing a beat-synced outfit change.
+> 這是一個適用於 Seedance 2.0 的提示詞，旨在引導角色根據分解幀進行舞蹈，並在過程中執行節拍同步的換裝效果。
 
 #### 📝 提示詞
 
 ```
-Have the character from Image 1 perform the dance based on the breakdown in Image 3. During the performance, include a beat-synced transformation into the character from Image 2. After the transformation, the character from Image 2 continues and completes the remaining dance steps from Image 3. Emphasize precise beat matching with the music
+讓圖片 1 中的角色根據圖片 3 的分解動作進行舞蹈。在表演過程中，加入與節拍同步的變身效果，轉換為圖片 2 中的角色。變身完成後，圖片 2 中的角色繼續並完成圖片 3 中剩餘的舞步。請強調動作與音樂節拍的精確同步。
 ```
 
-<img src="https://pbs.twimg.com/media/HG_FqHJboAA5vAe.jpg" width="600" alt="Beat-Synced Outfit Transformation Dance">
+<img src="https://pbs.twimg.com/media/HG_FqHJboAA5vAe.jpg" width="600" alt="節拍同步換裝舞蹈">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3814)**
 
 **作者:** [Kashberg](https://x.com/Kashberg_0) | **來源:** [Link](https://x.com/Kashberg_0/status/2049074008730247669) | **發布時間:** Apr 28, 2026
 
 ---
-### Vintage Disney Style Pirate Crocodile Animation
+### 復古迪士尼風格海盜鱷魚動畫
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-scene narrative prompt for a classic vintage Disney-style animation featuring a crocodile pirate and bird pirates on a ship.
+> 這是一個多場景敘事提示詞，描繪了一段經典復古迪士尼風格的動畫，主角為海盜船上的鱷魚海盜與鳥類海盜。
 
 #### 📝 提示詞
 
 ```
-Classic vintage Disney animation style. Scene 1: On a pirate ship sailing on the sea, a fat and sinister crocodile pirate stands at the end of a plank. Three bird pirates are watching on the ship, while another bird pirate stands at the beginning of the plank, pointing a sword at the crocodile pirate. The crocodile pirate is wearing a sleeveless tight suit and is muscular. He looks at the bird pirates provocatively. Although he is a bit overwhelmed, he does not intend to give up. The bird pirates look at the crocodile pirate with evil smiles. The atmosphere is tense, and the bird pirates hope the crocodile pirate will jump off the plank into the sea below. Scene 2: The bird pirate says it's all over. He slams the plank with his claw, and the plank shakes. The crocodile pirate loses his balance and falls off the plank. Scene 3: The bird pirates let out evil laughter, but then discover that the crocodile pirate did not fall. Instead, he is grabbing the end of the plank with one hand, his arm stretched straight. Scene 4: Close-up of the crocodile pirate's upper body. A bird pirate leans down with a sly smile, reaches out a feather, and points it at the armpit of the arm the crocodile pirate is using to grab the plank, saying: "It's time to laugh out loud." Scene 5: Close-up of the feather wriggling in the crocodile's armpit, accompanied by funny sound effects. At the same time, we hear the crocodile chuckling. Scene 6: The camera focuses on the upper body of the crocodile hanging in the air, smirking, eyes closed, letting out a muffled laugh as the feather continues to tickle its armpit. Scene 7: The camera sweeps across the crocodile pirate's whole body; the bird pirate continues to tickle his armpit, and soon the crocodile pirate starts laughing out loud. Scene 8: The bird continues to tickle the crocodile pirate's armpit, making him laugh hysterically. Suddenly, the crocodile pirate laughs so hard that he lets go of the plank and falls into the sea. The bird pirate finally lets out a sly chuckle, with a satisfied smile on his face, and stands back on the plank. English voiceover.
+經典復古迪士尼動畫風格。場景 1：在海上航行的海盜船上，一隻肥胖且陰險的鱷魚海盜站在跳板末端。三隻鳥類海盜在船上觀望，另一隻鳥類海盜站在跳板起點，用劍指著鱷魚海盜。鱷魚海盜身穿無袖緊身衣，肌肉發達。他挑釁地看著那些鳥類海盜，儘管處於劣勢，但他並不打算放棄。鳥類海盜們帶著邪惡的笑容看著鱷魚海盜。氣氛緊張，鳥類海盜們希望鱷魚海盜跳下跳板落入海中。場景 2：鳥類海盜說一切都結束了。他用爪子猛擊跳板，跳板隨之晃動。鱷魚海盜失去平衡，從跳板上跌落。場景 3：鳥類海盜們發出邪惡的笑聲，但隨後發現鱷魚海盜並沒有掉下去。相反，他正用一隻手抓住跳板末端，手臂筆直地伸展著。場景 4：鱷魚海盜上半身的特寫。一隻鳥類海盜帶著狡黠的笑容俯下身，伸出一根羽毛，指向鱷魚海盜抓住跳板的那隻手臂的腋下，說道：「是時候大笑一場了。」場景 5：羽毛在鱷魚腋下蠕動的特寫，伴隨著有趣的音效。同時，我們聽到鱷魚發出咯咯的笑聲。場景 6：鏡頭聚焦在懸在半空中的鱷魚上半身，他嘴角上揚、閉著眼睛，隨著羽毛持續搔癢他的腋下，發出悶笑聲。場景 7：鏡頭掃過鱷魚海盜全身；鳥類海盜繼續搔癢他的腋下，很快鱷魚海盜就開始放聲大笑。場景 8：鳥類海盜繼續搔癢鱷魚海盜的腋下，讓他笑得歇斯底里。突然，鱷魚海盜笑得太厲害，鬆開了抓住跳板的手，掉進了海裡。鳥類海盜終於發出一聲狡黠的輕笑，臉上帶著滿意的笑容，重新站回跳板上。英文旁白。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3db7bf471d6244585f772e001af0c625/thumbnails/thumbnail.jpg" width="600" alt="Vintage Disney Style Pirate Crocodile Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3db7bf471d6244585f772e001af0c625/thumbnails/thumbnail.jpg" width="600" alt="復古迪士尼風格海盜鱷魚動畫">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3812)**
 
 **作者:** [migrok](https://x.com/migrok293703) | **來源:** [Link](https://x.com/migrok293703/status/2049073744346239415) | **發布時間:** Apr 28, 2026
 
 ---
-### Cinematic vampire alley fight sequence
+### 電影感吸血鬼巷弄戰鬥場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive action prompt for a short film scene involving dynamic camera movements and high-speed combat in a neon-lit alley.
+> 這是一份詳盡的動作提示詞，用於拍攝短片場景，包含動態鏡頭運鏡與霓虹燈巷弄中的高速戰鬥。
 
 #### 📝 提示詞
 
 ```
-Draev stands in the center of the neon-lit alley, surrounded by multiple vampires positioned on rooftops and street level.
+Draev 站在霓虹燈閃爍的巷弄中央，周圍被屋頂上與街道上的多名吸血鬼包圍。
 
-The vampires attack simultaneously.
-Draev reacts instantly with superhuman speed.
+吸血鬼們同時發動攻擊。
+Draev 以超人類的速度瞬間做出反應。
 
-He dodges the first attacker with a fast sidestep and counters with a brutal punch, sending the vampire crashing into a wall.
+他以快速的側步閃避第一名攻擊者，並以猛烈的一拳反擊，將吸血鬼擊飛撞向牆壁。
 
-Second vampire lunges from above Draev jumps unnaturally high, grabs him mid-air, and slams him into the ground.
+第二名吸血鬼從上方撲來，Draev 跳躍至不合常理的高度，在半空中抓住他並將其重摔在地。
 
-Impact creates a small shockwave on the wet street.
-The defeated vampire rapidly disintegrates into ash and particles.
+衝擊在潮濕的街道上激起了一陣小型的衝擊波。
+被擊敗的吸血鬼迅速崩解成灰燼與微粒。
 
-Camera moves dynamically:
-starts frontal wide shot transitions into fast tracking side movement then switches to over-the-shoulder following Draev More vampires rush in.
+鏡頭動態運鏡：
+從正面的廣角鏡頭開始，過渡到快速的側向追蹤鏡頭，隨後切換為跟隨 Draev 的過肩鏡頭。更多的吸血鬼蜂擁而至。
 
-Draev performs a fast acrobatic kick hitting two enemies at once.
+Draev 使出一記快速的特技踢擊，同時擊中兩名敵人。
 
-One vampire is thrown into neon signs, sparks and electricity burst.
+其中一名吸血鬼被拋向霓虹燈招牌，火花與電流四濺。
 
-Another gets grabbed by the throat — Draev lifts him with one hand and crushes him, turning him into ash.
-Rain reacts to movement, splashes intensify with impacts.
+另一名吸血鬼被掐住喉嚨——Draev 單手將他舉起並捏碎，使其化為灰燼。
+雨水隨著動作產生反應，撞擊時水花四濺。
 
-Final moment:
-Draev stands still in the center, surrounded by falling ash, breathing slightly, eyes glowing red.
-Remaining vampires hesitate, stepping back in fear. No music
+最後時刻：
+Draev 靜止在中央，周圍飄落著灰燼，呼吸略顯急促，雙眼閃爍著紅光。
+剩餘的吸血鬼感到畏懼，猶豫著向後退去。無音樂
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e665ecf343c35d97dd64e3b930a96fa5/thumbnails/thumbnail.jpg" width="600" alt="Cinematic vampire alley fight sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e665ecf343c35d97dd64e3b930a96fa5/thumbnails/thumbnail.jpg" width="600" alt="電影感吸血鬼巷弄戰鬥場景">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3828)**
 
 **作者:** [Cortex Visual ・ AI Movies](https://x.com/Cortex__Visual) | **來源:** [Link](https://x.com/Cortex__Visual/status/2049070872426688714) | **發布時間:** Apr 28, 2026
 
 ---
-### Cinematic Dragon Interaction & Flight
+### 電影級巨龍互動與飛行
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed storyboard-style prompt for a video featuring a woman's emotional interaction with a dragon followed by a cinematic flight sequence.
+> 這是一份詳細的腳本式提示詞，用於製作一段女性與巨龍進行情感互動，隨後展開電影級飛行場景的影片。
 
 #### 📝 提示詞
 
 ```
-STYLE Handheld + aerial camera blend Soft motion blur (only during fast transitions) Teal–orange cinematic grade Cool tones during dragon moments, warm tones at emotional peak ⏱ TIMELINE (15s) 0–2s (HOOK) Close-up on woman standing at a cliff Wind moving through hair A giant shadow passes over her → she slowly turns Low rumble builds tension 2–5s (CONNECTION) Dragon lands behind her with heavy presence It lowers its head slowly She hesitates, then touches its face Wind + dust particles react subtly Quiet emotional moment (no aggression) 5–8s (TAKEOFF) She climbs onto its back Dragon launches powerfully into the sky Camera follows upward, slight rotation Clouds rush past, strong sense of speed 8–12s (FLIGHT SEQUENCE) Fast but controlled cuts: Flying through clouds Passing mountain peaks Close-up of wings moving Her expression shifting to awe Wide aerial shot showing scale 12–15s (FINAL MOMENT) Above the clouds in golden light Dragon slows and stabilizes She stands confidently on its back Wide cinematic shot → calm, powerful ending
+風格：手持與空拍鏡頭混合，柔和動態模糊（僅在快速轉場時），青橙色調電影級調色。巨龍出現時為冷色調，情感高潮時轉為暖色調。 ⏱ 時間軸（15 秒）：0–2 秒（開場）：特寫鏡頭，女性站在懸崖邊，風吹動髮絲。巨大的陰影從她身上掠過 → 她緩緩轉身，低沉的轟鳴聲營造緊張感。2–5 秒（連結）：巨龍帶著沉重的氣勢降落在她身後，緩緩低下頭。她猶豫了一下，隨後觸摸巨龍的臉龐。風與塵埃粒子產生細微反應，安靜的情感時刻（無攻擊性）。5–8 秒（起飛）：她爬上龍背，巨龍強有力地衝向天空。鏡頭隨之向上，輕微旋轉，雲層飛速掠過，帶來強烈的速度感。8–12 秒（飛行序列）：快速但流暢的剪輯：穿過雲層，掠過山峰，翅膀擺動的特寫，她臉上流露出敬畏的神情，展現規模感的廣角空拍鏡頭。12–15 秒（最終時刻）：在金色的光芒中飛越雲層，巨龍減速並保持平穩。她自信地站在龍背上，廣角電影鏡頭 → 平靜而強而有力的結尾。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f72b7a26635bdf580a2899bf2682f7f6/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Dragon Interaction & Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f72b7a26635bdf580a2899bf2682f7f6/thumbnails/thumbnail.jpg" width="600" alt="電影級巨龍互動與飛行">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3821)**
 
 **作者:** [simply](https://x.com/kingofdairyque) | **來源:** [Link](https://x.com/kingofdairyque/status/2049052738924023976) | **發布時間:** Apr 28, 2026
 
 ---
-### Cinematic East Asian Woman Hand Dance
+### 電影感東亞女性手部舞蹈
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed multi-shot cinematic video prompt for a stylized hand dance, featuring time-coded instructions for camera movement and character actions.
+> 這是一個針對風格化手部舞蹈的高細節多鏡頭電影級影片提示詞，包含針對運鏡與角色動作的時間軸指令。
 
 #### 📝 提示詞
 
 ```
-1 0-3s Extreme close-up of the face, exquisite and three-dimensional features, cold and elegant eyes locked on the lens, sword dance opening pose: hands quickly swipe from both sides of the cheeks to a fixed point in front of the chest, clean fingertip movements. 15-second vertical screen 9:16, 24fps, 8K ultra-high definition, realistic movie texture, stable screen without flicker. Top-tier East Asian young female, exquisite features, delicate and transparent skin with natural luster, clear and bright atmosphere makeup, distinct hair strands. Cold and confident gaze locked on the lens throughout, hands quickly swiping from cheeks to chest, clean sword dance hand gestures, clear fingertip details. Soft ring light, soft facial light and shadow without dead blacks, clear and bright eye light, camera moves forward slightly at a uniform speed, subject always in the center of the frame, first-person interaction, natural color saturation, full of details. Cold impact, strong freeze frame at the first heavy drum beat, hand gestures perfectly match the beat.
+1 0-3s 極致臉部特寫，五官精緻立體，冷豔眼神鎖定鏡頭，劍舞起手式：雙手從臉頰兩側快速劃過至胸前定點，指尖動作乾淨俐落。15 秒直式螢幕 9:16，24fps，8K 超高畫質，寫實電影質感，畫面穩定無閃爍。頂級東亞年輕女性，五官精緻，肌膚細膩通透且帶有自然光澤，妝容清透亮眼，髮絲分明。冷靜自信的眼神全程鎖定鏡頭，雙手從臉頰快速劃至胸前，劍舞手勢乾淨俐落，指尖細節清晰。柔和環形光，臉部光影柔和無死黑，眼神光清晰明亮，鏡頭勻速前推，主體始終位於畫面中心，第一人稱互動感，色彩飽和度自然，細節豐富。冷冽衝擊感，在第一聲重鼓點處強烈定格，手勢與節奏精準同步。
 
-2 3-6s Medium close-up of the upper body, showing shoulder and neck lines and smooth arms, core sword dance cutting hand gestures, combined with shoulder rhythmic beats, body swaying slightly left and right, eyes never leaving the lens. Vertical screen 9:16, 24fps, 8K, realistic texture, stable screen. Young woman with smooth and tight body lines, superior shoulder and neck lines, wearing a slim black short top, coherent and smooth movements, core sword dance hand gestures, matching shoulder rhythmic beats, body swaying slightly with the rhythm, eyes always locked on the lens. Warm atmosphere light, distinct levels of light and dark, camera moves horizontally slowly, subject in the center throughout, no distortion, no lag in movement. Sharp beats, rhythmic progression with 3 consecutive light drum beats, each hand movement precisely hitting the beat.
+2 3-6s 上半身中特寫，展現肩頸線條與流暢手臂，核心劍舞切手動作，結合肩部節奏律動，身體左右輕微搖擺，眼神始終未離開鏡頭。直式螢幕 9:16，24fps，8K，寫實質感，畫面穩定。年輕女性，身體線條流暢緊緻，肩頸線條優越，身穿修身黑色短上衣，動作連貫流暢，核心劍舞手勢，配合肩部節奏律動，身體隨節奏輕微搖擺，眼神全程鎖定鏡頭。溫暖氛圍光，光影層次分明，鏡頭緩慢橫移，主體全程置中，無畸變，動作無卡頓。節奏銳利，隨 3 連輕鼓點節奏推進，每個手部動作精準卡點。
 
-3 6-9s Full-body wide shot, fully displaying superior body proportions and dance rhythm, iconic sword dance double-hand circling + body wave combination, small steps matching the beat, movements stretched and powerful. Vertical screen 9:16, 24fps, 8K, realistic movie texture, stable screen without shaking. Female with superior head-to-body ratio, tight waist and abdominal lines, long legs, wearing slim high-waisted black pants, smooth and coherent movements without lag, iconic sword dance circling + body wave, small footsteps matching the rhythm, stretched and powerful movements. Modern minimalist luxury white background wall, soft top light + side light compensation, rich light and shadow layers, camera slowly and uniformly pulls back, subject remains in the center throughout, no clipping or deformation. Grand and elegant, full of rhythm at the heavy drum burst point, wave movement peak precisely hits the heavy drum.
+3 6-9s 全身遠景，充分展現優越的身材比例與舞蹈律動，標誌性劍舞雙手繞環 + 身體波浪組合，小碎步配合節奏，動作舒展有力。直式螢幕 9:16，24fps，8K，寫實電影質感，畫面穩定無晃動。女性頭身比優越，腰腹線條緊緻，長腿，身穿修身黑色高腰褲，動作流暢連貫無卡頓，標誌性劍舞繞環 + 身體波浪，小碎步配合節奏，動作舒展有力。現代極簡奢華白色背景牆，柔和頂光 + 側光補光，光影層次豐富，鏡頭緩慢勻速後拉，主體全程置中，無裁切或變形。大氣優雅，在重鼓爆發點充滿節奏感，波浪動作峰值精準卡在重鼓點上。
 
-4 9-12s Local close-up of hands + waist and hips, sword dance fingertip fixed-point details, matching slight waist and hip swaying, highlighting body curves and gesture details, clean and precise movements. Vertical screen 9:16, 24fps, 8K, realistic texture, stable screen. Fingertip detail movements, long and slender fingers, clean and exquisite nails, matching rhythmic waist and hip swaying, tight and smooth waist and abdominal lines, precise and sharp movements. Soft side light outlines the body, camera moves slightly following hand movements, focus always on gestures and body lines, clear picture without blurring. Detailed and high-end texture with consecutive light drum beats, each fingertip movement hitting the beat.
+4 9-12s 手部 + 腰臀局部特寫，劍舞指尖定點細節，配合腰臀輕微搖擺，凸顯身體曲線與手勢細節，動作乾淨精準。直式螢幕 9:16，24fps，8K，寫實質感，畫面穩定。指尖細節動作，手指修長，指甲乾淨精緻，配合節奏感腰臀搖擺，腰腹線條緊緻流暢，動作精準銳利。柔和側光勾勒身體輪廓，鏡頭隨手部動作輕微移動，焦點始終在手勢與身體線條上，畫面清晰無模糊。細節豐富的高級質感，配合連續輕鼓點，每個指尖動作精準卡點。
 
-5 12-15s Quick zoom from full body back to upper body + face close-up, sword dance closing pose, eyebrow raise + confident smile, eyes locked on the lens throughout, clean ending. Vertical screen 9:16, 24fps, 8K, realistic movie texture, stable screen without flicker. Top-tier beauty and figure, closing sword dance pose, hands sharply fixed in front of the chest, confident smile, eyes locked on the lens, clean ending. Soft ring light, soft facial light and shadow, camera quickly and uniformly zooms from full body to face close-up, final frame frozen on the face, subject always in the center, no distortion, coherent movement. Explosive ending with full memory points at the last heavy drum beat, pose synchronized with the drum, frozen for 3 frames.
+5 12-15s 從全身快速變焦回上半身 + 臉部特寫，劍舞收尾動作，挑眉 + 自信微笑，眼神全程鎖定鏡頭，乾淨收尾。直式螢幕 9:16，24fps，8K，寫實電影質感，畫面穩定無閃爍。頂級顏值與身材，劍舞收尾動作，雙手俐落定格於胸前，自信微笑，眼神鎖定鏡頭，乾淨收尾。柔和環形光，臉部光影柔和，鏡頭從全身快速勻速變焦至臉部特寫，最後一幀定格於臉部，主體始終置中，無畸變，動作連貫。在最後一聲重鼓點處爆發收尾，充滿記憶點，動作與鼓點同步，定格 3 幀。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b2699622675dd4b8b24808a1d7c4a34/thumbnails/thumbnail.jpg" width="600" alt="Cinematic East Asian Woman Hand Dance">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b2699622675dd4b8b24808a1d7c4a34/thumbnails/thumbnail.jpg" width="600" alt="電影感東亞女性手部舞蹈">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3832)**
 
 **作者:** [阿绎 AYi](https://x.com/AYi_AInotes) | **來源:** [Link](https://x.com/AYi_AInotes/status/2049047545435889883) | **發布時間:** Apr 28, 2026
 
 ---
-### Sequence and Movement Instruction for Martial Arts Video
+### 武術影片的動作序列與指令
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video prompt for Seedance 2.0 that instructs the model to animate a sequence based on a character sheet, focusing on specific movements and steps.
+> 這是一個適用於 Seedance 2.0 的影片提示詞，旨在引導模型根據角色設定圖進行序列動畫製作，並聚焦於特定的動作與步驟。
 
 #### 📝 提示詞
 
 ```
-[STYLE] Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic. [LAYOUT] 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes. [CHARACTER] image1 (the same character appears consistently in all panels) [PANEL STRUCTURE – per cell] Top-left: bold number badge + English title text Center: full-body character pose illustration Bottom-left: English description text (3–4 lines) Overlay: directional arrows indicating movement [ARROWS / MOTION INDICATORS] Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction. [RENDERING STYLE] Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality. [NEGATIVE] No background scenery, no color tones, no additional characters, no complex background. Create img2 that follows the exact sequence and movements from steps 1–16 shown in img1. The music should be aud1. There should be no dialogue, text, or narration.
+[STYLE] 單色灰階插圖、3D 渲染角色、簡潔的教學參考圖、白色背景、漫畫風格網格佈局、技術圖表美學。[LAYOUT] 4×4 網格佈局，總共 16 個面板。每個面板由細黑邊框分隔。單元格編號從 1 到 16，面板大小一致。[CHARACTER] image1（同一個角色始終出現在所有面板中）[PANEL STRUCTURE – 每個單元格] 左上角：粗體數字標籤 + 英文標題文字；中央：全身角色姿勢插圖；左下角：英文描述文字（3–4 行）；覆蓋層：指示動作的方向箭頭。[ARROWS / MOTION INDICATORS] 圍繞在角色周圍的彎曲箭頭、直線箭頭和圓形旋轉指示器，用於顯示動作流向與方向。[RENDERING STYLE] 高細節 3D 雕塑風格、柔和攝影棚燈光、細緻陰影、無色彩、灰階渲染、乾淨線條、遊戲概念藝術品質。[NEGATIVE] 無背景場景、無色調、無額外角色、無複雜背景。請建立 img2，使其遵循 img1 中顯示的步驟 1–16 的確切序列與動作。音樂應為 aud1。影片中不應包含任何對話、文字或旁白。
 ```
 
-<img src="https://pbs.twimg.com/media/HG-sP7Lb0AEmlWA.jpg" width="600" alt="Sequence and Movement Instruction for Martial Arts Video">
+<img src="https://pbs.twimg.com/media/HG-sP7Lb0AEmlWA.jpg" width="600" alt="武術影片的動作序列與指令">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3822)**
 
 **作者:** [Aijaz](https://x.com/iamsofiaijaz) | **來源:** [Link](https://x.com/iamsofiaijaz/status/2049045776001564680) | **發布時間:** Apr 28, 2026
 
 ---
-### Ancient Guardian Dragon Rescue
+### 古老守護龍救援
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for a story about a girl in a rainy village saved by an emerging dragon, focusing on VFX and atmospheric sound.
+> 一份詳細的多鏡頭電影級提示詞，講述一名女孩在雨中村莊被一條現身的龍所救的故事，重點在於 VFX 與環境音效。
 
 #### 📝 提示詞
 
 ```
-Shot 1 (00:00–00:02) – WS, Rainy Night, Forward Tracking. A narrow, ancient village alley drenched in relentless rain. Water streams down slanted rooftops and floods uneven stone pathways, reflecting flickering lantern light. A young girl runs barefoot through the water, her soaked dress clinging to her as she struggles to keep balance. Behind her, shadowy figures move unnaturally—distorted, stretching and glitching with each lightning flash as they close in. VFX: Heavy rain simulation, reflective wet surfaces, lightning illuminating distorted shadows. SFX: Thunder cracks, rapid splashing footsteps, howling wind. Shot 2 (00:02–00:04) – CU, Panic Fall, Slight Handheld Shake. She suddenly slips and crashes onto the wet stone. Water splashes outward. Close on her face—rain mixes with tears, her breath sharp and uneven. Her trembling hands push against the ground as she tries to move back, eyes locked on the approaching darkness. VFX: Detailed splash simulation, motion blur, lens water droplets. SFX: Intensifying heartbeat, heavy breathing, rain striking surfaces. Shot 3 (00:04–00:06) – LS, Violent Ground Eruption. The ground beneath the shadows fractures violently. Stone explodes upward in a powerful shockwave, sending debris and water into the air. A massive dragon bursts from below—its body dark and armored, faint glowing veins pulsing beneath its scales. It rises between the girl and the shadows, instantly scattering them into fragments of darkness. VFX: Ground destruction, flying debris, glowing cracks, volumetric dust. SFX: Deep impact boom, layered dragon roar with sub-bass rumble. Shot 4 (00:06–00:08) – CU, Emotional Realization, Slow Push-In. The girl freezes, looking up. Her fear begins to fade. Lightning briefly illuminates the dragon’s face—its glowing eye calm, focused. The reflection of that eye fills hers. The rain appears to slow slightly in this moment. VFX: Eye reflection detail, subtle slow-motion rain, soft glow from dragon’s eye. SFX: Thunder fades into low ambient tone, rain softens. Shot 5 (00:08–00:11) – MS, Gentle Interaction, Static Frame. The dragon slowly lowers its massive head toward her, movements controlled and careful. It gently nudges her shoulder. Water droplets slide across its scales, glowing faintly as they fall. She hesitates, then slowly lifts her hand toward it, tension leaving her body. VFX: Subtle bioluminescent pulses under scales, detailed water interaction. SFX: Deep calm breathing, soft ambient hum. Shot 6 (00:11–00:13) – LS, Protective Wing Expansion. The dragon spreads its massive wings wide, forming a protective barrier around her. Rain violently hits the outer surface of the wings, but inside the space becomes still—dry, warm, and silent. The contrast between chaos outside and calm inside is immediate and striking. VFX: Rain deflection on wings, cold blue tones outside vs warm
+鏡頭 1 (00:00–00:02) – 遠景，雨夜，向前跟拍。一條狹窄的古老村莊巷弄，被無情的雨水浸透。雨水順著傾斜的屋頂流下，淹沒了不平整的石板路，映照出閃爍的燈籠光影。一名年輕女孩赤腳在水中奔跑，濕透的連衣裙緊貼著身體，她努力保持平衡。在她身後，陰影般的形影以不自然的方式移動——隨著每次閃電劃過，它們扭曲、拉伸並出現故障效果，不斷逼近。VFX：大雨模擬、反光濕潤表面、閃電照亮扭曲的陰影。SFX：雷鳴聲、急促的踩水腳步聲、呼嘯的風聲。鏡頭 2 (00:02–00:04) – 特寫，驚慌跌倒，輕微手持晃動。她突然滑倒，重重摔在濕滑的石板上。水花四濺。特寫她的臉——雨水混雜著淚水，呼吸急促且不穩。她顫抖的手撐著地面試圖後退，雙眼死死盯著逼近的黑暗。VFX：細緻的水花模擬、動態模糊、鏡頭上的水珠。SFX：加劇的心跳聲、沉重的呼吸聲、雨水擊打表面的聲音。鏡頭 3 (00:04–00:06) – 全景，地面劇烈爆裂。陰影下方的地面猛烈碎裂。石塊在強大的衝擊波中向上炸開，將碎片和水花送入空中。一條巨大的龍從地底衝出——它的身體漆黑且覆蓋著鎧甲，鱗片下隱約閃爍著脈動的微光。它升起在女孩與陰影之間，瞬間將陰影震散成黑暗的碎片。VFX：地面破壞、飛濺的碎片、發光的裂縫、體積塵埃。SFX：深沉的撞擊轟鳴聲、帶有低音震動的層疊龍吼。鏡頭 4 (00:06–00:08) – 特寫，情感覺醒，緩慢推近。女孩僵住了，抬頭仰望。恐懼開始消退。閃電短暫地照亮了龍的臉龐——它發光的眼睛平靜而專注。那隻眼睛的倒影填滿了她的瞳孔。這一刻，雨水似乎稍微變慢了。VFX：眼睛倒影細節、細微的慢動作雨滴、龍眼發出的柔和光芒。SFX：雷聲淡出轉為低沉的環境音，雨聲變柔和。鏡頭 5 (00:08–00:11) – 中景，溫柔互動，靜態畫面。龍緩慢地將巨大的頭部垂向她，動作受控且小心翼翼。它輕輕地用頭碰了碰她的肩膀。水珠滑過它的鱗片，落下時發出微弱的光芒。她猶豫了一下，隨後緩緩抬起手伸向它，身體的緊張感逐漸消失。VFX：鱗片下細微的生物發光脈動、細緻的水體互動。SFX：深沉平靜的呼吸聲、柔和的環境嗡嗡聲。鏡頭 6 (00:11–00:13) – 全景，守護之翼展開。龍張開巨大的翅膀，在她周圍形成了一道保護屏障。雨水猛烈地擊打在翅膀的外側，但內部的空間變得靜止——乾燥、溫暖且寂靜。外部的混亂與內部的平靜形成了鮮明且強烈的對比。VFX：雨水在翅膀上的偏轉效果、外部冷色調與內部暖色調的對比
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d35c93cc1d6ab0a8eff2a68e6d701b/thumbnails/thumbnail.jpg" width="600" alt="Ancient Guardian Dragon Rescue">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18d35c93cc1d6ab0a8eff2a68e6d701b/thumbnails/thumbnail.jpg" width="600" alt="古老守護龍救援">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3827)**
 
 **作者:** [Jasmine Ai](https://x.com/jasminekhan90_) | **來源:** [Link](https://x.com/jasminekhan90_/status/2049038597333090769) | **發布時間:** Apr 28, 2026
 
 ---
-### Viral K-pop Dance Choreography
+### 病毒式 K-pop 舞蹈編排
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Seedance 2.0 to animate a character performing a dance based on a 16-panel storyboard reference.
+> 這是一個為 Seedance 2.0 設計的詳細提示詞，用於根據 16 格專案參考圖，製作角色舞蹈動畫。
 
 #### 📝 提示詞
 
 ```
-viral kpop dance. Monochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic. [LAYOUT] 4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes. [CHARACTER] image1 (the same character appears consistently in all panels) [PANEL STRUCTURE – per cell] Top-left: bold number badge + English title text Center: full-body character pose illustration Bottom-left: English description text (3–4 lines) Overlay: directional arrows indicating movement [ARROWS / MOTION INDICATORS] Curved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction. [RENDERING STYLE] Highly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality. [NEGATIVE] No background scenery, no color tones, no additional characters, no complex background. Use the attached image as reference. Use the attached image as reference. Create a dance video that follows the exact sequence and movements from steps 1–16 shown in the attached image. The music should be a trending tiktok song. There should be no dialogue, text, or narration. she is wearing a casual tank top with sweatpants and sneakers.
+病毒式 K-pop 舞蹈。單色灰階插圖，3D 渲染角色，簡潔的教學參考表，白色背景，漫畫風格網格佈局，技術圖表美學。[LAYOUT] 4×4 網格佈局，總共 16 個面板。每個面板由細黑邊線分隔。單元格編號為 1 到 16，面板大小一致。[CHARACTER] image1（同一個角色始終出現在所有面板中）[PANEL STRUCTURE – 每個單元格] 左上角：粗體數字標籤 + 英文標題文字；中心：全身角色動作插圖；左下角：英文說明文字（3–4 行）；疊加層：指示動作的方向箭頭。[ARROWS / MOTION INDICATORS] 圍繞角色放置的彎曲箭頭、直線箭頭和圓形旋轉指示器，以顯示動作流向和方向。[RENDERING STYLE] 高細節 3D 雕塑風格，柔和的攝影棚燈光，細微的陰影，無色彩，灰階陰影，乾淨的線條，遊戲概念藝術品質。[NEGATIVE] 無背景場景，無色調，無額外角色，無複雜背景。請使用附件圖片作為參考。請使用附件圖片作為參考。製作一個舞蹈影片，嚴格遵循附件圖片中顯示的步驟 1–16 的順序和動作。音樂應為 TikTok 熱門歌曲。影片中不應有對話、文字或旁白。她穿著休閒背心、運動褲和運動鞋。
 ```
 
-<img src="https://pbs.twimg.com/media/HG-JpHkbUAA2B08.jpg" width="600" alt="Viral K-pop Dance Choreography">
+<img src="https://pbs.twimg.com/media/HG-JpHkbUAA2B08.jpg" width="600" alt="病毒式 K-pop 舞蹈編排">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3809)**
 
@@ -893,281 +893,281 @@ INK INDUSTRIES : 遊戲預告片
 **作者:** [Larus Canus](https://x.com/MrLarus) | **來源:** [Link](https://x.com/MrLarus/status/2049004278908330226) | **發布時間:** Apr 28, 2026
 
 ---
-### Forbidden City Cat Satire
+### 紫禁城貓咪諷刺劇
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex dark comedy prompt for Seedance 2.0 featuring an orange cat official and a hyena emperor in a satirical Qing dynasty setting.
+> 這是一個為 Seedance 2.0 設計的複雜黑色喜劇提示詞，以清朝為背景，講述了一隻橘貓官員與鬣狗皇帝之間的諷刺故事。
 
 #### 📝 提示詞
 
 ```
-STORY FORMAT: 15s / 150 BPM / MULTI-CUT / American dark comedy with exaggerated imperial satire / slapstick timing and punchline ending
-TONE: tense accusation → rising absurdity → chaotic reveal → shameless comedic payoff
-SETTING: Grand hall of the Forbidden City, massive golden throne room, rich red and gold tones, dramatic lighting, echoing atmosphere, ceremonial yet absurd
-CHARACTERS:
-Orange cat official: wearing Qing dynasty court robes and an official hat, a long orange queue braid trailing behind, belly comically round as if hiding something, cautious and visibly nervous
-Hyena emperor: dressed in extravagant Qing imperial robes with a golden crown, domineering presence, easily irritated, dramatic temper
-White rabbit maids: wearing Qing palace maid outfits, purple eyeshadow, bright red lips, each holding feather fans, fanning the emperor in synchronized rhythm
-Gray rabbit guards: standing on both sides of the hall, stern expressions, wearing palace guard uniforms, holding long wooden staffs
-CAMERA STYLE: dramatic push-ins, snap zooms, symmetrical wide shots, rapid reaction cuts, exaggerated sound cues, slight handheld shake for comedic tension
-SCENE
-0–2s
-Wide symmetrical shot: The massive throne hall
-The hyena emperor sits high on the throne, being fanned by rows of white rabbit maids
-A plate of apples rests beside him
-Guards line both sides like statues
-The orange cat carefully walks in, tiny footsteps echoing loudly
-2–4s
-Sudden snap zoom to emperor
-Hyena SLAMS armrest
-Hyena (furious):
-“Speak! Why did you sneak into the imperial harem?!”
-Echo effect fills the hall
-4–6s
-Cut to orange cat
-He instantly drops to his knees, trembling
-Orange cat (panicked):
-“I heard someone screaming for help!”
-6–7s
-Beat
-Cut to emperor’s face slowly twisting in rage
-Hyena (shouting):
-“That is an obvious lie!”
-7–8s
-In one swift motion, he grabs an apple and HURLS it
-Sound: WHOOSH
-8–9s
-Slow motion: apple flying through the air
-Orange cat’s eyes widen
-He suddenly raises one hand
-SNATCHES it cleanly
-Perfect catch
-9–11s
-Silence
-Everyone freezes
-Then
-Orange cat awkwardly smiles
-He slowly reaches inside his robe
-11–13s
-He pulls out
-A PARROT
-The parrot flaps slightly, completely alive
-Parrot (loud, repetitive):
-“Help! Help! Help!”
-Beat
-13–15s FINAL PAYOFF
-Cut to wide shot
-The entire hall ERUPTS in laughter
-White rabbit maids bend over laughing, fans shaking
-Gray guards struggle to stay serious but break
-Even the emperor leans back laughing uncontrollably
-Hyena (laughing hard):
-“You smuggled THAT into the harem?!”
-Orange cat turns to camera, dead serious
-Orange cat:
-“I told you… I wasn’t lying.”
-Freeze-frame energy
-Background laughter echoes as the scene ends
+故事格式：15 秒 / 150 BPM / 多鏡頭剪輯 / 美式黑色喜劇，帶有誇張的宮廷諷刺風格 / 鬧劇節奏與笑點結尾
+語調：緊張的指控 → 荒謬感升級 → 混亂的真相大白 → 厚顏無恥的喜劇收場
+場景：紫禁城大殿，宏偉的金色寶座廳，濃郁的紅金配色，戲劇性的燈光，迴盪的氛圍，既莊嚴又荒謬
+角色：
+橘貓官員：身穿清朝官服與官帽，身後拖著一條長長的橘色辮子，肚子圓滾滾的顯得滑稽，彷彿藏著什麼東西，神情謹慎且明顯緊張
+鬣狗皇帝：身穿華麗的清朝皇袍，頭戴金冠，氣勢凌人，易怒，脾氣暴躁
+白兔宮女：身穿清宮宮女服，畫著紫色眼影，塗著鮮紅嘴唇，每人手持羽毛扇，以同步的節奏為皇帝扇風
+灰兔侍衛：站在大殿兩側，表情嚴肅，身穿宮廷侍衛服，手持長木棍
+攝影風格：戲劇性的推鏡、快速變焦、對稱廣角鏡頭、快速反應剪輯、誇張的音效提示、輕微的手持晃動以增加喜劇張力
+場景
+0–2 秒
+對稱廣角鏡頭：宏偉的寶座大殿
+鬣狗皇帝高坐在寶座上，兩排白兔宮女為他扇風
+一盤蘋果放在他身旁
+侍衛像雕像一樣站在兩側
+橘貓小心翼翼地走進來，細小的腳步聲在大殿中迴盪
+2–4 秒
+突然快速變焦至皇帝
+鬣狗猛拍扶手
+鬣狗（憤怒地）：
+「說！為什麼你要潛入後宮？！」
+回音效果充斥大殿
+4–6 秒
+切換至橘貓
+他瞬間跪倒在地，渾身發抖
+橘貓（驚慌地）：
+「我聽到有人在呼救！」
+6–7 秒
+停頓
+切換至皇帝的臉，表情因憤怒而扭曲
+鬣狗（大喊）：
+「這顯然是謊言！」
+7–8 秒
+他動作迅速地抓起一個蘋果並扔了出去
+音效：嗖
+8–9 秒
+慢動作：蘋果在空中飛過
+橘貓瞪大眼睛
+他突然舉起一隻手
+乾淨俐落地接住
+完美的接球
+9–11 秒
+寂靜
+所有人僵住
+隨後
+橘貓尷尬地笑了笑
+他緩緩地伸進袍子裡
+11–13 秒
+他掏出
+一隻鸚鵡
+鸚鵡輕微拍動翅膀，活蹦亂跳
+鸚鵡（大聲且重複地）：
+「救命！救命！救命！」
+停頓
+13–15 秒 最終笑點
+切換至廣角鏡頭
+整個大殿爆發出一陣笑聲
+白兔宮女彎腰大笑，扇子不停晃動
+灰兔侍衛努力保持嚴肅但最終破功
+連皇帝也向後仰，笑得不可開交
+鬣狗（大笑著）：
+「你竟然把那東西偷運進後宮？！」
+橘貓轉向鏡頭，表情嚴肅
+橘貓：
+「我說過了……我沒有撒謊。」
+定格畫面
+背景笑聲迴盪，場景結束
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0279a674ce138ab5a0a6f020a7273d89/thumbnails/thumbnail.jpg" width="600" alt="Forbidden City Cat Satire">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0279a674ce138ab5a0a6f020a7273d89/thumbnails/thumbnail.jpg" width="600" alt="紫禁城貓咪諷刺劇">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3816)**
 
 **作者:** [The Anxious Mind](https://x.com/drjoetw) | **來源:** [Link](https://x.com/drjoetw/status/2048996625654354333) | **發布時間:** Apr 28, 2026
 
 ---
-### Retro HK Wuxia Film Aesthetic
+### 復古港式武俠電影美學
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A complex multi-part video prompt recreating 80s-90s Hong Kong Wuxia film aesthetics, featuring a character transformation from a cat to a human with stylized shots.
+> 一個複雜的多段式影片提示詞，旨在重現 80 至 90 年代香港武俠電影的美學風格，包含角色從貓變身為人類的風格化鏡頭。
 
 #### 📝 提示詞
 
 ```
-core_style: 80s-90s Shaw Brothers film style, early Hong Kong Wuxia drama aesthetics, nostalgic Chinese Wuxia movies, vintage TV quality, warm tones with high saturation palette, retro film grain texture, slight Technicolor chromatic aberration, classic studio backdrop feel, soft stage lighting. visual_quality: 35mm film photography, physical film defects, vintage film texture, subtle chromatic dispersion, soft focus effect, slight light flicker, strong bloom on highlight surfaces. character_modeling: female_character - classic 80s period drama makeup, black eyeliner, peach-pink lip balm, exquisite braids with pink ribbons and flower accessories, traditional light blue and white Hanfu with floral embroidery and silk texture. male_character - classic Wuxia young scholar appearance, long hair tied with a white ribbon at the waist, signature sideburns, clean-shaven face, pure white scholar/knight robe. script_and_storyboard: logic - sitcom editing logic with early physical transition effects. scenes: shot_1, [Close-up, a young woman looks affectionately at a black and white cow cat on a wooden table. Dialogue: 'If only you could turn into a handsome guy.'] shot_2, [Medium shot, the cow cat is licking its paws, then a burst of retro white physical smoke effect erupts in the center of the screen.] shot_3, [Transformation, smoke clears, a handsome man in white robes appears where the cat was.] shot_4, [Over-the-shoulder shot, the woman looks surprised and happy, reaching out to touch the man's shoulder or chest. Dialogue: 'Wow, you really became a handsome guy!'] shot_5, [Medium shot, the man has a serious expression, gesturing with orchid fingers and speaking in a charming tone. Dialogue: 'Did you forget you already neutered me? I've changed now, I'm your sister!'] shot_6, [Close-up, the woman is stunned in place, expression shocked. Dialogue: 'Ah!?'] audio_and_post_production: 'Puff' transformation sound effect, nostalgic Hong Kong background music, AI voiceover with 'old movie' or 'TVB dubbing style' accent, duration 00:30.
+core_style：80 至 90 年代邵氏電影風格、早期香港武俠劇美學、懷舊中國武俠電影、復古電視畫質、暖色調且高飽和度調色、復古膠卷顆粒質感、輕微的 Technicolor 色差、經典攝影棚背景感、柔和的舞台燈光。visual_quality：35mm 膠卷攝影、物理膠卷瑕疵、復古底片質感、細微的色散、柔焦效果、輕微的閃爍感、高光區域有強烈的暈光效果。character_modeling：女性角色 - 經典 80 年代古裝劇妝容、黑色眼線、桃粉色唇膏、精緻編髮搭配粉色絲帶與花朵飾品、傳統淺藍白配色漢服，具備花卉刺繡與絲綢質感。男性角色 - 經典武俠少年書生造型、長髮以白色絲帶束於腰間、標誌性的鬢角、面容清秀、純白色書生/俠客長袍。script_and_storyboard：邏輯 - 採用情境喜劇的剪輯邏輯，搭配早期的物理轉場特效。scenes：shot_1，[特寫，一名年輕女子深情地看著木桌上的一隻黑白乳牛貓。對話：「如果你能變成帥哥就好了。」] shot_2，[中景，乳牛貓正在舔爪子，隨後螢幕中央爆發出一陣復古的白色物理煙霧特效。] shot_3，[變身，煙霧散去，貓所在的位置出現了一名身穿白袍的英俊男子。] shot_4，[過肩鏡頭，女子神情驚訝且欣喜，伸手觸摸男子的肩膀或胸口。對話：「哇，你真的變成了帥哥！」] shot_5，[中景，男子表情嚴肅，比出蘭花指並以迷人的語氣說道。對話：「妳忘了妳已經幫我結紮了嗎？我現在變了，我是妳的姐妹！」] shot_6，[特寫，女子愣在原地，表情震驚。對話：「啊！？」] audio_and_post_production：「砰」的變身音效、懷舊香港背景音樂、帶有「老電影」或「TVB 配音風格」口音的 AI 配音，時長 00:30。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/08b292a22998460684d2d5e56c3b6014/thumbnails/thumbnail.jpg" width="600" alt="Retro HK Wuxia Film Aesthetic">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/08b292a22998460684d2d5e56c3b6014/thumbnails/thumbnail.jpg" width="600" alt="復古港式武俠電影美學">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3834)**
 
 **作者:** [Alex Zhang](https://x.com/jojogh_007) | **來源:** [Link](https://x.com/jojogh_007/status/2048969153202307329) | **發布時間:** Apr 28, 2026
 
 ---
-### Cinematic Route Navigation Guide
+### 電影感路線導航指南
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured multi-scene prompt designed for Seedance to create a consistent walking navigation video featuring a recurring tour guide character and smooth transitions between real-world locations.
+> 這是一份為 Seedance 設計的結構化多場景提示詞，旨在製作一致的步行導航影片，包含重複出現的導遊角色以及真實場景間的流暢轉場。
 
 #### 📝 提示詞
 
 ```
-Create a 5-second cinematic route-guide clip for a walking navigation video.
+建立一個 5 秒鐘的電影感路線導航短片，用於步行導航影片。
 
-Continuity:
-This is scene {N} of 5 in a route from North Avenue MARTA Station to Coda Tech Square in Atlanta.
-The guide is the same stylish female tour guide in every scene: black sunglasses, sleeveless cream belted dress, brown leather belt, tour lanyard, small shoulder bag, brown hair tied back, confident warm expression.
-She appears on the sidewalk or plaza only, never in traffic lanes.
+連續性：
+這是從亞特蘭大 North Avenue MARTA 車站前往 Coda Tech Square 路線中 5 個場景裡的第 {N} 個場景。
+導遊在每個場景中皆為同一位時尚女性：戴著黑色太陽眼鏡，身穿無袖米色腰帶連身裙，繫著棕色皮帶，配戴導遊掛繩，背著小肩包，棕色頭髮向後紮起，表情自信溫暖。
+她僅會出現在人行道或廣場上，絕不會出現在車道中。
 
-Scene role:
+場景角色：
 {route_step}
 
-Starting frame:
-Use the supplied Street View image as the real-world location reference. Preserve the recognizable street layout, building massing, sidewalk direction, signage, and lighting.
+起始畫面：
+使用提供的街景圖像作為真實地點參考。保留可辨識的街道佈局、建築量體、人行道方向、標誌以及光影。
 
-Action:
-The guide is already in frame, slightly ahead of the viewer. She turns toward the camera, gestures toward the next walking direction, then begins to lead the viewer forward.
+動作：
+導遊已在畫面中，位於觀眾前方一點點的位置。她轉身面向鏡頭，指向下一個步行方向，然後開始引導觀眾向前走。
 
-Camera:
-Smooth handheld walking pace, slight forward push-in, no jumpy zooms, no orbit. Keep horizon stable. The final second should frame the direction of the next scene so the edit can cut naturally.
+鏡頭：
+平穩的手持步行節奏，輕微的向前推進，沒有突兀的變焦，也沒有環繞鏡頭。保持地平線穩定。最後一秒應對準下一個場景的方向，以便進行自然的剪輯轉場。
 
-End frame:
-End with the camera facing {next_direction_or_landmark}, with the guide near the edge of frame pointing forward.
+結束畫面：
+以鏡頭面向 {next_direction_or_landmark} 結束，導遊位於畫面邊緣並指向前方。
 
-Restrictions:
-Do not invent a different city, indoor location, parking lot, or tourist group. Do not place the guide in the road. Do not block crosswalks, street signs, building entrances, or the Coda facade.
+限制：
+請勿虛構其他城市、室內地點、停車場或旅遊團。請勿將導遊放置在馬路上。請勿遮擋斑馬線、街道標誌、建築入口或 Coda 的建築外觀。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49a08d9ecf7257120711ce6d7b158073/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Route Navigation Guide">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49a08d9ecf7257120711ce6d7b158073/thumbnails/thumbnail.jpg" width="600" alt="電影感路線導航指南">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3835)**
 
 **作者:** [Michael Guo](https://x.com/Michaelzsguo) | **來源:** [Link](https://x.com/Michaelzsguo/status/2048966649982669053) | **發布時間:** Apr 28, 2026
 
 ---
-### Luxury Supercar Cinematic Narrative
+### 豪華超跑電影敘事
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-shot cinematic prompt for Seedance 2.0 involving a stylish man, Dobermans, and a vintage supercar in a misty mountain setting.
+> 這是一個為 Seedance 2.0 設計的高細節多鏡頭電影感提示詞，場景包含一名時尚男子、杜賓犬以及一輛在霧氣繚繞山區中的復古超跑。
 
 #### 📝 提示詞
 
 ```
-Global Intent: Quiet Luxury with an aggressive edge. A stylish man with Dobermans and a classic dark blue vintage supercar journeys through misty mountains to an epic coast. Deep, saturated color palette: dark blue, matte black, foggy gray. The pacing is driven by a slow, heavy trap beat with deep 808 bass, featuring rhythmic cinematic cuts.
+全球意象：低調奢華與強勢風格的結合。一名時尚男子帶著杜賓犬，駕駛著深藍色復古超跑，穿過霧氣繚繞的山區，前往壯麗的海岸。深沉且飽和的色調：深藍色、霧面黑、霧灰色。節奏由緩慢而沉重的 Trap 節拍與深沉的 808 低音驅動，並配合節奏感強烈的電影剪輯。
 
-SEQUENCE LIST:
+鏡頭序列：
 
-SHOT 1 (0-1.5s) Medium Shot
+鏡頭 1 (0-1.5 秒) 中景
 
-• camera_motion: push in
+• camera_motion：推近
 
-• core_action: Front of a modern matte black house. A stylish man in effortlessly expensive dark clothing stands motionless, holding three perfect Dobermans on thick leather leashes. Behind them sits a classic dark blue vintage supercar. confident movement, grounded interaction, authentic human behavior patterns. Audio: Quiet engine idling, trap beat intro.
+• core_action：現代霧面黑住宅前方。一名穿著昂貴深色服裝的時尚男子靜止站立，手持厚皮牽繩牽著三隻完美的杜賓犬。他們身後停放著一輛經典的深藍色復古超跑。自信的動作、穩重的互動、真實的人類行為模式。音效：安靜的引擎怠速聲、Trap 節拍前奏。
 
-(CUT TO)
+(切換至)
 
-SHOT 2 (1.5-2.5s) Extreme Close-Up
+鏡頭 2 (1.5-2.5 秒) 極特寫
 
-• camera_motion: static shot
+• camera_motion：靜態鏡頭
 
-• core_action: Macro of the man's face. He slowly lowers his sunglasses, staring directly into the lens with absolute confidence, revealing diamond grillz catching the light. confident movement, slow and deliberate movement. Audio: First heavy 808 bass hit.
+• core_action：男子臉部的微距鏡頭。他緩慢地摘下墨鏡，以絕對自信的眼神直視鏡頭，露出閃爍光芒的鑽石牙套。自信的動作、緩慢而刻意的移動。音效：第一次沉重的 808 低音重擊。
 
-(CUT TO)
+(切換至)
 
-SHOT 3 (2.5-4s) Close-Up
+鏡頭 3 (2.5-4 秒) 特寫
 
-• camera_motion: static shot
+• camera_motion：靜態鏡頭
 
-• core_action: The head of one Doberman. The dog aggressively barks and bares its teeth in slight slow motion, saliva flying. energetic movement, realistic physics. Audio: Muffled, bass-heavy dog bark syncing seamlessly with the beat.
+• core_action：其中一隻杜賓犬的頭部。狗狗以輕微的慢動作激進地吠叫並露出牙齒，唾液飛濺。充滿活力的動作、真實的物理效果。音效：悶響且重低音的狗吠聲，與節拍無縫同步。
 
-(CUT TO)
+(切換至)
 
-SHOT 4 (4-5s) Medium Shot
+鏡頭 4 (4-5 秒) 中景
 
-• camera_motion: static shot
+• camera_motion：靜態鏡頭
 
-• core_action: Next to the supercar. The man pulls open the heavy car door. A Doberman elegantly and quickly leaps onto the vibrant red leather passenger seat. fluid movement, authentic momentum conservation. Audio: Heavy car door CLICK-CLUNK.
+• core_action：超跑旁邊。男子拉開沉重的車門。一隻杜賓犬優雅而迅速地跳上鮮紅色的皮革副駕駛座。流暢的動作、真實的動量守恆。音效：沉重的車門「咔噠-砰」聲。
 
-(CUT TO)
+(切換至)
 
-SHOT 5 (5-6.5s) Macro Shot
+鏡頭 5 (5-6.5 秒) 微距鏡頭
 
-• camera_motion: push in
+• camera_motion：推近
 
-• core_action: The supercar's hood. The pop-up headlights sharply snap open, instantly illuminating the frame with a piercing, bright yellow beam. mechanical precision, rigid body movement. Audio: Mechanical WHIRR and explosive engine roar on startup.
+• core_action：超跑引擎蓋。翻轉式頭燈銳利地彈開，瞬間以刺眼的亮黃色光束照亮畫面。機械精度、剛性車體運動。音效：機械運轉聲與啟動時爆發性的引擎轟鳴聲。
 
-(CUT TO)
+(切換至)
 
-SHOT 6 (6.5-8s) Wide Shot
+鏡頭 6 (6.5-8 秒) 遠景
 
-• camera_motion: tracking shot
+• camera_motion：跟拍鏡頭
 
-• core_action: Winding mountain road engulfed in dense fog. The dark blue supercar aggressively drifts through a sharp hairpin turn, leaving a thick trail of tire smoke. realistic physics governing all actions, volumetric smoke flow, authentic momentum conservation. Audio: Tire SCREECH perfectly pitched to the track's high frequencies.
+• core_action：被濃霧籠罩的蜿蜒山路。深藍色超跑激進地甩尾過急彎，留下一道濃厚的輪胎煙霧。所有動作皆遵循真實物理法則、體積霧流動、真實的動量守恆。音效：輪胎摩擦聲與配樂的高頻完美契合。
 
-(CUT TO)
+(切換至)
 
-SHOT 7 (8-9.5s) Medium Shot
+鏡頭 7 (8-9.5 秒) 中景
 
-• camera_motion: static shot
+• camera_motion：靜態鏡頭
 
-• core_action: Interior of the supercar. The man calmly steers with one hand. The Doberman sits in the passenger seat, its head sticking out the window, ears violently flapping in the rushing wind. wind interaction dynamics, natural movement. Audio: Heavy wind noise, muffled interior engine roar.
+• core_action：超跑車內。男子單手冷靜地操控方向盤。杜賓犬坐在副駕駛座，頭伸出窗外，耳朵在疾風中劇烈拍打。風力互動動力學、自然運動。音效：沉重的風噪聲、悶響的車內引擎轟鳴聲。
 
-(CUT TO)
+(切換至)
 
-SHOT 8 (9.5-11.5s) Wide Shot
+鏡頭 8 (9.5-11.5 秒) 遠景
 
-• camera_motion: tracking shot
+• camera_motion：跟拍鏡頭
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e8983364a95fe333f0f88bd1085a0e8/thumbnails/thumbnail.jpg" width="600" alt="Luxury Supercar Cinematic Narrative">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7e8983364a95fe333f0f88bd1085a0e8/thumbnails/thumbnail.jpg" width="600" alt="豪華超跑電影敘事">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3819)**
 
 **作者:** [Ivanna | AI Art & Prompts](https://x.com/ivanka_humeniuk) | **來源:** [Link](https://x.com/ivanka_humeniuk/status/2048962364083691774) | **發布時間:** Apr 28, 2026
 
 ---
-### Cinematic Music Podcast and Guitar Technique
+### 電影感音樂 Podcast 與吉他技巧
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An advanced cinematic prompt for generating a 4K music podcast video, with specific focus on guitar technique, pinch harmonics, and studio aesthetics.
+> 一個用於生成 4K 音樂 Podcast 影片的高階電影感提示詞，特別聚焦於吉他技巧、人工泛音（pinch harmonics）以及攝影棚美學。
 
 #### 📝 提示詞
 
 ```
-**Cinematic Truth Source & Setup**  
-Professional music podcast video production, shot on Sony FX6 cinema camera in 4K DCI, anamorphic lenses with natural breathing and subtle flare, controlled studio lighting using ARRI Skypanels and practical LED backlights, clean broadcast color science with warm highlights and rich mid-tones exactly like high-end Netflix music documentaries. Realistic 24fps motion, light film grain, zero stylization.
+**電影感真實來源與設定**  
+專業音樂 Podcast 影片製作，使用 Sony FX6 電影攝影機以 4K DCI 格式拍攝，搭配變形鏡頭（anamorphic lenses），呈現自然的呼吸感與細膩的耀光。運用 ARRI Skypanels 與實用 LED 背光進行受控的攝影棚燈光佈置，採用乾淨的廣播級色彩科學，具備溫暖的高光與豐富的中間調，呈現效果如同 Netflix 高階音樂紀錄片。真實的 24fps 動態，輕微的底片顆粒感，零風格化。
 
-** Image Reference & Legend**  
-No external image reference supplied. Original generation locked to user character tagged @character on frame 0. Exact black electric guitar (Stratocaster style with whammy bar) must remain 100% consistent in shape, color, and wear. Back wall behind character locked with large professional podcast branding text “StudioName" in bold modern sans-serif font, subtly backlit with soft neon glow. No deviation allowed on character identity @character , guitar model/design/colors, or background text.
+** 圖像參考與說明**  
+未提供外部圖像參考。原始生成鎖定為幀 0 處標記為 @character 的使用者角色。黑色電吉他（Stratocaster 風格，附搖座）必須在形狀、顏色與磨損細節上保持 100% 一致。角色後方的牆面鎖定為大型專業 Podcast 品牌文字「StudioName」，採用粗體現代無襯線字體，並以柔和的霓虹光進行背光處理。角色身分 @character 、吉他型號/設計/顏色或背景文字均不得有任何偏差。
 
-** Timeline (Second-by-Second)**  
-0-3s: Medium close-up handheld camera on guitarist seated in modern podcast studio, microphone visible stage left. Left hand frets high note on 3rd string while right hand picks aggressively; camera slowly pushes in toward guitar neck. Pinch harmonic executed at 2.2s — thumb edge lightly touches string node creating exact “nguik” squealing overtone with natural string vibration and slight whammy bar dive. Back wall clearly shows large “StudioName” podcast name text. Studio monitors in background show faint reflection of hands.  
+** 時間軸（秒級細節）**  
+0-3 秒：手持攝影機中特寫鏡頭，拍攝坐在現代 Podcast 攝影棚中的吉他手，麥克風位於畫面左側。左手在第 3 弦按高音，右手積極撥弦；攝影機緩慢推向吉他琴頸。2.2 秒時執行人工泛音——拇指邊緣輕觸弦節點，產生精確的「nguik」尖銳泛音，伴隨自然的琴弦震動與輕微的搖座下壓。背景牆清晰顯示大型「StudioName」Podcast 名稱文字。背景中的監聽喇叭隱約映出雙手倒影。
 
-3-7s: Cut to tighter ECU on right hand performing rapid pinch-harmonic technique; strings visibly bend and ring with realistic metallic sustain and micro-vibrato. Left hand shifts positions smoothly, forearm muscles tensing naturally. Camera dollies left in slow arc revealing podcast microphone and back wall “StudioName” branding.  
+3-7 秒：切換至更緊湊的極端特寫（ECU），拍攝右手執行快速人工泛音技巧；琴弦明顯彎曲並震動，呈現真實的金屬延音與微顫音。左手平滑變換把位，前臂肌肉自然緊繃。攝影機向左緩慢弧形移動，露出 Podcast 麥克風與背景牆上的「StudioName」品牌文字。
 
-7-11s: Camera pulls back to medium shot as guitarist sustains final high-pitched “nguik” harmonic, letting it feedback naturally through amp. Head nods slightly in time. Background podcast setup with “StudioName” wall text stays in soft focus.  
+7-11 秒：攝影機拉回中景，吉他手維持最後的高音「nguik」泛音，讓其透過音箱自然回授。頭部隨節奏輕微點動。背景的 Podcast 設置與「StudioName」牆面文字保持柔焦。
 
-11-15s: Final wide push-in as guitarist releases note, right hand lifts off strings cleanly, left hand relaxes on fretboard. Guitarist glances toward camera with professional nod. Full back wall “StudioName” podcast branding remains visible. Natural string decay and light body movement throughout.
+11-15 秒：最後的廣角推鏡，吉他手釋放音符，右手乾淨地離開琴弦，左手在指板上放鬆。吉他手看向鏡頭並專業地點頭示意。完整的背景牆「StudioName」Podcast 品牌文字保持可見。全程伴隨自然的琴弦衰減與輕微的身體律動。
 
-** Style, Quality Boosters & Negative Prompts**  
-Ultra-realistic guitar physics with accurate string tension, pinch-harmonic squeal, and natural sustain; perfect finger synchronization and skin texture; natural motion blur on picking hand; professional color grading with high dynamic range and subtle lens breathing. Strict negatives: no extra limbs, no deformed fingers or hands, no rubbe
+** 風格、品質增強與負面提示詞**  
+超寫實的吉他物理表現，具備精確的琴弦張力、人工泛音尖嘯與自然延音；完美的手指同步與皮膚紋理；撥弦手部自然的動態模糊；專業的調色，具備高動態範圍與細膩的鏡頭呼吸感。嚴格負面提示：無多餘肢體，無畸形手指或手部，無橡膠感。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4515f4f328539e1ded2cc32f4ce63e7/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Music Podcast and Guitar Technique">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4515f4f328539e1ded2cc32f4ce63e7/thumbnails/thumbnail.jpg" width="600" alt="電影感音樂 Podcast 與吉他技巧">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3826)**
 
 **作者:** [TheYudayVerse](https://x.com/yuday9909) | **來源:** [Link](https://x.com/yuday9909/status/2048949262109880363) | **發布時間:** Apr 28, 2026
 
 ---
-### A Decade of Refinement Glow-Up
+### 十年蛻變：從平凡到奢華的華麗轉身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A transformation prompt for Seedance 2.0 showing a man's transition from a casual 2016 setting to a luxurious 2026 Dubai lifestyle while maintaining character consistency.
+> 這是一個為 Seedance 2.0 設計的轉場提示詞，展示了一名男子從 2016 年休閒風格到 2026 年杜拜奢華生活的轉變，同時保持角色的一致性。
 
 #### 📝 提示詞
 
 ```
-Create a 15-second ultra-realistic cinematic transformation video using the exact same man from the uploaded reference image. Maintain perfect face consistency, same hairstyle, facial features, identity, and body proportions throughout. No face change. Concept: “2026 is the new 2016” nostalgia-to-luxury glow-up. Scene 1: 2016 version — simple casual clothes, basic hairstyle, walking alone on a normal street, warm nostalgic colors, old Instagram aesthetic, simple life, no luxury. Scene 2: Flashback cuts — old bike ride, cheap café alone, late-night dreams, city lights, silent ambition in his eyes. Scene 3: Strong transition — speed-ramp effect, screen crack cinematic transition, time shifts from 2016 to 2026, luxury watch appears, black suit transformation begins. Scene 4: 2026 version — walking confidently in Dubai downtown, luxury black suit, sunglasses, expensive watch, black luxury car behind him, people turn and stare. Scene 5: Hero shot — rooftop skyline at sunset, slow motion, wind moving, camera rotating around him, strong eye contact, main character energy. Final scene: cinematic ending with the feeling “Same Man. Different Era.” Style: hyper-realistic, Netflix-level production, luxury transformation, dramatic lighting, viral Instagram reel style, strong masculine aura, editorial fashion visuals, 4K ultra realism, emotional and powerful storytelling.
+使用上傳參考圖中的同一位男子，製作一部 15 秒的超寫實電影級轉場影片。在整個過程中，必須保持完美的面部一致性，包括相同的髮型、五官、身份特徵和身體比例，不得更換面孔。概念：「2026 是全新的 2016」，從懷舊到奢華的華麗蛻變。場景 1：2016 年版本 — 穿著簡單休閒服，髮型樸素，獨自走在普通街道上，色調溫暖懷舊，呈現早期 Instagram 的復古美感，生活簡單，毫無奢華感。場景 2：閃回剪輯 — 騎著舊腳踏車、獨自在平價咖啡廳、深夜的夢想、城市燈火，眼中閃爍著無聲的野心。場景 3：強烈轉場 — 運用速度變換特效（speed-ramp），配合螢幕碎裂的電影級轉場，時間從 2016 年切換至 2026 年，名錶浮現，黑色西裝變裝開始。場景 4：2026 年版本 — 自信地走在杜拜市中心，身穿奢華黑色西裝，戴著墨鏡與名錶，身後停著黑色豪車，路人紛紛回頭注視。場景 5：英雄鏡頭 — 日落時分的頂樓天際線，慢動作拍攝，微風吹拂，攝影機環繞拍攝，強烈的眼神交流，展現主角氣場。結尾：電影級收尾，傳達「同一人，不同時代」的意境。風格：超寫實主義、Netflix 等級製作、奢華變身、戲劇性光影、病毒式 Instagram Reels 風格、強烈的男性氣場、時尚雜誌視覺效果、4K 超高畫質、情感充沛且震撼的敘事。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2d6d15cbc6ef4d4d4c8c9a7de7007d7/thumbnails/thumbnail.jpg" width="600" alt="A Decade of Refinement Glow-Up">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d2d6d15cbc6ef4d4d4c8c9a7de7007d7/thumbnails/thumbnail.jpg" width="600" alt="十年蛻變：從平凡到奢華的華麗轉身">
 
 **[🎬 觀看視頻 →](https://youmind.com/zh-TW/seedance-2-0-prompts?id=3829)**
 
@@ -3494,6 +3494,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-04-29T10:23:13.216Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-04-29T14:13:39.314Z</sub>
 
 </div>
