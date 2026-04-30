@@ -68,7 +68,7 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **2330** |
+| 📝 Total de prompts | **2332** |
 | ⭐ Prompts em destaque | **6** |
 | 🔄 Última atualização | **2026-04-30** |
 
@@ -361,6 +361,47 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### FPV Tracking Shot Parkour Runner
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-intensity FPV tracking prompt for generating a parkour scene across an urban skyline with dramatic camera movements.
+
+#### 📝 Prompt
+
+```
+A young parkour runner, athletic build, sweat dripping, jaw clenched, eyes scanning every path ahead 
+Sprints across rooftops at full speed, jumping impossible gaps and sliding under obstacles while being chased closely
+Dense urban skyline with narrow rooftops, antennas, and deep drops below
+FPV tracking shot glued behind, rapid tilts and depth shifts, strong motion blur during jumps, dynamic parallax enhancing height and danger
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049496426695065600/pu/img/Eyksyjctl38hmw58.jpg" width="600" alt="FPV Tracking Shot Parkour Runner">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=3856)**
+
+**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Fonte:** [Link](https://x.com/CharaspowerAI/status/2049496460060704996) | **Publicado:** Apr 29, 2026
+
+---
+### Neon Tokyo Night Rain Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for a woman walking through a rainy Tokyo alley with neon lights, utilizing reference images for character consistency.
+
+#### 📝 Prompt
+
+```
+The young woman from @image1 walks slowly down a rain-drenched city street at night, stopping to gaze up at the flickering neon lights with a pensive expression - she wears her school uniform from @image1, her white shirt clinging slightly to her shoulders from the mist - Cinematic tracking shot at eye level, narrow Tokyo alleyway with vibrant neon signs reflecting in deep puddles, moody noir aesthetic with blue and pink lighting - Ambient sound of falling rain and distant sirens, accompanied by a soft, lo-fi hip-hop beat.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049352692817129472/pu/img/bo-M5Zu2q2TrRcsD.jpg" width="600" alt="Neon Tokyo Night Rain Walk">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=3857)**
+
+**Autor:** [Zyro](https://x.com/Itswsm105f) | **Fonte:** [Link](https://x.com/Itswsm105f/status/2049353001689866354) | **Publicado:** Apr 29, 2026
+
+---
 ### Sequência de Motion Graphics de Apresentação de Personagens
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3373,46 +3414,6 @@ Vídeo de ASMR cinematográfico de comida com várias tomadas, apresentando Aria
 **Autor:** [PromptStudio AI](https://x.com/PromptStudAI7) | **Fonte:** [Link](https://x.com/PromptStudAI7/status/2048092571248066895) | **Publicado:** Apr 25, 2026
 
 ---
-### Hiper-zoom FPV da Terra a São Petersburgo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para uma tomada contínua em FPV, viajando do espaço, através da atmosfera, até as ruas de São Petersburgo, terminando com o retrato de um homem.
-
-#### 📝 Prompt
-
-```
-Um hiper-zoom FPV fluido e extremo, começando com uma vista ampla da Terra no espaço, mergulhando rapidamente através da atmosfera e das nuvens. A câmera mergulha em um hiper-lapse aéreo de São Petersburgo, passando pela cúpula dourada da Catedral de Santo Isaac. Ela desce suavemente para sobrevoar a água de um canal, acelerando em direção à Ponte do Palácio. A câmera voa diretamente através dos vãos abertos da ponte levadiça.
-Ao sair da ponte, a câmera faz um movimento panorâmico suave para a direita e desacelera, transicionando perfeitamente para um plano médio de um jovem sentado no aterro de granito do rio. O homem tem cabelo curto texturizado com reflexos sutis, barba por fazer e traços faciais marcantes. Ele veste uma camisa branca casual de botões, calça jeans azul-escura, tênis brancos limpos e uma pulseira de corrente de prata minimalista.
-Ele inicialmente olha para o horizonte, depois vira lentamente o olhar para a câmera com uma expressão calma e confiante. O fundo apresenta a ponte levadiça aberta contra um céu de crepúsculo em tons pastéis suaves, com reflexos cintilando na água. Cinematográfico, hiper-realista, tomada contínua, resolução 8K, fotorrealista, movimento suave, iluminação natural, texturas ultra-detalhadas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7b8c76baae613071745c93a9facca6/thumbnails/thumbnail.jpg" width="600" alt="Hiper-zoom FPV da Terra a São Petersburgo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=3688)**
-
-**Autor:** [Taaruk](https://x.com/Taaruk_) | **Fonte:** [Link](https://x.com/Taaruk_/status/2048077574119805391) | **Publicado:** Apr 25, 2026
-
----
-### Vídeo estilo vlog emocional de uma mulher japonesa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo projetado para converter quadros estáticos em um vídeo coeso estilo vlog, apresentando uma jovem japonesa com movimento natural de câmera e música de fundo.
-
-#### 📝 Prompt
-
-```
-Converta cada quadro de @image1 em vídeo e conecte-os. Um vídeo estilo vlog emocional. Movimento natural de câmera na mão. Uma jovem japonesa. BGM emocional.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afb52ff591034717bc85a24f8a53c7eb/thumbnails/thumbnail.jpg" width="600" alt="Vídeo estilo vlog emocional de uma mulher japonesa">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=3692)**
-
-**Autor:** [George Wu](https://x.com/GeorgeWuAI) | **Fonte:** [Link](https://x.com/GeorgeWuAI/status/2048076759254630813) | **Publicado:** Apr 25, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3474,6 +3475,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-30T03:11:08.576Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-04-30T06:45:28.611Z</sub>
 
 </div>

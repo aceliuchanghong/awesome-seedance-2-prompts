@@ -68,7 +68,7 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **2330** |
+| 📝 Toplam İstem | **2335** |
 | ⭐ Öne Çıkan İstemler | **6** |
 | 🔄 Son Güncelleme | **2026-04-30** |
 
@@ -361,6 +361,216 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### FPV Tracking Shot Parkour Runner
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-intensity FPV tracking prompt for generating a parkour scene across an urban skyline with dramatic camera movements.
+
+#### 📝 İstem
+
+```
+A young parkour runner, athletic build, sweat dripping, jaw clenched, eyes scanning every path ahead 
+Sprints across rooftops at full speed, jumping impossible gaps and sliding under obstacles while being chased closely
+Dense urban skyline with narrow rooftops, antennas, and deep drops below
+FPV tracking shot glued behind, rapid tilts and depth shifts, strong motion blur during jumps, dynamic parallax enhancing height and danger
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049496426695065600/pu/img/Eyksyjctl38hmw58.jpg" width="600" alt="FPV Tracking Shot Parkour Runner">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3856)**
+
+**Yazar:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Kaynak:** [Link](https://x.com/CharaspowerAI/status/2049496460060704996) | **Yayınlandı:** Apr 29, 2026
+
+---
+### Painting Progress Cinematic Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-scene video prompt for a young girl painting by a window, showcasing emotional shifts and lighting changes.
+
+#### 📝 İstem
+
+```
+Scene 1 (0–4s):
+A young girl sits by a softly lit window, painting on a canvas. Golden sunlight falls across her face. Her expression is calm and focused as she carefully adds color to a nearly complete artwork. Paint tubes and brushes are scattered neatly around her workspace. Gentle camera push-in.
+
+Scene 2 (4–8s):
+She squeezes a paint tube, but nothing comes out. She checks others empty. Her expression subtly shifts from focus to concern. Close-up of her hands pressing the tubes, then a cut to her face showing quiet realization.
+
+Scene 3 (8–12s):
+She leans back slightly, looking at the unfinished section of her painting. The missing colors leave a visible gap in the artwork. Soft shadows deepen the mood. A slow pan across the incomplete canvas emphasizes what’s missing.
+
+Scene 4 (12–16s):
+She gently sets the brush down and gazes at the painting, her expression thoughtful—not defeated, but paused. Light fades slightly warmer. Final shot: over-the-shoulder view of the incomplete artwork, symbolizing interruption rather than failure.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049385262334234624/pu/img/aZKsTS3vk8hrd04J.jpg" width="600" alt="Painting Progress Cinematic Sequence">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3858)**
+
+**Yazar:** [Soulful Ai](https://x.com/soulful__ai) | **Kaynak:** [Link](https://x.com/soulful__ai/status/2049385314649805028) | **Yayınlandı:** Apr 29, 2026
+
+---
+### Industrial Factory Combat Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex 15-second action sequence set in a factory involving robot combat, mechanical claw deployments, and cinematic tracking shots.
+
+#### 📝 İstem
+
+```
+Duration: 15 Seconds
+0.0 – 2.0
+Wide shot of the factory (extended for atmosphere).
+Thick steam bursts from pipes, chains subtly moving.
+Camera: tilt down + push-in.
+Character swings down from a chain → hard landing (stronger impact, more sparks).
+Camera follows downward (vertical tracking) with slight handheld shake.
+
+2.0 – 4.0
+Robots close in from three directions.
+Handheld medium shot (chaotic energy).
+
+Fast combat:
+1 heavy punch → robot slammed into a pipe (visible dent + sparks)
+1 spinning kick → robot knocked into hanging chains
+Character immediately repositions (step + pivot, no idle stance).
+
+4.0 – 5.0 (KEY MOMENT – EXTENDED)
+Camera whip pan following movement.
+Micro pause (<0.3s, still fast-paced).
+
+Instant claw deployment (BOTH hands)
+No hand opening
+No energy charge
+Mechanical snap under 0.2s
+
+Camera:
+Fast push-in to hands
+Slight angle shift for emphasis
+Immediate pull-back
+
+5.0 – 8.0
+Character dashes past large industrial pipes (extended movement for spatial depth).
+Side tracking shot.
+
+Foreground elements (pipes/chains) pass quickly for strong depth.
+
+Attack sequence:
+1 horizontal slash → hits 2 robots (clear impact reaction)
+1 forward dash stab immediately after (no pause)
+
+Sparks and metal tearing clearly visible.
+
+8.0 – 11.0
+Whip pan to a new platform area (continuous factory environment).
+Camera semi-orbit + handheld.
+
+Extended combo:
+
+Fast left slash
+Body pivot → elbow/shoulder strike (strong physical impact)
+Reverse claw swipe (backhand motion)
+
+Robots react heavily:
+
+Knocked back
+Armor damage visible
+Sparks + deformation
+
+11.0 – 13.0
+Short dash reposition (NOT slow running).
+Close-medium side tracking shot.
+
+Final combo:
+Double claw strike (both hands)
+1 diagonal finishing slash
+
+Last robot is violently pushed backward.
+
+13.0 – 15.0 (ENDING)
+Low-angle cinematic shot.
+Camera slow push-in (subtle, NOT slow motion).
+
+Final robot collapses in the background (slight delay for dramatic effect).
+Steam rises, high-contrast lighting.
+
+Character stands still → claws still active, ready stance.
+
+Enhancements Added
+Extended opening and mid-fight for better pacing
+More combo variation (no empty gaps)
+Clear spatial transitions across factory areas
+Stronger impact and hit reactions
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049370394772332544/pu/img/Xf_uatwpM5WmtoLY.jpg" width="600" alt="Industrial Factory Combat Sequence">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3860)**
+
+**Yazar:** [yopiwhs](https://x.com/Gwsubsa) | **Kaynak:** [Link](https://x.com/Gwsubsa/status/2049370426544202023) | **Yayınlandı:** Apr 29, 2026
+
+---
+### Neon Tokyo Night Rain Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for a woman walking through a rainy Tokyo alley with neon lights, utilizing reference images for character consistency.
+
+#### 📝 İstem
+
+```
+The young woman from @image1 walks slowly down a rain-drenched city street at night, stopping to gaze up at the flickering neon lights with a pensive expression - she wears her school uniform from @image1, her white shirt clinging slightly to her shoulders from the mist - Cinematic tracking shot at eye level, narrow Tokyo alleyway with vibrant neon signs reflecting in deep puddles, moody noir aesthetic with blue and pink lighting - Ambient sound of falling rain and distant sirens, accompanied by a soft, lo-fi hip-hop beat.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049352692817129472/pu/img/bo-M5Zu2q2TrRcsD.jpg" width="600" alt="Neon Tokyo Night Rain Walk">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3857)**
+
+**Yazar:** [Zyro](https://x.com/Itswsm105f) | **Kaynak:** [Link](https://x.com/Itswsm105f/status/2049353001689866354) | **Yayınlandı:** Apr 29, 2026
+
+---
+### Industrial Action Hero Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy cinematic sequence featuring an action hero walking away from an explosion in an industrial zone.
+
+#### 📝 İstem
+
+```
+FORMAT: 15s / 150 BPM / 13 SHOTS
+SUBJECT: @[image1]
+WARDROBE: Action outfit
+ENVIRONMENT: Industrial zone
+MOOD: Powerful → cinematic
+STYLE: Hero shot
+CORE IDEA: Classic explosion + walk away
+SHOT FLOW:
+Timer device
+She turns away
+Walks calmly
+Silence
+Explosion behind
+Fire burst
+Slow motion debris
+Hair movement
+No reaction
+Strong walk
+Close-up face
+Fire reflection
+End
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2049333816771452930/pu/img/JiKZM8N92wWBB_DT.jpg" width="600" alt="Industrial Action Hero Shot">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3859)**
+
+**Yazar:** [K](https://x.com/ChillaiKalan__) | **Kaynak:** [Link](https://x.com/ChillaiKalan__/status/2049333876859003247) | **Yayınlandı:** Apr 29, 2026
+
+---
 ### Karakter Tanıtım Hareketli Grafik Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3301,119 +3511,6 @@ Gece vakti ultra gerçekçi retrofütüristik megakent, fırtına bulutlarının
 **Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2048128323566317874) | **Yayınlandı:** Apr 25, 2026
 
 ---
-### Biyoteknolojik Uzaylı Kıyafeti Metamorfozu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir insanın biyolojik bir uzaylı makine kıyafetine dönüştüğü, 15 saniyelik, sert ve baskın bir dönüşüm sekansı istemi.
-
-#### 📝 İstem
-
-```
-Görsel ve Atmosferik Temel Yüz Sadakati: Çıktı, yüklenen referans fotoğrafa kesinlikle sadık kalmalıdır. Dijital "güzelleştirme", cilt pürüzsüzleştirme veya kemik yapısında değişiklik yapılmamalıdır. Karakter ham ve insani kalmalıdır. Stil: Gerçekçi, sert ve baskın. "Biyoteknoloji ve uzaylı makinelerin buluşması" olarak düşünün; fantastik olmaktan ziyade soğuk ve işlevsel hissettiren organik dokular. Ortam: Geniş, bulutlu bir dış mekan. Renk paletine gri-maviler ve soluk tonlar hakimdir. Karakterin kıyafetlerinin hareketinden sürekli bir rüzgar hissedilmelidir. 1. Aşama: Dönüşüm Öncesi (Sakinlik) Kıyafet: Siyah bir gömlek üzerine ağır siyah deri trençkot. Görünüm: Kasvetli, ağırbaşlı ve içe dönük bir silüet oluşturmak için kaküller alnı kapatacak şekilde düşük tutulmalıdır. Kemer: Mat kaplamalı metalden minimalist, üst düzey bir parça. Ticari bir üründen ziyade bilimsel bir numune gibi görünen bir "uzaylı enerji çekirdeği" barındırır. Kamera Çalışması: Orta Çekim: Sabit 30 derecelik yan profilden başlar. Hareket: Yavaşça merkeze doğru hipnotik bir dönüş yaparken hafifçe yaklaşma (dolly-in). Kesinti yok. Eylem: Karakter başı aşağıda başlar, sağ eli kemeri kavrarken yavaşça kaldırıp kameraya bakar. 2. Aşama: Metamorfoz (Fırtına) Ses/Müzik: Gergin, atmosferik bir müzikle eşleşen ağır, düşük frekanslı mekanik uğultular. Görsel Efektler: * Enerji: Koyu kırmızı ışık, girdaplı siyah sis ve keskin siyah parçacıklarla iç içe geçerek dışarı sızar. Süreç: Enerji etrafını sararken, vücut hafif, sert bir dönüş yapar ve ardından donar. Uygulama: "Oyuncak benzeri" birleştirmelerden kaçının. Kıyafet parçaları birbirine tıklayarak birleşmez; sis ve parçacıklar aracılığıyla biyolojik bir değişimle ortaya çıkar. 3. Aşama: Nihai Form Kıyafet Kompozisyonu: Siyah biyolojik doku ve uzaylı alaşımlarının birleşimi. Nabız gibi atan dokularla "canlı" ve "büyüyormuş" gibi görünmelidir. Detaylar: Kıyafeti takip eden hafif parlayan kırmızı damar hatları, derin kırmızı ve tehditkar gözlerle son bulur.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09852b06050190959de79104bb58e55a/thumbnails/thumbnail.jpg" width="600" alt="Biyoteknolojik Uzaylı Kıyafeti Metamorfozu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3685)**
-
-**Yazar:** [Iqra Saifi](https://x.com/IqraSaifiii) | **Kaynak:** [Link](https://x.com/IqraSaifiii/status/2048094042983133237) | **Yayınlandı:** Apr 25, 2026
-
----
-### Tersine Akan Şelaleli Uçurum Şehri Takibi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, fiziğe meydan okuyan yukarı doğru akan şelalelere ve dinamik kamera hareketlerine sahip, fantastik bir uçurum şehrinde geçen 15 saniyelik kesintisiz ve yüksek hızlı bir kovalamaca oluşturmaya yönelik karmaşık, zaman kodlu bir komut.
-
-#### 📝 İstem
-
-```
-TERSİNE AKAN ŞELALE TAKİBİ — 15 saniyelik kesintisiz sinematik başyapıt
-
-15 saniye, 16:9, diyalogsuz, ıslak taşa oyulmuş anıtsal bir uçurum şehrinde tek bir kesintisiz yüksek hızlı kovalamaca. Gün batımı puslu, sıcak kumtaşı, soğuk camgöbeği motor parıltısı, yansıtıcı kaya, şelale sisi, 35mm gerçekçiliği.
-
-0:00-0:02: Uçurum şehrinin çok yukarısından, keskin bir kenar yol boyunca yarışan küçük bir camgöbeği hız aracına doğru kuş bakışı hava dalışı. Şelaleler kameranın yanından yukarı doğru akıyor, sis gökyüzüne yükseliyor.
-
-0:02-0:04: Kamera hız aracının yan profiline kilitlenir, ardından öne fırlar ve arka iticilere doğru geri döner. Isı puslu havayı büker, kumlar kenardan kopup yukarı doğru süzülür.
-
-0:04-0:07: Yukarıda oyulmuş bir balkon çöker; taş parçaları kırık yerçekiminde yukarı ve yana doğru düşer. Sürücü düşen bir kemerin altında duvara yapışır, kıvılcımlar kanyon duvarını kazır.
-
-0:07-0:10: Yol; asılı çamaşırlar, açık pencereler, oyma köprüler ve yukarı doğru akan su kanalları arasından daralır. Kamera, tek bir akıcı hareketle aynı boşlukların içinden geçer.
-
-0:10-0:13: Hız aracı, şehrin boğazından dışa açık bir viraja çıkar. Tersine akan bir şelale, dikey bir cam perde gibi yolu keser, sprey lensin üzerinde çizgiler oluşturur.
-
-0:13-0:15: Kamera, yüzlerce şelalenin gün batımına doğru tırmandığı uçsuz bucaksız bir vadinin geniş görüntüsüne doğru patlar; hız aracı küçük bir camgöbeği çizgisine dönüşürken sis gökkuşağına bürünür.
-
-Kilitler: kesintisiz takip enerjisi, sabit hız aracı tasarımı, diyalog yok, altyazı yok, logo yok, karakter yakın çekimi yok, ağır çekim yok.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a0adfe1c5217583e0fef0c966740dbf1/thumbnails/thumbnail.jpg" width="600" alt="Tersine Akan Şelaleli Uçurum Şehri Takibi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3679)**
-
-**Yazar:** [Changning Liu](https://x.com/ChangningL29508) | **Kaynak:** [Link](https://x.com/ChangningL29508/status/2048093226628694071) | **Yayınlandı:** Apr 25, 2026
-
----
-### Aria ile Sinematik Yemek ASMR'si
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tutarlı bir karakter içeren, ballı tavuğun aşırı yakın çekimlerinden öznenin ifadesini gösteren orta çekimlere kadar spesifik çekim türlerini detaylandıran çok çekimli bir yemek ASMR istemi.
-
-#### 📝 İstem
-
-```
-Aria'nın yer aldığı çok çekimli sinematik yemek ASMR videosu. Referans karakter: [Aria çapa görselini yükleyin]. Çekim 1 (0–3 sn): Aşırı yakın çekim — koyu renkli seramik bir kaseden yavaşça kaldırılan çıtır altın rengi kızarmış tavuk parçası, balın kabuk üzerinde gerçek zamanlı süzülmesi, yükselen buhar. Henüz eller görünmüyor. Çekim 2 (3–7 sn): Orta yakın çekim — Aria'nın ballı tavuğu dudaklarına doğru tutarken yumuşak odaklı yüzü, yarı kapalı gözler, saf bir beklenti ifadesi. Sıcak kehribar rengi ışık, sosun parlaklığını vurguluyor. Çekim 3 (7–11 sn): Tavuk parçasını döndüren ellerine yakın çekim — bal iplikleri alttan gelen ışığı yakalıyor. Çekim 4 (11–15 sn): İlk yavaş ısırığı, çıtırtıya yakın çekim — gözlerini kısa bir süreliğine kapatıyor. Renk derecelendirmesi: derin siyahlar, baştan sona sıcak kehribar tonları. Diyalog yok. Müzik gerekmiyor — ses tasarımı bunu taşıyor. Hiper gerçekçi, sinematik, 4K.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2619d871726971ba6d55dbd42ae2319c/thumbnails/thumbnail.jpg" width="600" alt="Aria ile Sinematik Yemek ASMR'si">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3690)**
-
-**Yazar:** [PromptStudio AI](https://x.com/PromptStudAI7) | **Kaynak:** [Link](https://x.com/PromptStudAI7/status/2048092571248066895) | **Yayınlandı:** Apr 25, 2026
-
----
-### Dünya'dan St. Petersburg'a FPV Hiper-zoom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uzaydan başlayıp atmosferi geçerek St. Petersburg sokaklarına inen ve bir adamın portresiyle sona eren, kesintisiz tek plan FPV çekimi için sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Dünya'nın uzaydan geniş açılı görüntüsüyle başlayan, hızla atmosferin ve bulutların içinden süzülen kusursuz ve ekstrem bir FPV hiper-zoom çekimi. Kamera, St. Petersburg'un üzerinde havadan bir hiper-lapse görüntüsüne dalarak Aziz İsa Katedrali'nin altın kubbesinin yanından hızla geçiyor. Yumuşak bir inişle kanal suyunun hemen üzerinden süzülerek Saray Köprüsü'ne doğru hızlanıyor. Kamera, açılmış olan köprü ayaklarının tam arasından geçiyor.
-Köprüden çıktığı anda kamera yumuşak bir şekilde sağa dönüyor ve yavaşlayarak, granit nehir kıyısında oturan genç bir adamın orta ölçekli portre çekimine kusursuz bir şekilde geçiş yapıyor. Adamın hafif ışıltılı, kısa ve dokulu saçları, hafif kirli sakalı ve keskin yüz hatları var. Üzerinde rahat bir beyaz gömlek, koyu mavi kot pantolon, temiz beyaz spor ayakkabılar ve minimalist gümüş bir zincir bileklik bulunuyor.
-Başlangıçta ufka doğru bakarken, yavaşça bakışlarını sakin ve kendinden emin bir ifadeyle kameraya çeviriyor. Arka planda, yumuşak pastel tonlardaki alacakaranlık gökyüzüne karşı açılmış köprü ve su üzerindeki pırıltılı yansımalar yer alıyor. Sinematik, hiper-gerçekçi, kesintisiz tek plan, 8K çözünürlük, fotogerçekçi, akıcı hareket, doğal ışıklandırma, ultra detaylı dokular.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7b8c76baae613071745c93a9facca6/thumbnails/thumbnail.jpg" width="600" alt="Dünya'dan St. Petersburg'a FPV Hiper-zoom">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3688)**
-
-**Yazar:** [Taaruk](https://x.com/Taaruk_) | **Kaynak:** [Link](https://x.com/Taaruk_/status/2048077574119805391) | **Yayınlandı:** Apr 25, 2026
-
----
-### Duygusal vlog tarzı Japon kadın videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Statik kareleri, doğal kamera sarsıntısı ve arka plan müziği içeren, genç bir Japon kadının yer aldığı tutarlı bir vlog tarzı videoya dönüştürmek için tasarlanmış video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-@image1 içindeki her kareyi videoya dönüştür ve bunları birleştir. Duygusal bir vlog tarzı video. Doğal el sarsıntısı. Genç bir Japon kadın. Duygusal arka plan müziği.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afb52ff591034717bc85a24f8a53c7eb/thumbnails/thumbnail.jpg" width="600" alt="Duygusal vlog tarzı Japon kadın videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=3692)**
-
-**Yazar:** [George Wu](https://x.com/GeorgeWuAI) | **Kaynak:** [Link](https://x.com/GeorgeWuAI/status/2048076759254630813) | **Yayınlandı:** Apr 25, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3475,6 +3572,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-30T03:11:11.227Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-04-30T06:45:30.810Z</sub>
 
 </div>
