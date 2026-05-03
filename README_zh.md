@@ -68,7 +68,7 @@
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **2445** |
+| 📝 提示词总数 | **2490** |
 | ⭐ 精选提示词 | **6** |
 | 🔄 最后更新 | **2026-05-03** |
 
@@ -361,6 +361,1046 @@
 
 > 📝 按发布日期排序（最新优先）
 
+### Cyberpunk Game Character Interaction Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A video generation prompt for creating a character showcase in a cyberpunk style. The character performs a 360-degree turn on a platform and waves to the camera, accompanied by flickering electric text effects for an interactive game UI feel.
+
+#### 📝 提示词
+
+```
+Provide me with more precise prompts based on my ideas. Requirements: While maintaining character appearance and clothing consistency, this person stands on a platform and completes a full rotation, similar to a character showcase in a game. After finishing the rotation and facing the audience again, they raise their right hand and wave. At the same time, the text in the scene should flash with a cyber-tech feel, as if electric currents are flowing through it. Create an overall feeling of an interactive game interface.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/20131dceb247089f4d10a285bd035e72/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Game Character Interaction Video">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4064)**
+
+**作者:** [傅盛](https://x.com/FuSheng_0306) | **来源:** [Link](https://x.com/FuSheng_0306/status/2050805445032337720) | **发布时间:** May 3, 2026
+
+---
+### Sci-Fi Commercial Mecha Storyboard
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for a 15-second commercial featuring mecha and monsters, designed to follow specific storyboard and character sheet references.
+
+#### 📝 提示词
+
+```
+Language: Japanese\nSubtitles: None\n\nSynopsis:\n15-second commercial video\nPlease compose the cuts/scenes in @Image3
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/49c044de4f82fa297a2b11449817c5e9/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Commercial Mecha Storyboard">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4032)**
+
+**作者:** [とすくん](https://x.com/tokyo_Valentine) | **来源:** [Link](https://x.com/tokyo_Valentine/status/2050784601191432351) | **发布时间:** May 3, 2026
+
+---
+### AEW Women's Championship Wrestling Match
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and hyper-realistic video prompt for a professional wrestling championship match, featuring character descriptions, choreography, and arena lighting.
+
+#### 📝 提示词
+
+```
+Hyper-realistic cinematic 15-second continuous video of a women's championship finale in a sold-out arena. Featuring Riho (Japanese, idol-like cuteness, black hair, very petite, light blue and white gear) vs Mercedes Moné (American, powerful and charismatic physique, gold-themed gear). Follow the storyboard sequence precisely: exhausted mid-match staredown → hard clothesline → submission struggle → DDT reversal → near fall → German suplex → top-rope moonsault finisher → three-count pin → championship victory moment. Maintain consistent facial identity and body proportions throughout. Realistic sweat, impact physics, and intense crowd reactions. Use slow motion for key moments. End with confetti and corner pyrotechnics as a cinematic crane shot rises on the winner. Photorealistic, AEW broadcast quality, 60fps, high-contrast lighting.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791283096_w614bi_HHWBfJ5bUAAd55d.jpg" width="600" alt="AEW Women's Championship Wrestling Match">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4068)**
+
+**作者:** [TSUBAKI](https://x.com/AI__TSUBAKI) | **来源:** [Link](https://x.com/AI__TSUBAKI/status/2050689475626573993) | **发布时间:** May 2, 2026
+
+---
+### Lipstick Brand Storyboard Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A storyboard-driven video prompt for a lipstick advertisement featuring a woman in an elegant restaurant in Paris.
+
+#### 📝 提示词
+
+```
+Follow this storyboard @image_1 to create this AD
+
+story =  a woman in a elegant red dress uses her lipstick then sits own in a restaturant to have a date with a elegant man
+
+1) establishing shot of the outside of the restaurant in paris
+
+2) wide angle of the woman walking towards the entrace of the restaurant
+
+3) closeup of smiling woman holding the lipstick @image_2 sideways to that the label "HotLips" is clearly visible on the Lipstick
+
+4) closeup of the lips of the woman as she applies the red lipstick
+
+5) over the shoulder of the woman walking towards the table with the man
+
+6) closeup of the man smiling and saying "Amore with a Smile" - no speech-bubble!!!!
+
+7) medium-wide shot of both sitting across each other talking and laughing while holding hands across the table
+
+8) closeup of the woman winking at the camera with a smile and the elegant text "HotLips Lipstick - Amore with a smile"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/413caf78b18669c430db891e992d3abe/thumbnails/thumbnail.jpg" width="600" alt="Lipstick Brand Storyboard Ad">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4043)**
+
+**作者:** [Olivio Sarikas](https://x.com/OlivioSarikas) | **来源:** [Link](https://x.com/OlivioSarikas/status/2050664853082456156) | **发布时间:** May 2, 2026
+
+---
+### Human Evolution Hyper-lapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple yet effective prompt for creating a seamless hyper-lapse video showing the evolution of humans over time.
+
+#### 📝 提示词
+
+```
+human evolution over time a chronological hyper lapse video seamless transitions
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/afe14b9312703c4a0fc977d564b3994f/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Hyper-lapse">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4050)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2050660247899980083) | **发布时间:** May 2, 2026
+
+---
+### Romantic Film Strip Ocean Memories
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic sequence featuring a glowing film strip displaying romantic memories over the ocean at night.
+
+#### 📝 提示词
+
+```
+cinematic romantic sequence featuring a glowing film strip telling a love story at night over the ocean.
+[0-3s] FIRST FRAME — Camera focuses on the first frame of a luminous film strip: a couple met on the beach at sunset. They are holding hands, silhouettes against orange and pink sky. Soft golden glow surrounds the frame. Gentle ocean waves in the background. Camera slowly pushes in.
+[3-7s] LOVE MONTAGE — Camera smoothly moves between different film frames showing various romantic moments: first date under floating hot air balloons with colorful patterns, a passionate kiss on a sailboat at dusk with golden reflections on water, walking hand in hand under a starry sky with Milky Way visible, dancing together on the beach with sparklers. Each frame glows with warm golden light. Transitions between frames are fluid and dreamlike with soft light flares.
+[7-10s] EMOTIONAL PEAK — Camera lingers on the most intimate frame: the proposal moment on the same beach, ring box opening, tears of joy, tight embrace. Golden particles float around them. The frame pulses brighter than others. Ocean waves reflect the golden light. Hot air balloons drift in the background sky.
+[10-13s] REAL WORLD — Camera exits from the film strip, revealing a real couple standing on the rocky shore looking up at this same glowing film strip in the night sky. They stand close together, arms around each other, watching their memories displayed above. She rests her head on his shoulder. Ocean waves gently lap at the rocks. Their reflection visible in shallow water.
+[13-15s] UNITY & ETERNITY — The couple and the glowing film strip merge in one unified frame. The boundary between reality and memories dissolves magically. Golden light flows from the film to envelop the real couple. Stars twinkle brilliantly in the deep blue sky, hot air balloons float peacefully. Final shot: love is captured in eternity, the film strip and couple becoming one luminous entity. Romantic, timeless atmosphere with infinite feeling.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ca5b2225efce5d971334f80663005f2d/thumbnails/thumbnail.jpg" width="600" alt="Romantic Film Strip Ocean Memories">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4039)**
+
+**作者:** [Viki](https://x.com/churvikv) | **来源:** [Link](https://x.com/churvikv/status/2050655860846690351) | **发布时间:** May 2, 2026
+
+---
+### Cowboy Showdown Storyboard Conversion
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for transforming a 3x3 storyboard into a 15-second cinematic Western short film, emphasizing emotional transitions and specific character actions.
+
+#### 📝 提示词
+
+```
+Create a seamless 15-second cinematic cowboy showdown video using the uploaded 3x3 storyboard image as the main reference.
+
+Use the storyboard only for character identity, shot order, poses, wardrobe, composition, emotional tone, and scene progression. Do NOT recreate the storyboard grid, borders, or panel layout. Transform it into one continuous cinematic video.
+
+Style: ultra-realistic cinematic western film, tense dusty frontier town, dramatic golden-hour cowboy atmosphere
+
+Video Flow:
+The female cowboy’s distant walk toward camera is shown only briefly, then the shot quickly moves into a close-up of her face, revealing sadness, disappointment, and quiet determination. She reaches the male cowboy and faces him in the dusty western street as tension builds through close-ups of eyes, hands, holster, boots, wind, and drifting dust. The man stands with his back toward the camera and never reaches for his gun. Suddenly, the woman draws her revolver with sharp speed and shoots him. He is hit and falls into the dust. She lowers the gun, still sorrowful rather than victorious, then turns away and walks into the sunset after completing her mission.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/df052035796f092cc28c758b15f4b516/thumbnails/thumbnail.jpg" width="600" alt="Cowboy Showdown Storyboard Conversion">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4028)**
+
+**作者:** [ai.gezgini](https://x.com/ai_gezgini) | **来源:** [Link](https://x.com/ai_gezgini/status/2050645169452863863) | **发布时间:** May 2, 2026
+
+---
+### Natural Aesthetic GRWM Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt for creating an organic, Instagram-style 'Get Ready With Me' clip featuring a creator in a cozy bedroom setting with soft natural lighting.
+
+#### 📝 提示词
+
+```
+Setting & Aesthetic
+Filmed in a cozy, natural bedroom with soft neutral tones (beige, white, warm grey). Natural side lighting creates a warm, authentic feel. Background features a neatly made bed and bedside lamp — lived-in but clean. No ring light — keeps it feeling organic and real.
+👤 Creator Vibe
+Young woman, 20s, effortlessly put-together — long straight highlighted hair (showcasing the product's results), minimal glam makeup, soft pink cardigan over a white top, dainty pearl necklace. She looks like your stylish friend, not a polished influencer.
+🎙️ Delivery Style
+Warm, conversational, slightly excited
+Looking down at the product then up at camera — natural discovery feel
+Smiling softly — approachable and trustworthy
+Speaking mid-sentence as if mid-thought (hook style)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d2c58e501dd6395cb8547eb1d26029a/thumbnails/thumbnail.jpg" width="600" alt="Natural Aesthetic GRWM Video">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4030)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **来源:** [Link](https://x.com/Just_sharon7/status/2050643288752099742) | **发布时间:** May 2, 2026
+
+---
+### Cybernetic Gunslinger Neon Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-cinematic action sequence involving a cybernetic gunslinger in a neon-lit, rain-soaked futuristic street.
+
+#### 📝 提示词
+
+```
+General Technical Specifications: ultra-cinematic blockbuster, photorealistic 8K, f/0.4 aperture, high contrast, deep blue neon night, volumetric rain and fog
+
+Lighting: strong neon contrast (blue, magenta), reflections on wet asphalt, flickering signage, backlight silhouettes
+
+Shot List and Sequence:
+
+Shot 1: Wide Shot (2s)
+A lone cybernetic gunslinger stands in a neon-lit street at night. Rain falling. Coat moving slightly. Shadowy figures emerge from alleys, forming a loose circle.
+
+Shot 2: Close-Up (1.5s)
+Face tight. One eye glowing. Subtle mechanical flicker. Calm, focused.
+
+Shot 3: Insert Shot (1s)
+Hand near holster. Fingers twitch with precise servo motion.
+
+Shot 4: Medium + Whip Pan (2s)
+An attacker rushes forward. Camera whip pans as the gunslinger turns sharply.
+
+Shot 5: Action Shot (2s)
+Instant draw. A sharp energy discharge fires forward, creating a brief air distortion ripple.
+
+Shot 6: Impact Shot (1.5s)
+Attacker is pushed backward, sliding across wet ground, sparks scattering.
+
+Shot 7: Side Tracking (2s)
+Two more figures approach. The gunslinger pivots and fires in controlled succession, minimal movement, maximum precision.
+
+Shot 8: Close Combat (1.5s)
+One attacker reaches close range. Fast mechanical arm movement creates strong kinetic displacement, sending them off balance.
+
+Shot 9: Micro Slow Motion (1s)
+Rain freezes briefly as another shot cuts through the air, glowing trail visible.
+
+Shot 10: Final Hero Shot (1.5s)
+Silence. The gunslinger stands alone. Weapon lowered slightly. Neon reflections ripple across the wet street.
+
+Camera: a lot of camera angles and shot switches, ultra dynamic, whip pans, fast cuts, controlled micro slow-motion
+
+Style: 80s/90s action movie style, ultra dynamic, dramatic cloth movement, volumetric rain and fog, grounded physics, normal proportions without stretch
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a542b0621e83a3982b6ab3ea46d3249/thumbnails/thumbnail.jpg" width="600" alt="Cybernetic Gunslinger Neon Action">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4042)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2050640233553657935) | **发布时间:** May 2, 2026
+
+---
+### Cinematic FPV Snowboard Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-octane FPV drone-style video prompt capturing a professional snowboarder carving through fresh powder at golden hour, including detailed scene-by-scene motion instructions.
+
+#### 📝 提示词
+
+```
+Ultra-realistic cinematic FPV snowboard sequence, 4K HDR, high contrast, cold blue color grading, natural lighting, strong motion blur, realistic snow physics, 16:9.
+
+LOCATION:
+High mountain snowy landscape, wide open slopes, powder snow, golden hour sunlight, dramatic sky.
+
+MAIN SUBJECT:
+A professional snowboarder wearing a modern snow jacket, helmet, and goggles. Smooth, aggressive riding style.
+
+CAMERA STYLE:
+FPV drone-style follow cam, ultra dynamic, close tracking, fast acceleration, precise movement.
+
+[0–5s]
+The camera starts behind the snowboarder at the top of a snowy peak. Strong wind blows snow particles. The rider drops in aggressively downhill. Powder snow sprays toward the camera, slight lens snow effects, intense speed feeling.
+
+[5–10s]
+High-speed carving sequence. The camera follows very closely, shifting slightly side-to-side. Snow sprays dynamically with each turn. Strong motion blur and wind streak effects. Terrain uneven and fast.
+
+[10–15s]
+The rider launches off a small cliff. The camera follows upward smoothly. Mid-air slow motion: floating snow particles, dramatic lighting. The rider performs a stylish trick. Hard landing with explosive snow impact, subtle camera shake, then stabilizes.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7fa6e6e90a6eb629033c57045ff28394/thumbnails/thumbnail.jpg" width="600" alt="Cinematic FPV Snowboard Sequence">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4024)**
+
+**作者:** [yopiwhs](https://x.com/Gwsubsa) | **来源:** [Link](https://x.com/Gwsubsa/status/2050609668112949486) | **发布时间:** May 2, 2026
+
+---
+### Stylized 3D Animation Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative-driven prompt for Seedance 2.0 designed to create a stylized 3D animation of a friendship adventure featuring a storm-cloud rescue and a joyful return.
+
+#### 📝 提示词
+
+```
+INTENT: Create a playful, high-energy friendship adventure that briefly turns tense when one rider is pulled into storm clouds, then resolves with a triumphant rescue and joyful return. STYLE: stylized family-feature 3D animation feel, rounded expressive
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e6c3e49d4e526f1db68144d939931db3/thumbnails/thumbnail.jpg" width="600" alt="Stylized 3D Animation Adventure">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4058)**
+
+**作者:** [Kōda](https://x.com/aimikoda) | **来源:** [Link](https://x.com/aimikoda/status/2050608494361956510) | **发布时间:** May 2, 2026
+
+---
+### Ancient Indian Kingdom FPV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive FPV drone-style prompt flying through the detailed architecture and bustling life of the ancient Kekaya kingdom.
+
+#### 📝 提示词
+
+```
+Extremely fast-paced cinematic FPV flying through the ancient Indian Kekaya kingdom at its peak, hyper-realistic, ultra-detailed, HDR. Camera starts high above vast fertile plains and rivers, rapidly diving into a grand fortified city with sandstone palaces, intricate carvings, and towering gates. Speeding through bustling markets filled with traders, horses, chariots, silk fabrics, and pottery. Dynamic motion through royal courtyards where warriors train with swords and archers practice. Then smoothly go into opulent interiors with golden decor, oil lamps, and royal assemblies. Intense FPV sweeps over battle formations outside the city with elephants, cavalry, and infantry in traditional armor. Sunset lighting with warm tones, volumetric dust, dramatic shadows, cinematic depth of field. Highly immersive, realistic physics, historically inspired architecture and clothing, epic scale
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/89f62128322218bce219732c0c5aaf62/thumbnails/thumbnail.jpg" width="600" alt="Ancient Indian Kingdom FPV">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4046)**
+
+**作者:** [Shushant Lakhyani](https://x.com/shushant_l) | **来源:** [Link](https://x.com/shushant_l/status/2050591261820878904) | **发布时间:** May 2, 2026
+
+---
+### Pharaonic Pylon Gate Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ancient Egyptian scene where carved pylon gates come to life as three-dimensional guardians amidst shifting sands.
+
+#### 📝 提示词
+
+```
+Twin monumental pylon gates carved with pharaonic scenes suddenly animate ,their carved relief scenes become three-dimensional. 
+
+Limestone blocks shift and reassemble into two towering guardians flanking the gates. 
+
+Hieroglyphic light cascades down their surfaces. 
+
+The camera tracks them stepping forward in unison, causing sand to erupt in tidal waves. 
+
+Dramatic warm lighting, slow-motion destruction, cinematic depth, ultra-wide shots.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b99c8bc73378d6d7078ac7efb958064/thumbnails/thumbnail.jpg" width="600" alt="Pharaonic Pylon Gate Animation">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4036)**
+
+**作者:** [Malzahran](https://x.com/Malzahran2) | **来源:** [Link](https://x.com/Malzahran2/status/2050584450900115862) | **发布时间:** May 2, 2026
+
+---
+### City Collapse FPV Sprint
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic FPV action prompt depicting a high-speed chase through a collapsing city, with detailed camera movements dodging debris and dust.
+
+#### 📝 提示词
+
+```
+FPV sprint through a dense city as buildings begin collapsing, camera racing at ground level between cars and debris, weaving through falling concrete chunks, ducking under collapsing scaffolding, then accelerating into a narrow alley as a shockwave explodes behind, fire and dust chasing the camera, flipping briefly as the ground cracks open, then stabilizing and bursting out into a wide street engulfed in chaos, ultra-fast, relentless motion. Epic, cinematic
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72a9e4cc1ebbac526b74620002c800b8/thumbnails/thumbnail.jpg" width="600" alt="City Collapse FPV Sprint">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4027)**
+
+**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **来源:** [Link](https://x.com/CharaspowerAI/status/2050583612165136503) | **发布时间:** May 2, 2026
+
+---
+### Rooftop Airport Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-realistic action prompt featuring a female pilot running across a rooftop airport atop a ruined megacity.
+
+#### 📝 提示词
+
+```
+Ultra-realistic rooftop airport on top of a ruined megacity, storm clouds below the skyscrapers.
+Female pilot runs across the landing deck toward the final departing ship.
+Jetstream armor forms around her body from spinning turbine air.
+Enemy drones descend from clouds.
+Camera chases behind her across the runway.
+She slides under one drone, launches another off the roof edge.
+Final frame: front of the ship view, ship engines ignite as city lights vanish below clouds.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/177d94564432ccba67bdfd3c20056b65/thumbnails/thumbnail.jpg" width="600" alt="Rooftop Airport Action Scene">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4041)**
+
+**作者:** [Alexandra Aisling](https://x.com/AllaAisling) | **来源:** [Link](https://x.com/AllaAisling/status/2050583337392107560) | **发布时间:** May 2, 2026
+
+---
+### Neon Night Market Time Travelers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video prompt that merges a 2x2 grid of time travelers at a night market into a single cohesive cinematic scene with smooth camera movement.
+
+#### 📝 提示词
+
+```
+A 2x2 cinematic grid showing different time travelers experiencing modern street food in a neon-lit night market. Each panel represents a different era character reacting to food, ultra realistic, cinematic lighting, highly detailed, vibrant colors, storytelling composition, 8K quality, shallow depth of field, dramatic atmosphere, steam and neon glow, cohesive visual style across all panels. Top left: Mughal-era prince holding a modern burger, confused expression, neon food stall background. Top right: medieval knight eating french fries, humorous reaction, street night lights. Bottom left: Victorian lady tasting spicy street taco, surprised expression, cinematic lighting. Bottom right: futuristic cyborg drinking chai, glowing blue eyes, neon cyber street food setting. consistent lighting, unified color grading, cinematic grid composition, ultra-detailed faces, storytelling coherence Animate this image into a single continuous cinematic scene. The 2x2 grid layout should dissolve into one unified street food night market where all characters exist in the same space and interact naturally. Transform the scene so the Mughal-era prince, medieval knight, Victorian lady, and futuristic cyborg are all standing in the same neon-lit street food market at night. Remove the grid separation completely and merge all panels into one cohesive world. Camera slowly pans across the scene in a smooth cinematic motion, revealing each character one by one. The Mughal prince examines a modern burger with curiosity. The medieval knight eats fries with exaggerated confusion. The Victorian lady reacts to spicy street food with surprise. The futuristic cyborg calmly drinks chai with glowing eyes. Add subtle natural movements: blinking, chewing, steam rising from food, neon reflections shifting, soft crowd motion in background. Maintain cinematic lighting, ultra realistic style, shallow depth of field, vibrant neon night market atmosphere, film-like color grading. Smooth camera movement, slow cinematic reveal, no grid lines, no panel separation, fully merged world, consistent environment, high detail, 8K cinematic realism.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791263594_f3a7fr_HHUg8mDbEAAxVhb.jpg" width="600" alt="Neon Night Market Time Travelers">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4055)**
+
+**作者:** [⁠ luciaAI](https://x.com/arghzq) | **来源:** [Link](https://x.com/arghzq/status/2050582089721151961) | **发布时间:** May 2, 2026
+
+---
+### Erosion Bench Furniture Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end cinematic advertisement prompt for a sculptural public bench, focusing on texture, material fidelity, and serene atmosphere.
+
+#### 📝 提示词
+
+```
+Create a luxurious 15-second cinematic advertisement video for "The Erosion Bench" by Strata Form.
+Strictly use the two uploaded reference images as the primary visual references. Replicate the exact sculptural wavy form, layered sandstone-like strata texture, warm beige/cream stone color palette, ergonomic contours, and premium product photography lighting/style from both images with maximum fidelity.
+
+Overall style: High-end premium furniture commercial, photorealistic, serene and timeless. Soft dramatic natural lighting with gentle shadows that beautifully highlight the carved layers and fluid forms. Warm earthy tones, shallow depth of field, elegant smooth camera movements (slow orbits, gentle dollies, and pushes). Professional cinematic color grading exactly matching the references.
+
+Video structure (exactly 15 seconds, multi-shot):
+
+0–4 seconds: Elegant slow camera orbit and push-in around the full Erosion Bench in a tranquil minimalist outdoor public plaza with soft morning light. Start close on the beautiful layered strata texture and flowing carved curves, then slowly reveal the complete sculptural form. Subtle text fades in gracefully: “TIME CARVED FORM”
+
+4–9 seconds: Smooth montage of close-up details gliding across the bench’s surface — layered striations, soft water-carved edges, and ergonomic seating. Gentle animated light reflections and water-like glints evoke millions of years of canyon erosion. Text overlay appears: “A public bench sculpted by the language of water and stone.”
+
+9–13 seconds: Three diverse people (young adult, couple, and older person) comfortably sitting together on the bench in a natural, relaxed way. Show the ergonomic comfort and shared social experience. Camera gently circles them.
+
+13–15 seconds: Clean final wide shot of the bench. Elegant brand text appears: “STRATA FORM” “EROSION BENCH” “www. strataform. design”“Geologically Inspired • Civic Durability”
+
+End on a serene, timeless note with a slow fade.
+
+Mood: Tranquil, premium, nature-inspired, enduring, and quietly powerful. Ultra-high production value, 4K, no fast cuts, perfect reference adherence.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4e561322ca5770d3f92844814b3c89ea/thumbnails/thumbnail.jpg" width="600" alt="Erosion Bench Furniture Ad">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4048)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2050576187060080774) | **发布时间:** May 2, 2026
+
+---
+### Supercar Dream Transition Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality luxury car commercial prompt featuring a seamless time-space transition from a childhood toy car to a real Porsche 911 GT3.
+
+#### 📝 提示词
+
+```
+12 seconds, top-tier luxury car commercial quality, cinematic footage, intense realistic speed and pressure, seamless time-space transition, consistent character appearance before and after, stable footage, emotions building layer by layer.
+
+**0.0-3.2 seconds:**  
+Extreme low-angle ground-level macro shot, warm golden afternoon sunlight illuminating a beige fluffy carpet, floating dust particles, retro Kodak film warm yellow tone.  
+A child’s small, tender hand pushes a red Porsche toy race car forward with force.  
+The camera sticks tightly to the toy car’s front, tracking at high speed, simulating a real racing first-person perspective. Speed increases rapidly, fully igniting the child’s imagination.
+
+**3.2-4.8 seconds:**  
+The toy car races straight into the dark shadow under the sofa. Light suddenly disappears, carpet textures stretch into radial motion blur, the entire frame is swallowed by darkness.  
+Use the action of entering the shadow as a natural seamless transition, creating a time-space leap from childhood to reality.
+
+**4.8-8.0 seconds:**  
+In the darkness, a powerful engine roar explodes. A real red Porsche 911 GT3 bursts out from the dark, roaring onto a cold gray racetrack. Sharp daylight, fierce reflections on the glossy paint, tires kicking up heat waves and light tire smoke.  
+The camera maintains the exact same low ground-level high-speed tracking shot as the previous scene, making it feel like the same car instantly scales from toy size to a real racing car. Extremely powerful visual impact and realistic physics of speed.
+
+**8.0-12.0 seconds:**  
+Cut to an intense interior close-up. The adult version of the character, wearing racing gloves, grips the suede steering wheel tightly and shifts gears violently. Mechanical vibrations, sweat, and friction details are clearly visible.  
+The camera suddenly tilts up and pushes in, freezing on the determined, burning eyes under the helmet. Sweat drips down the forehead. The gaze feels like turning childhood dreams into reality.  
+Fast, shaky interior camerawork with strong vibrations and overwhelming pressure. End with a powerful emotional climax on the intense eye close-up.
+
+**Negative Prompt:**  
+blurry, low resolution, deformed characters, multiple people, wrong hands, wrong car model, abrupt cuts, stiff transitions, stuttering, frame drops, plastic texture, fake car feeling, excessive effects, anime style, cheap filters, unstable faces, inconsistent age transition.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bc5b787ff2659a2b98ad6b3359aa6607/thumbnails/thumbnail.jpg" width="600" alt="Supercar Dream Transition Commercial">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4044)**
+
+**作者:** [Ericool 🇲🇾](https://x.com/EricoolWong) | **来源:** [Link](https://x.com/EricoolWong/status/2050566603885142182) | **发布时间:** May 2, 2026
+
+---
+### Desert Leviathan Jeep Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic desert action sequence featuring a Jeep being chased by a massive sand leviathan, ending in an explosive escape.
+
+#### 📝 提示词
+
+```
+High action, chaotic desert sequence, shot on 35mm with harsh sunlight, heat shimmer, and heavy dust trails. Vast open dunes, scattered rock outcrops. Sound: roaring engine, wind, deep underground rumble, sand blasts.
+
+⸻
+
+Shot 1 (0–3s):
+A Jeep tears across open desert at high speed, kicking up dust. Inside—two friends: a woman (mid-20s, athletic, focused) and a male driver (late 20s, tense, gripping the wheel).
+Suddenly—the sand ahead erupts violently—a massive sand leviathan bursts upward, jaws wide, blocking their path.
+
+⸻
+
+Shot 2 (3–6s):
+The driver yanks the wheel—hard swerve. The Jeep skids sideways, narrowly missing the creature’s snapping jaws. Sand explodes around them.
+The creature dives back under—a fast-moving ripple chases them beneath the sand.
+
+⸻
+
+Shot 3 (6–9s):
+The Jeep bounces violently over uneven dunes. The creature erupts again from the side—almost clipping the rear. The driver swerves again, barely controlling the vehicle.
+Inside, the woman braces—then suddenly loses balance and half-falls sideways in the seat, grabbing onto the frame.
+
+⸻
+
+Shot 4 (9–12s):
+Still moving at speed, she reaches into her bag and pulls out a compact explosive device—metallic, cylindrical.
+The ground beside them bulges—the creature rises again, lunging toward the Jeep.
+Timing it perfectly—she leans out and catapults the device straight into its open mouth.
+
+⸻
+
+Shot 5 (12–15s):
+The Jeep speeds forward. Behind them—
+a split-second pause—
+
+Then a massive internal explosion rips through the creature.
+It bursts apart in a spray of dark goo and sand, splattering across the air.
+
+The Jeep drives straight through the falling debris—windshield hit with gunk.
+
+They keep driving—alive.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7b1a55fc8d4fa82349272eaf29af4e46/thumbnails/thumbnail.jpg" width="600" alt="Desert Leviathan Jeep Chase">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4056)**
+
+**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2050557477004136619) | **发布时间:** May 2, 2026
+
+---
+### Executive Assistant Service Collage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a collage of powerful images representing a premium executive assistant brand.
+
+#### 📝 提示词
+
+```
+A 4x5 grid collage of 20 calm, collected, and powerful images for a premium executive assistant service named "SHADOW EXEC".
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5149a10ba3bec262b6f1970d0821127f/thumbnails/thumbnail.jpg" width="600" alt="Executive Assistant Service Collage">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4061)**
+
+**作者:** [UsmanYousaf](https://x.com/Usmanjaanii) | **来源:** [Link](https://x.com/Usmanjaanii/status/2050555268514353536) | **发布时间:** May 2, 2026
+
+---
+### Cosmic Descent to Robotics Workshop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic sci-fi zoom sequence starting from space, descending through a post-apocalyptic city into a futuristic robotics workshop, focusing on character consistency.
+
+#### 📝 提示词
+
+```
+Epic cinematic Earth zoom-in sequence beginning from deep outer space. The shot opens with a wide, majestic view of planet Earth floating silently in the vast darkness (0–5s). The camera then rapidly accelerates forward, diving toward the planet at extreme speed, passing through glowing atmospheric layers, dense cloud formations, and sweeping continental views with intense motion blur, light trails, and fiery atmospheric entry effects (5–10s).
+
+The descent continues as the camera moves over a devastated, post-apocalyptic city filled with collapsed skyscrapers, wild vegetation reclaiming streets, abandoned vehicles, broken highways, and drifting dust clouds. Without breaking the motion, it smoothly enters an enormous deserted structure and transitions into a hidden futuristic robotics workshop inside.
+
+Inside the workshop, the space is packed with mechanical tools, scattered robot components, welding sparks flying, illuminated holographic interfaces, and heavy industrial metal textures. The continuous single-take camera movement gradually slows and settles into a clean medium shot of the main character @img1, who confidently poses with a playful finger-gun aimed toward the camera while giving a subtle wink. Her robot companion @img2 stands right beside her, integrated naturally into the scene.
+
+@img1 serves as the primary character reference with accurate facial features, outfit, and pose consistency as the focal point of the workshop scene.
+@img2 represents the robotic companion with precise design placement and detailed mechanical accuracy next to the main character.
+
+Cinematic Hollywood-style grading with a muted, desaturated tone, cool teal-blue highlights, strong contrast, soft film grain, and floating dust particles in the air. Ultra-realistic yet stylized sci-fi aesthetic, highly detailed, 8K quality, masterpiece-level visual composition.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ceea6a4b88327591f48cfc8c8e8e7293/thumbnails/thumbnail.jpg" width="600" alt="Cosmic Descent to Robotics Workshop">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4052)**
+
+**作者:** [Ai Bella](https://x.com/zahra4sure) | **来源:** [Link](https://x.com/zahra4sure/status/2050554943195714043) | **发布时间:** May 2, 2026
+
+---
+### Character Dance MV Master Template
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed template for creating 15-second character dance videos in an anime style, focusing on body weight movement and cinematic camera work.
+
+#### 📝 提示词
+
+```
+Create a 15-second vertical dance MV using the character from @Image1. Make it a dance MV that matches this character's image.
+
+format: vertical_9x16
+fps: 24
+total_duration: 15s
+style: Japanese watercolor-style full-color anime, MV style, soft lighting, high frame count, smooth body movement
+
+character_rules:
+- Priority given to @Image1 for face, hairstyle, costume, color, and silhouette
+- Only one character
+- Do not distort limbs or face
+- Prioritize body center-of-gravity movement and silhouette over costume details
+
+motion_rules:
+- Create a short dance MV that flows with music rather than intense breakdancing
+- Clearly coordinate center-of-gravity movement, shoulders, hips, knees, and ankles
+- Do not swing arms too widely; keep hand trajectories smooth
+- Change cuts every 0.5 seconds
+- Avoid repeating the same choreography; mix steps, turns, hand movements, footwork, profiles, and hair movement
+- Minimize jumping and spinning
+- Within 15s, start dancing at the beginning, use the best steps in the middle, and end with a lingering signature pose
+
+camera_rules:
+- Switch camera between full body, above-knee, face close-up, hands, and feet
+- Move slowly enough not to disturb the dance
+- Avoid rapid zooming or rotating cameras
+- The first and last shots must show the character's entire body
+
+mood:
+- Create an MV feel through movement of eyes, hair, sleeves, hems, feet, and light flicker rather than direct explanation
+- Cute, cool, and slightly emotional atmosphere
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f7f84e02af40078d4e2a770571a38c6/thumbnails/thumbnail.jpg" width="600" alt="Character Dance MV Master Template">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4067)**
+
+**作者:** [Zeto](https://x.com/ZetoGroovin) | **来源:** [Link](https://x.com/ZetoGroovin/status/2050553389986238797) | **发布时间:** May 2, 2026
+
+---
+### Luxury Mansion Sunset Retreat Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A storyboard-based commercial prompt for a luxury retreat, following a woman at a cliffside mansion through various cinematic camera angles.
+
+#### 📝 提示词
+
+```
+follow this Story Board to create a AD.  dynamic camera movement, no camera gear in the shots, only her, only text in the last scene
+
+story =  a beautiful woman in a white dress enjoying a amazing sunset evening at a luxury mansion build into a cliff,
+
+Scenes:
+1) wide angle drone shot
+2) wide angle walk at pool
+3) medium wide over shoulder walk at pool
+4) medium wide lean on railing
+5) close-up hand in water
+6) look over bay
+7) close-up smile
+8) wide angle smile holding champagne with elegant font text "LuxLife Retreats"
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/34b749d8e966b9c741f4f9f744d57e72/thumbnails/thumbnail.jpg" width="600" alt="Luxury Mansion Sunset Retreat Ad">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4057)**
+
+**作者:** [Olivio Sarikas](https://x.com/OlivioSarikas) | **来源:** [Link](https://x.com/OlivioSarikas/status/2050553327688225024) | **发布时间:** May 2, 2026
+
+---
+### Volcanic Web Escape
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic action sequence prompt featuring a rugged explorer escaping a giant spider creature on a volcanic alien island.
+
+#### 📝 提示词
+
+```
+“Volcanic Web Escape” (15s, 5 Shots)\n\nHigh action, chaotic sequence on an alien volcanic jungle island, shot on 35mm with heat shimmer, drifting ash, bioluminescent plants, and glowing lava fissures. Terrain is uneven, with hanging vine-like structures and deep vents emitting orange light. Sound: heavy breathing, crackling lava, alien screeches.\n\n⸻\n\nShot 1 (0–3s):\nA woman (mid-20s, athletic, rugged explorer gear) sprints across jagged terrain, leaping over glowing cracks where lava pulses beneath. Behind her, something skitters rapidly through the environment—unseen but close.\n\n⸻\n\nShot 2 (3–6s):\nSuddenly—she’s yanked violently upward by a thick, elastic web strand. She spins mid-air, suspended above the ground.\n\nBelow, a massive spider-like creature emerges—long limbs, fast, climbing toward her.\n\n⸻\n\nShot 3 (6–9s):\nHanging upside-down, she pulls a blade and cuts one web strand. She swings sideways in a wide arc, gaining momentum.\nThe creature lunges upward—just misses her.\n\n⸻\n\nShot 4 (9–12s):\nShe kicks off a nearby rock/tree structure, redirecting her swing and dropping to the ground. She lands, rolls, instantly back on her feet.\nBehind her—the creature crashes down, immediately chasing again.\n\nShe runs toward a large glowing lava vent ahead.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1ce233a8901f81150fb8a869b8a7c1d/thumbnails/thumbnail.jpg" width="600" alt="Volcanic Web Escape">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4033)**
+
+**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2050545495626678508) | **发布时间:** May 2, 2026
+
+---
+### Retro Japanese Cat Heist Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized 3D animation prompt describing a comedic heist in an 18th-century Japanese setting, featuring cats and a bear in a chaotic sequence.
+
+#### 📝 提示词
+
+```
+Stylized realistic 3D animation, Shaw Brothers retro cinema aesthetic fused with exaggerated animal characters, dramatic chiaroscuro lighting, saturated reds and deep shadows, high-detail 18th-century Japanese tatami bedroom. Snowy Mount Fuji visible through a wooden window frame, cold blue moonlight slicing into warm lantern-lit interior. Comedic heist-turned-chaos mood: theatrical tension, sudden slapstick destruction, absurd tonal shifts. Fast, rhythmic choreography with precise timing: sneak → scan → target → intrusion → mistake → panic → chaos → reveal → escape → absurd luxury payoff. No gore, no real harm. Dynamic camera: voyeuristic framing, POV sweeps, low-angle impacts, dramatic zooms, stylized slow-motion beats, split-screen reaction with debris. Ultra-smooth motion, sharp comedic timing, vintage film grain overlay, implied exaggerated foley (wood cracks, fabric swish, dramatic gasps, metallic sparkle chimes).
+
+Characters
+
+1. Orange cat thief: slim, agile, sly expression, wearing a loose gray Taoist robe. Movements stealthy but slightly overconfident, feline precision with theatrical flair.
+2. White cat: elegant, curvy silhouette, pink kimono, pale purple eyeshadow, vivid red lips. Sleeps dramatically, snores softly, then shifts to exaggerated panic and later glamorous poise.
+3. Black bear: large, muscular, wearing a red dudou (belly garment), wielding a crude wooden stick. Movements heavy, explosive, wildly inaccurate but powerful.
+4. Background townsfolk: gray rabbits in rough cloth garments, curious, reactive.
+
+Sequence (0:00–0:15)
+0:00–0:01.1 close-up exterior: orange cat crouches outside wooden window, snow drifting. Fuji glows. Cat whispers: “Jackpot night.” Eyes narrow.
+0:01.1–0:02.2 POV sweep: rapid scan across dark tatami room, shadows sliding past like brush strokes.
+0:02.2–0:03.2 POV hold: white cat sleeping under blanket, soft snoring. Subtle comedic snore bubble.
+0:03.2–0:04.2 POV shift: gaze lands on low table—golden beckoning cat statue gleams under lantern light, tiny sparkle pulse.
+0:04.2–0:05.0 close-up: orange cat’s lower face, slow crooked grin. “Mine.”
+0:05.0–0:06.2 medium: orange cat slips through window silently, lands, pads forward in exaggerated tiptoe, robe swaying.
+0:06.2–0:07.0 detail: as cat kneels and reaches—his foot accidentally nudges the white cat’s blanket. Fabric shifts. Suspense beat.
+0:07.0–0:07.8 snap close-up: white cat’s eyes burst open. Sharp inhale.
+0:07.8–0:08.6 scream: “THIEF! HELP!!” echoing dramatically.
+0:08.6–0:10.0 chaos burst: flimsy wooden door slams open. Black bear charges in yelling: “WHERE?!” swings stick wildly—smashes table edge, wall panels, lantern stand. Orange cat dodges in fluid arcs. White cat scrambles to corner, shrieking.
+0:10.0–0:11.0 impact slow-motion: black bear’s stick slams directly into the golden beckoning cat statue—it explodes into flying golden shards, fr
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a20dfdf235376999c0da71cfc24b88e4/thumbnails/thumbnail.jpg" width="600" alt="Retro Japanese Cat Heist Animation">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4053)**
+
+**作者:** [The Anxious Mind](https://x.com/drjoetw) | **来源:** [Link](https://x.com/drjoetw/status/2050537321033036032) | **发布时间:** May 2, 2026
+
+---
+### Freestyle Football Performance Animation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive prompt for Seedance 2.0 that translates a 16-grid storyboard into a fluid, professional street freestyle football solo performance.
+
+#### 📝 提示词
+
+```
+The 16 grids in the reference image represent the 16 key action points of the entire performance. The video must strictly follow the sequence from 1 to 16, ensuring each key action is clearly visible and naturally connected through smooth, realistic, and stylish continuous freestyle football movements. Do not create an instructional breakdown or a basic football video; it should be a complete solo street freestyle football performance.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791276944_nfifua_HHTrlA5WwAAwtQC.jpg" width="600" alt="Freestyle Football Performance Animation">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4066)**
+
+**作者:** [Larus Canus](https://x.com/MrLarus) | **来源:** [Link](https://x.com/MrLarus/status/2050524635259715632) | **发布时间:** May 2, 2026
+
+---
+### Berry Village Drone Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative drone-style advertisement prompt for a yogurt brand featuring a miniature pastel berry village with Korean labels.
+
+#### 📝 提示词
+
+```
+One-take drone ad: pastel miniature berry village around a giant Berrybloom Yogurt cup. Descend → market → orbit cup (labels unchanged) → glide over fresh berries → skim creamy yogurt → pull back to hero shot.
+Keep design, Korean labels, scale fixed. No dialogue.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09f7ddcb6746372390ec60c205a74e44/thumbnails/thumbnail.jpg" width="600" alt="Berry Village Drone Ad">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4045)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **来源:** [Link](https://x.com/Just_sharon7/status/2050520000864063567) | **发布时间:** May 2, 2026
+
+---
+### Turkish Carpet Seller Multi-Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-cut video prompt for Seedance 2.0 that uses multiple reference images to depict a scene in a carpet shop with a seller and customers.
+
+#### 📝 提示词
+
+```
+multi-cut, the local ordinary turkish carpet seller in the reference of @image1 with the exact shirt.
+
+he is in his carpet shop like in @image2 . Two tall british customers (@image3 ) sit across
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6138535dc3ad77ba2393a785998c42f2/thumbnails/thumbnail.jpg" width="600" alt="Turkish Carpet Seller Multi-Cut Video">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4062)**
+
+**作者:** [Azer Koçulu](https://x.com/azerkoculu) | **来源:** [Link](https://x.com/azerkoculu/status/2050508873094545763) | **发布时间:** May 2, 2026
+
+---
+### Stormy Bridge Motorcycle Stunt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic action prompt featuring a motorcyclist performing a high-stakes escape from a collapsing suspension bridge during a violent storm.
+
+#### 📝 提示词
+
+```
+A motorcyclist speeds across a massive suspension bridge during a violent storm.
+
+Lightning strikes the bridge tower and the entire structure begins collapsing.
+
+At the 2-second mark the rider jumps a breaking section, lands on a falling cable, slides down it, and launches back onto the roadway.
+
+The camera follows as the rider escapes just before the bridge collapses into the ocean.
+
+Storm bridge collapse stunt, cable slide jump, motorcycle escape, cinematic disaster action, 4K.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/18858d723bb9c208e5d3308ab0e9b369/thumbnails/thumbnail.jpg" width="600" alt="Stormy Bridge Motorcycle Stunt">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4026)**
+
+**作者:** [LudovicCreator](https://x.com/LudovicCreator) | **来源:** [Link](https://x.com/LudovicCreator/status/2050500567756112145) | **发布时间:** May 2, 2026
+
+---
+### Cinematic Yoga Flow Wellness Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a 15-second luxury wellness commercial featuring a smooth yoga flow in a minimalist sunlit studio.
+
+#### 📝 提示词
+
+```
+Create a 15-second cinematic vertical (9:16) ultra-realistic wellness video featuring a young woman performing a seamless yoga flow inspired by a collage of different poses.
+
+Scene Style: Minimalist serene studio with soft morning sunlight pouring through large windows, warm neutral tones, indoor plants gently moving with natural air. Calm, peaceful atmosphere with subtle dust particles in light beams.
+
+Character: A fit, graceful woman in modern athletic yoga wear (beige, white, soft earth tones), natural makeup, calm expression, slow controlled breathing.
+
+Timeline:
+0–4s: She begins in a seated meditation pose, eyes closed, slow inhale, ambient calm mood.
+4–8s: Smooth transition into downward dog → slow cinematic camera glide following her movement.
+8–12s: Flow into warrior pose → elegant balance, fabric gently moving, sunlight highlighting her silhouette.
+12–15s: Tree pose → final hold, gentle camera push-in, she opens her eyes with a peaceful smile.
+
+Cinematography: Soft handheld cinematic movement, shallow depth of field, golden natural lighting, ultra-smooth transitions between poses like a seamless yoga sequence.
+
+Mood: Peaceful, rejuvenating, mindful, premium wellness aesthetic, calm energy flow, high-end fitness editorial style.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791241465_fd23ry_HHTWzw3aUAA9XnB.jpg" width="600" alt="Cinematic Yoga Flow Wellness Video">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4037)**
+
+**作者:** [Ali](https://x.com/aiwithaly) | **来源:** [Link](https://x.com/aiwithaly/status/2050500174565556326) | **发布时间:** May 2, 2026
+
+---
+### Midnight Bakery Showdown Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a stylized 3D animated scene set in a cozy night bakery, focusing on a competitive baking showdown with character reactions and procedural steps.
+
+#### 📝 提示词
+
+```
+Stylized original 3D animation, exaggerated proportions, crisp cinematic lighting. Warm late-night bakery interior with soft amber pendant lights and cool moonlight through large windows. Flour-dusted wooden counters, glass pastry cases, organized tools, glowing oven as visual anchor. Cozy but competitive atmosphere. No brand logos, no readable text, no copyrighted characters.
+
+Tone: playful high-stakes bake-off, competitive but wholesome. Head baker = calm perfectionist tactician. Rivals = flashy confidence unraveling. Rhythm: prep → align → accelerate → precision moment → effortless finish.
+
+Camera: macro close-ups on hands shaping dough, medium reaction shots, reflections in oven glass, flour particles in light, slow push-ins, sharp rhythmic cuts. Ultra-smooth motion, tactile detail, satisfying implied kitchen sounds.
+
+Characters:
+1) Head Baker: lean adult, rolled sleeves, flour-dusted apron, calm focused eyes, minimal precise movements.
+2) Rival Baker 1: tall, flashy, dramatic gestures, overconfident grin, loses control under pressure.
+3) Rival Baker 2: shorter, technical, tool-heavy workflow, mutters to self, precision breaks under speed.
+4) Apprentice: young trainee, wide-eyed, holding tray, reacts like silent commentator.
+
+Sequence (0:00–0:15):
+0:00–0:02 close-up: flour sifts onto counter, head baker sets timer beside dough, rivals exchange confident looks.
+0:02–0:05 medium: head baker rolls dough perfectly once, rivals aggressively shape theirs, oven glow intensifies, apprentice leans in.
+0:05–0:08 tracking: fold → press → turn → cut rhythm, rivals start fumbling, dough sticks, tools slip, head baker leans slightly forward.
+0:08–0:11 slow push-in: oven glass reflection shows perfect pastries forming, hands blur then stop precisely, soft “ding” implied, rivals freeze.
+0:11–0:13 detail: head baker brushes flour off hands, adjusts apron, plates perfect pastry, apprentice stunned.
+0:13–0:15 wide: warm bakery glow, rivals stare at imperfect results, head baker calm, slight smile, subtle nod.
+
+Style tags: warm bakery lighting, cinematic glow contrast, expressive stylized 3D animation, tactile food detail, flour particles, precise choreography, subtle squash-and-stretch, cozy textures, sharp comedic timing.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e784f00612d7439d6e251c1297aae779/thumbnails/thumbnail.jpg" width="600" alt="Midnight Bakery Showdown Animation">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4025)**
+
+**作者:** [Kuria | AI](https://x.com/I_amShiti) | **来源:** [Link](https://x.com/I_amShiti/status/2050490035879993670) | **发布时间:** May 2, 2026
+
+---
+### Speed Cooking Cinematic Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy prompt for a video showing a woman cooking at superhuman speed with glowing golden energy effects and dynamic camera angles.
+
+#### 📝 提示词
+
+```
+Scene 1 (0–4s): Awakening Speed\nThe girl stands calmly in a softly lit kitchen. Suddenly, subtle golden lightning sparks begin forming around her hands. Her eyes focus sharply. A faint glowing aura builds around her body. Camera slowly pushes in. Cinematic tension.\n\nScene 2 (4–8s): Chaos Begins\nShe bursts into motion—extreme fast movement across the kitchen. Vegetables chop instantly, pans heat up, ingredients fly mid-air. Bright glowing trails (gold/amber tones) follow her movements. Motion blur enhances speed. Camera switches to dynamic angles.\n\n Scene 3 (8–12s): Peak Speed Cooking\nFull chaos: multiple actions happening simultaneously—stirring, flipping, seasoning. Flames rise dramatically but controlled. Light streaks swirl around her like energy ribbons. Food assembles perfectly mid-air. Ultra-smooth transitions, high-energy pacing.\n\n Scene 4 (12–16s): Calm Perfection\nEverything suddenly stops. Silence. The girl stands composed, slightly smiling. A perfectly plated dish sits on the counter. Soft glow fades away. Final cinematic close-up of her face + dish. Clean, elegant ending.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7e3b077f9d14c525784a16a4c82f6c4/thumbnails/thumbnail.jpg" width="600" alt="Speed Cooking Cinematic Sequence">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4034)**
+
+**作者:** [Soulful Ai](https://x.com/soulful__ai) | **来源:** [Link](https://x.com/soulful__ai/status/2050483830507921535) | **发布时间:** May 2, 2026
+
+---
+### Cinematic GRWM Fashion Editorial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 15-second cinematic 'Get Ready With Me' video prompt featuring a fashion editorial style in a sunlit modern bedroom.
+
+#### 📝 提示词
+
+```
+Create a 15-second cinematic “Get Ready With Me” video in portrait format (9:16), ultra-realistic, fashion editorial style.
+
+Scene: A softly lit modern bedroom with a vanity mirror and warm golden morning sunlight filling the room. A stylish young woman is getting ready for the day in a calm, aesthetic atmosphere.
+
+Timeline & Shots:
+0–3s: Close-up of her face in the mirror as she gently applies makeup, soft natural skin detail, focused and relaxed expression.
+3–6s: Slow-motion shot of her adjusting her hair and earrings, subtle movement, sunlight reflecting off the mirror.
+6–10s: Medium shot as she checks her outfit in the mirror, confident pose, slight smile, cinematic depth of field.
+10–13s: She picks up her phone and takes a mirror selfie, natural candid moment, flash or soft screen glow.
+13–15s: Final shot of her turning toward the camera with a confident, elegant look, soft lens flare, fade-out.
+
+Style: Ultra-realistic, high-end fashion editorial, soft film grain, shallow depth of field, dreamy aesthetic.
+
+Lighting: Warm golden-hour sunlight mixed with soft indoor ambient glow.
+
+Mood: Calm, intimate, confident, aesthetic GRWM vibe.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6f3ae2186e359d9fac782d4f7628c2fb/thumbnails/thumbnail.jpg" width="600" alt="Cinematic GRWM Fashion Editorial">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4040)**
+
+**作者:** [Nawal](https://x.com/nawalsehar) | **来源:** [Link](https://x.com/nawalsehar/status/2050479330061320283) | **发布时间:** May 2, 2026
+
+---
+### Playful Dog Chasing Butterflies Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cheerful and lively video prompt for Seedance 2.0 featuring a playful white dog chasing butterflies in a bright, colorful environment.
+
+#### 📝 提示词
+
+```
+A white dog jumps and scratches at the ground, chases butterflies, playful in movement, bright colors, cheerful, lively atmosphere.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1d5becfb6e01711bfcd1c7b755f047c2/thumbnails/thumbnail.jpg" width="600" alt="Playful Dog Chasing Butterflies Video Prompt">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4060)**
+
+**作者:** [Mya Jefferson](https://x.com/gzfwd64312366) | **来源:** [Link](https://x.com/gzfwd64312366/status/2050472104345112614) | **发布时间:** May 2, 2026
+
+---
+### Woman Galloping on Horse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed multi-scene prompt featuring a woman performing stunts on a galloping horse with voiceover and sound design instructions.
+
+#### 📝 提示词
+
+```
+0–5s
+woman stands tall on white horse while galloping fast
+both arms raised gracefully toward the sky
+body leans slightly toward inside curve
+long brown hair blown strongly to the right
+horse hooves kick up thick brown dust
+camera tracks from right to left
+background becomes horizontal motion streaks
+
+5–8s
+woman lowers body toward the horse
+hands briefly grip saddle handles
+body slides smoothly to the right side
+one foot locks securely into stirrup
+camera cuts to extreme low angle
+horse continues galloping fast
+
+8–11s
+camera moves very close to the ground
+her head hangs near the dirt surface
+hair tips brush lightly against the dust
+both arms dangle loosely below her
+hands swing slowly from inertia force
+
+11–15s
+dust particles float clearly in golden sunlight
+her face turns toward the direction of travel
+mouth slightly open breathing air
+slow motion continues through final frame
+horse gallops steadily with controlled rhythm
+no freeze frame no fade out
+
+VOICE OVER
+soft warm calm female voice tone
+slow storytelling pace with natural pauses
+voice plays throughout video
+mouth never moves matching the words
+no subtitles no text on screen
+
+VOICE OVER TIMING
+0s:
+“People think this sport is fearless.”
+
+3s:
+“But my real secret is him.”
+
+6s:
+“When upside down, the world goes silent.”
+
+9s:
+“I just feel his steady heartbeat.”
+
+15s:
+“He is my peace, my horse.”
+
+AUDIO
+only ambient wind sounds
+horse gallop sounds
+dust movement
+natural breathing
+soft calm female voice over
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/958e6012afbbfc804c922b9b1d9c66fe/thumbnails/thumbnail.jpg" width="600" alt="Woman Galloping on Horse">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4049)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **来源:** [Link](https://x.com/Just_sharon7/status/2050463604835844511) | **发布时间:** May 2, 2026
+
+---
 ### 史诗级冰原怪兽之战
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -373,11 +1413,224 @@
 极致史诗的视觉效果，画面清晰锐利，光影绝佳，背景是淡橙色黎明下的冰封草原。一位身穿多层羊毛盔甲、肩披雕花鹿角护肩的少女骑手，正面对一只长颈冰霜掠食者，那怪兽有着半透明的鳍和六条奔跑的肢体，广阔的平原上弥漫着紧张的气氛。镜头从马匹高度开始，伴随骑手飞驰，此时怪兽从右侧发起冲锋。骑手向怪兽的肩鳍投掷绳索鱼叉，绕大圈避开其撕咬，随后利用马匹的转向将怪兽拉偏轨道。雪迹和呼出的白气清晰地展现了运动方向。镜头随之加速，先是马匹前方的利落跟拍，接着是展现绳索张力的宽幅侧扫，随后是怪兽恢复姿态再次冲刺时的渐进式头顶弧形运镜。高潮部分：骑手跳下马背跃上一块巨石，固定住绳索，怪兽凭借自身的速度在冰雪中滑倒。结尾：马匹减速，怪兽停止挣扎，骑手割断绳索，黎明的暖光洒满平原。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3da41dc2ea8ac46e0a4364cd975054b5/thumbnails/thumbnail.jpg" width="600" alt="史诗级冰原怪兽之战">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dbd52661446169db02a156f5eba00ec0/thumbnails/thumbnail.jpg" width="600" alt="史诗级冰原怪兽之战">
 
 **[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4007)**
 
 **作者:** [Aria](https://x.com/ariaxawan) | **来源:** [Link](https://x.com/ariaxawan/status/2050459733778198922) | **发布时间:** May 2, 2026
+
+---
+### UGC Aesthetic Grocery Shopping
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic, smartphone-style lifestyle prompt for a video sequence of a young woman shopping in a premium organic grocery store.
+
+#### 📝 提示词
+
+```
+A realistic UGC-style lifestyle video of a young woman inside a modern, aesthetic grocery store with clean shelves, warm lighting, and a premium organic feel. Shot handheld on a smartphone with natural movement and slight camera shake.\nScene 1:\nFront-facing selfie shot. The woman smiles casually and says, “Come with me, let’s do a quick grocery run.” Background shows neatly arranged juice bottles and minimal interior design.\nScene 2:\nShe picks up a green cold-pressed juice bottle from a shelf. Medium close-up of the product in her hand. She says naturally: “I always grab one of these, it’s my favorite.”\nScene 3:\nSoft window-lit shot. Warm sunlight hits her face. She opens the bottle, takes a sip, and reacts subtly: “So fresh… I love this.”\nScene 4:\nPOV angle from inside a shopping cart looking upward as she pushes it forward. A couple of drinks sit in the cart. She looks down briefly and smiles.\nScene 5:\nOver-the-shoulder walking shot through clean grocery aisles. Smooth movement, modern interior, neutral tones.\nScene 6:\nClose-up of her hand picking up fresh oranges from a display. She says casually: “Let’s grab some fruits too.”\nScene 7:\nClose-up of her picking a dragon fruit. Bright natural colors, slight rotation of the fruit in hand.\nStyle & Feel:\nNatural, lifestyle-focused, soft lighting, warm tones, minimal grading, clean aesthetic, shallow depth of field, realistic textures, 4K quality.\nAudio:\nLight ambient store sounds, soft background music, natural conversational tone.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791235055_mc5pt8_HHSqc4racAAKnoZ.jpg" width="600" alt="UGC Aesthetic Grocery Shopping">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4035)**
+
+**作者:** [Smiling Khan](https://x.com/AIwithkhan) | **来源:** [Link](https://x.com/AIwithkhan/status/2050451187699441776) | **发布时间:** May 2, 2026
+
+---
+### Japanese Gym Routine Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Seedance 2.0 describing a 15-second continuous gym routine of a Japanese woman, controlled by a 16-panel storyboard.
+
+#### 📝 提示词
+
+```
+Hyper-realistic cinematic 15-second continuous video of a beautiful muscular Japanese young woman doing her morning Get Ready With Me gym routine inside a bright modern Japanese apartment. Follow the storyboard sequence strictly from panel 1 to panel 16 in exact
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791268539_fw719l_HHSm9xgWsAA4vcv.jpg" width="600" alt="Japanese Gym Routine Video Prompt">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4059)**
+
+**作者:** [WasifAI](https://x.com/doctorwasif) | **来源:** [Link](https://x.com/doctorwasif/status/2050447967979548790) | **发布时间:** May 2, 2026
+
+---
+### Luxury Skincare Commercial Radiance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a cinematic luxury skincare advertisement showcasing glowing skin, smooth textures, and elegant marble aesthetics.
+
+#### 📝 提示词
+
+```
+A cinematic luxury skincare advertisement featuring a beautiful model with flawless glowing skin. Soft golden lighting reflects on her face, creating a radiant, glass-skin effect. She gently applies a premium face cream, and her skin instantly appears smooth, hydrated, and luminous.
+The setting is elegant and minimal — marble textures, gold accents, and a soft-focus background. Slow-motion shots of the cream texture (silky, rich, glowing) with light particles sparkling around it.
+Close-up shots show pores fading, skin becoming brighter and youthful. A soft breeze moves her hair, enhancing the premium feel.
+Final shot: the product placed on a glossy marble surface with golden light beams and water droplets, giving a fresh and luxurious vibe.
+Text overlay: “Unlock Your Natural Glow ✨” “Luxury Skincare. Visible Radiance.”
+Style tags: ultra-realistic, 4K, cinematic lighting, luxury aesthetic, soft glow, beauty commercial, high-end brand vibe
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791242309_jqeagn_HHSktFpbIAAKlMr.jpg" width="600" alt="Luxury Skincare Commercial Radiance">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4038)**
+
+**作者:** [Zyro](https://x.com/Itswsm105f) | **来源:** [Link](https://x.com/Itswsm105f/status/2050444925716898073) | **发布时间:** May 2, 2026
+
+---
+### Skincare Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive storyboard prompt for a clean, bright skincare commercial featuring a transformation from dull to hydrated skin.
+
+#### 📝 提示词
+
+```
+Create a clean, bright skincare commercial storyboard in a 16:9 layout with 9 panels. Use soft natural lighting, minimal aesthetic, and a fresh, airy mood with white and pastel tones. The main character is a young woman with soft makeup and styled hair, wearing light, elegant clothing. The setting is a modern, sunlit interior with large windows and a calm atmosphere. No text or subtitles anywhere.\nShow a clear story flow: she starts at her desk looking slightly tired or concerned, then a close-up of her face showing dry or dull skin. She discovers a clear skincare bottle and gently presents it. Show a close-up of the liquid pouring onto her hand, followed by her applying it to her face. After use, her skin looks hydrated, glowing, and smooth. Transition to her feeling confident and refreshed, walking in a bright, clean space with soft breeze and flowing elements. End with a calm product beauty shot on a minimal surface, then a final frame of her smiling softly at the camera while holding the product.\nFocus on natural expressions, glowing skin, and a transformation from dull to fresh. Include cinematic close-ups, soft focus, light reflections, and subtle sparkles to enhance the clean beauty feel. Keep everything elegant, minimal, and visually soothing with no branding text.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791273968_p8scbz_HHSfgvibMAADU-n.jpg" width="600" alt="Skincare Commercial Storyboard">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4063)**
+
+**作者:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **来源:** [Link](https://x.com/itxabdullaa/status/2050439247774339559) | **发布时间:** May 2, 2026
+
+---
+### AI Animal Rescue Cinematic Montage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt about AI helping animals, featuring a montage from a lost puppy rescue to wildlife protection, set in a hopeful, emotional tone.
+
+#### 📝 提示词
+
+```
+A fast-paced, emotional cinematic montage showing how AI helps animals.
+Start with a lost puppy in a dense forest, looking scared. Cut to an AI-powered drone scanning from above, highlighting the puppy’s location with a digital overlay. Transition to a wildlife rescue team receiving real-time data on a tablet and rushing to the spot.
+
+Next scene: an injured elephant in the wild—AI analyzes its condition through thermal imaging and alerts veterinarians. Quick cut to poachers detected at night through AI surveillance, triggering an instant response from rangers.
+
+End with rescued animals safe and healthy, running free in nature. Warm sunlight, hopeful tone.
+
+Text on screen: “AI is giving animals a second chance.”
+Style: cinematic, realistic, emotional, soft dramatic music, high contrast lighting, smooth transitions
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/11162b1f4de5219fb640e4e1c24e686d/thumbnails/thumbnail.jpg" width="600" alt="AI Animal Rescue Cinematic Montage">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4051)**
+
+**作者:** [Waseem Ai](https://x.com/Waseem__786Ai) | **来源:** [Link](https://x.com/Waseem__786Ai/status/2050438229607027056) | **发布时间:** May 2, 2026
+
+---
+### Parallel Cat Universe Podcast
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A quirky dark comedy prompt for a podcast scene set in a parallel universe where a cat interviews a claymation Einstein about AI physics.
+
+#### 📝 提示词
+
+```
+Format: horizontal 16:9\nDuration: 15s\nFPS: 24\nStyle: cinematic podcast show, American dark comedy, subtle absurdism, claymation + semi-realistic hybrid\nAudio: light lo-fi podcast intro → awkward silence → sudden TV SFX → audience laugh track + applause\nLighting: warm studio key light, soft shadows, slight flicker from old TV\n\n0:00–0:02 — Establishing wide shot\nA cozy recording studio. LEFT: a white cat host wearing silver-rim glasses, pink dress, lavender eyeshadow, bright red lipstick, resting chin on one hand, bored elegance. Beside her, an old CRT TV (screen off, dusty). RIGHT: Einstein as a clay puppet, oversized head, messy white hair, wrinkled suit, holding a book titled “AI Physics.”\nSoft lo-fi intro music fades.\n\nHOST (dry tone):\n“So, Professor… what do you think about Cat Master making dumb comedy videos?”\n\n0:02–0:04 — Medium close-up on Einstein\nHe adjusts the book slowly, eyes slightly unfocused but confident.\n\nEINSTEIN:\n“In my professional opinion… stupidity is a fundamental force of the universe.”\n\nAudience: light chuckle\n\n0:04–0:06 — Shoulder view from behind host toward Einstein\nEinstein leans forward slightly, more engaged.\n\nEINSTEIN:\n“And Cat Master… is simply harnessing it.”\n\nAudience: louder laughter + claps\n\n0:06–0:07 — Quick close-up on host (NEW BEAT)\nShe raises one eyebrow slightly, curiosity breaking her bored expression.\n\nHOST (short, curious):\n“…Harnessing it?”\n\n0:07–0:09 — Sudden TV activation (wide shot)\nThe CRT TV beside the host flickers ON with a loud bzzt. Static → cuts to chaotic footage:\nAn orange cat in a gray Taoist robe fighting suited hyenas wearing sunglasses in an ancient courtyard (sanheyuan), dust flying, exaggerated kung-fu chaos.\n\n0:09–0:11 — Close-up on Einstein, TV light flickering on his face\nHe watches intensely, eyes widening like revelation.\n\nEINSTEIN (excited whisper):\n“This… confirms my theory.”\n\n0:11–0:12.5 — Insert TV footage (dynamic zoom)\nOrange cat launches into absurd slow-motion spin kick while hyenas dramatically overreact.\n\nAudience: explosive laughter\n\n0:12.5–0:14 — Close-up on Einstein\nHe raises one finger like a genius breakthrough moment.\n\nEINSTEIN:\n“Quantum physics suggests… a parallel cat universe.”\n\n0:14–0:15 — Wide shot (final punchline)\nHost side-eyes the camera. Einstein stares directly forward.\n\nEINSTEIN (dead serious):\n“Also… statistically speaking… the audience might be AI.”\n\nBeat.\n\nAudience: HUGE laughter + applause\n\nTV flickers. Freeze frame energy. End.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/622b708ae01419bfcf4c7f7c737d41d5/thumbnails/thumbnail.jpg" width="600" alt="Parallel Cat Universe Podcast">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4031)**
+
+**作者:** [The Anxious Mind](https://x.com/drjoetw) | **来源:** [Link](https://x.com/drjoetw/status/2050433340264821039) | **发布时间:** May 2, 2026
+
+---
+### Storyboard to Scene Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt designed to convert an uploaded film storyboard into a continuous cinematic scene without on-screen text.
+
+#### 📝 提示词
+
+```
+Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Generate a scene using the shots in the uploaded film storyboard. No text on screen.
+```
+
+<img src="https://cms-assets.youmind.com/media/1777791228133_hwzlyi_HHRiCM6bQAAgr_T.jpg" width="600" alt="Storyboard to Scene Generation">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4029)**
+
+**作者:** [BMX](https://x.com/bmx_ai13) | **来源:** [Link](https://x.com/bmx_ai13/status/2050432594647642414) | **发布时间:** May 2, 2026
+
+---
+### Skincare UGC Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic vertical skincare advertisement prompt designed in a user-generated content style for a moisturizing mist product.
+
+#### 📝 提示词
+
+```
+A beautiful young woman with long brown hair, glowing dewy skin, natural makeup with rosy cheeks and glossy lips, wearing a white button-up shirt and gold hoop earrings, films a realistic UGC skincare reel in bright natural daylight indoors near a window. She holds a white La Roche-Posay Cicaplast B5 Spray bottle (100ml, with blue square logo) in her manicured hand with white nail polish. She looks at the camera smiling softly, speaks directly to camera while gently spraying the mist on her face and neck, then rubs it in with her fingertips. Close-up shots of the fine mist landing on her skin creating an instant hydrated, glassy, dewy glow. She shows the bottle close to camera, then back to her radiant face. Smooth, cinematic handheld camera movements, soft natural lighting with sun flares, warm sunny vibe. Voiceover (natural, friendly, enthusiastic female voice): "This is my La Roche-Posay Cicaplast B5 Spray and it's been my go-to lately. I've been overdoing it with sun and exfoliants, so this has been saving my skin. It has an invisible texture but gives 24-hour hydration. Look at that finish — my skin is drenched and glowing!" Text overlays appear elegantly: "La Roche-Posay Cicaplast B5 Spray", "24H Hydration", "Soothing Repair", "Dewy Glow". Style: realistic UGC content, high quality, clean and aesthetic skincare ad, soft pastel tones, 9:16 vertical format, 15 seconds long, trendy transitions, high detail, photorealistic.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b6abfb28cf803fc03d6f330c73836105/thumbnails/thumbnail.jpg" width="600" alt="Skincare UGC Reel">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4047)**
+
+**作者:** [Shami](https://x.com/ShamiWeb3) | **来源:** [Link](https://x.com/ShamiWeb3/status/2050425219941282132) | **发布时间:** May 2, 2026
+
+---
+### Egyptian Bazaar Anubis Merchant Animated Story
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed multi-scene animation prompt featuring a DreamWorks-style Egyptian bazaar where an Anubis merchant is tickled by thieves during a robbery.
+
+#### 📝 提示词
+
+```
+DreamWorks animation style. Scene 1: A bustling Egyptian bazaar is lively. The camera turns to a muscular Anubis jackal merchant with arm bands, showing off his goods and calling people to take a closer look. Meanwhile, nearby, an evil hippo thief and an evil bird pirate are eyeing a golden urn on his stall. Scene 2: The bird pirate quickly flies towards the golden urn, grabs it with sharp claws, and flies away. Scene 3: Anubis soon notices the bird pirate's escape, gasps, and turns to see the fleeing bird pirate. He quickly chases after. The bird pirate rises slowly, but Anubis manages to grab the urn with both hands, arms high above his head, engaging in a tug-of-war. The bird pirate tries to fly up while Anubis stays on the ground, arms raised, clutching the urn tight, trying to pull it down. Scene 4: Anubis looks tense, trying his best to hold onto the urn and pull it down. The hippo thief smirks, appearing beside Anubis, telling him he should smile more. The hippo thief extends a feather, pointing at Anubis's armpit (which is easily accessible due to the tug-of-war). Scene 5: A close-up shot shows the hippo pirate gently sliding the feather up and down in Anubis's armpit, repeating the action with funny sound effects. Simultaneously, we hear Anubis's muffled laughter. Scene 6: A close-up focuses on Anubis's upper body as he grins with eyes closed, letting out muffled laughs while the hippo thief continues tickling his armpit. Scene 7: The hippo thief continues tickling Anubis's armpit. Anubis giggles, struggling to hold the urn but in vain. Scene 8: The hippo thief continues tickling Anubis's armpit. Anubis bursts out laughing, finally letting go of the urn to hug himself, continuing to giggle. Meanwhile, the bird pirate flies away with the urn, followed by the hippo thief, both laughing slyly. Scene 9: Anubis recovers from the laughter and glares angrily at the escaping thieves. English voiceover.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3674e6b48f820fa33e65ae17359cfb89/thumbnails/thumbnail.jpg" width="600" alt="Egyptian Bazaar Anubis Merchant Animated Story">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4065)**
+
+**作者:** [migrok](https://x.com/migrok293703) | **来源:** [Link](https://x.com/migrok293703/status/2050403421757284567) | **发布时间:** May 2, 2026
+
+---
+### K-pop Dance Challenge Studio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional dance studio K-pop challenge prompt with highly specific synchronization and camera movement instructions.
+
+#### 📝 提示词
+
+```
+Cinematic Truth Source & Setup
+High-production viral K-pop dance challenge video filmed inside a professional dance practice studio. Spacious bright room with high ceilings, full wall-to-wall mirror on the back wall reflecting the entire studio, light-colored wooden sprung dance floor, professional lighting rigs with soft diffused key lights and vibrant magenta and cyan accent lights. Minimalist clean studio atmosphere with large speakers and subtle equipment visible in the background. Shot on ARRI Alexa Mini LF in 4K 60fps, crisp digital cinema look with clean vibrant pop color grading.
+Image Reference
+@character1 positioned on the left and @character2 on the right. Exact character identities locked strictly via tags @character1 and @character2 from frame 0 to end. Starting pose on frame 0: both standing front facing camera in synchronized sharp choreography stance with hands on hips and intense gaze.
+Timeline (Second-by-Second)
+0-3s: Medium full shot from front. Strong beat drop triggers sharp synchronized opening: right arm sharp pull across chest with left arm extending outward, powerful chest pop + shoulder isolation, quick intricate footwork (heel-toe slides with hip accents). Both execute precise double arm circles into a strong side pose. Camera subtly pushes in.
+3-6s: Seamless transition into complex body waves — full undulation from head to hips followed by reverse isolation. Intricate layered arm choreography (one arm tutting while the other does smooth waves), sharp finger snaps and wrist flicks perfectly synced. Heavy bass hits matched with powerful torso isolations.
+6-9s: High-intensity section — rapid directional changes with quick foot shuffles, knee lifts, and explosive arm swings. Synchronized hair flip during half-turn, followed by sharp locking moves, pointing choreography toward camera, and dynamic level change (deep plié to rise). Mirror-perfect sync maintained.
+9-12s: Climactic finale — powerful synchronized jumps into wide stance, big dynamic arm hits with full body contraction, quick spin + final sharp pose freeze. Camera slowly pulls back revealing full body and studio reflection as they hold the ending with fierce expressions.
+Style, Quality Boosters & Negative Prompts
+Natural realistic fabric dynamics and hair movement with accurate physics, perfect anatomical precision, natural motion blur on fast actions. Strong vibrant yet realistic color grading, subtle film grain. --no deformed anatomy, no extra limbs, no rubbery or floaty movements, no face identity drift between @character1 and @character2, no unsynced dancing, no blurry motion, no cartoonish physics, stable hands and fingers, perfect synchronization throughout, no text or watermarks.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/95899b55a6da55741fed68de3beacbd3/thumbnails/thumbnail.jpg" width="600" alt="K-pop Dance Challenge Studio">
+
+**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=4054)**
+
+**作者:** [TheYudayVerse](https://x.com/yuday9909) | **来源:** [Link](https://x.com/yuday9909/status/2050367718424273195) | **发布时间:** May 2, 2026
 
 ---
 ### 异世界奇幻动画分镜
@@ -2462,1528 +3715,6 @@ K-Pop 舞蹈序列（16 步，韩国街头）
 **作者:** [Professor](https://x.com/Professor_134) | **来源:** [Link](https://x.com/Professor_134/status/2049833597717324268) | **发布时间:** Apr 30, 2026
 
 ---
-### LEGO 延时拼搭序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的多镜头提示词，用于创作角色拼搭 LEGO 人偶的延时视频，重点在于流畅的电影级运镜和角色一致性。
-
-#### 📝 提示词
-
-```
-格式：15 秒 / 多镜头 / 延时拼搭序列
-风格：明亮、俏皮的 3D 动画，柔和的全局光照，鲜艳的色彩，流畅的电影级运镜，童趣与温馨感
-
-⸻
-
-角色设置：
-•@img1 = 主角（必须与参考图保持完全一致：无嘴、无鼻、相同的面具、相同的比例、相同的服装，不得有任何改动）
-•@img2 = LEGO 风格人偶模型灵感（最终拼搭成品）
-
-⸻
-
-场景 1 (0s–3s) – 建立场景
-
-全景视角，温暖的阳光透过窗户洒在整洁的书桌上。
-@img1 坐在桌前，身体微微前倾，神情专注而平静。
-LEGO 积木散落在桌面上。
-运镜：缓慢的电影级推镜头。
-氛围：宁静、富有创造力、明亮的日间活力。
-
-⸻
-
-场景 2 (3s–6s) – 延时开始
-
-延时摄影开始。
-@img1 以精准、流畅的手部动作快速拼搭 LEGO 积木。
-积木迅速扣合，形成基础结构。
-运镜：快速的视角切换（正面 → 侧面 → 肩后视角）。
-光照保持柔和的日光效果。
-
-⸻
-
-场景 3 (6s–9s) – 手部细节
-
-手部特写。
-手指灵巧地将 LEGO 积木扣在一起，动作令人愉悦。
-积木开始呈现出 @img2 的形态。
-运镜：平滑追踪手部动作，浅景深效果。
-
-⸻
-
-场景 4 (9s–12s) – 拼搭进程
-
-延时节奏加快。
-LEGO 作品迅速演变成清晰的 @img2 形态。
-@img1 的肢体语言显示出专注转为兴奋（歪头、姿态轻微抬起 —— 由于没有嘴，不进行面部表情变化）。
-运镜：环绕慢动作与延时摄影结合。
-
-⸻
-
-场景 5 (12s–15s) – 最终展示
-
-延时结束。
-@img1 停下动作，低头看向完成的 LEGO 人偶（与 @img2 一致）。
-轻微抬头示意完成（没有微笑，仅通过姿态传达表情）。
-运镜：拉远至广角镜头，阳光照亮桌面。
-最终画面：完成的 LEGO 人偶居中显示。
-
-⸻
-
-⚠️ 严格的角色规则
-•严禁为 @img1 添加嘴或鼻子
-•严禁更改头部形状、面具或纹理
-•严禁将 @img1 风格化为 LEGO 形态
-•始终保持 @img1 与参考图完全一致
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b90f1ce87fc61e43b76d81c3d520419d/thumbnails/thumbnail.jpg" width="600" alt="LEGO 延时拼搭序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3932)**
-
-**作者:** [a Kid called | Dgod](https://x.com/DG0DNFT) | **来源:** [Link](https://x.com/DG0DNFT/status/2049821567618617694) | **发布时间:** Apr 30, 2026
-
----
-### 外星生物入侵科幻场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满悬疑感的科幻场景，描绘了一只巨大的外星生物在昏暗、充满氛围感的景观中降临在一对男女上方。
-
-#### 📝 提示词
-
-```
-黄昏时分，空旷荒野上的电影级科幻场景。两个人坐在停放的汽车引擎盖上，中间放着一台笔记本电脑。电脑屏幕在黑暗中发出微光，显示着关于神秘未知威胁的突发新闻。他们正在交谈，神情略显紧张，被屏幕柔和的蓝光照亮。
-突然，两人同时抬头望去。一只巨大的外星生物开始从上方多云的天空中降临。这只生物体型庞大，正缓慢地从阴沉的雷雨云中显现，在他们和汽车上方投下巨大的阴影。
-戏剧性的光影效果，体积云，风卷起尘土，电影级构图，超写实的比例，高细节纹理。
-广角镜头，低机位以强调规模感，阴暗的氛围基调，缓慢揭示的视觉感受，高预算科幻电影剧照，8K 写实感，景深效果，情绪化调色。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8b62d02e6c2f2c8d3f4bf42910b85dc/thumbnails/thumbnail.jpg" width="600" alt="外星生物入侵科幻场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3953)**
-
-**作者:** [Rossy](https://x.com/xRahultripathi) | **来源:** [Link](https://x.com/xRahultripathi/status/2049820078993211760) | **发布时间:** Apr 30, 2026
-
----
-### 蓝莓派烘焙项目
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Seedance 2.0 设计的 15 秒竖屏详细项目提示词，以电影感、乡村风格捕捉蓝莓派的烘焙过程。
-
-#### 📝 提示词
-
-```
-超写实电影感 15 秒竖屏视频 (9:16)，4K 分辨率，深色乡村风木桌，柔和的戏剧性光影，浅景深，自然纹理，无文字，无字幕，无音乐。0–2 秒：俯拍镜头：涂有淡蓝色指甲油的纤细双手轻轻触碰一碗面粉。周围散落着蓝莓、薄荷叶和黄油块。细微的环境动态，平静的场景布置。2–4 秒：侧面特写：面粉被筛入玻璃碗中。细小的颗粒在慢动作中落下，捕捉着温暖的光线。4–6 秒：微距镜头：双手揉面。粘稠的面团在指间拉伸，皮肤上可见轻微的面粉粉尘。6–8 秒：45 度角：新鲜蓝莓倒入派皮中。蓝莓自然弹跳，随着轻微的晃动填满底部。8–10 秒：顶部斜角特写：双手小心地将编织条铺在派上。形成精确的编织图案，动作平稳受控。10–12 秒：侧面镜头：烤箱门打开。温暖的金色光芒伴随着柔和的蒸汽溢出。派被放入烤箱，可见细微的热畸变。12–13.5 秒：特写：在派皮表面刷上糖浆。表面变得光亮，光线柔和反射。13.5–14.5 秒：微距：新鲜蓝莓和薄荷叶被放置在烤好的派上。细致入微，自然的瑕疵，真实的纹理。14.5–15 秒：最终正面镜头：成品蓝莓派放置在乡村风木桌上。双手轻轻进入画面。一只白色小猫在旁边安静地观察。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777618736652_4d0hih_HHJlGRIbIAAJ2Te.jpg" width="600" alt="蓝莓派烘焙项目">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3930)**
-
-**作者:** [simply](https://x.com/kingofdairyque) | **来源:** [Link](https://x.com/kingofdairyque/status/2049812014596599834) | **发布时间:** Apr 30, 2026
-
----
-### 赛博朋克漫画风格摩托车追逐提示词
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 这是一份用于 Seedance 2.0 的提示词，旨在将赛博朋克插画转化为高速摩托车追逐视频。它详细描述了雨天和霓虹闪烁等环境效果，同时确保输出 1080p 60fps 的流畅画面。
-
-#### 📝 提示词
-
-```
-严格保持原有的赛博朋克漫画风格、角色、载具和场景。摩托车正在高速行驶，车轮溅起水花；周围的霓虹灯牌闪烁并不断变换。远处有飞行器掠过；雨水持续落在镜头上，营造出水滴效果。摄像机全程跟随摩托车，将其保持在画面中心，并带有轻微晃动以增加真实感。动作自然流畅，无闪烁或掉帧现象，充分展现出速度感。
-
-15 秒，1080p，60fps。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db0a8adfea78e25a9c1ada34da1f45d9/thumbnails/thumbnail.jpg" width="600" alt="赛博朋克漫画风格摩托车追逐提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3955)**
-
-**作者:** [Alex Zhang](https://x.com/jojogh_007) | **来源:** [Link](https://x.com/jojogh_007/status/2049789538537808280) | **发布时间:** Apr 30, 2026
-
----
-### 魔法滑冰对决提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Seedance 2.0 设计的电影级提示词，描绘了一名戴兜帽的战士在冰封湖面上与冰霜巨像对决的场景，包含复杂的运镜描述。
-
-#### 📝 提示词
-
-```
-一名戴兜帽的战士穿着魔法冰鞋在广阔的冰封湖面上滑行，划出深蓝色的轨迹，冲向那尊每走一步都会震裂冰面的高大水晶冰霜巨像。英雄沿着冰晶坡道盘旋而上，跃向空中，将双匕首刺入巨像发光的核心，使其碎裂成漫天冰屑。低角度推镜头，随后转为环绕航拍。苍白的北极黎明，神圣光束穿透薄雾，霜雪粒子飞舞，电影级青色调，超写实 4K 画质，浅景深效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dcfba40519cf6e8fd143b0c73dd66b17/thumbnails/thumbnail.jpg" width="600" alt="魔法滑冰对决提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3925)**
-
-**作者:** [Heisenberg](https://x.com/rovvmut_) | **来源:** [Link](https://x.com/rovvmut_/status/2049785969675759714) | **发布时间:** Apr 30, 2026
-
----
-### 奢华护肤品故事板动态提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一款专为 16 格护肤品故事板设计的动态提示词，旨在通过优雅的转场和灯光效果，打造流畅的高端商业美学。
-
-#### 📝 提示词
-
-```
-一款用于乙醇酸去角质精华液的电影级奢华护肤广告故事板信息图。布局：16 个面板以整洁的 4x4 网格排列，每个面板展示渐进式的护肤流程和转化序列。主体：一位皮肤清透、散发光泽的现代年轻女性，妆容自然，呈现简约柔和的美容美学，手持并使用一瓶高端玻璃滴管装乙醇酸精华液。风格：高端护肤广告故事板，极致洁净的皮肤科美学，柔和的电影级灯光，白色大理石与柔和色调背景，高级美容编辑摄影风格，带有细腻光泽和皮肤平滑效果的写实插画。序列（面板间的视觉演变）：1. 大理石台面上的奢华精华液瓶身特写 2. 玻璃瓶与标签特写 3. 滴管吸取精华液 4. 精华液滴在指尖 5. 在面部轻柔涂抹 6. 精华液渗入皮肤特写 7. 皮肤纹理平滑效果 8. 细微的对比前后转场暗示 9. 焕发光彩的开始 10. 护肤流程镜前场景 11. 皮肤科医生般的洁净美学氛围 12. 聚焦补水与透亮提升 13. 皮肤光泽健康的特写肖像 14. 阳光反射在平滑的皮肤上 15. 带有光泽感的高端产品美妆拍摄 16. 最终主视觉画面：精华液瓶身 + 皮肤光泽的模特。设计：整洁的网格分隔，简约优雅的 1–16 编号，面板间细线，指示流程的柔和箭头，精致的编辑排版，平衡的构图。顶部标题：“GLYCOLIC ACID – 16 STEP SKIN TRANSFORMATION”。负面提示词：模糊、杂乱的布局、低质量、面部扭曲、痤疮夸张、水印、色彩过饱和、文字破损、解剖结构不真实、设计杂乱。动态提示词：流畅的电影级护肤商业动画。按顺序平滑过渡 16 个故事板面板，仿佛摄像机在每个画面间移动。对精华液滴落、皮肤涂抹和皮肤焕发光泽等关键时刻进行柔和的推拉镜头。保持洁净的奢华美容美学，运用柔和灯光、白色大理石色调和优雅的动态流向。细腻的摄像机平移、缓慢的转场和极小的运动模糊。聚焦于高端护肤广告的质感，呈现平静、舒缓的演变过程和光彩照人的皮肤效果。结尾定格在产品与光泽健康皮肤的主视觉画面上。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777618765837_ku59jh_HHJHJGqa4AAx2vG.jpg" width="600" alt="奢华护肤品故事板动态提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3946)**
-
-**作者:** [⁠ luciaAI](https://x.com/arghzq) | **来源:** [Link](https://x.com/arghzq/status/2049780308040663295) | **发布时间:** Apr 30, 2026
-
----
-### 末日雅加达变身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂的电影级提示词，描绘了在满目疮痍的雅加达环境中，角色与载具变身的场景，并包含详细的镜头和音效指令。
-
-#### 📝 提示词
-
-```
-单镜头连续拍摄，无剪辑。开场为约 30° 侧角的静态中景。
-
-环境：雅加达的一处烟雾弥漫的末日战场。远处，废弃的摩天大楼和高层建筑构成了天际线。强风夹杂着细雨。地面是布满金属碎片的开裂混凝土，水洼反射着昏暗、冷冽的光线。
-
-镜头缓慢推进。
-一辆载具（@Image2 参考）从远处高速冲入，随后猛然急刹，激起水雾。运动模糊强调了速度感与重量感。
-主角（@Image1 参考）从车内走出。他神情严肃而凝重。他望向满目疮痍的城市，深吸一口气，随后轻拍车盖。
-就在那一刻，载具悬浮并开始变身——金属面板移动并展开——变成一台蓝色的人形机甲（类似汽车人）。变身过程充满力量感且机械化，动作精准而利落。
-
-机甲降落在主角身旁。他们并肩站立，面向前方，准备战斗。
-
-视觉风格：高度写实的电影级渲染，视觉冲击力强，快速运动时带有动态模糊，关键主体焦点清晰。氛围感强，史诗级规模，扎实的现实主义风格。
-角色风格：专业、权威的数字人形象。
-
-音频风格：权威、扎实的音效设计，带有强烈、愤怒的情绪氛围。
-无对白。无背景音乐。仅包含环境音、机械变身声、风声、雨声以及远处的破坏声。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/22324bc0a7c6e20b0829cfa7316889bf/thumbnails/thumbnail.jpg" width="600" alt="末日雅加达变身">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3947)**
-
-**作者:** [Zar⭕on](https://x.com/Xaroon_x) | **来源:** [Link](https://x.com/Xaroon_x/status/2049779480634486834) | **发布时间:** Apr 30, 2026
-
----
-### 极简男装时尚大片 GRWM
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份关于极简男装时尚大片的综合视频提示词，重点涵盖了具体的时间轴动作、服装叠穿以及高端审美转场。
-
-#### 📝 提示词
-
-```
-参考图片：使用提供的 4×4 男性项目拼贴图作为构图、节奏、服装流动和转场的视觉指南。
-
-概念：Get Ready With Me —— 现代极简男装（干净、利落的造型）
-
-时间轴：
-0:00–0:04
-深色修身 T 恤（浓缩咖啡色 / 炭灰色）
-象牙白定制长裤
-利落的束腰调整
-照镜子，细微的姿态调整
-
-0:04–0:08
-浅蓝色衬衫叠穿（敞开、宽松版型）
-肩披米色西装外套
-调整袖口（露出手表）
-转身，自信的站姿
-
-0:08–0:12
-皮带手表特写
-佩戴极简吊坠项链
-系棕色皮带（动作干脆）
-戴上墨镜，表情犀利
-
-0:12–0:15
-穿上白色运动鞋
-行走镜头（缓慢、时尚大片式的步伐）
-拿起皮质托特包
-最终全身造型定格，沉稳且自信
-
-风格：中性男装色调（浓缩咖啡色、象牙白、米色、柔和蓝），柔和的室内自然光，暖色调，干净的室内审美，奢华时尚大片感，极简且利落。
-
-模特：单人男性，现代发型，略带纹理，冷静、自信、从容的表情，时尚大片姿态，无夸张动作。
-
-摄像：特写 + 中景，浅景深，稳定的构图，细微的手持真实感，聚焦于面料、剪裁和质感。
-
-转场：匹配剪辑（束腰 → 系皮带 → 披西装），面料动态转场，配合动作的干净跳剪，平滑的节奏，视觉上令人舒适的流动感。
-
-输出：4:5 竖屏视频，可循环结尾（最终定格与开头衔接），Pinterest 风格的奢华审美，干净、流畅、高级的 GRWM
-```
-
-<img src="https://cms-assets.youmind.com/media/1777618769342_267a8h_HHI_fSibcAAbS4N.jpg" width="600" alt="极简男装时尚大片 GRWM">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3948)**
-
-**作者:** [Snow](https://x.com/iamrealsnow) | **来源:** [Link](https://x.com/iamrealsnow/status/2049770674886152232) | **发布时间:** Apr 30, 2026
-
----
-### 漫画波普风汽车辩论
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个风格化的漫画波普动画提示词，讲述了一对情侣在车内关于手机品牌的幽默对话。
-
-#### 📝 提示词
-
-```
-15 秒风格化漫画波普动画，复古半色调纹理，粗线条勾勒，色彩鲜艳，红色汽车内饰的前挡风玻璃视角。全程伴随轻快、俏皮的背景音乐（活泼的基调，配有柔和的鼓点和合成器拨弦音）。
-0–4 秒：
-一对年轻情侣悠闲地乘车 @1000006688.jpg 。
-女孩（放松、自信）：“我永远会选 Samsung。”
-男孩（咧嘴笑，调侃）：“Android 根本没那么好。”
-4–8 秒：
-音乐稍稍减弱，紧张感升级。
-女孩（斜眼看，克制）：“你有种再说一遍。”
-男孩（耸肩）：“这只是事实。”
-8–11 秒：
-节奏点落下。汽车猛地减速。
-女孩（语气平淡、果断）：“下车。”
-11–13 秒：
-车门打开，男孩被留在原地，一脸困惑。车门关上。音乐瞬间中断 @1000006681.jpg 。
-13–15 秒：
-音乐恢复轻快。她开车离去，神情恢复平静，轻点她的 Samsung 手机，露出一丝冷笑 @cartoon-smart-phone-vector-drawing-illustration_1316704-44023.jpg 。
-屏幕文字（最后一帧）：
-“辩论结束。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7f0be22c0b75c352799fb94b9b9a8396/thumbnails/thumbnail.jpg" width="600" alt="漫画波普风汽车辩论">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3917)**
-
-**作者:** [Maercih](https://x.com/Maercihh) | **来源:** [Link](https://x.com/Maercihh/status/2049767683022115068) | **发布时间:** Apr 30, 2026
-
----
-### 古树叙事序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段关于城市化景观中古树的叙事视频提示词，包含镜头指导与旁白。
-
-#### 📝 提示词
-
-```
-一棵孤独的古树矗立在广阔且正缓慢城市化的景观中央。黄金时刻的灯光，柔和的电影质感。沉稳、深沉的旁白响起：
-
-“三百多年来……它见证了一切变迁。”
-
-快速剪辑：古老的黑白画面逐渐过渡到古树周围现代化的城市建设。鸟儿飞离。树皮纹理的特写，风吹过叶片的沙沙声。
-
-旁白继续：
-
-“它记得我们所遗忘的一切。”
-
-最终镜头：古树被高楼环绕，静静伫立。文字淡入：
-
-“大自然不需要我们，但我们需要它。”
-
-柔和的钢琴尾声，画面渐黑。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/179cccfac0e522135d04caaa0ca007f3/thumbnails/thumbnail.jpg" width="600" alt="古树叙事序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3934)**
-
-**作者:** [Ali](https://x.com/aiwithaly) | **来源:** [Link](https://x.com/aiwithaly/status/2049753862387466472) | **发布时间:** Apr 30, 2026
-
----
-### 美妆博主 Vlog 提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个社交媒体教程风格的提示词，展示了一位女性在温馨卧室中演示保湿霜的使用过程。
-
-#### 📝 提示词
-
-```
-一段 Vlog 风格的视频，画面中是一位留着深色长卷发和刘海的年轻亚裔女性，身穿白色丝绸睡衣，坐在温馨的卧室里。她手中拿着一罐打开的“Aqua Bloom”保湿霜。她像美妆博主一样对着镜头热情地讲解，将白色面霜点在额头和双颊上。随后，她灿烂地微笑，双手捧脸，准备将面霜抹匀。背景中可以看到铺着灰色毯子的床、几本书以及一盏散发着温暖光芒的落地灯。柔和温暖的室内光线，中景特写，社交媒体教程风格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/70409ad99ed493d52a896bf36d47c1a4/thumbnails/thumbnail.jpg" width="600" alt="美妆博主 Vlog 提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3937)**
-
-**作者:** [FaizanRx🇵🇸](https://x.com/FzRx56) | **来源:** [Link](https://x.com/FzRx56/status/2049749153945882707) | **发布时间:** Apr 30, 2026
-
----
-### 健身蜕变商业广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 15 秒商业风格视频的结构化提示词，展示从缺乏动力到身材健美的减肥历程。
-
-#### 📝 提示词
-
-```
-一个 15 秒的电影级健身蜕变视频，讲述减肥与健康生活方式的故事。
-场景 1 (0-4 秒)：深夜，一名超重的年轻人坐在沙发上吃垃圾食品，看起来疲惫且缺乏动力，灯光昏暗，真实的居家环境。
-场景 2 (4-8 秒)：他决定改变，系上跑鞋鞋带，喝水，开始晨间锻炼，在日出时慢跑，在健身房训练，举起轻量哑铃，挥洒汗水，表情坚定。
-场景 3 (8-12 秒)：准备包含蔬菜、水果和蛋白质的健康餐，在手机上记录卡路里，充满活力的生活方式。
-场景 4 (12-15 秒)：最终蜕变展示——身材健美、充满自信，在镜子前微笑，灯光明亮，身着运动装，充满励志氛围。
-
-风格：超写实，电影级运镜，流畅转场，动态感，励志氛围，4K，高细节，商业健身广告风格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d5e938c349f1f37e38acbec1e6b7f04/thumbnails/thumbnail.jpg" width="600" alt="健身蜕变商业广告">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3944)**
-
-**作者:** [Ur Meer](https://x.com/UrMeer289) | **来源:** [Link](https://x.com/UrMeer289/status/2049744809066430848) | **发布时间:** Apr 30, 2026
-
----
-### 电影级橄榄球项目
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于高强度橄榄球场景的 storyboard 提示词，捕捉中场擒抱、反击以及达阵庆祝的瞬间，并呈现戏剧性的灯光效果。
-
-#### 📝 提示词
-
-```
-创建一个 4K 电影级橄榄球 storyboard，涵盖从擒抱到达阵的全过程，并采用戏剧性的体育场灯光和转播风格。从慢动作中场擒抱开始——泥土和草皮飞溅——然后过渡到快速反击，包含传球和爆发式冲刺。混合使用特写镜头（球鞋、汗水、撞击）和广角全场镜头。
-
-展示一次突破防线的关键传球，随后是冲向达阵线的冲刺。通过慢动作推进来营造紧张感，随后是强有力的俯冲和符合物理规律的触地得分。最后以情感充沛的庆祝画面结束——队友加入、观众欢呼、体育场灯光闪耀。使用动态摄像机角度、运动模糊和流畅的转场，突出从防守到胜利的转变。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777704427321_totv80_HHIOf3EaEAAxBdK.jpg" width="600" alt="电影级橄榄球项目">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3915)**
-
-**作者:** [WasifAI](https://x.com/doctorwasif) | **来源:** [Link](https://x.com/doctorwasif/status/2049716790864048505) | **发布时间:** Apr 30, 2026
-
----
-### 电影级分镜视频扩展
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一套多场景提示词序列，旨在将分镜项目转化为具有角色和光影连贯性的电影级写实场景。
-
-#### 📝 提示词
-
-```
-场景 1 提示词：
-请以附件中的分镜项目为主要参考依据。
-
-@ Image1 创建一个 15 秒的电影级场景，严格遵循项目中的时间节点、镜头和对话。
-
-角色：印度籍男性和女性 地点：夜晚的现代公寓（客厅 + 厨房连贯性）
-
-风格：电影级写实，自然表演，细腻情感
-
-光影：温暖的实用照明，窗外可见城市灯光
-
-规则：
-严格遵循项目中的镜头时间和对话节奏。当角色说话时，保持其在画面中独立呈现（特写）。保持写实的节奏、停顿和微表情。
-
-不要夸大表演或添加额外对话。音频：柔和的环境音 + 微弱的背景音乐，自然的对话呈现。
-
-场景 2 提示词：
-使用 @ video1 作为基础连贯性参考（相同的角色、位置、光影、运镜风格和情感基调）。
-
-使用 @ image1 作为接下来 15 秒的分镜指南（严格遵循其时间节点、镜头序列和对话）。
-
-从 @ video1 结束的位置自然地延伸场景。
-
-规则：
-保持完美的视觉连贯性（相同的公寓布局、服装、光影、构图）。
-
-角色外貌和表情需与 @ video1 完全一致。严格遵循 @ image1 的镜头时间和对话节奏。
-
-当角色说话时，保持其在画面中独立呈现（特写）。动作保持细腻、写实且情感扎实。
-
-保留停顿和自然的节奏。风格：电影级写实，温暖的室内光，柔和阴影，浅景深。
-
-音频：自然的对话呈现，柔和的环境音，非常细微的背景配乐。不要添加 @ image1 之外的额外对话、动作或剪辑。
-
-场景 3 提示词：
-使用 @ video1 作为基础连贯性参考（相同的角色、位置、光影、运镜风格和情感基调）。
-
-使用 @ image1 作为接下来 15 秒的分镜指南（严格遵循其时间节点、镜头序列和对话）。
-
-从 @ video1 结束的位置自然地延伸场景。规则：保持完美的视觉连贯性（相同的公寓布局、厨房 + 客厅位置、服装、光影）。面部特征、表情和镜头构图需与 @ video1 完全一致。严格遵循 @ image1 的镜头时间和对话节奏。
-
-当角色说话时，保持其在画面中独立呈现（特写）。动作保持最小化、写实且情感扎实。
-
-保留停顿、眼神交流的节奏和细腻的表演变化。
-
-风格：电影级写实，温暖的室内光，柔和阴影，浅景深。音频：自然的对话呈现，柔和的环境音，非常细微的情感背景配乐。
-
-不要添加 @ image1 之外的额外对话、动作或剪辑。
-
-确保平滑衔接，避免出现明显的跳剪——这应该感觉像是一个连续的场景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/97580446173eaa7bc1d491fe17804328/thumbnails/thumbnail.jpg" width="600" alt="电影级分镜视频扩展">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3954)**
-
-**作者:** [Dev Khanna](https://x.com/CurieuxExplorer) | **来源:** [Link](https://x.com/CurieuxExplorer/status/2049709989019971811) | **发布时间:** Apr 30, 2026
-
----
-### 篮球运动员动作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的视频提示词，利用多个源帧来制作一个小男孩篮球训练的动画，从运球到指尖转球。
-
-#### 📝 提示词
-
-```
-一段照片级逼真的视频序列，捕捉了一位留着凌乱橙色头发、戴着粗框眼镜的小男孩（如 image_0.png、image_1.png 及其他源帧所示）。他身穿黑色篮球球衣和配套短裤，带有紫色和蓝色镶边，正面印有“WIZZGEN 23”，背面印有“CHICAGO 23”（image_4.png）。场景设定在一个户外沥青城市篮球场，背景有绿树和一个清晰可见的篮球架。动作开始时，男孩处于低姿态，在双腿间运球（image_0.png 至 image_3.png），随后过渡到站立并进行交叉运球（image_5.png 至 image_7.png），接着成功地在指尖上旋转篮球（image_8.png），最后怀抱篮球摆出剪刀手姿势（image_9.png）。光线为阴天下的柔和日光。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777618753012_1hurvj_HHIBfqUacAAfGuE.jpg" width="600" alt="篮球运动员动作序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3940)**
-
-**作者:** [Taaruk](https://x.com/Taaruk_) | **来源:** [Link](https://x.com/Taaruk_/status/2049702491768684839) | **发布时间:** Apr 30, 2026
-
----
-### 电影级足球花式表演序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个高度结构化的提示词，用于制作 15 秒超写实足球花式视频，通过特定的参考图像确保角色一致性与动作编排。
-
-#### 📝 提示词
-
-```
-使用 image_1 作为主角，严格遵循 image_2 中的 16 步序列，创作一段 15 秒的超写实电影级足球花式视频。
-
-角色（非常重要）：
-一名年轻男性，体格健壮，东南亚长相，黑色短发，留有轻微胡茬，身穿黑色连帽衫、黑色长裤和白色运动鞋。
-面部必须与 image_1 完全一致（100% 面部一致性，真实的皮肤纹理，自然光效，无风格化处理）。
-
-风格：
-超写实电影感，IMAX 视觉效果，4K–8K HDR，自然光效，高细节，符合物理规律，带有细微的动态模糊，浅景深。禁止动漫、卡通或过度发光效果。
-
-场景：
-干净简约的摄影棚，纯白色背景（与 image_1 相同），柔和的摄影棚灯光，无干扰元素。
-
-序列（严格顺序 – 必须完全遵循 image_2）：
-
-0–1 秒：球员手持足球准备。
-1–2 秒：基础颠球（Step 01）。
-2–3 秒：交替脚颠球（Step 02）。
-3–4 秒：绕球（Around The World，Step 03）。
-4–5 秒：反向绕球（Reverse ATW，Step 04）。
-5–6 秒：交叉步（Crossover，Step 05）。
-6–7 秒：跨腿（Leg-over，Step 06）。
-7–8 秒：颈部停球（Neck stall，Step 07）。
-8–9 秒：脚部停球（Foot stall，Step 08）。
-9–10 秒：膝盖停球（Knee stall，Step 09）。
-10–11 秒：肩部停球（Shoulder stall，Step 10）。
-11–12 秒：跳跃绕球（Hop the World，Step 11）。
-12–13 秒：坐姿技巧（Sit-down trick，Step 12）。
-13–14 秒：地面连招 → 空中过渡（Step 13–14）。
-14–15 秒：旋转技巧 → 最终花式定格（Step 15–16）。
-
-摄像与运镜：
-动态追踪镜头，平滑的跟随镜头，带有轻微的手持感。
-技巧展示时使用特写，连招时使用中景，关键动作（绕球、旋转、最终定格）使用慢动作。
-自然的动态模糊，真实的足球物理效果。
-
-重要规则：
-
-必须严格按照 image_2 的 16 个步骤顺序执行
-不得跳过任何步骤
-动作流畅连贯（无剪辑）
-足球控制必须看起来真实
-角色面部必须与 image_1 保持完全一致
-```
-
-<img src="https://cms-assets.youmind.com/media/1777618706644_u90j36_HHH3ZskaUAA7811.jpg" width="600" alt="电影级足球花式表演序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3913)**
-
-**作者:** [yopiwhs](https://x.com/Gwsubsa) | **来源:** [Link](https://x.com/Gwsubsa/status/2049691436082434406) | **发布时间:** Apr 30, 2026
-
----
-### 从刷手机到构建叙事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影质感的视频提示词，展示了从一个人无聊地刷手机到成为专注的创作者使用 AI 工具的转变。
-
-#### 📝 提示词
-
-```
-15 秒电影质感视频，展示一名年轻人在黑暗的房间里无休止地刷手机，神情无聊且分心，屏幕发出的柔和蓝光映照在脸上，慢动作，写实风格。
-场景通过故障效果过渡到重复的 9-5 工作日常，表情疲惫，色调暗淡，充满倦怠感。
-突然，场景通过数字故障效果切换到一个明亮的现代工作空间，同一个人现在变得专注，正在笔记本电脑上使用 AI 工具，快速打字，屏幕上显示着创意工作内容，美学风格简洁，灯光温暖。
-最后一个镜头展示该人神情平静、自信，带着淡淡的微笑，看着屏幕上的进展。
-文字叠加：“有人仍在刷手机……有人正在构建。”
-超写实，电影级灯光，流畅过渡，浅景深，4K 画质。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1413f60df21236859e7a79198bb70088/thumbnails/thumbnail.jpg" width="600" alt="从刷手机到构建叙事">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3950)**
-
-**作者:** [Zarlish](https://x.com/Zarlish_Shahid) | **来源:** [Link](https://x.com/Zarlish_Shahid/status/2049688989322596608) | **发布时间:** Apr 30, 2026
-
----
-### 平行自我的邂逅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于女孩在城市街道偶遇平行自我的电影感多场景提示词，包含具体的节奏把控与情感氛围描述。
-
-#### 📝 提示词
-
-```
-场景 1 (0-4 秒)：傍晚的城市街道，柔和的黄昏光影，浅景深。女孩独自走着，突然停下脚步。街对面站着一个与她一模一样的自己，正注视着她。带有微妙的故障效果，电影级推镜头。
-
-场景 2 (4-8 秒)：交叉剪辑画面。现实版本：中性色调，表情略显疲惫，动作缓慢。平行版本：姿态自信，动作流畅，温暖的金色光影（或负面版本可选用更暗的冷色调）。高对比度电影级调色。
-
-场景 3 (8-12 秒)：女孩缓慢向前迈步。平行版本完美模仿她的动作，但并非镜像。同步过程中出现轻微的延迟/故障感。手持摄像机轻微晃动，营造紧张氛围。
-
-场景 4 (12-16 秒)：两人面对面站立。特写镜头。平行版本微微前倾。切至黑屏。
-
-结尾屏幕文字：“那不是另一个版本的你……那是你正在成为的样子。”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cdce3299d97aa8a36b243990b4f555c3/thumbnails/thumbnail.jpg" width="600" alt="平行自我的邂逅">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3911)**
-
-**作者:** [Soulful Ai](https://x.com/soulful__ai) | **来源:** [Link](https://x.com/soulful__ai/status/2049688177129255173) | **发布时间:** Apr 30, 2026
-
----
-### 女性街头篮球花式运球视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份完整的 15 秒竖屏电影感视频脚本，讲述了一位少女篮球运动员在日落时分的户外球场进行流畅花式运球表演的场景。
-
-#### 📝 提示词
-
-```
-生成一段高质量、电影感的 15 秒竖屏视频（9:16），展示一位少女街头篮球运动员在户外球场进行流畅的花式运球表演。她身材苗条健美，肤色浅棕，脸上带有淡淡的雀斑，深棕色卷发扎成松散的马尾辫。她身穿一件印有“NEXORA”字样的短款宽松球衣、高腰宽松短裤、中筒袜，以及带有柔和色调（桃色和薄荷绿）的时尚高帮运动鞋。
-
-她的气质自信、从容、略带俏皮——展现出一种冷静而娴熟的街头运动风范。
-
-0–2 秒：
-
-她站姿放松，指尖轻转篮球。
-压低重心，开始有节奏地运球，眼神专注。
-
-2–4 秒：
-
-流畅的内外运球衔接交叉步，重心转换自然。
-头发和球衣随动作轻微摆动。
-
-4–6 秒：
-
-干净利落的胯下运球组合 → 背后运球过渡。
-脚步紧凑，节奏掌控得当。
-
-6–8 秒：
-
-她完成一个犹豫步加快速启动，仿佛在过掉一名隐形的防守者。
-表情自信。
-
-8–10 秒：
-
-流畅的转身接后撤步运球，运动鞋在沥青地面上真实地转动。
-“NEXORA”标志清晰可见。
-
-10–12 秒：
-
-快速的左右低位运球序列，控球紧凑且富有美感。
-节奏感略微增强。
-
-12–13.5 秒：
-
-她随意地用手指转球，站直身体，嘴角微微上扬。
-
-13.5–15 秒：
-
-最终定格：
-她接住球，将球靠在胯部，露出从容自信的神情。
-
-文字淡入：
-“Play Smart. Move Different.”
-
-🎨 风格：
-
-写实篮球花式表演，流畅的街头风格，自信的女性运动员能量，现代运动广告质感
-
-🎥 镜头：
-
-全身构图，稳定的电影级镜头，轻微推镜头，平滑的连续运动，无剪辑，流畅过渡
-
-🌇 环境：
-
-户外街头球场，沥青质感，褪色的球场线条，铁丝网围栏，可见的篮筐，温暖的日落光影，柔和的阴影
-
-🧠 质量：
-
-超高清细节，真实的篮球物理反馈，自然的动作，干净的构图，清晰可辨的“NEXORA”文字，4K 分辨率
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/59b63f554e7f8267eac30ebaabcb1123/thumbnails/thumbnail.jpg" width="600" alt="女性街头篮球花式运球视频">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3918)**
-
-**作者:** [Anissa](https://x.com/SimplyAnnisa) | **来源:** [Link](https://x.com/SimplyAnnisa/status/2049686935262646680) | **发布时间:** Apr 30, 2026
-
----
-### 火箭动力山地自行车赛
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个复杂且充满动作感的提示词，描述了一场由老年骑手参与、配备火箭推进器的电影级下坡自行车赛。
-
-#### 📝 提示词
-
-```
-主题：山地自行车下坡赛
-
-比赛风格：超写实、动作冒险、GoPro 第一人称/追逐视角美学。
-
-动作：一场高强度的下坡比赛，镜头跟随一群领先的老年骑手。他们疾驰在草坡上，在崎岖的地形中漂移，尘土和草屑四处飞扬。
-
-转折：当自行车到达山谷边缘时，领头的骑手拉动了一个隐藏的操纵杆。刹那间，自行车部署了简易的火箭推进器和手工制作的滑翔翼。自行车没有停下，而是冲出悬崖，在引擎的轰鸣声和排气管喷出的蓝色火焰中，从下方的村庄上空掠过。
-
-镜头运动：动态追逐镜头。镜头快速向前推进，穿梭在老年骑手之间。当他们到达悬崖边缘时，镜头平滑过渡到令人眩晕的自由落体视角，向下倾斜展现出巨大的落差，随后拉平以跟随在空中滑翔的自行车。
-
-环境：阳光明媚的乡村景观，充满鲜艳的绿色和蓝色。宁静的山谷底部在下方一英里处，村庄看起来就像一个微缩模型。
-
-细节：边缘强烈的运动模糊和自行车剧烈的震动。火箭推进器散发出的热浪，阳光照射在金属滑翔翼上产生的镜头光晕，以及老年骑手透过护目镜露出的震惊表情——随着一声突如其来的音爆，他们打破了风的呼啸声。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fc11a0b41044367cae154c51ff0a9273/thumbnails/thumbnail.jpg" width="600" alt="火箭动力山地自行车赛">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3942)**
-
-**作者:** [AI Raccoon](https://x.com/ai_raccoons) | **来源:** [Link](https://x.com/ai_raccoons/status/2049669913384796627) | **发布时间:** Apr 30, 2026
-
----
-### 电影级足球分镜提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 为 Seedance 2.0 设计的高质量分镜提示词，描述了从滑铲到进球庆祝的激烈足球比赛过程。
-
-#### 📝 提示词
-
-```
-创建一个高质量的 4K 电影级足球分镜，展示从铲球到进球的完整过程，采用动态光影、戏剧性的球场氛围以及专业体育转播风格。场景始于中场激烈的瞬间，一名防守球员完成了一次强力的滑铲，草屑和泥土在慢动作中飞溅，球被利落地断下。随即转入快速反击：球员起身，带球推进，通过敏捷的脚步过掉对手。展示球鞋击球、汗水和专注表情的特写镜头，并穿插球场开阔的广角镜头。加入关键传球时刻，球穿过防线，随后球员向球门冲刺，观众起身期待。通过慢动作接近禁区来营造紧张感，随后进行强力射门——无论是干净利落的抽射还是弧线球破门。展示足球击中球网的震撼瞬间、球网的波动以及守门员的反应。最后以情感充沛的庆祝画面结束：进球者奔跑、滑跪或高举双臂，队友们纷纷加入，球场灯光闪耀，观众席沸腾。运用多样的摄像机角度（广角、追踪、特写、第一人称视角、慢动作）、强烈的动态模糊以及真实的物理效果（球的旋转、草皮撞击），强调从防守强度到进攻胜利的转变。
-```
-
-<img src="https://cms-assets.youmind.com/media/1777618731689_2rjwid_HHHiZCXagAAI6RT.jpg" width="600" alt="电影级足球分镜提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3926)**
-
-**作者:** [Zara](https://x.com/ZaraIrahh) | **来源:** [Link](https://x.com/ZaraIrahh/status/2049668274330255388) | **发布时间:** Apr 30, 2026
-
----
-### 外星人下棋
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是 Seedance 2.0 的一个视频提示词，描述了两个外星人正在下棋，其中一个被发现作弊并被另一个扇耳光的场景。
-
-#### 📝 提示词
-
-```
-两个外星人正在下棋，第一个外星人作弊，第二个外星人扇了他一巴掌并叫他停止作弊
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7878cc0bbcff8a04beedbe31e1629ac/thumbnails/thumbnail.jpg" width="600" alt="外星人下棋">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3952)**
-
-**作者:** [Yusef Yassine](https://x.com/YusefYassi10435) | **来源:** [Link](https://x.com/YusefYassi10435/status/2049664163866144990) | **发布时间:** Apr 30, 2026
-
----
-### 冰雪女王变身奇幻序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的按时间顺序排列的奇幻视频脚本，讲述了一名女战士坠落、发现护身符并与龙一起变身为冰雪女王的过程。
-
-#### 📝 提示词
-
-```
-0–3 秒：黑暗的冰冻天空，猛烈的暴风雪，镜头急速下坠，氛围灵感源自《权力的游戏》。一名女子从天而降，紧紧抱着她的狗——一只胸部和爪子为白色、耳朵尖挺、眼神犀利且强烈的黑狗。她们在风暴中坠落时，她大声尖叫：“啊——！”她身穿黑色皮革北境战士服装：修身皮质束胸、腰带、长手套、高筒靴，肩上披着厚重的毛皮斗篷。
-3–6 秒：她们坠入一个雪谷。女子单膝跪地，抓起一个发光的古老蓝色护身符。她看着她的狗说：“我们开始吧。”那只带有白色斑纹的黑狗发出低吼，注视着前方。远处，冰行者在暴风雪中显现。
-6–9 秒：护身符爆发出明亮的蓝光。冰霜蔓延至女子的双手和脸庞。她的皮质服装转变为华丽的黑钢与冰晶盔甲，上面布满了精致的尖锐花纹。
-9–12 秒：女子完全变身为冰行者的冰雪女王——苍白的蓝色皮肤、发光的蓝色眼睛、冰封的王冠、强大的暗黑盔甲。那只狗开始变身为巨大的冰龙，保留了它黑色的皮毛和胸前的白色斑纹。
-12–15 秒：一只巨大的黑冰龙，带有白色斑纹和发光的蓝色眼睛，展开了双翼。冰雪女王爬上龙背，她们飞入风暴之中，而冰行者大军在她们面前跪下。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7cb6a2d8f1e97bf3968d9bf05c580aef/thumbnails/thumbnail.jpg" width="600" alt="冰雪女王变身奇幻序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3922)**
-
-**作者:** [Shami](https://x.com/ShamiWeb3) | **来源:** [Link](https://x.com/ShamiWeb3/status/2049653793294631206) | **发布时间:** Apr 30, 2026
-
----
-### Citrus Glow 护肤品产品视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高质量的产品摄影风格视频提示词，展示带有动态柠檬飞溅效果的护肤品软管。
-
-#### 📝 提示词
-
-```
-一支印有 "Citrus Glow" 标签的时尚白色面霜软管直立在光亮的柠檬奶油色表面上，周围环绕着动态的柠檬汁飞溅效果和漂浮的柠檬片。上方，半个柠檬在半空中被挤压，液滴在软管周围飞溅。干净简约的背景，明亮的金黄色灯光，超细节的产品摄影。 --ar 2:3q
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4b6be23bfdc24d8351c4fe2721b8b79c/thumbnails/thumbnail.jpg" width="600" alt="Citrus Glow 护肤品产品视频">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3863)**
-
-**作者:** [AI/Human Being](https://x.com/HumanBeing34061) | **来源:** [Link](https://x.com/HumanBeing34061/status/2049632322396537296) | **发布时间:** Apr 29, 2026
-
----
-### 悬疑小巷场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个基于多场景脚本的悬疑视频提示词，讲述了一名女孩从餐厅独自走进黑暗小巷的过程。
-
-#### 📝 提示词
-
-```
-场景 1 (0–4 秒)：
-温馨的街边餐厅，傍晚氛围浓郁。女孩与朋友们坐在一起，轻声欢笑，享用着晚餐。环境灯光柔和，桌上摆放着餐盘和饮品。CameYra 缓慢平移镜头，捕捉真实的表情和生动的环境。
-
-场景 2 (4–8 秒)：
-餐厅外，她与朋友们道别。淡淡的微笑，随意的拥抱。街道宁静，亮着昏黄的灯光。她转身开始独自前行，镜头从侧后方跟随。
-
-场景 3 (8–12 秒)：
-她走入一条狭窄的小巷回家。光线变得冷峻且昏暗。她的脚步声轻轻回荡。她放慢了脚步，表情中流露出一丝微妙的紧张。她回头瞥了一眼，似乎察觉到了什么异样。
-
-场景 4 (12–16 秒)：
-气氛变得紧张但依然克制。镜头靠近她的脸部，捕捉到她警觉的眼神和谨慎的呼吸。背景中出现了一道模糊的阴影或动作，但并未完全显露。她继续前行，脚步略微加快，在不直接展示危险的情况下维持悬疑感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fccb375670f4a53510a9989aa98f7133/thumbnails/thumbnail.jpg" width="600" alt="悬疑小巷场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3866)**
-
-**作者:** [Soulful Ai](https://x.com/soulful__ai) | **来源:** [Link](https://x.com/soulful__ai/status/2049538403029721207) | **发布时间:** Apr 29, 2026
-
----
-### 伟大的饼干大劫案：仓鼠动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满活力的 3D 动画提示词，讲述了仓鼠在厨房岛台上的大劫案，包含动作和镜头逻辑的详细场景描述。
-
-#### 📝 提示词
-
-```
-视觉风格：充满活力的 3D 动画，夸张的“挤压与拉伸”物理效果，以及电影级光影。
-时间
-场景描述
-镜头运动
-0-3 秒
-一只精致的小仓鼠穿着高科技背带，从天花板通风口缓缓降落至厨房岛台的一块巨大巧克力曲奇饼干上。
-摇臂镜头：从天花板平稳下降，跟随仓鼠的视角，随着“目标”逐渐靠近。
-3-6 秒
-就在他的爪子触碰到饼干时，阴影笼罩。一只昏昏欲睡的姜黄色猫咪进入画面，在他身边打了一个大大的哈欠。
-低角度平移：快速围绕仓鼠旋转 180°，展现背景中那只巨大的猫咪。
-6-9 秒
-仓鼠惊慌失措，抓起饼干（比他身体大两倍），开始冲刺。他利用一把银勺作为弹射器，将自己弹射到空中。
-追踪镜头：快速的横向侧拍，紧跟仓鼠疯狂奔跑的节奏。
-9-12 秒
-在半空中，仓鼠打开了一个用鸡尾酒餐巾纸制作的小型滑翔伞。他从猫咪头顶滑过，而猫咪在盲目地挥爪。
-动态跟随：镜头“滑行”到仓鼠肩后，在空中俯冲和穿梭。
-12-15 秒
-仓鼠以超级英雄的姿势稳稳降落在黑暗的通风口内。他咬了一大口，心满意足，通风口盖随即猛然关上。
-推拉变焦：快速推近至仓鼠面部特写展现“咀嚼”瞬间，随后以快速“光圈缩放”转黑结束。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e375728d8a4bd6a69bd33182e885f0c2/thumbnails/thumbnail.jpg" width="600" alt="伟大的饼干大劫案：仓鼠动画">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3876)**
-
-**作者:** [Iqra Saifi](https://x.com/IqraSaifiii) | **来源:** [Link](https://x.com/IqraSaifiii/status/2049521415674827247) | **发布时间:** Apr 29, 2026
-
----
-### Dragon Transformer 校车变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段高细节的电影级提示词，描述了一辆复古校车在雨天公路上变形为机械霸王龙的科幻场景。
-
-#### 📝 提示词
-
-```
-[摄影技术]：采用低角度动态追踪镜头，沿车辆侧面移动，随后过渡为手持晃动镜头，以强调变形过程中的冲击力和规模感。使用 IMAX 数字摄影机搭配变形镜头拍摄，高快门速度以捕捉机械细节，镜头上有水滴，浅景深聚焦于金属的位移变化。
-
-[主体]：起初是一辆风化的翡翠绿复古校车，轮拱处带有锈迹。它变形为一头巨大的工业风霸王龙机甲，由扭曲的底盘金属构成，校车轮胎作为肢体关节，前格栅裂开形成锯齿状的金属巨口。
-
-[动作]：校车在湿滑的沥青路面上疾驰，溅起水花。突然，液压活塞启动；车顶裂开，车轮向内旋转变为双腿，车身垂直重组。新形成的机甲猛踏地面，震裂路面，口中喷射出汹涌的火焰，化作双眼的头灯闪烁着红光。
-
-[环境]：一条蜿蜒、雨水湿滑的道路，穿过茂密且多雾的针叶林。高大的松树沿路排列，笼罩在薄雾中。氛围阴郁，大雨倾盆，湿润的路面映照出变形的过程。
-
-[风格与氛围]：高燃科幻动作美学，令人联想到 Michael Bay 的电影风格。粗粝、写实的 CGI 质感，带有金属光泽和锈迹细节。灯光戏剧化且情绪饱满，以雨天黄昏的冷蓝色调为主，与机甲喷火和发光双眼产生的暖橙色光芒形成强烈对比。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8ea7e36bfffec2fef45b14456af1410/thumbnails/thumbnail.jpg" width="600" alt="Dragon Transformer 校车变形">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3864)**
-
-**作者:** [Sydney](https://x.com/XSydneyFan) | **来源:** [Link](https://x.com/XSydneyFan/status/2049519280719540710) | **发布时间:** Apr 29, 2026
-
----
-### 超高速厨房动作喜剧提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个充满活力的电影级厨房主题动作喜剧视频提示词，主角拥有闪电般的超能力，通过动态运镜和速度轨迹展现烹饪过程。
-
-#### 📝 提示词
-
-```
-电影级超高速烹饪广告，闪电侠风格的厨房动作喜剧美学，高能量动态氛围，带有俏皮的转折。使用 ARRI Alexa Mini LF 拍摄，搭配 24mm 广角和 50mm 镜头，浅景深，电影胶片颗粒感，高对比度调色。色调：温暖的厨房琥珀色与黄铜色，电光黄与蓝色的速度轨迹，鲜艳的蔬菜绿与红，金色的火焰，奶油白。灯光：温暖的吊灯，闪烁的火焰与电光速度能量，空气中弥漫的蒸汽和面粉尘埃捕捉着光线。超动态摄像机配合快速甩镜头、变速拍摄、环绕运镜、子弹时间定格。
-主角：西方年轻女性，直发金发，白皙皮肤，表情生动，自然妆容，自信而俏皮。休闲现代装束（浅中性色调），微乱的直金发在光线下闪烁。
-氛围：充满活力、有趣、英雄气概、美味。展现一位像闪电侠一样的超级英雄为了最重要的任务——晚餐——而使用超能力的感觉。
-时间轴：
-0:00–0:02 — 开场镜头
-主角侧身站在美丽的现代厨房中央，双手插兜，看着面前空荡荡的木制餐桌。她的肚子发出咕咕声。她看起来又累又饿。摄像机从侧面缓慢推入。温暖的琥珀色厨房灯光，安静祥和的氛围。
-0:02–0:03 — 决定时刻
-她慢慢闭上眼睛，脸上露出一抹自信的微笑。电光黄色的能量开始在她身体周围轻微闪烁。几缕直金发因能量而微微飘起。摄像机定格在她微笑的瞬间。低音下潜时刻。
-0:03–0:05 — 速度爆发
-她以 120fps 的慢动作进入超高速运动，身后留下电光黄与蓝色的速度轨迹。摄像机快速追踪她冲向冰箱，猛地拉开冰箱门，多种蔬菜和食材在慢动作中飞出——番茄、香草、洋葱、辣椒，全部悬浮在半空中。
-0:05–0:07 — 超高速混乱蒙太奇
-一系列超动态厨房动作的快速剪辑，每段 0.3 秒：她带着速度轨迹掠过台面，一把刀在空中旋转自动切菜，炉灶上的平底锅燃起火焰，一锅沸水剧烈冒着蒸汽，面粉在空中炸开，搅拌机无人操作自动运转，香料自动撒在食材上。电光速度轨迹在厨房内纵横交错。摄像机在每个动作之间快速甩镜头。
-0:07–0:09 — 装盘
-一系列极速的微距特写——酱汁完美地旋转倒入，蔬菜自动摆放在盘中形成优雅的造型，装饰物轻轻飘落，完美的牛排在平底锅中伴随橙色火焰煎烤，意大利面在空中旋转，帕尔马干酪在慢动作中自动磨碎。每个镜头都极其细腻，达到餐厅级的美食造型。温暖
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/cd5da116ceb4abc621dee8c2fc2ae4f0/thumbnails/thumbnail.jpg" width="600" alt="超高速厨房动作喜剧提示词">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3886)**
-
-**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **来源:** [Link](https://x.com/Just_sharon7/status/2049517842723147829) | **发布时间:** Apr 29, 2026
-
----
-### 古印度王国 FPV 无人机航拍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段沉浸式的 FPV 飞行序列，穿越古印度的安纳塔（Anarta）王国，以电影级的灯光和动态镜头捕捉金色的沿海城市与充满活力的集市。
-
-#### 📝 提示词
-
-```
-极速穿越古印度安纳塔（Anarta）王国的 FPV 飞行，掠过金色的沿海城市、坚固的石墙、繁忙的港口、皇家宫殿、阶梯井和充满活力的集市，穿梭于阿拉伯海上的船只之间，在挤满商人和工匠的狭窄街道中穿行，黄金时刻的电影级灯光，伴随急速俯冲和急转弯的动态镜头，超逼真纹理，受早期印度西部王国启发的精细建筑，体积光，大气深度，史诗级规模，沉浸式音效，超高细节，高对比度，戏剧性阴影，变形镜头，真实物理效果，无缝连续镜头
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/698f6ded19c2c21d0b7b2a7cb499ecb3/thumbnails/thumbnail.jpg" width="600" alt="古印度王国 FPV 无人机航拍">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3874)**
-
-**作者:** [Shushant Lakhyani](https://x.com/shushant_l) | **来源:** [Link](https://x.com/shushant_l/status/2049504349689430312) | **发布时间:** Apr 29, 2026
-
----
-### 橘猫忍者大劫案
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为多场景视频设计的电影级详细故事提示词，主角是一只在传统日本背景下潜行的橘猫忍者，专为 Seedance 2.0 的叙事能力进行优化。
-
-#### 📝 提示词
-
-```
-故事格式：15 秒 / 150 BPM / 多镜头剪辑，包含一段连续的杂技动作 / 美式黑色幽默，带有荒诞的忍者讽刺 / 俏皮的恶作剧，配以反转的笑点
-基调：鬼鬼祟祟的好奇心 → 诱惑渐增 → 隐秘行动 → 突然暴露 → 荒谬的魅力反转
-场景：夜间传统日式房屋，木质结构，瓦片屋顶，柔和月光，背景为富士山剪影，松树摇曳，冷蓝色调与温暖的厨房灯光形成对比
-角色：
-橘猫忍者：身穿全套黑色忍者服，仅露出眼睛和嘴巴，身手敏捷，鬼鬼祟祟，性格中带有一点笨拙的贪婪
-白猫厨师：身穿粉色和服，温柔但容易受惊，表情丰富
-黑熊父亲：系着红色肚兜，坐在庭院的木桌旁，神情严厉且急躁，存在感极强
-摄影风格：电影级推镜头、隐秘视角（POV）、平滑追踪、突如其来的喜剧式快速变焦、动作戏中轻微的手持晃动、夸张的烟雾特效
-场景
-0–2 秒
-广角镜头：屋顶剪影
-橘猫忍者蹲在瓦片屋顶边缘，月光勾勒出他的轮廓
-背景是富士山和松树
-他缓慢前倾，窥视着灯火通明的厨房窗户
-2–4 秒
-厨房内 POV 视角
-白猫站在炉灶旁，正用锅铲翻炒
-浓厚的白烟升起
-烟雾向上飘散……触及忍者
-特写：忍者嗅探
-他停顿了一下……然后咧嘴一笑
-嘴角流出一丝口水
-橘猫（耳语）：
-“哦耶……这味道闻起来就‘违法’。”
-4–6 秒
-切换至庭院
-黑熊坐在木桌旁，不耐烦地敲着桌子
-黑熊（大喊）：
-“孩子！晚饭好了没？！”
-6–7 秒
-切回厨房
-白猫惊慌失措
-她匆忙将食物从锅里盛到破裂的盘子里
-白猫（紧张）：
-“好了！来了！”
-锅里还剩下一些食物
-7–9 秒
-她小心翼翼地把盘子端到外面
-放在黑熊面前
-黑熊得意地点点头
-黑熊：
-“总算好了。”
-9–10 秒
-切至屋顶
-橘猫眯起眼睛
-橘猫（耳语）：
-“时机完美。”
-10–13 秒 连续动作镜头
-忍者出击
-— 一气呵成地从屋顶翻身跃下
-— 无声地落在厨房入口附近
-— 快速左右张望
-没人
-他溜进屋内
-跑到炉灶前
-开始用爪子抓食物吃
-橘猫（兴奋的耳语）：
-“五指自助餐，开动。”
-他把食物举向嘴边
-13–14 秒
-突然
-白猫出现在门口
-白猫（震惊）：
-“你是谁？！”
-定格瞬间
-14–15 秒 最终反转
-忍者瞬间向地面投掷烟雾弹
-橘猫（大喊）：
-“烟雾撤离，宝贝！”
-黑烟四处炸开
-当烟雾散去
-忍者不见了
-取而代之的是——
-一只小巧可爱的白狐
-白猫倒吸一口凉气，双手合十
-白猫（语气融化，温柔地）：
-“天呐……你太可爱了……”
-最终镜头
-白狐直视镜头
-眨了一下眼睛
-露出了狡黠而顽皮的笑容
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dfc17dfb57d830c0dc2f314e81f664/thumbnails/thumbnail.jpg" width="600" alt="橘猫忍者大劫案">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3877)**
-
-**作者:** [The Anxious Mind](https://x.com/drjoetw) | **来源:** [Link](https://x.com/drjoetw/status/2049497814997307481) | **发布时间:** Apr 29, 2026
-
----
-### FPV 追踪拍摄跑酷者
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高强度的 FPV 追踪提示词，用于生成在城市天际线间穿梭的跑酷场景，并带有极具张力的镜头运动。
-
-#### 📝 提示词
-
-```
-一位年轻的跑酷者，体格健壮，汗水滴落，咬紧牙关，双眼扫视着前方的每一条路径
-在屋顶上全速冲刺，跳过不可思议的缝隙，在被紧紧追赶的同时滑过障碍物
-密集的城市天际线，狭窄的屋顶、天线，以及下方深不见底的落差
-FPV 追踪镜头紧随其后，快速倾斜和景深切换，跳跃时带有强烈的运动模糊，动态视差增强了高度感与危险感
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/768e37f6822aecd90ed28f01be62485d/thumbnails/thumbnail.jpg" width="600" alt="FPV 追踪拍摄跑酷者">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3856)**
-
-**作者:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **来源:** [Link](https://x.com/CharaspowerAI/status/2049496460060704996) | **发布时间:** Apr 29, 2026
-
----
-### 中国水墨画风格视频生成
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 为 Seedance 2.0 设计的详细动态提示词，旨在为中国传统水墨画添加动画效果，同时保持角色一致性和艺术质感。
-
-#### 📝 提示词
-
-```
-严格保持原图的中国水墨画风格、角色形象、场景和构图。细雨连绵，水面涟漪不断扩散；一艘乌篷船在桥下缓缓划过，船桨拨动水面。垂柳枝条随风轻摆；书生微微抬头，望向远处的青山。镜头带有轻微的呼吸感，缓慢向左平移。动作自然流畅，无闪烁或掉帧，水墨质感保持一致。10 秒，1080p，60fps。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c578c92dc2b1331ad88f0c5cec1fdc78/thumbnails/thumbnail.jpg" width="600" alt="中国水墨画风格视频生成">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3887)**
-
-**作者:** [Alex Zhang](https://x.com/jojogh_007) | **来源:** [Link](https://x.com/jojogh_007/status/2049495083712676004) | **发布时间:** Apr 29, 2026
-
----
-### Pencak Silat 武术动作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Seedance 2.0 设计的视频生成提示词，描绘了一位武术家在极简主义工作室场景中表演流畅的 Pencak Silat 动作序列。
-
-#### 📝 提示词
-
-```
-一张 4x4 网格（16 个分镜）的简洁教学海报，展示了一位男性武术家演示 Pencak Silat 编舞。主体是一位身材健硕的男子，留着中等长度的深色头发和胡须，身穿红色衬衫、米色长裤和白色运动鞋。风格为半写实插画与手绘素描线条相结合，带有柔和的阴影和浅色纹理纸张背景。每个分镜都包含细微的动作箭头和小标题。布局极简且平衡。顶部标题：'Pencak Silat Choreography – 16 Counts – 10 Seconds – Smooth Flowy Chill'。
-
-分镜 1：宽大的准备姿势，膝盖弯曲，一只手向前防御，表情专注。
-分镜 2：向前迈步并进行外格挡，手臂伸展以进行防御。
-分镜 3：内格挡斜向上扫，躯干旋转。
-分镜 4：强有力的直拳向前，臀部对齐。
-分镜 5：侧步进入低姿势，双手向外推。
-分镜 6：膝盖高抬至蓄力位置，姿势平衡。
-分镜 7：前踢向前伸展，另一只手臂进行防御。
-分镜 8：向后退步进入防御掩护，手臂交叉。
-分镜 9：低位格挡，在深蹲姿势中向下扫动手臂。
-分镜 10：带臀部旋转的横向勾拳。
-分镜 11：身体转动，双脚旋转，呈现圆周运动。
-分镜 12：向前掌击，姿势稳固。
-分镜 13：在深蹲姿势中靠近地面的低位扫动。
-分镜 14：从低姿势平稳起身，向上运动。
-分镜 15：受控的锁定姿势，一只手臂向上防御。
-分镜 16：结束礼，双脚并拢，双手合十于胸前，姿态从容。
-
-包含手绘箭头（蓝色和紫色点缀），简洁的信息图布局，分镜间距均匀，所有帧中角色设计保持一致。
-
-一位专注的男性武术家在极简主义工作室中表演流畅、连贯的 Pencak Silat 序列。他 20 多岁，身材健美，中等身高，肤色呈温暖的棕褐色，留着浓密的波浪状深色头发和修剪整齐的短胡须。他穿着一件合身的深红色衬衫，袖子卷至前臂，穿着膝盖处有轻微磨损的米色修身长裤，以及干净的白色运动鞋。他的表情冷静、受控且专注。场景是一个光线柔和的中性工作室，背景为米白色纹理墙面，地面为略显陈旧的木地板。灯光漫射且具有电影感，营造出柔和的阴影并强调流畅的动作。编舞连续且富有节奏感，没有突兀的剪辑：0–2 秒：以扎实的准备姿势开始，膝盖弯曲，一只手掌向前防御，双眼直视前方；2–4 秒：向前迈步进入外格挡，过渡到斜向上的内扫格挡；4–6 秒：臀部旋转打出直拳，随后重心转移至侧步并伴随推掌动作；6–8 秒：平稳抬膝并延伸至受控的前踢，保持平衡；8–10 秒：退步进入防御掩护，下蹲进行低位格挡，随后起身打出勾拳；10–12 秒：身体利落旋转，过渡到向前掌击；12–14 秒：下蹲进行扫动，随后流畅起身进入锁定控制姿势；14–15 秒：以恭敬的结束礼收尾，双手合十于胸前。动作风格柔和、流畅、受控，具有精准的武术意图而非攻击性。强调平衡、呼吸和连贯性。摄像机采用稳定的中远景镜头，带有细微的缓慢追踪，无剪辑。
-```
-
-<img src="https://pbs.twimg.com/media/HHFC4kqbEAAvImQ.jpg" width="600" alt="Pencak Silat 武术动作序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3879)**
-
-**作者:** [Zar⭕on](https://x.com/Xaroon_x) | **来源:** [Link](https://x.com/Xaroon_x/status/2049493027031515174) | **发布时间:** Apr 29, 2026
-
----
-### 汽水广告电影级场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于软饮的高端电影级广告提示词，包含热浪扭曲效果、碳酸气泡微距镜头，以及从疲惫到清爽的环境转场。
-
-#### 📝 提示词
-
-```
-一个关于清爽软饮的电影级广告。一位年轻人走在正午炎热、阳光明媚的城市街道上，显得疲惫不堪且满头大汗。环境充满活力，但因高温而显得有些朦胧。特写镜头展示了阳光在玻璃建筑上的反射、空气中缓慢飘动的尘埃颗粒，以及人们扇风的动作。
-
-角色在街边小摊停下，从装满冰块的冷藏箱中拿出一瓶冰镇碳酸软饮。瓶身上覆盖着冷凝水，水珠缓缓滑落。极近距离特写瓶盖拧开的瞬间，伴随着清脆的嘶嘶声，气泡在慢动作中升腾。
-
-当角色喝下一口时，场景瞬间变换：色彩变得更加饱和，光线变得柔和，一阵凉爽的微风吹过街道。环境转变为清爽、生动的氛围，树木轻微摇曳，人们看起来也充满了活力。
-
-剪辑至碳酸气泡、液体飞溅和冰块翻滚的微距镜头，细节清晰可见。
-
-最终镜头：角色露出清爽的笑容，手持饮料，背景明亮整洁。
-
-文字叠加：“Refresh Your Moment.”
-
-风格：超写实、电影级布光、浅景深、高细节、4K 画质、平滑慢动作、鲜艳的色彩分级、专业广告风格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/84e2c395e8dd38a3a94cec208b592c8b/thumbnails/thumbnail.jpg" width="600" alt="汽水广告电影级场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3875)**
-
-**作者:** [Kuria | AI](https://x.com/I_amShiti) | **来源:** [Link](https://x.com/I_amShiti/status/2049489046012121511) | **发布时间:** Apr 29, 2026
-
----
-### 电影级 3D CGI 女战士动作场景
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 专为 Seedance 2.0 设计的高细节电影级动作序列提示词。该场景描绘了一位女战士与机械敌人展开快节奏战斗的画面，强调动态光影、镜头焦点以及适合 60fps CGI 动画的节奏剪辑。
-
-#### 📝 提示词
-
-```
-快节奏镜头切换。采用实时游戏引擎纹理、动态光影和后期泛光处理的 3D CGI 动画。流畅的 60fps 视觉效果。主角是一位美丽的女战士。动画随音乐节奏展开如下：一位身着飘逸服饰的敏捷战士以模糊的速度向前冲刺，奔跑中拔出利刃。伴随着清脆的金属声，镜头拉近聚焦于利刃击中迎面而来的机械敌人时闪烁的寒光。战士精准侧身躲避重型投射物；时间仿佛短暂放慢，随后加速进入旋风般的连击，在昏暗的废墟中留下一道道发光的轨迹。战士优雅地跃向高空，双持武器发射出一连串能量弹，如同彗星般坠入下方聚集的敌群，每一次撞击爆炸都让画面剧烈震动。特写镜头聚焦于战士坚定的双眼，锁定正在冲锋的对手，随后是一个流畅的翻滚闪避，无缝衔接至反手突刺，利刃穿透装甲，迸发出火花与碎片。镜头切换至广角，展示战士在密集的激光火网中穿梭，身体伴随杂技般的翻转扭动，每一个动作都与下一个动作融为一体，逼近敌人进行毁灭性的重击。在一阵爆发性的加速中，战士召唤出环绕周身的幻影投射物，随后如彗星般向前冲锋，冲击波向外扩散，震碎了障碍物和敌人。快速连续剪辑：战士用交叉的双刃格挡爪击，火花四溅，随后以超高速刺击反击，精准刺穿要害，敌人的身体在混乱中慢动作崩塌。战士抓住一只大型机械兽，在躲避挥击的同时迅速攀爬，到达顶部后发动俯冲攻击；裂纹如蛛网般在表面蔓延，最终引发剧烈爆炸。在坍塌的建筑内，战士执行墙面跑闪避，过渡到空中后空翻，并以地面冲击波收尾，在尘土与能量环中击退周围的敌人。最终爆发：战士引导内在力量，全身发光，向四面八方释放出如潮水般的斩击与射击。镜头环绕其旋转，捕捉那令人眼花缭乱的速度与压倒性的攻击力。15 秒内节奏平衡，剪辑节奏旨在确保场景转换和情感流动易于跟随。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bd0e7ad5572619cf38f14807e52b4d56/thumbnails/thumbnail.jpg" width="600" alt="电影级 3D CGI 女战士动作场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3888)**
-
-**作者:** [ShadeLurk](https://x.com/ShadeLurk) | **来源:** [Link](https://x.com/ShadeLurk/status/2049475667910394228) | **发布时间:** Apr 29, 2026
-
----
-### 亚马逊丛林昆虫仿生无人机飞行
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段极其详尽的 14 秒视频提示词，描述了一架昆虫仿生无人机在亚马逊丛林中的高速飞行，包含场景转换和摄像机运镜的精确时间点。
-
-#### 📝 提示词
-
-```
-一段超写实、电影级的 14 秒竖屏视频（9:16 比例），以 60fps 拍摄，带有强烈的运动模糊和动态追踪运镜。主体是一架外形流畅、充满未来感的昆虫仿生无人机，其虹彩金属蓝绿色外骨骼在光线下如同甲虫壳般变幻。它拥有一对巨大的橙色发光复眼，高速飞行时半透明的螺旋桨翼模糊成圆盘状，并配有细长的黑色机械腿/触须和长触角。无人机动作敏捷、快速且具有生物感，宛如一只活生生的赛博蜻蜓。
-场景序列（精确对应 14 秒时长）：
-0–2 秒：极高角度航拍，掠过广袤无垠的翠绿色亚马逊丛林树冠，阳光明媚。无人机从画面上方冲出，以极快速度直冲镜头，随后急剧俯冲进入茂密的森林。
-2–8 秒：丛林内部混乱、高速的第一人称及近距离第三人称追逐。无人机以令人眩晕的速度在巨大的苔藓树干、悬挂的藤蔓和茂密的蕨类植物间激进穿梭。体积光穿透雾气，色彩鲜艳的金刚鹦鹉（鲜红、蓝、黄色）四散飞逃，有些几乎与无人机相撞。摄像机紧随其后，通过快速平移、倾斜镜头和急速俯仰来传达极致的速度感与危险感。背景植被带有强烈的运动模糊。无人机在避开树枝时进行倾斜、翻滚和急转，其橙色眼睛在机动时发出更亮的光芒。
-8–11 秒：无人机深入丛林更阴暗、更潮湿区域时的紧凑、戏剧性特写。阳光穿过树冠形成光束。无人机的螺旋桨疯狂旋转，偶尔擦过叶片，激起碎屑飞溅。其虹彩机身反射着环境中的绿色和金色。摄像机环绕并推进，以捕捉机械细节。
-11–14 秒：无人机冲出茂密丛林，进入一片令人惊叹的开阔地。它径直飞向一道从高处倾泻而下、壮丽的瀑布，瀑布下方是绿松石色的泻湖。浓厚的白色水雾弥漫，在场景中形成了一道完美的彩虹。无人机在画面中心短暂悬停，背衬着瀑布与彩虹，其发光的橙色眼睛和虹彩外壳在光线下显得格外引人注目。最终镜头缓慢拉远，展现出瀑布与彩虹的宏伟全景，无人机保持悬停姿态。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9ec91761ee4cdeeae7c0a14ffc961db8/thumbnails/thumbnail.jpg" width="600" alt="亚马逊丛林昆虫仿生无人机飞行">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3867)**
-
-**作者:** [Maercih](https://x.com/Maercihh) | **来源:** [Link](https://x.com/Maercihh/status/2049474358779720148) | **发布时间:** Apr 29, 2026
-
----
-### 高能动漫竞技场视觉效果
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Seedance 2.0 设计的高冲击力动漫风格提示词，旨在生成未来派竞技场的电影级巡览视频，重点突出戏剧性的光影与氛围。
-
-#### 📝 提示词
-
-```
-高能、动漫风格的电影级视频，展示了竞技场的外部全景与沉浸式内部空间——充满史诗般的视觉效果、戏剧性的视角以及强大且令人热血沸腾的氛围。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27aeb6d53ea4076f2695ef38551bb6c8/thumbnails/thumbnail.jpg" width="600" alt="高能动漫竞技场视觉效果">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3881)**
-
-**作者:** [Framer 🇱🇹](https://x.com/Framer_X) | **来源:** [Link](https://x.com/Framer_X/status/2049474004457767115) | **发布时间:** Apr 29, 2026
-
----
-### 动漫角色化妆日常
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个为 Seedance 2.0 设计的超详细多场景提示词，描述了一位动漫角色进行化妆的过程。它将女孩的 2D 动漫风格与写实环境相结合，并概述了从梳头到与镜头互动等五个具体的动画动作。
-
-#### 📝 提示词
-
-```
-场景描述：一位“女孩”坐在“梳妆台”前对着镜子化妆。房间里洒满了明亮的晨光，摆放着可爱的化妆品。女孩保持 2D 动漫风格，而其他一切均为实景拍摄。1) “女孩”正在用梳子梳头，嘴里哼着小曲。2) “女孩”从化妆架上拿出一支口红，打开盖子，将其取出。当淡粉色的口红出现时，女孩露出了灿烂的笑容。3) “女孩”对着镜子将口红轻轻涂抹在嘴唇上，随后又开始哼起歌来。4) 涂完口红后，“女孩”对着镜子端详自己的双唇。看到嘴唇变成了淡淡的粉红色，她说道：“嗯，不错！”5) “女孩”转过身，从镜子里的倒影转向镜头。她带着调皮的表情对着镜头问道：“怎么样，好看吗？”
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/168f9284e458e234ee4c06d01777d3eb/thumbnails/thumbnail.jpg" width="600" alt="动漫角色化妆日常">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3891)**
-
-**作者:** [AiRT🎥生成AI動画を創る人](https://x.com/AutoIntelliMode) | **来源:** [Link](https://x.com/AutoIntelliMode/status/2049467385699316211) | **发布时间:** Apr 29, 2026
-
----
-### 足球运动员入场通道场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段 15 秒的超电影感体育场景提示词，包含雨中体育场内的足球运动员，具有戏剧性的灯光和高速运动效果。
-
-#### 📝 提示词
-
-```
-一段 15 秒的 Seedance 风格超电影感视频：深夜，一名足球运动员独自走在雨水浸湿的体育场通道中，水珠从球衣上缓慢滑落，头顶上方闪烁着戏剧性的蓝白色泛光灯，营造出深沉的低音电影氛围。镜头从泥泞的球鞋踩过水坑的特写开始，随后平滑过渡到他踏上发光球场时的强力低角度跟拍。远处传来人群的欢呼声，天空中闪电划过，风吹动织物效果逼真，皮肤纹理和湿发细节高度写实，表情专注而强烈，伴有体积雾和逼真的体育场倒影。动态手持摄像机运动与平滑的电影级防抖相结合，采用史诗级体育电影调色，呈现超细节的 4K 写实感，充满情感与励志氛围；结尾处，运动员在极慢动作下将球踢向镜头，雨滴四溅。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3b36eb41b021f3025f42cf46b013bbcc/thumbnails/thumbnail.jpg" width="600" alt="足球运动员入场通道场景">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3878)**
-
-**作者:** [MARCOS](https://x.com/arsalannazir07) | **来源:** [Link](https://x.com/arsalannazir07/status/2049464046974579034) | **发布时间:** Apr 29, 2026
-
----
-### 时尚衣橱夏季造型手册
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Seedance 2.0 设计的多阶段时尚剪辑提示词，展示了多种夏季穿搭以及在阳光明媚的衣橱场景中的电影级运镜转场。
-
-#### 📝 提示词
-
-```
-(0 秒 – 4 秒)
-一个舒适、充满美感的衣橱间，洒满柔和的阳光。女孩缓缓打开衣橱，露出温柔的微笑。
-她试穿第 1 套造型：浅白色短款上衣搭配浅色牛仔短裤，在镜子前轻轻转圈。
-镜头：缓慢的电影级推镜头，柔焦，暖色调。
-
-(4 秒 – 8 秒)
-她换上第 2 套造型：碎花夏日连衣裙（浅粉色与白色）。
-她一边整理头发，一边看着镜子里的自己，表情从容自信。
-镜头：侧向平移，镜面反射拍摄，梦幻光影。
-
-(8 秒 – 12 秒)
-衣橱内快速时尚剪辑：
-第 3 套造型：黄色细肩带夏日连衣裙
-第 4 套造型：白色廓形衬衫搭配米色短裤
-第 5 套造型：柔和蓝色套装
-她在换装间隙轻快旋转，展现出俏皮的夏日活力。
-镜头：快速优雅的剪辑，时尚蒙太奇风格，柔光转场。
-
-(12 秒 – 16 秒)
-最终变装：第 6 套造型：优雅简约的米色连衣裙，搭配轻盈配饰。
-她自信地站在衣橱门边，微风拂过，发丝轻动。她露出一抹淡淡的微笑。
-镜头：缓慢拉远，电影级定格画面，黄金时刻光影。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bf0b59b3eea23e72cb3db874e32a6178/thumbnails/thumbnail.jpg" width="600" alt="时尚衣橱夏季造型手册">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3880)**
-
-**作者:** [Soulful Ai](https://x.com/soulful__ai) | **来源:** [Link](https://x.com/soulful__ai/status/2049463134986101223) | **发布时间:** Apr 29, 2026
-
----
-### 超市购物 Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个写实的第一人称 Vlog 提示词，描绘了一位女性在超市购物的场景，旨在呈现具有自然光感和手持摄像机运动的真实社交媒体风格。
-
-#### 📝 提示词
-
-```
-一位写实的年轻女性在傍晚时分，于光线充足的超市内随性地购买杂货。
-她将手机举在手臂长度处，边走过货架边挑选商品，同时进行自拍录制。
-构图略显晃动且不完美，如同真实的手机前置摄像头 Vlog。
-表情：放松、健谈，在谈论挑选的商品时偶尔微笑。
-她会停下来从货架上拿取商品，简短地向镜头展示并解释购买原因。
-服装：简约日常穿搭（宽松连帽衫或修身上衣搭配牛仔裤），极简风格。
-妆容：自然，可见皮肤纹理，无厚重滤镜。
-光线：明亮的超市灯光，略显生硬但真实。
-环境：货品充足的杂货店，色彩鲜艳的包装，背景中偶尔有人经过。
-音频风格：随意的谈话，如同语音备忘录或 Vlog，具有即兴感。
-风格：超写实，原始手机拍摄素材，轻微噪点，无电影级润色，真实的社交媒体氛围。
-```
-
-<img src="https://pbs.twimg.com/media/HHEmpUjbUAAKHCJ.jpg" width="600" alt="超市购物 Vlog">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3868)**
-
-**作者:** [Synthia](https://x.com/AIwithSynthia) | **来源:** [Link](https://x.com/AIwithSynthia/status/2049461874346135717) | **发布时间:** Apr 29, 2026
-
----
-### 复古迪士尼风格的龙与海盗
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个多场景叙事提示词，展现了经典的复古迪士尼动画风格，讲述了一群鸟海盗与被俘龙在船上的幽默互动。
-
-#### 📝 提示词
-
-```
-经典的复古迪士尼动画风格。场景 1：在茫茫大海的一艘海盗船上，一群邪恶的鸟海盗俘获了一条龙。龙被绳子捆住，只剩下脚可以活动。鸟船长用剑指着龙，命令它带他们去寻找宝藏。场景 2：龙挑衅地吐出一口烟，怒目而视，然后转过头去，拒绝与鸟海盗交谈。场景 3：鸟海盗露出狡黠的笑容，掏出一根羽毛，伸向龙的脚底。龙一脸茫然地看着，鸟海盗威胁说它会后悔的。场景 4：特写镜头展示了羽毛摩擦龙脚底的画面，并伴有滑稽的音效。与此同时，我们听到了龙的轻笑声。场景 5：镜头聚焦在龙的上半身，它咧开大嘴，闭着眼睛大笑，发出闷声，而鸟海盗继续用羽毛挠龙的脚底。场景 6：鸟海盗用羽毛挠龙的脚底，龙大声笑了起来。在笑声中，龙说它会带他们去寻找宝藏，然后继续大笑。场景 7：挠了一会儿后，鸟海盗终于停了下来，满意地哼了一声。英语配音。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c60801dd897346a44d2d67872e46ff61/thumbnails/thumbnail.jpg" width="600" alt="复古迪士尼风格的龙与海盗">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3889)**
-
-**作者:** [migrok](https://x.com/migrok293703) | **来源:** [Link](https://x.com/migrok293703/status/2049441628616540670) | **发布时间:** Apr 29, 2026
-
----
-### 史诗奇幻：巨人邂逅
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影感提示词，描述了沙漠中渺小人类与巨大巨人之间强烈的体型对比。
-
-#### 📝 提示词
-
-```
-一位无畏的渺小男子挡在一名肩扛山岳般巨石的庞大巨人面前，他举起手大声呼喊要求对方停下——巨人低头瞥了一眼，但仍以不可阻挡之势继续前行——电影级低角度追踪镜头，广阔的岩石沙漠中散布着巨石与尘埃，金色阳光投下戏剧性的阴影，两人之间强烈的体型对比——巨人每走一步大地都在震颤，脚下岩石碎裂，尘土在空气中飞扬，史诗奇幻氛围——深沉的电影级低音，隆隆的脚步声，远处的风啸声，超写实，4K 大片场景。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/78533f695ea87335744b633ffa56bd3b/thumbnails/thumbnail.jpg" width="600" alt="史诗奇幻：巨人邂逅">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3865)**
-
-**作者:** [Zarlish](https://x.com/Zarlish_Shahid) | **来源:** [Link](https://x.com/Zarlish_Shahid/status/2049428387618505112) | **发布时间:** Apr 29, 2026
-
----
-### 手机升级的戏剧性故事
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个叙事类视频提示词，讲述了一名年轻男子从心碎到喜悦的手机升级过程。
-
-#### 📝 提示词
-
-```
-一名年轻男子独自坐在昏暗的房间里，神情忧郁。背景播放着柔和的悲伤音乐。他盯着手机，长叹一声，说道：
-“是啊……彻底结束了。”
-
-镜头切至面部特写——他看起来心碎不已。屏幕字幕：
-“分手了？”
-“失去了一切？”
-
-他缓缓低下头……戏剧性的停顿。
-
-突然——欢快的音乐响起。
-
-镜头拉远——他微笑着说道：
-“没错……我的旧手机终于寿终正寝了。”
-
-快速转场——他拿出一款时尚的新智能手机，灯光瞬间变亮。
-
-快速剪辑：流畅的滑动操作、游戏画面、相机拍摄——视觉效果充满活力。
-
-屏幕字幕：
-“升级你的生活 ⚡”
-“更快。更智能。更出色。”
-
-结尾画面：
-产品特写 + Logo + 醒目的行动号召 (CTA)：
-“拒绝将就。立即升级。”
-
-1280x720
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8184d4f0eb358b4ea172cf9226952d66/thumbnails/thumbnail.jpg" width="600" alt="手机升级的戏剧性故事">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3862)**
-
-**作者:** [Ali](https://x.com/aiwithaly) | **来源:** [Link](https://x.com/aiwithaly/status/2049427183563682143) | **发布时间:** Apr 29, 2026
-
----
-### 护盾偏转动作序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个详细的 Scela 结构提示词，用于描述一个电影级序列：巨型怪物将一架飞机投向一名装甲战士，战士使用能量护盾将其偏转。
-
-#### 📝 提示词
-
-```
-“护盾偏转（超平滑）”
-
-参考输入：
-@image1 = 装甲战士（相同的红黑外骨骼设计，重型装甲，发光面罩）
-@image2 = 军用运输机（大型货运飞机，真实比例）
-⏱️ 格式
-15 秒 · 超级电影感 · 无缝运动流 · 强物理真实感
-
-🧠 SCELA 结构
-
-S — 主体 (SUBJECT)
-
-巨型怪物（体型巨大，远超飞机）位于军事基地内
-装甲战士 (@image1) 站在远处
-大型军用运输机 (@image2) 被用作投掷武器
-C — 摄像机 (CAMERA)（平滑流动规则）
-
-连续运动追踪（无硬切）
-方向性随动（投掷 → 飞行 → 撞击保持同一矢量）
-基于惯性的摄像机延迟（轻微延迟以增加真实感）
-
-仅在撞击时使用微慢动作
-最终稳定的电影级画面
-E — 特效 (EFFECTS)
-怪物脚下的地面裂纹
-飞机被举起时的结构应力
-投掷时的空气冲击波
-半透明浅蓝色能量护盾（逐渐形成，波纹畸变）
-偏转弧线物理效果（真实的重定向）
-灰尘、碎片、跑道破坏
-L — 灯光 (LIGHTING)
-强烈的日光军事基地
-真实的金属反射
-护盾发出的微弱蓝光
-撞击闪光高光
-A — 音频 (AUDIO)
-仅限真实的音效 (SFX)，无背景音乐，无电影配乐，无音乐层。仅专注于自然的各种环境音和基于动作的音频。
-深沉的地面轰鸣声
-金属拉伸和弯曲声
-空气撕裂的速度感声音
-
-能量护盾嗡嗡声 + 波纹声
-
-重型撞击冲击波
-碎片撞击和滑行声
-🎞️ 时间轴（超平滑导演版）
-0:00–0:02 — 钩子（持续的力量展示）
-导演笔记（平滑度）：
-从运动状态开始 — 无静态画面。摄像机在动作前轻微漂移。
-动作：
-巨型怪物双手紧握一架巨大的运输机 (@image2)。
-它缓慢地将其向上举起，重量感清晰可见。
-摄像机：
-低角度向上追踪（连续运动，无剪辑）
-SFX：
-
-深沉的地面轰鸣声
-金属在压力下的吱吱声
-
-0:02–0:04 — 力量积蓄 → 投掷
-导演笔记：
-投掷前增加微小的停顿（0.2 秒）以增加真实感。
-动作：
-怪物将飞机向后拉 →
-然后以相同的运动弧线猛力向前投掷
-
-摄像机：
-随动（无剪辑，连续弧线追踪）
-SFX：
-
-空气位移爆发声
-
-强大的力量释放声
-0:04–0:06 — 飞行连续性（无剪辑感）
-导演笔记：
-摄像机保持锁定在飞机轨迹上 → 平滑过渡。
-
-动作：
-飞机旋转，直接飞向战士
-战士已做出反应 — 身体转向来袭方向
-
-摄像机：
-追踪镜头持续 → 轻微延迟 → 然后重新构图英雄
-SFX：
-高速空气撕裂声
-
-风力湍流声
-0:06–0:08 — 护盾形成（渐进，而非瞬间）
-
-导演笔记：
-护盾必须生长出来，而不是突然弹出。
-
-动作：
-战士举起手 →
-首先：空气中出现轻微畸变
-然后：淡淡的蓝色微光
-
-然后：完整护盾形成
-摄像机：
-平滑推入（无抖动）
-
-SFX：
-S
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/914238f772c18427d3d0782ffbfdb848/thumbnails/thumbnail.jpg" width="600" alt="护盾偏转动作序列">
-
-**[🎬 观看视频 →](https://youmind.com/zh-CN/seedance-2-0-prompts?id=3861)**
-
-**作者:** [Ratul Ali](https://x.com/Ratul_AI) | **来源:** [Link](https://x.com/Ratul_AI/status/2049413779650400368) | **发布时间:** Apr 29, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -4045,6 +3776,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-03T06:42:07.964Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-03T09:37:58.222Z</sub>
 
 </div>
