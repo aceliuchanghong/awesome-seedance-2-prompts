@@ -68,7 +68,7 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **2622** |
+| 📝 Total de prompts | **2624** |
 | ⭐ Prompts destacados | **6** |
 | 🔄 Última actualización | **2026-05-07** |
 
@@ -361,6 +361,44 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Kingdom of Kush FPV Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive FPV flying sequence through the ancient Kingdom of Kush, showcasing Nubian pyramids, temples, and bustling city life in a single continuous shot.
+
+#### 📝 Prompt
+
+```
+extremely fast-paced cinematic in one continuous smooth single take FPV flying through the ancient Kingdom of Kush at its peak, starting above vast golden deserts and diving into the city of Meroe, weaving rapidly between Nubian pyramids, sandstone temples, and royal palaces, passing blacksmiths forging iron, warriors training with spears and shields, merchants trading goods, and crowds in traditional attire, flying through narrow corridors and archways, skimming over the Nile River with boats sailing and sunlight reflections, accelerating past lush riverbanks and sacred sites with massive statues and carved walls, dynamic golden hour lighting, dramatic shadows, hyper realistic textures, depth of field, high contrast, seamless continuous motion, immersive and realistic physics, cinematic color grading
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2052040818287058947/img/o8tovx4MPnYi_PP_.jpg" width="600" alt="Kingdom of Kush FPV Flight">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=4265)**
+
+**Autor:** [Shushant Lakhyani](https://x.com/shushant_l) | **Fuente:** [Link](https://x.com/shushant_l/status/2052040872976613543) | **Publicado:** May 6, 2026
+
+---
+### Floating Dragon Castle Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a realistic stone castle floating above clouds at sunrise, featuring dragon riders and crumbling towers.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic floating stone castle above a sea of clouds at sunrise. Dragon riders swarm the battlements while towers crumble from explosions. Camera dives between wings and falling debris. Fire breath tears through bridges connecting towers. Final frame: entire castle tilting downward toward the clouds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2051852143896694785/img/rKZTfAHOO0ENR3Fz.jpg" width="600" alt="Floating Dragon Castle Sunrise">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=4264)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2052032385454411890) | **Publicado:** May 6, 2026
+
+---
 ### Comedia retro de los 70: Accidente en la piscina
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3247,68 +3285,6 @@ Toma de transformación con efectos visuales de fantasía oscura cinematográfic
 **Autor:** [DennistheMenace](https://x.com/DtheW1995) | **Fuente:** [Link](https://x.com/DtheW1995/status/2051021864374276378) | **Publicado:** May 3, 2026
 
 ---
-### Knockout en una pelea de boxeo cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt estructurado y completo de 15 segundos para una pelea de boxeo hiperrealista, que detalla la progresión de las tomas desde el cara a cara inicial hasta el knockout final.
-
-#### 📝 Prompt
-
-```
-Pelea de boxeo ultra cinematográfica de 15 segundos dentro de una arena llena bajo luces brillantes, con sudor y atmósfera visibles en el aire.
-
-0–2s: Toma amplia del ring — dos peleadores rodeándose, guantes arriba, juego de pies sutil, multitud desenfocada al fondo.
-
-2–4s: Primer plano medio — contacto visual intenso, ambos peleadores respirando con dificultad, hombros tensos, ligero movimiento de cabeza.
-
-4–6s: Desarrollo de la acción — intercambio rápido de golpes controlados, ambos peleadores probando la distancia, guantes regresando a la guardia.
-
-6–8s: Momento de preparación — un peleador se desliza ligeramente hacia un lado, creando una apertura, comienza la rotación del cuerpo.
-
-8–10s: Golpe de knockout — un golpe potente impacta limpiamente en la cabeza del oponente, se nota la torsión completa del cuerpo, sudor salpicando por el impacto.
-
-10–12s: Cámara lenta — la cabeza del oponente se sacude hacia atrás, el cuerpo pierde el equilibrio, los músculos reaccionan, la transferencia de energía es claramente visible.
-
-12–13.5s: Caída — el oponente colapsa sobre la lona, el cuerpo golpea el suelo con peso, ligero rebote por el impacto.
-
-13.5–15s: Desenlace — el peleador que dio el golpe retrocede, respirando con dificultad, guantes aún levantados, el réferi se acerca, la multitud reacciona.
-
-Cámara: ángulos dinámicos desde el ringside, mezcla de primeros planos y planos medios, cámara lenta solo en el momento del impacto.
-
-Entorno: ring de boxeo, cuerdas, textura de la lona, movimiento de la multitud desenfocado pero enérgico.
-
-Iluminación: luces intensas de pelea, alto contraste, reflejos de sudor en la piel.
-
-Estilo: realismo ultra cinematográfico, sensación de transmisión deportiva, física de impacto pesado, movimiento realista, sin texto, sin superposiciones, proporciones estables sin estiramientos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f5a4c64c6a5444bb9b32fc25f21eabb/thumbnails/thumbnail.jpg" width="600" alt="Knockout en una pelea de boxeo cinematográfica">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=4103)**
-
-**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Fuente:** [Link](https://x.com/LudovicCreator/status/2051002624862822854) | **Publicado:** May 3, 2026
-
----
-### Vlog de viaje en Dubái (Mini)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video para convertir un collage de fotos de viaje estilo smartphone en un vlog nostálgico y de estilo cámara en mano.
-
-#### 📝 Prompt
-
-```
-Un collage de 12 cuadros con fotos espontáneas y emotivas de una mujer viajando sola en Dubái, capturadas casualmente con un smartphone. Cada cuadro se siente como un recuerdo personal fugaz: imperfecto, iluminado por el sol, íntimo y sin poses. La mujer viste ropa modesta. Su silueta se mantiene femenina pero discreta, sin enfatizar rasgos reveladores. Su presencia se siente real y natural, como un álbum de fotos privado. Las escenas incluyen: caminar por Jumeirah Beach al amanecer, el Burj Khalifa elevándose a lo lejos, reflejos en rascacielos de cristal, momentos tranquilos en cafés acogedores, una habitación de hotel sencilla, dunas doradas del desierto al atardecer, zocos tradicionales, paisajes urbanos nocturnos brillantes, vistas desde el interior de un auto en movimiento en Sheikh Zayed Road. Filmado con estética de smartphone: ligero desenfoque de movimiento, enfoque suave, luces altas quemadas por el intenso sol del desierto, destellos de lente, resplandor solar, ruido de ISO alto por la noche, encuadre desigual, recortes accidentales. La composición se siente aleatoria y espontánea: la protagonista a veces está fuera del centro, parcialmente cortada, en medio de un movimiento o parcialmente oscurecida por sombras o fugas de luz. La iluminación varía: sol intenso del mediodía, cálido resplandor de la hora dorada sobre las dunas de arena, tonos profundos de atardecer ámbar, noches vibrantes iluminadas por luces de neón. Corrección de color: tonos cinematográficos desvanecidos, ligeramente desaturados con luces cálidas, aspecto nostálgico tipo película, grano sutil, negros levantados. Emoción: soledad, introspección tranquila, juventud fugaz, calma confianza, nostalgia sutil; como fragmentos de un viaje personal a través de una ciudad de contrastes. Diseño: 12 imágenes dispuestas en una cuadrícula de collage suelta e imperfecta, ligeramente inclinada y desalineada como un álbum de recortes. Sin texto, sin marca de agua. Convierte cada imagen del cuadro en video y conecta todos los clips para crear un video emotivo estilo vlog. Movimiento natural de cámara en mano. Una mujer joven. Música de fondo emotiva.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777877854443_qpb8vu_HHadMOqaIAA5oUF.jpg" width="600" alt="Vlog de viaje en Dubái (Mini)">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=4095)**
-
-**Autor:** [Heisenberg](https://x.com/rovvmut_) | **Fuente:** [Link](https://x.com/rovvmut_/status/2050999560319955359) | **Publicado:** May 3, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3370,6 +3346,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-07T03:10:18.585Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-07T06:53:10.622Z</sub>
 
 </div>

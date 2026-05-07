@@ -68,7 +68,7 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **2622** |
+| 📝 Gesamtanzahl Prompts | **2627** |
 | ⭐ Ausgewählte Prompts | **6** |
 | 🔄 Zuletzt aktualisiert | **2026-05-07** |
 
@@ -361,6 +361,111 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Vertical Descent Orc Battle Siege
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic multi-stage prompt featuring a high-speed vertical descent from the sky into a chaotic orc fortress siege.
+
+#### 📝 Prompt
+
+```
+[0–5s]: Vertical descent from sky
+Ultra-high altitude above a sunny, orc coastal fortress at stormy dusk, the wooden stronghold centered in frame, surrounded by icy cliffs, longships, and smoke. The camera begins in dark clouds and plummets straight down at immense speed, cutting through the cleark sky. Strong motion blur, violent wind effects, subtle lens distortion, and chaotic shake emphasize the descent. Fires, siege ladders, and shield walls become visible as the fortress fills the frame.
+[5–10s]: Stabilization into siege FPV
+Just before impact, the motion snaps into a smooth FPV glide through the fortress breach. A full orc siege is underway. Axes crash into shields, arrows streak overhead, berserkers scream, and burning debris falls from above. The camera flies low through mud, bodies, shattered wood, and charging warriors, dodging swinging axes and collapsing barricades. Snow, smoke, sparks, and embers swirl through the air.
+[10–15s]: Wolf cage pass + whip pan to orc chieftain
+The camera cuts tightly past a heavy iron cage holding snarling wolves, one slamming against the bars with teeth bared. Then a fast whip pan lands on the orc chieftain standing atop the battlements, fur cloak billowing, roaring orders onto the battlefield.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2052157867709321222/img/iU_L1q7-pPeX3NL2.jpg" width="600" alt="Vertical Descent Orc Battle Siege">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4268)**
+
+**Autor:** [₿lackthorne AI](https://x.com/BlackthorneAI) | **Quelle:** [Link](https://x.com/BlackthorneAI/status/2052158082269294809) | **Veröffentlicht:** May 6, 2026
+
+---
+### Kingdom of Kush FPV Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive FPV flying sequence through the ancient Kingdom of Kush, showcasing Nubian pyramids, temples, and bustling city life in a single continuous shot.
+
+#### 📝 Prompt
+
+```
+extremely fast-paced cinematic in one continuous smooth single take FPV flying through the ancient Kingdom of Kush at its peak, starting above vast golden deserts and diving into the city of Meroe, weaving rapidly between Nubian pyramids, sandstone temples, and royal palaces, passing blacksmiths forging iron, warriors training with spears and shields, merchants trading goods, and crowds in traditional attire, flying through narrow corridors and archways, skimming over the Nile River with boats sailing and sunlight reflections, accelerating past lush riverbanks and sacred sites with massive statues and carved walls, dynamic golden hour lighting, dramatic shadows, hyper realistic textures, depth of field, high contrast, seamless continuous motion, immersive and realistic physics, cinematic color grading
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2052040818287058947/img/o8tovx4MPnYi_PP_.jpg" width="600" alt="Kingdom of Kush FPV Flight">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4265)**
+
+**Autor:** [Shushant Lakhyani](https://x.com/shushant_l) | **Quelle:** [Link](https://x.com/shushant_l/status/2052040872976613543) | **Veröffentlicht:** May 6, 2026
+
+---
+### Floating Dragon Castle Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt of a realistic stone castle floating above clouds at sunrise, featuring dragon riders and crumbling towers.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic floating stone castle above a sea of clouds at sunrise. Dragon riders swarm the battlements while towers crumble from explosions. Camera dives between wings and falling debris. Fire breath tears through bridges connecting towers. Final frame: entire castle tilting downward toward the clouds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2051852143896694785/img/rKZTfAHOO0ENR3Fz.jpg" width="600" alt="Floating Dragon Castle Sunrise">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4264)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2052032385454411890) | **Veröffentlicht:** May 6, 2026
+
+---
+### Vintage Train Carriage with Galloping Horses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A serene, cinematic video prompt depicting a view from a vintage train carriage window as a herd of horses gallops alongside a rainbow-arched meadow.
+
+#### 📝 Prompt
+
+```
+13-second cinematic video, smooth 24fps, inside a luxurious vintage train carriage with polished brass trim, warm golden lighting, and a red velvet seat. Static camera fixed to the train interior, looking out a large window as the train speeds forward. Outside, a vast lush green countryside meadow rushes past with heavy horizontal motion blur on grass, white fence posts, and tracks. A herd of 12–15 realistic horses (chestnut brown, black, white, and golden bay) gallops powerfully alongside the train from left to right, muscles flexing, manes and tails flowing in the wind, staying parallel to the window in perfect sync with the train’s movement. In the background: rolling green hills, distant mountains, bright blue sky with dramatic fluffy white clouds, and a vivid full rainbow arching across the entire scene. Warm golden sunlight pours through the window creating realistic lens flares, light streaks, and rainbow reflections on the glass and brass interior. On the left wall inside the carriage, a vintage Japanese travel poster with text '大地の旅' is visible. Soft, emotional solo piano music plays throughout. Dreamy yet hyper-detailed photorealistic style, warm color grading, slight natural train vibration, high contrast, cinematic depth of field, 16:9 aspect ratio, emotionally uplifting and serene atmosphere.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2051994670260158464/pu/img/s2Xg2qKN326hrf18.jpg" width="600" alt="Vintage Train Carriage with Galloping Horses">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4266)**
+
+**Autor:** [Maercih](https://x.com/Maercihh) | **Quelle:** [Link](https://x.com/Maercihh/status/2051994806432485495) | **Veröffentlicht:** May 6, 2026
+
+---
+### Smartphone Engineering Disassembly Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A clean, symmetrical 7-second cinematic sequence showing a smartphone disassembling and reassembling in mid-air.
+
+#### 📝 Prompt
+
+```
+The sequence plays as a single continuous 7-second cinematic shot:
+0–1s: The phone is revealed in stillness, minimal and logo-free, before a sharp line of light slices across it, triggering a precise and instantaneous disassembly.
+1–3s: The camera moves fluidly through the separated layers—frame, glass, circuitry, battery, cables, and camera modules—showcasing engineering depth and detail.
+3–4s: The components suspend mid-air in a clean, symmetrical layout as the camera performs a smooth 180-degree rotation.
+4–6s: Motion reverses as every element snaps back into place with speed and precision, reforming the device seamlessly.
+6–7s: The fully assembled phone settles into a three-quarter view, its screen remaining pure black and reflective, before fading to darkness with only soft film grain and faint light streaks lingering.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2051992556901376000/img/mA9i4H7dUYwF9KC2.jpg" width="600" alt="Smartphone Engineering Disassembly Shot">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4267)**
+
+**Autor:** [Shami](https://x.com/ShamiWeb3) | **Quelle:** [Link](https://x.com/ShamiWeb3/status/2051992670919352620) | **Veröffentlicht:** May 6, 2026
+
+---
 ### 70er-Jahre Garten-Comedy: Pool-Crash
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3190,125 +3295,6 @@ Stimmung: befriedigend, aufbauend
 **Autor:** [Shami](https://x.com/ShamiWeb3) | **Quelle:** [Link](https://x.com/ShamiWeb3/status/2051101131502460948) | **Veröffentlicht:** May 4, 2026
 
 ---
-### Vertikale Live-Action-Tanz-MV-Vorlage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter kinoreifer Prompt für Seedance 2.0, entwickelt, um Charakter-Referenzbilder in 15-sekündige vertikale Tanz-Musikvideos mit natürlichen Bewegungen und realistischen Texturen zu verwandeln.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges vertikales Live-Action-Tanz-MV mit der Person oder dem Charakter aus Bild 1. Der Tanz sollte zum Stil des Charakters passen. Format: vertical_9x16, FPS: 24, Gesamtdauer: 15s, Stil: Live-Action-MV-Stil, kinoreif, weiches natürliches Licht, geringe Schärfentiefe, flüssige Körperbewegungen, natürliche Hauttextur, realistisch schwingende Stoffe. Charakter-Regeln: - Priorisiere Gesicht, Frisur, Outfit, Farben und die allgemeine Silhouette aus Bild 1. - Nur eine Person. - Gesicht, Hände, Finger und Füße müssen natürlich geformt sein. - Priorisiere die Bewegung des Schwerpunkts, die Körperhaltung und die Silhouette gegenüber Outfit-Details. - Wenn Bild 1 eine Illustration ist, interpretiere sie als natürliche Live-Action-Person, während Gesichtszüge, Frisur, Outfit und Atmosphäre beibehalten werden. Bewegungs-Regeln: - Statt intensivem Breakdance sollte es ein kurzes Live-Action-Tanz-MV passend zur Musik sein. - Definiere die Koordination von Schwerpunkt, Schultern, Taille, Knien und Knöcheln klar. - Schwinge die Arme nicht zu weit; halte die Handbewegungen flüssig. - Wechsle die Schnitte alle 0,5 Sekunden. - Kombiniere Schritte, Drehungen, Handbewegungen, Fußarbeit, Profile und Haarbewegungen, anstatt die gleiche Choreografie zu wiederholen. - Minimiere Sprünge und Rotationen. - Beginne innerhalb der 15 Sekunden damit, in die Musik einzutauchen, gehe in der Mitte zu den besten Schritten über und ende mit einer nachwirkenden Signatur-Pose. Kamera-Regeln: - Wechsle zwischen Ganzkörperaufnahme, Aufnahme oberhalb der Knie, Nahaufnahme des Gesichts, Händen und Füßen. - Bewege die Kamera langsam, um den Tanz nicht zu stören. - Vermeide plötzliche Zooms oder rotierende Kameras. - Beginne und ende mit Aufnahmen, die den ganzen Körper zeigen. - Füge leichtes Handkamera-Wackeln, natürliche Fokusverschiebungen und Lichtreflexionen wie in einem Live-Action-MV hinzu. Ort und Licht: - Wähle einen Hintergrund, der die Choreografie am besten ergänzt. - Stelle sicher, dass der Hintergrund weniger prominent ist als die Person. - Das Licht sollte weich sein, damit Gesichts- und Körperlinien natürlich wirken. - Vermeide übermäßigen CGI-Look, künstliche Haut oder plastikartige Texturen. Stimmung: - Erzeuge ein MV-Gefühl durch Blickkontakt, Haare, Ärmel, Säume, Fußarbeit und flackerndes Licht, ohne es direkt zu erklären. - Niedliche, coole, leicht emotionale Atmosphäre – eine natürliche Textur, die sich für TikTok oder kurze MVs eignet, die man sich gerne erneut ansieht.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9b2e2f4a0d798832b6d403e12fb28b7/thumbnails/thumbnail.jpg" width="600" alt="Vertikale Live-Action-Tanz-MV-Vorlage">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4126)**
-
-**Autor:** [Zeto](https://x.com/ZetoGroovin) | **Quelle:** [Link](https://x.com/ZetoGroovin/status/2051066774574264385) | **Veröffentlicht:** May 3, 2026
-
----
-### Fußball-Storyboard zu Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Wandelt ein mehrteiliges Fußball-Storyboard in eine durchgehende, filmreife Sportvideosequenz um.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie ein sauberes, farbenfrohes und realistisches 15-teiliges Storyboard in einem 3x5-Rasterlayout auf einer einzigen Seite, das ein Mädchen-Fußballspiel von Anfang bis Ende zeigt. Jedes Panel muss klar durch dünne Ränder voneinander getrennt sein und in der oberen linken Ecke ein kleines weißes Nummernfeld enthalten, das von 1 bis 15 durchnummeriert ist. Der Gesamtstil sollte wie echte Sportfotografie wirken: helles Tageslicht, natürliche Farben, Fußballplatz im Freien, realistische Grasstruktur, lebensechte Gesichtsausdrücke, dynamische Action und filmisches visuelles Storytelling. Das Hauptmotiv ist eine junge Fußballspielerin mit dunklem, zum Pferdeschwanz gebundenem Haar, die ein rotes Trikot, weiße Shorts, weiße Kniestrümpfe und Fußballschuhe trägt. Sie sollte über alle Panels hinweg visuell konsistent bleiben. Die gegnerische Mannschaft trägt blaue Trikots, die Torhüterin ein grünes Trikot. Der Schauplatz ist ein Fußballplatz im Freien mit Torpfosten, Netz, weißen Spielfeldmarkierungen, Bäumen und einigen Zuschauern im Hintergrund. Panel-Aufschlüsselung: Weite Totale des Fußballplatzes, Spielerinnen beider Mannschaften auf dem Spielfeld verteilt, Zuschauer im Vordergrund, strahlend blauer Himmel mit Wolken. Halbnahaufnahme der Hauptspielerin in Rot, wie sie sich vorbereitet, fokussiert und entschlossen. Nahaufnahme des Fußballs, der auf dem Gras rollt. Action-Aufnahme der Hauptspielerin im Zweikampf gegen eine Verteidigerin in Blau. Nahaufnahme von Füßen und Ball, die ein Dribbling zeigt. Eine Mitspielerin in Rot fordert den Ball, zeigt darauf und läuft. Großaufnahme der Augen der Hauptspielerin, voller Konzentration und Anspannung. Dynamische Laufaufnahme der Hauptspielerin, die mit dem Ball nach vorne dribbelt. Körperbetonter Zweikampf zwischen der Hauptspielerin und einer Verteidigerin in Blau. Moment vor dem Schuss, die Hauptspielerin positioniert den Ball. Kraftvoller Schuss, der den genauen Moment des Ballkontakts zeigt, mit fliegendem Gras. Der Ball fliegt in Richtung Tor, die Torhüterin reagiert mit erhobenen Armen. Die Torhüterin hechtet, um den Ball zu halten. Der Ball trifft das Netz, Nahaufnahme des Tor-Moments, das Netz spannt sich. Jubelszene, Mitspielerinnen in Rot jubeln und umarmen sich nach dem Treffer. Lassen Sie die gesamte Seite wie ein professionelles visuelles Storyboard wirken: gut lesbar, visuell ausgewogen, energiegeladen, emotional und realistisch. Verwenden Sie einen fotorealistischen Sportfotografie-Stil, scharfe Details, geringe Schärfentiefe in einigen Nahaufnahmen, natürliches Sonnenlicht, filmische Bildkomposition, kein Text außer den Panel-Nummern. Generieren Sie eine Szene unter Verwendung der Aufnahmen aus dem hochgeladenen Film-Storyboard. Kein Text auf dem Bildschirm.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777877876805_pziasx_HHazQQxaAAAz8fm.jpg" width="600" alt="Fußball-Storyboard zu Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4117)**
-
-**Autor:** [BMX](https://x.com/bmx_ai13) | **Quelle:** [Link](https://x.com/bmx_ai13/status/2051024310098358541) | **Veröffentlicht:** May 3, 2026
-
----
-### Werwolf-Transformations-VFX-Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine intensive, kontinuierliche 360-Grad-Orbitalkamerafahrt, die die gewaltsame körperliche Verwandlung eines Mannes in einen Werwolf einfängt.
-
-#### 📝 Prompt
-
-```
-Cinematischer Dark-Fantasy-VFX-Transformations-Shot, gedreht auf einer Arri Alexa 35 mit Master Prime Objektiven. Die Sequenz zeigt eine kontinuierliche 360-Grad-High-Speed-Orbitalkamerafahrt um einen gepeinigten, 30-jährigen deutschen Mann in einem schwach beleuchteten, nebligen Wald. Die Szene beginnt damit, dass sich der Mann vor Schmerzen an den Kopf greift, während seine Haut wellenförmig bebt und dichtes, braunes Fell aus seinen Wangen bricht; sein Kiefer knackt hörbar und verlängert sich zu einer wolfsartigen Schnauze, während sich seine Zähne zu tödlichen Fangzähnen schärfen. Während die Kamera um ihn kreist, verfärben sich seine Augen von Blau zu einem leuchtenden, raubtierhaften Bernstein und seine Fingernägel verwandeln sich in gezackte, schwarze Krallen. Der Shot endet damit, dass der vollständig verwandelte Werwolf einen markerschütternden Schrei in Richtung Vollmond ausstößt, während die Kamera ihre Rotation abschließt. Die Atmosphäre ist düster, klaustrophobisch und knochenbrechend, mit einem intensiven, rhythmischen Tempo, das die gewaltsame körperliche Evolution widerspiegelt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fa34a08f3e1d5b3cfe6e92a3187e2472/thumbnails/thumbnail.jpg" width="600" alt="Werwolf-Transformations-VFX-Shot">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4114)**
-
-**Autor:** [DennistheMenace](https://x.com/DtheW1995) | **Quelle:** [Link](https://x.com/DtheW1995/status/2051021864374276378) | **Veröffentlicht:** May 3, 2026
-
----
-### Filmreifer Boxkampf-K.o.
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender, 15-sekündiger strukturierter Prompt für einen hyperrealistischen Boxkampf, der den Ablauf der Aufnahmen vom ersten Aufeinandertreffen bis zum finalen K.o. detailliert beschreibt.
-
-#### 📝 Prompt
-
-```
-Ultra-filmreifer 15-sekündiger Boxkampf in einer vollbesetzten Arena unter hellem Deckenlicht, Schweiß und Atmosphäre in der Luft sichtbar.
-
-0–2s: Totale — zwei Kämpfer umkreisen sich, Handschuhe oben, subtile Beinarbeit, Publikum im Hintergrund unscharf.
-
-2–4s: Halbnahaufnahme — intensiver Blickkontakt, beide Kämpfer atmen schwer, angespannte Schultern, leichte Kopfbewegungen.
-
-4–6s: Aktionsaufbau — schneller Schlagabtausch, beide Kämpfer testen die Distanz, Handschuhe schnellen zurück in die Deckung.
-
-6–8s: Vorbereitungsmoment — ein Kämpfer weicht leicht zur Seite aus, schafft eine Lücke, Körperrotation beginnt.
-
-8–10s: K.o.-Schlag — ein kraftvoller Schlag trifft sauber den Kopf des Gegners, volle Körperdrehung sichtbar, Schweiß spritzt beim Aufprall nach außen.
-
-10–12s: Zeitlupe — der Kopf des Gegners schnellt zurück, der Körper verliert das Gleichgewicht, Muskelreaktionen und Energieübertragung deutlich erkennbar.
-
-12–13.5s: Fall — der Gegner bricht auf den Ringboden zusammen, der Körper schlägt schwer auf, leichtes Abfedern beim Aufprall.
-
-13.5–15s: Nachspiel — der Angreifer tritt zurück, atmet schwer, Handschuhe noch oben, der Ringrichter eilt herbei, Reaktion des Publikums.
-
-Kamera: Dynamische Ring-Perspektiven, Mischung aus Nah- und Halbnahaufnahmen, Zeitlupe nur im Moment des Aufpralls.
-
-Umgebung: Boxring, Seile, Textur des Ringbodens, Publikum bewegt sich unscharf, aber energiegeladen.
-
-Beleuchtung: Starkes Deckenlicht für Kämpfe, hoher Kontrast, Schweißreflexionen auf der Haut.
-
-Stil: Ultra-filmreifer Realismus, Sportübertragungs-Look, wuchtige Aufprallphysik, bodenständige Bewegungen, kein Text, keine Overlays, stabile Proportionen ohne Verzerrungen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1f5a4c64c6a5444bb9b32fc25f21eabb/thumbnails/thumbnail.jpg" width="600" alt="Filmreifer Boxkampf-K.o.">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4103)**
-
-**Autor:** [LudovicCreator](https://x.com/LudovicCreator) | **Quelle:** [Link](https://x.com/LudovicCreator/status/2051002624862822854) | **Veröffentlicht:** May 3, 2026
-
----
-### Dubai Travel Vlog Mini
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt, um eine Collage aus Reise-Schnappschüssen im Smartphone-Stil in einen nostalgischen, handgeführten Vlog zu verwandeln.
-
-#### 📝 Prompt
-
-```
-Eine 12-teilige Collage aus authentischen, emotionalen Schnappschüssen einer alleinreisenden Frau in Dubai, beiläufig mit dem Smartphone aufgenommen. Jeder Frame wirkt wie eine flüchtige persönliche Erinnerung – unperfekt, sonnendurchflutet, intim und ungekünstelt. Die Frau trägt dezente Kleidung. Ihre Silhouette bleibt feminin, aber zurückhaltend, ohne Fokus auf freizügige Details. Ihre Präsenz wirkt echt und ungestylt, wie in einem privaten Fotoalbum. Die Szenen umfassen: Spaziergänge am Jumeirah Beach bei Sonnenaufgang, den Burj Khalifa in der Ferne, Spiegelungen in gläsernen Wolkenkratzern, ruhige Momente in gemütlichen Cafés, ein einfaches Hotelzimmer, goldene Wüstendünen bei Sonnenuntergang, traditionelle Souks, leuchtende nächtliche Stadtansichten, Ausblicke aus einem fahrenden Auto auf der Sheikh Zayed Road. Aufgenommen mit Smartphone-Ästhetik: leichte Bewegungsunschärfe, weicher Fokus, überstrahlte Highlights durch intensives Wüstenlicht, Lens Flares, Sonnenblendung, hohes ISO-Rauschen bei Nacht, unebene Bildausschnitte, zufällige Beschnitte. Die Komposition wirkt zufällig und spontan – das Motiv ist manchmal nicht zentriert, teilweise abgeschnitten, in Bewegung oder durch Schatten und Lichtreflexe teilweise verdeckt. Die Beleuchtung variiert: hartes Mittagssonnenlicht, warmes Golden-Hour-Leuchten über den Sanddünen, tiefe bernsteinfarbene Sonnenuntergangstöne, lebendige, neonbeleuchtete Nächte. Color Grading: verblasste cineastische Töne, leicht entsättigt mit warmen Highlights, nostalgischer Film-Look, subtiles Filmkorn, angehobene Schwarztöne. Emotion: Einsamkeit, stille Introspektion, flüchtige Jugend, ruhiges Selbstvertrauen, subtile Nostalgie – wie Fragmente einer persönlichen Reise durch eine Stadt der Kontraste. Layout: 12 Bilder, angeordnet in einem lockeren, unperfekten Collage-Raster, leicht geneigt und versetzt wie in einem Scrapbook. Kein Text, kein Wasserzeichen. Wandle jedes Bild im Frame in ein Video um und verbinde alle Clips zu einem emotionalen Vlog-Video. Natürliches Handwackeln. Eine junge Frau. Emotionale Hintergrundmusik.
-```
-
-<img src="https://cms-assets.youmind.com/media/1777877854443_qpb8vu_HHadMOqaIAA5oUF.jpg" width="600" alt="Dubai Travel Vlog Mini">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=4095)**
-
-**Autor:** [Heisenberg](https://x.com/rovvmut_) | **Quelle:** [Link](https://x.com/rovvmut_/status/2050999560319955359) | **Veröffentlicht:** May 3, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3370,6 +3356,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-07T03:10:23.002Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-07T06:53:14.904Z</sub>
 
 </div>
